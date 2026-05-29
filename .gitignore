@@ -1,0 +1,7 @@
+github_token.txt
+build/
+dist/
+__pycache__/
+*.spec
+*.lnk
+*.zip
