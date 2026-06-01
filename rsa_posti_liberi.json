@@ -1177,338 +1177,6 @@
         }
     },
     {
-        "id": "196",
-        "foto0": "mug_anniazzurri_struttura.png",
-        "foto1": "mug_anniazzurri_petterapia.jpg",
-        "foto2": "mug_anniazzurri_pergolato.jpg",
-        "foto3": "mug_anniazzurri_orto.jpg",
-        "foto4": "mug_anniazzurri_attivita.jpg",
-        "foto5": "mug_anniazzurri_camera.jpg",
-        "nome": "Anni Azzurri Beato Angelico",
-        "tipo": "",
-        "gestione": "privata",
-        "indirizzo": "Via Faentina, 63/a - Panicaglia",
-        "cod_comune": "48004",
-        "comune": "Borgo San Lorenzo",
-        "zona": "Mugello",
-        "tel1_zona": "055-8451526",
-        "tel2_zona": "",
-        "tel3_zona": "",
-        "telefono": "055-8451526",
-        "rsa_ico_animazione": "animazione_socio-educativa.png",
-        "rsa_ico_fisioterapia": "fisioterapia.png",
-        "rsa_ico_cucina": "ristorazione_interna.png",
-        "rsa_ico_giardino": "giardino.png",
-        "rsa_ico_parrucchiere": "parrucchiere.png",
-        "rsa_ico_barbiere": "",
-        "rsa_ico_estetista": "",
-        "rsa_ico_relig": "assistenza_religiosa.png",
-        "rsa_ico_geriatra": "consulenza_medico_specialistica.png",
-        "rsa_ico_assistenza_infermieristica": "assistenza_infermieristica.png",
-        "rsa_ico_psicologo": "",
-        "rsa_ico_podologo": "podologo.png",
-        "rsa_ico_lavanderia": "lavanderia.png",
-        "rsa_ico_postoletto": "",
-        "rsa_posti_liberi": "2",
-        "rsa_quota": "65.00",
-        "rsa_quotasanitaria": "59.10",
-        "rsa_quota_img": "mug_quota_anniazzurri.png",
-        "rsa_mod_base": "si",
-        "rsa_mod_cogn": "",
-        "rsa_mod_riab": "",
-        "rsa_mod_veg": "",
-        "rsa_attiva": "1",
-        "rsa_nome_brochure": "mug_anniazzurri_beatoangelico.pdf",
-        "rsa_data_aggiornamento": "2026.05.05 19:06:16",
-        "lat": "44.0052533887353974",
-        "lon": "11.4314772273481005",
-        "gbnord": "4875347",
-        "gbest": "1694957",
-        "accordo": "1",
-        "cod_sts24": "90234I",
-        "posti_liberi_m": "1",
-        "posti_liberi_f": "1",
-        "indirizzo_sede": "Via Faentina 63/a - Loc. Panicaglia",
-        "comune_sede": "Borgo San Lorenzo",
-        "fax_sede": "055 8408009",
-        "telefono_sede": "055 8408721",
-        "email_sede": "residenzabeatoangelico@anniazzurri.it",
-        "posta_certificata_sede": "NULL",
-        "json_data": "eyJpZCI6MTk2LCJzdHJ1dHR1cmEiOnsiYXZ2aXNvRGVjaW1hbGUiOiIiLCJwb3N0aV9tb2R1bG9fYmFzZSI6NTgsInBvc3RpX2xpYmVyaSI6MiwicG9zdGlfbGliZXJpX20iOjEsInBvc3RpX2xpYmVyaV9mIjoxLCJjZl9kaXJldHRvcmUiOiJQTFRTUkE4NUM2M0Q1NzVDIiwibm9tZV9kaXJldHRvcmUiOiJTQVJBICIsImNvZ25vbWVfZGlyZXR0b3JlIjoiUEFPTEVUVEkiLCJ0ZWxlZm9ub19yc2EiOiIwNTU4NDA4NzIxIiwiZmF4X3JzYSI6IjA1NSA4NDA4MDA5IiwiZW1haWwiOiJyZXNpZGVuemFiZWF0b2FuZ2VsaWNvQGFubmlhenp1cnJpLml0Iiwic2l0b19pbnRlcm5ldCI6Ind3dy5hbm5pYXp6dXJyaS5pdCIsInRhcmlmZmFfcHJpdmF0YV9yYW5nZWQiOnsibWluaW1hIjoxMjIsIm1hc3NpbWEiOjEzN30sIm1vZHVsbyI6WyJNb2R1bG8gYmFzZSJdLCJpbmRpcml6em9fc2VkZSI6IlZpYSBGYWVudGluYSA2My9hIC0gTG9jLiBQYW5pY2FnbGlhIiwiY29kX2NvbXVuZV9zZWRlIjoiMDQ4MDA0IiwidGVsX3NlZGUiOiIwNTUgODQwODcyMSIsImZheF9zZWRlIjoiMDU1IDg0MDgwMDkiLCJlbWFpbF9zZWRlIjoicmVzaWRlbnphYmVhdG9hbmdlbGljb0Bhbm5pYXp6dXJyaS5pdCIsInBvc3RhX2NlcnRpZmljYXRhX3NlZGUiOiIiLCJyZXNpZGVuemEiOnsibnVtZXJvUGlhbmkiOjMsImRldHRhZ2xpb0NhbWVyZSI6W3sibnVtZXJvQ2FtZXJlIjoyNCwibnVtZXJvTGV0dGkiOjIsInNlcnZpemlQcmVzZW50aSI6WyJiYWdubyBkZWRpY2F0byIsInR2IiwidGVsZWZvbm8gcG9zdG8gbGV0dG8iLCJpbXBpYW50byBjb25kaXppb25hbWVudG8iXX0seyJudW1lcm9DYW1lcmUiOjEwLCJudW1lcm9MZXR0aSI6MSwic2Vydml6aVByZXNlbnRpIjpbImJhZ25vIGRlZGljYXRvIiwidHYiLCJ0ZWxlZm9ubyBwb3N0byBsZXR0byIsImltcGlhbnRvIGNvbmRpemlvbmFtZW50byJdfV19LCJwdW50aURpSW50ZXJlc3NlIjpbImRpc3RyZXR0byBzYW5pdGFyaW8iLCJhdXRvYnVzIiwiY2hpZXNhIiwiYmlibGlvdGVjYSIsIm9zcGVkYWxlIl0sInNwYXppb0VzdGVybm8iOiJTSSIsInNlcnZpemlTb2Npb1Nhbml0YXJpIjp7ImFuaW1hemlvbmVTb2Npb0VkdWNhdGl2YSI6eyJhbmltYXppb25lU29jaW9FZHVjYXRpdmFTcGVjIjpbeyJnaW9ybmlTZXR0aW1hbmEiOlsibHVuZWRpIiwibWFydGVkaSIsIm1lcmNvbGVkaSIsImdpb3ZlZGkiLCJ2ZW5lcmRpIl0sIm9yYUluaXppbyI6IjA5OjMwIiwib3JhRmluZSI6IjE3OjE1In0seyJnaW9ybmlTZXR0aW1hbmEiOlsic2FiYXRvIl0sIm9yYUluaXppbyI6IjA5OjMwIiwib3JhRmluZSI6IjEzOjAwIn1dfSwiZmlzaW90ZXJhcGlhIjp7ImZpc2lvdGVyYXBpYVNwZWMiOlt7Imdpb3JuaVNldHRpbWFuYSI6WyJsdW5lZGkiLCJtYXJ0ZWRpIiwibWVyY29sZWRpIiwiZ2lvdmVkaSIsInZlbmVyZGkiXSwib3JhSW5pemlvIjoiMDk6MDAiLCJvcmFGaW5lIjoiMTg6MDAifSx7Imdpb3JuaVNldHRpbWFuYSI6WyJzYWJhdG8iXSwib3JhSW5pemlvIjoiMDk6MDAiLCJvcmFGaW5lIjoiMTM6MDAifV19LCJhc3Npc3RlbnphSW5mZXJtaWVyaXN0aWNhIjp7ImFzc2lzdGVuemFJbmZlcm1pZXJpc3RpY2FTcGVjIjp7InJlcGVyaWJpbGl0YU5vdHR1cm5hIjoiTk8iLCJvcmFyaVNlcnZpemlvIjp7Im9yYUluaXppbyI6IjA2OjMwIiwib3JhRmluZSI6IjE0OjAwIiwib3JhSW5pemlvMiI6IjEzOjMwIiwib3JhRmluZTIiOiIyMTowMCJ9fX0sIm1lZGljaVNwZWNpYWxpc3RpIjp7InN1YlRpdGxlIjoiIiwiZGV0dGFnbGlvU3BlY2lhbGlzdGkiOlt7Im1lZGljb1NwZWNpYWxpc3RhIjoiZ2VyaWF0cmEiLCJlcm9nYXppb25lU2Vydml6aW8iOnsibnVtZXJvU2V0dGltYW5hIjoyfSwiaW5jbHVzb1F1b3RhIjoiU0kifV19LCJwc2ljb2xvZ28iOnsibm9uUHJldmlzdG8iOnRydWUsImVyb2dhemlvbmVTZXJ2aXppbyI6eyJudW1lcm9TZXR0aW1hbmEiOjF9LCJpbmNsdXNvUXVvdGEiOiJTSSJ9LCJwb2RvbG9nbyI6eyJlcm9nYXppb25lU2Vydml6aW8iOiJOIHZvbHRlIGEgc2V0dGltYW5hIiwibnVtZXJvVm9sdGUiOjEsInByZXN0YXppb25pSW5jbHVzZU1lc2UiOjF9fSwic2Vydml6aUFsYmVyZ2hpZXJpIjp7ImN1Y2luYSI6eyJ0aXBvQ3VjaW5hIjoiSW50ZXJuYSJ9LCJsYXZhbmRlcmlhIjp7ImluZHVtZW50aV9wZXJzb25hbGkiOiJTSSJ9LCJwYXJydWNjaGllcmUiOnsiZXJvZ2F6aW9uZVNlcnZpemlvIjoiTiB2b2x0ZSBhIHNldHRpbWFuYSIsIm51bWVyb1ZvbHRlIjoxLCJwcmVzdGF6aW9uaUluY2x1c2VNZXNlIjoxfSwiZXN0ZXRpc3RhIjp7Im5vblByZXZpc3RvIjp0cnVlLCJlcm9nYXppb25lU2Vydml6aW8iOnsibnVtZXJvTWVzZSI6MX0sImluY2x1c29RdW90YSI6IlNJIn0sImFzc2lzdGVuemFSZWxpZ2lvc2EiOnsibm9uUHJldmlzdG8iOmZhbHNlLCJhcGVydHVyYVRpcGlDdWx0byI6IlNJIiwiYXNzaXN0ZW56YVJlbGlnaW9zYVNwZWMiOlt7Imdpb3JuaVNldHRpbWFuYSI6WyJ2ZW5lcmRpIl0sIm9yYSI6IjEwOjAwIn1dfX0sImFsdHJpU2Vydml6aSI6eyJlbGVuY29TZXJ2aXppIjp7IkFwcGFydGFtZW50aSBwcm90ZXR0aSI6ZmFsc2UsIkFzc2lzdGVuemEgRG9taWNpbGlhcmUiOmZhbHNlLCJBc3Npc3RlbnphIHJlc2lkZW56aWFsZSBwZXIgcmlmdWdpYXRpL3Byb2Z1Z2hpIjpmYWxzZSwiQXR0aXZpdGEnIGZpc2ljYSBhZGF0dGF0YSI6ZmFsc2UsIkNhc2EgZGVsbGEgc2FsdXRlIjpmYWxzZSwiQ2VudHJvIGRpIHNvY2lhbGl6emF6aW9uZSBwZXIgYXV0b3N1ZmZpY2llbnRpIjpmYWxzZSwiQ2VudHJvIGRpdXJubyBBbHpoZWltZXIiOmZhbHNlLCJDZW50cm8gZGl1cm5vIHBlciBhdXRvc3VmZmljaWVudGkiOmZhbHNlLCJDZW50cm8gZGl1cm5vIHBlciBub24gYXV0b3N1ZmZpY2llbnRpIjp0cnVlLCJMYXZhbmRlcmlhIHBlciBhc3Npc3RpdGkgYSBkb21pY2lsaW8iOmZhbHNlLCJPcmdhbml6emF6aW9uZSBkZWwgdHJhc3BvcnRvIGUgYWNjb21wYWduYW1lbnRvIGRlZ2xpIGFzc2lzdGl0aSBkZWFtYnVsYW50aSBwZXIgdmlzaXRlL3ByZXN0YXppb25pIHNhbml0YXJpZSwgYXZ2aXNhbmRvbmUgaSBmYW1pbGlhcmkiOmZhbHNlLCJQcmVzdGF6aW9uaSBkaSBhc3Npc3RlbnphIGRpIGJhc2UgcGVyIHV0ZW50aSBlc3Rlcm5pIChiYWdubyBhc3Npc3RpdG8pIjpmYWxzZSwiUmVzaWRlbnphIHBlciBBdXRvc3VmZmljaWVudGkiOmZhbHNlLCJSZXNpZGVuemEgc29jaWFsZSBwZXIgZGlzYWJpbGkgKFJTRCkiOmZhbHNlLCJSaXN0b3JhemlvbmUgYSBkb21pY2lsaW8iOmZhbHNlLCJSaXN0b3JhemlvbmUgcGVyIHV0ZW50aSBlc3Rlcm5pIjpmYWxzZSwiU2VncmV0YXJpYXRvIHNvY2lhbGUiOmZhbHNlLCJTZXJ2aXppbyBDb250aW51aXRhJyBBc3Npc3RlbnppYWxlIChFeCBHdWFyZGlhIE1lZGljYSkiOmZhbHNlLCJUcmFzcG9ydG8gcGVyIGFkdWx0aSBkaXNhYmlsaSI6ZmFsc2V9LCJzZXJ2aXppQW1taW5pc3RyYXRpdmkiOnsic2Vydml6aUFtbWluaXN0cmF0aXZpU3BlYyI6W3siZ2lvcm5pU2V0dGltYW5hIjpbImx1bmVkaSIsIm1hcnRlZGkiLCJtZXJjb2xlZGkiLCJnaW92ZWRpIiwidmVuZXJkaSIsInNhYmF0byJdLCJvcmFJbml6aW8iOiIwOTowMCIsIm9yYUZpbmUiOiIxMzowMCJ9LHsiZ2lvcm5pU2V0dGltYW5hIjpbImx1bmVkaSIsIm1hcnRlZGkiLCJtZXJjb2xlZGkiLCJnaW92ZWRpIiwidmVuZXJkaSJdLCJvcmFJbml6aW8iOiIxNDowMCIsIm9yYUZpbmUiOiIxODowMCJ9LHsiZ2lvcm5pU2V0dGltYW5hIjpbInNhYmF0byJdLCJvcmFJbml6aW8iOiIwOTowMCIsIm9yYUZpbmUiOiIxMzowMCJ9XX0sImRpcmV6aW9uZSI6eyJkaXJlemlvbmVTcGVjIjpbeyJnaW9ybmlTZXR0aW1hbmEiOlsibHVuZWRpIiwibWFydGVkaSIsIm1lcmNvbGVkaSIsImdpb3ZlZGkiLCJ2ZW5lcmRpIl0sIm9yYUluaXppbyI6IjA4OjMwIiwib3JhRmluZSI6IjE2OjMwIn1dfSwib3JhcmlvVmlzaXRlIjp7Im9yYXJpb1Zpc2l0ZVNwZWMiOnsib3JhcmlTZXJ2aXppbyI6eyJvcmFJbml6aW8iOiIwOTozMCIsIm9yYUZpbmUiOiIxMjowMCIsIm9yYUluaXppbzIiOiIxNDozMCIsIm9yYUZpbmUyIjoiMTg6MDAifX19fX0sImFycyI6eyJub21lIjoiQW5uaSBBenp1cnJpIEJlYXRvIEFuZ2VsaWNvIiwiY29kX3N0czI0IjoiOTAyMzRJIiwiYXR0aXZhIjoiMSIsImFjY29yZG8iOiIxIiwiaW5kaXJpenpvIjoiVmlhIEZhZW50aW5hLCA2My9hIC0gUGFuaWNhZ2xpYSIsImNvZF9jb211bmUiOiI0ODAwNCIsImdlc3Rpb25lIjoicHJpdmF0YSIsInF1b3RhIjo2NSwicXVvdGFzYW5pdGFyaWEiOjU5LjF9fQ==",
-        "posti_liberi_int": 2,
-        "posti_liberi_m_int": 1,
-        "posti_liberi_f_int": 1,
-        "decoded_details": {
-            "id": 196,
-            "struttura": {
-                "avvisoDecimale": "",
-                "posti_modulo_base": 58,
-                "posti_liberi": 2,
-                "posti_liberi_m": 1,
-                "posti_liberi_f": 1,
-                "cf_direttore": "PLTSRA85C63D575C",
-                "nome_direttore": "SARA ",
-                "cognome_direttore": "PAOLETTI",
-                "telefono_rsa": "0558408721",
-                "fax_rsa": "055 8408009",
-                "email": "residenzabeatoangelico@anniazzurri.it",
-                "sito_internet": "www.anniazzurri.it",
-                "tariffa_privata_ranged": {
-                    "minima": 122,
-                    "massima": 137
-                },
-                "modulo": [
-                    "Modulo base"
-                ],
-                "indirizzo_sede": "Via Faentina 63/a - Loc. Panicaglia",
-                "cod_comune_sede": "048004",
-                "tel_sede": "055 8408721",
-                "fax_sede": "055 8408009",
-                "email_sede": "residenzabeatoangelico@anniazzurri.it",
-                "posta_certificata_sede": "",
-                "residenza": {
-                    "numeroPiani": 3,
-                    "dettaglioCamere": [
-                        {
-                            "numeroCamere": 24,
-                            "numeroLetti": 2,
-                            "serviziPresenti": [
-                                "bagno dedicato",
-                                "tv",
-                                "telefono posto letto",
-                                "impianto condizionamento"
-                            ]
-                        },
-                        {
-                            "numeroCamere": 10,
-                            "numeroLetti": 1,
-                            "serviziPresenti": [
-                                "bagno dedicato",
-                                "tv",
-                                "telefono posto letto",
-                                "impianto condizionamento"
-                            ]
-                        }
-                    ]
-                },
-                "puntiDiInteresse": [
-                    "distretto sanitario",
-                    "autobus",
-                    "chiesa",
-                    "biblioteca",
-                    "ospedale"
-                ],
-                "spazioEsterno": "SI",
-                "serviziSocioSanitari": {
-                    "animazioneSocioEducativa": {
-                        "animazioneSocioEducativaSpec": [
-                            {
-                                "giorniSettimana": [
-                                    "lunedi",
-                                    "martedi",
-                                    "mercoledi",
-                                    "giovedi",
-                                    "venerdi"
-                                ],
-                                "oraInizio": "09:30",
-                                "oraFine": "17:15"
-                            },
-                            {
-                                "giorniSettimana": [
-                                    "sabato"
-                                ],
-                                "oraInizio": "09:30",
-                                "oraFine": "13:00"
-                            }
-                        ]
-                    },
-                    "fisioterapia": {
-                        "fisioterapiaSpec": [
-                            {
-                                "giorniSettimana": [
-                                    "lunedi",
-                                    "martedi",
-                                    "mercoledi",
-                                    "giovedi",
-                                    "venerdi"
-                                ],
-                                "oraInizio": "09:00",
-                                "oraFine": "18:00"
-                            },
-                            {
-                                "giorniSettimana": [
-                                    "sabato"
-                                ],
-                                "oraInizio": "09:00",
-                                "oraFine": "13:00"
-                            }
-                        ]
-                    },
-                    "assistenzaInfermieristica": {
-                        "assistenzaInfermieristicaSpec": {
-                            "reperibilitaNotturna": "NO",
-                            "orariServizio": {
-                                "oraInizio": "06:30",
-                                "oraFine": "14:00",
-                                "oraInizio2": "13:30",
-                                "oraFine2": "21:00"
-                            }
-                        }
-                    },
-                    "mediciSpecialisti": {
-                        "subTitle": "",
-                        "dettaglioSpecialisti": [
-                            {
-                                "medicoSpecialista": "geriatra",
-                                "erogazioneServizio": {
-                                    "numeroSettimana": 2
-                                },
-                                "inclusoQuota": "SI"
-                            }
-                        ]
-                    },
-                    "psicologo": {
-                        "nonPrevisto": true,
-                        "erogazioneServizio": {
-                            "numeroSettimana": 1
-                        },
-                        "inclusoQuota": "SI"
-                    },
-                    "podologo": {
-                        "erogazioneServizio": "N volte a settimana",
-                        "numeroVolte": 1,
-                        "prestazioniIncluseMese": 1
-                    }
-                },
-                "serviziAlberghieri": {
-                    "cucina": {
-                        "tipoCucina": "Interna"
-                    },
-                    "lavanderia": {
-                        "indumenti_personali": "SI"
-                    },
-                    "parrucchiere": {
-                        "erogazioneServizio": "N volte a settimana",
-                        "numeroVolte": 1,
-                        "prestazioniIncluseMese": 1
-                    },
-                    "estetista": {
-                        "nonPrevisto": true,
-                        "erogazioneServizio": {
-                            "numeroMese": 1
-                        },
-                        "inclusoQuota": "SI"
-                    },
-                    "assistenzaReligiosa": {
-                        "nonPrevisto": false,
-                        "aperturaTipiCulto": "SI",
-                        "assistenzaReligiosaSpec": [
-                            {
-                                "giorniSettimana": [
-                                    "venerdi"
-                                ],
-                                "ora": "10:00"
-                            }
-                        ]
-                    }
-                },
-                "altriServizi": {
-                    "elencoServizi": {
-                        "Appartamenti protetti": false,
-                        "Assistenza Domiciliare": false,
-                        "Assistenza residenziale per rifugiati/profughi": false,
-                        "Attivita' fisica adattata": false,
-                        "Casa della salute": false,
-                        "Centro di socializzazione per autosufficienti": false,
-                        "Centro diurno Alzheimer": false,
-                        "Centro diurno per autosufficienti": false,
-                        "Centro diurno per non autosufficienti": true,
-                        "Lavanderia per assistiti a domicilio": false,
-                        "Organizzazione del trasporto e accompagnamento degli assistiti deambulanti per visite/prestazioni sanitarie, avvisandone i familiari": false,
-                        "Prestazioni di assistenza di base per utenti esterni (bagno assistito)": false,
-                        "Residenza per Autosufficienti": false,
-                        "Residenza sociale per disabili (RSD)": false,
-                        "Ristorazione a domicilio": false,
-                        "Ristorazione per utenti esterni": false,
-                        "Segretariato sociale": false,
-                        "Servizio Continuita' Assistenziale (Ex Guardia Medica)": false,
-                        "Trasporto per adulti disabili": false
-                    },
-                    "serviziAmministrativi": {
-                        "serviziAmministrativiSpec": [
-                            {
-                                "giorniSettimana": [
-                                    "lunedi",
-                                    "martedi",
-                                    "mercoledi",
-                                    "giovedi",
-                                    "venerdi",
-                                    "sabato"
-                                ],
-                                "oraInizio": "09:00",
-                                "oraFine": "13:00"
-                            },
-                            {
-                                "giorniSettimana": [
-                                    "lunedi",
-                                    "martedi",
-                                    "mercoledi",
-                                    "giovedi",
-                                    "venerdi"
-                                ],
-                                "oraInizio": "14:00",
-                                "oraFine": "18:00"
-                            },
-                            {
-                                "giorniSettimana": [
-                                    "sabato"
-                                ],
-                                "oraInizio": "09:00",
-                                "oraFine": "13:00"
-                            }
-                        ]
-                    },
-                    "direzione": {
-                        "direzioneSpec": [
-                            {
-                                "giorniSettimana": [
-                                    "lunedi",
-                                    "martedi",
-                                    "mercoledi",
-                                    "giovedi",
-                                    "venerdi"
-                                ],
-                                "oraInizio": "08:30",
-                                "oraFine": "16:30"
-                            }
-                        ]
-                    },
-                    "orarioVisite": {
-                        "orarioVisiteSpec": {
-                            "orariServizio": {
-                                "oraInizio": "09:30",
-                                "oraFine": "12:00",
-                                "oraInizio2": "14:30",
-                                "oraFine2": "18:00"
-                            }
-                        }
-                    }
-                }
-            },
-            "ars": {
-                "nome": "Anni Azzurri Beato Angelico",
-                "cod_sts24": "90234I",
-                "attiva": "1",
-                "accordo": "1",
-                "indirizzo": "Via Faentina, 63/a - Panicaglia",
-                "cod_comune": "48004",
-                "gestione": "privata",
-                "quota": 65,
-                "quotasanitaria": 59.1
-            }
-        }
-    },
-    {
         "id": "236",
         "foto0": "pialu_dongori_struttura.png",
         "foto1": "pialu_dongori_palestra.jpg",
@@ -3556,7 +3224,7 @@
         "rsa_ico_podologo": "podologo.png",
         "rsa_ico_lavanderia": "lavanderia.png",
         "rsa_ico_postoletto": "",
-        "rsa_posti_liberi": "5",
+        "rsa_posti_liberi": "6",
         "rsa_quota": "59.30",
         "rsa_quotasanitaria": "59.10",
         "rsa_quota_img": "",
@@ -3566,14 +3234,14 @@
         "rsa_mod_veg": "",
         "rsa_attiva": "1",
         "rsa_nome_brochure": "",
-        "rsa_data_aggiornamento": "2026.05.26 10:54:21",
+        "rsa_data_aggiornamento": "2026.06.01 17:51:52",
         "lat": "44.120415",
         "lon": "10.409106",
         "gbnord": "4886229.34",
         "gbest": "1612774.70",
         "accordo": "1",
         "cod_sts24": "U0314I",
-        "posti_liberi_m": "2",
+        "posti_liberi_m": "3",
         "posti_liberi_f": "3",
         "indirizzo_sede": "Via Strada Provinciale 72 del Passo delle Radici, n° 305",
         "comune_sede": "Castelnuovo di Garfagnana",
@@ -3581,9 +3249,9 @@
         "telefono_sede": "0583085844",
         "email_sede": "amministrazione.rsaapuane@residenzegarfagnana.it",
         "posta_certificata_sede": "pec@pec.codess.org",
-        "json_data": "eyJpZCI6MzUwLCJzdHJ1dHR1cmEiOnsiYXZ2aXNvRGVjaW1hbGUiOiIiLCJwb3N0aV9tb2R1bG9fYmFzZSI6ODAsInBvc3RpX2xpYmVyaSI6NSwicG9zdGlfbGliZXJpX20iOjIsInBvc3RpX2xpYmVyaV9mIjozLCJjZl9kaXJldHRvcmUiOiJDUlNNU002NEMyNkQ5NjlHIiwibm9tZV9kaXJldHRvcmUiOiJNYXNzaW1vIiwiY29nbm9tZV9kaXJldHRvcmUiOiJDb3JzbyIsInRlbGVmb25vX3JzYSI6IjA1ODMwODU4NDQiLCJmYXhfcnNhIjoiIiwiZW1haWwiOiJkaXJlemlvbmUucnNhYXB1YW5lQHJlc2lkZW56ZWdhcmZhZ25hbmEuaXQiLCJzaXRvX2ludGVybmV0Ijoid3d3LnJlc2lkZW56ZWdhcmZhZ25hbmEuaXQiLCJ0YXJpZmZhX3ByaXZhdGFfcmFuZ2VkIjp7Im1pbmltYSI6MCwibWFzc2ltYSI6MH0sIm1vZHVsbyI6WyJNb2R1bG8gYmFzZSJdLCJpbmRpcml6em9fc2VkZSI6IlZpYSBTdHJhZGEgUHJvdmluY2lhbGUgNzIgZGVsIFBhc3NvIGRlbGxlIFJhZGljaSwgbrAgMzA1IiwiY29kX2NvbXVuZV9zZWRlIjoiMDQ2MDA5IiwidGVsX3NlZGUiOiIwNTgzMDg1ODQ0IiwiZmF4X3NlZGUiOiIiLCJlbWFpbF9zZWRlIjoiYW1taW5pc3RyYXppb25lLnJzYWFwdWFuZUByZXNpZGVuemVnYXJmYWduYW5hLml0IiwicG9zdGFfY2VydGlmaWNhdGFfc2VkZSI6InBlY0BwZWMuY29kZXNzLm9yZyIsInJlc2lkZW56YSI6eyJudW1lcm9QaWFuaSI6MiwiZGV0dGFnbGlvQ2FtZXJlIjpbeyJudW1lcm9DYW1lcmUiOjI0LCJudW1lcm9MZXR0aSI6MjQsInNlcnZpemlQcmVzZW50aSI6WyJiYWdubyBkZWRpY2F0byIsInR2Iiwid2lmaSIsImltcGlhbnRvIGNvbmRpemlvbmFtZW50byJdfSx7Im51bWVyb0NhbWVyZSI6MjgsIm51bWVyb0xldHRpIjo1Niwic2Vydml6aVByZXNlbnRpIjpbImJhZ25vIGRlZGljYXRvIiwidHYiLCJ3aWZpIiwiaW1waWFudG8gY29uZGl6aW9uYW1lbnRvIl19XX0sInB1bnRpRGlJbnRlcmVzc2UiOlsiZGlzdHJldHRvIHNhbml0YXJpbyIsImF1dG9idXMiLCJjaGllc2EiLCJjZW50cm8gc3RvcmljbyIsInRlYXRybyIsInN0YXppb25lIGZlcnJvdmlhcmlhIiwiYXNzb2NpYXppb25pIGRpIHZvbG9udGFyaWF0byIsIm9zcGVkYWxlIl0sInNwYXppb0VzdGVybm8iOiJTSSIsInNlcnZpemlTb2Npb1Nhbml0YXJpIjp7ImFuaW1hemlvbmVTb2Npb0VkdWNhdGl2YSI6eyJhbmltYXppb25lU29jaW9FZHVjYXRpdmFTcGVjIjp7Im9yYUluaXppbyI6IjA5OjAwIiwib3JhRmluZSI6IjE5OjAwIiwib3JhSW5pemlvMiI6IiIsIm9yYUZpbmUyIjoiIn19LCJmaXNpb3RlcmFwaWEiOnsiZmlzaW90ZXJhcGlhU3BlYyI6W3siZ2lvcm5pU2V0dGltYW5hIjpbImx1bmVkaSIsIm1lcmNvbGVkaSIsInZlbmVyZGkiXSwib3JhSW5pemlvIjoiMDg6MzAiLCJvcmFGaW5lIjoiMTM6MzAifSx7Imdpb3JuaVNldHRpbWFuYSI6WyJtYXJ0ZWRpIiwiZ2lvdmVkaSJdLCJvcmFJbml6aW8iOiIwOTowMCIsIm9yYUZpbmUiOiIxMjozMCJ9LHsiZ2lvcm5pU2V0dGltYW5hIjpbIm1hcnRlZGkiLCJnaW92ZWRpIl0sIm9yYUluaXppbyI6IjEzOjAwIiwib3JhRmluZSI6IjE1OjAwIn1dfSwiYXNzaXN0ZW56YUluZmVybWllcmlzdGljYSI6eyJhc3Npc3RlbnphSW5mZXJtaWVyaXN0aWNhU3BlYyI6eyJyZXBlcmliaWxpdGFOb3R0dXJuYSI6IlNJIiwib3JhcmlTZXJ2aXppbyI6eyJvcmFJbml6aW8iOiIyMTowMCIsIm9yYUZpbmUiOiIwNzowMCIsIm9yYUluaXppbzIiOiIiLCJvcmFGaW5lMiI6IiJ9fX0sIm1lZGljaVNwZWNpYWxpc3RpIjp7InN1YlRpdGxlIjoiIiwiZGV0dGFnbGlvU3BlY2lhbGlzdGkiOltdfSwicHNpY29sb2dvIjp7Im5vblByZXZpc3RvIjp0cnVlLCJlcm9nYXppb25lU2Vydml6aW8iOnsic2NlbHRhIjoiVHV0dGkgaSBnaW9ybmkiLCJhbGxEYXlzIjoidHJ1ZSJ9LCJpbmNsdXNvUXVvdGEiOiJTSSJ9LCJwb2RvbG9nbyI6eyJlcm9nYXppb25lU2Vydml6aW8iOiJTdSByaWNoaWVzdGEiLCJudW1lcm9Wb2x0ZSI6MSwicHJlc3RhemlvbmlJbmNsdXNlTWVzZSI6MX19LCJzZXJ2aXppQWxiZXJnaGllcmkiOnsiY3VjaW5hIjp7InRpcG9DdWNpbmEiOiJJbnRlcm5hIn0sImxhdmFuZGVyaWEiOnsiaW5kdW1lbnRpX3BlcnNvbmFsaSI6IlNJIn0sInBhcnJ1Y2NoaWVyZSI6eyJlcm9nYXppb25lU2Vydml6aW8iOiJOIHZvbHRlIGEgc2V0dGltYW5hIiwibnVtZXJvVm9sdGUiOjIsInByZXN0YXppb25pSW5jbHVzZU1lc2UiOjF9LCJlc3RldGlzdGEiOnsibm9uUHJldmlzdG8iOmZhbHNlLCJlcm9nYXppb25lU2Vydml6aW8iOnsic2NlbHRhIjoiU3UgcmljaGllc3RhIiwib25SZXF1ZXN0IjoidHJ1ZSJ9LCJpbmNsdXNvUXVvdGEiOiJTSSJ9LCJhc3Npc3RlbnphUmVsaWdpb3NhIjp7Im5vblByZXZpc3RvIjpmYWxzZSwiYXBlcnR1cmFUaXBpQ3VsdG8iOiJTSSIsImFzc2lzdGVuemFSZWxpZ2lvc2FTcGVjIjpbeyJnaW9ybmlTZXR0aW1hbmEiOlsibWVyY29sZWRpIiwidmVuZXJkaSIsInNhYmF0byJdLCJvcmEiOiIxMDozMCJ9XX19LCJhbHRyaVNlcnZpemkiOnsiZWxlbmNvU2Vydml6aSI6eyJBcHBhcnRhbWVudGkgcHJvdGV0dGkiOmZhbHNlLCJBc3Npc3RlbnphIERvbWljaWxpYXJlIjpmYWxzZSwiQXNzaXN0ZW56YSByZXNpZGVuemlhbGUgcGVyIHJpZnVnaWF0aS9wcm9mdWdoaSI6ZmFsc2UsIkF0dGl2aXRhJyBmaXNpY2EgYWRhdHRhdGEiOmZhbHNlLCJDYXNhIGRlbGxhIHNhbHV0ZSI6ZmFsc2UsIkNlbnRybyBkaSBzb2NpYWxpenphemlvbmUgcGVyIGF1dG9zdWZmaWNpZW50aSI6ZmFsc2UsIkNlbnRybyBkaXVybm8gQWx6aGVpbWVyIjpmYWxzZSwiQ2VudHJvIGRpdXJubyBwZXIgYXV0b3N1ZmZpY2llbnRpIjpmYWxzZSwiQ2VudHJvIGRpdXJubyBwZXIgbm9uIGF1dG9zdWZmaWNpZW50aSI6ZmFsc2UsIkxhdmFuZGVyaWEgcGVyIGFzc2lzdGl0aSBhIGRvbWljaWxpbyI6ZmFsc2UsIk9yZ2FuaXp6YXppb25lIGRlbCB0cmFzcG9ydG8gZSBhY2NvbXBhZ25hbWVudG8gZGVnbGkgYXNzaXN0aXRpIGRlYW1idWxhbnRpIHBlciB2aXNpdGUvcHJlc3Rhemlvbmkgc2FuaXRhcmllLCBhdnZpc2FuZG9uZSBpIGZhbWlsaWFyaSI6dHJ1ZSwiUHJlc3RhemlvbmkgZGkgYXNzaXN0ZW56YSBkaSBiYXNlIHBlciB1dGVudGkgZXN0ZXJuaSAoYmFnbm8gYXNzaXN0aXRvKSI6ZmFsc2UsIlJlc2lkZW56YSBwZXIgQXV0b3N1ZmZpY2llbnRpIjp0cnVlLCJSZXNpZGVuemEgc29jaWFsZSBwZXIgZGlzYWJpbGkgKFJTRCkiOmZhbHNlLCJSaXN0b3JhemlvbmUgYSBkb21pY2lsaW8iOmZhbHNlLCJSaXN0b3JhemlvbmUgcGVyIHV0ZW50aSBlc3Rlcm5pIjpmYWxzZSwiU2VncmV0YXJpYXRvIHNvY2lhbGUiOmZhbHNlLCJTZXJ2aXppbyBDb250aW51aXRhJyBBc3Npc3RlbnppYWxlIChFeCBHdWFyZGlhIE1lZGljYSkiOmZhbHNlLCJUcmFzcG9ydG8gcGVyIGFkdWx0aSBkaXNhYmlsaSI6ZmFsc2V9LCJzZXJ2aXppQW1taW5pc3RyYXRpdmkiOnsic2Vydml6aUFtbWluaXN0cmF0aXZpU3BlYyI6W3siZ2lvcm5pU2V0dGltYW5hIjpbImx1bmVkaSIsIm1hcnRlZGkiLCJtZXJjb2xlZGkiLCJnaW92ZWRpIiwidmVuZXJkaSJdLCJvcmFJbml6aW8iOiIwOTozMCIsIm9yYUZpbmUiOiIxMzowMCJ9LHsiZ2lvcm5pU2V0dGltYW5hIjpbImx1bmVkaSIsIm1hcnRlZGkiLCJtZXJjb2xlZGkiLCJnaW92ZWRpIiwidmVuZXJkaSJdLCJvcmFJbml6aW8iOiIxNDowMCIsIm9yYUZpbmUiOiIxNzozMCJ9XX0sImRpcmV6aW9uZSI6eyJkaXJlemlvbmVTcGVjIjpbeyJnaW9ybmlTZXR0aW1hbmEiOlsibHVuZWRpIiwibWFydGVkaSIsIm1lcmNvbGVkaSIsImdpb3ZlZGkiLCJ2ZW5lcmRpIl0sIm9yYUluaXppbyI6IjA5OjMwIiwib3JhRmluZSI6IjEzOjAwIn0seyJnaW9ybmlTZXR0aW1hbmEiOlsibHVuZWRpIiwibWFydGVkaSIsIm1lcmNvbGVkaSIsImdpb3ZlZGkiLCJ2ZW5lcmRpIl0sIm9yYUluaXppbyI6IjE0OjAwIiwib3JhRmluZSI6IjE3OjMwIn1dfSwib3JhcmlvVmlzaXRlIjp7Im9yYXJpb1Zpc2l0ZVNwZWMiOnsib3JhcmlTZXJ2aXppbyI6eyJvcmFJbml6aW8iOiIwOTo0NSIsIm9yYUZpbmUiOiIxMTo0NSIsIm9yYUluaXppbzIiOiIxNDozMCIsIm9yYUZpbmUyIjoiMTc6NDUifX19fX0sImFycyI6eyJub21lIjoiUlNBIEFwdWFuZSIsImNvZF9zdHMyNCI6IlUwMzE0SSIsImF0dGl2YSI6IjEiLCJhY2NvcmRvIjoiMSIsImluZGlyaXp6byI6IlZpYSBTdHJhZGEgUHJvdmluY2lhbGUgNzIgZGVsIFBhc3NvIGRlbGxlIFJhZGljaSwgMzA1IiwiY29kX2NvbXVuZSI6IjQ2MDA5IiwiZ2VzdGlvbmUiOiJwcml2YXRhIiwicXVvdGEiOjU5LjMsInF1b3Rhc2FuaXRhcmlhIjo1OS4xfX0=",
-        "posti_liberi_int": 5,
-        "posti_liberi_m_int": 2,
+        "json_data": "eyJpZCI6MzUwLCJzdHJ1dHR1cmEiOnsiYXZ2aXNvRGVjaW1hbGUiOiIiLCJwb3N0aV9tb2R1bG9fYmFzZSI6ODAsInBvc3RpX2xpYmVyaSI6NiwicG9zdGlfbGliZXJpX20iOjMsInBvc3RpX2xpYmVyaV9mIjozLCJjZl9kaXJldHRvcmUiOiJDUlNNU002NEMyNkQ5NjlHIiwibm9tZV9kaXJldHRvcmUiOiJNYXNzaW1vIiwiY29nbm9tZV9kaXJldHRvcmUiOiJDb3JzbyIsInRlbGVmb25vX3JzYSI6IjA1ODMwODU4NDQiLCJmYXhfcnNhIjoiIiwiZW1haWwiOiJkaXJlemlvbmUucnNhYXB1YW5lQHJlc2lkZW56ZWdhcmZhZ25hbmEuaXQiLCJzaXRvX2ludGVybmV0Ijoid3d3LnJlc2lkZW56ZWdhcmZhZ25hbmEuaXQiLCJ0YXJpZmZhX3ByaXZhdGFfcmFuZ2VkIjp7Im1pbmltYSI6MCwibWFzc2ltYSI6MH0sIm1vZHVsbyI6WyJNb2R1bG8gYmFzZSJdLCJpbmRpcml6em9fc2VkZSI6IlZpYSBTdHJhZGEgUHJvdmluY2lhbGUgNzIgZGVsIFBhc3NvIGRlbGxlIFJhZGljaSwgbrAgMzA1IiwiY29kX2NvbXVuZV9zZWRlIjoiMDQ2MDA5IiwidGVsX3NlZGUiOiIwNTgzMDg1ODQ0IiwiZmF4X3NlZGUiOiIiLCJlbWFpbF9zZWRlIjoiYW1taW5pc3RyYXppb25lLnJzYWFwdWFuZUByZXNpZGVuemVnYXJmYWduYW5hLml0IiwicG9zdGFfY2VydGlmaWNhdGFfc2VkZSI6InBlY0BwZWMuY29kZXNzLm9yZyIsInJlc2lkZW56YSI6eyJudW1lcm9QaWFuaSI6MiwiZGV0dGFnbGlvQ2FtZXJlIjpbeyJudW1lcm9DYW1lcmUiOjI0LCJudW1lcm9MZXR0aSI6MjQsInNlcnZpemlQcmVzZW50aSI6WyJiYWdubyBkZWRpY2F0byIsInR2Iiwid2lmaSIsImltcGlhbnRvIGNvbmRpemlvbmFtZW50byJdfSx7Im51bWVyb0NhbWVyZSI6MjgsIm51bWVyb0xldHRpIjo1Niwic2Vydml6aVByZXNlbnRpIjpbImJhZ25vIGRlZGljYXRvIiwidHYiLCJ3aWZpIiwiaW1waWFudG8gY29uZGl6aW9uYW1lbnRvIl19XX0sInB1bnRpRGlJbnRlcmVzc2UiOlsiZGlzdHJldHRvIHNhbml0YXJpbyIsImF1dG9idXMiLCJjaGllc2EiLCJjZW50cm8gc3RvcmljbyIsInRlYXRybyIsInN0YXppb25lIGZlcnJvdmlhcmlhIiwiYXNzb2NpYXppb25pIGRpIHZvbG9udGFyaWF0byIsIm9zcGVkYWxlIl0sInNwYXppb0VzdGVybm8iOiJTSSIsInNlcnZpemlTb2Npb1Nhbml0YXJpIjp7ImFuaW1hemlvbmVTb2Npb0VkdWNhdGl2YSI6eyJhbmltYXppb25lU29jaW9FZHVjYXRpdmFTcGVjIjp7Im9yYUluaXppbyI6IjA5OjAwIiwib3JhRmluZSI6IjE5OjAwIiwib3JhSW5pemlvMiI6IiIsIm9yYUZpbmUyIjoiIn19LCJmaXNpb3RlcmFwaWEiOnsiZmlzaW90ZXJhcGlhU3BlYyI6W3siZ2lvcm5pU2V0dGltYW5hIjpbImx1bmVkaSIsIm1lcmNvbGVkaSIsInZlbmVyZGkiXSwib3JhSW5pemlvIjoiMDg6MzAiLCJvcmFGaW5lIjoiMTM6MzAifSx7Imdpb3JuaVNldHRpbWFuYSI6WyJtYXJ0ZWRpIiwiZ2lvdmVkaSJdLCJvcmFJbml6aW8iOiIwOTowMCIsIm9yYUZpbmUiOiIxMjozMCJ9LHsiZ2lvcm5pU2V0dGltYW5hIjpbIm1hcnRlZGkiLCJnaW92ZWRpIl0sIm9yYUluaXppbyI6IjEzOjAwIiwib3JhRmluZSI6IjE1OjAwIn1dfSwiYXNzaXN0ZW56YUluZmVybWllcmlzdGljYSI6eyJhc3Npc3RlbnphSW5mZXJtaWVyaXN0aWNhU3BlYyI6eyJyZXBlcmliaWxpdGFOb3R0dXJuYSI6IlNJIiwib3JhcmlTZXJ2aXppbyI6eyJvcmFJbml6aW8iOiIyMTowMCIsIm9yYUZpbmUiOiIwNzowMCIsIm9yYUluaXppbzIiOiIiLCJvcmFGaW5lMiI6IiJ9fX0sIm1lZGljaVNwZWNpYWxpc3RpIjp7InN1YlRpdGxlIjoiIiwiZGV0dGFnbGlvU3BlY2lhbGlzdGkiOltdfSwicHNpY29sb2dvIjp7Im5vblByZXZpc3RvIjp0cnVlLCJlcm9nYXppb25lU2Vydml6aW8iOnsic2NlbHRhIjoiVHV0dGkgaSBnaW9ybmkiLCJhbGxEYXlzIjoidHJ1ZSJ9LCJpbmNsdXNvUXVvdGEiOiJTSSJ9LCJwb2RvbG9nbyI6eyJlcm9nYXppb25lU2Vydml6aW8iOiJTdSByaWNoaWVzdGEiLCJudW1lcm9Wb2x0ZSI6MSwicHJlc3RhemlvbmlJbmNsdXNlTWVzZSI6MX19LCJzZXJ2aXppQWxiZXJnaGllcmkiOnsiY3VjaW5hIjp7InRpcG9DdWNpbmEiOiJJbnRlcm5hIn0sImxhdmFuZGVyaWEiOnsiaW5kdW1lbnRpX3BlcnNvbmFsaSI6IlNJIn0sInBhcnJ1Y2NoaWVyZSI6eyJlcm9nYXppb25lU2Vydml6aW8iOiJOIHZvbHRlIGEgc2V0dGltYW5hIiwibnVtZXJvVm9sdGUiOjIsInByZXN0YXppb25pSW5jbHVzZU1lc2UiOjF9LCJlc3RldGlzdGEiOnsibm9uUHJldmlzdG8iOmZhbHNlLCJlcm9nYXppb25lU2Vydml6aW8iOnsic2NlbHRhIjoiU3UgcmljaGllc3RhIiwib25SZXF1ZXN0IjoidHJ1ZSJ9LCJpbmNsdXNvUXVvdGEiOiJTSSJ9LCJhc3Npc3RlbnphUmVsaWdpb3NhIjp7Im5vblByZXZpc3RvIjpmYWxzZSwiYXBlcnR1cmFUaXBpQ3VsdG8iOiJTSSIsImFzc2lzdGVuemFSZWxpZ2lvc2FTcGVjIjpbeyJnaW9ybmlTZXR0aW1hbmEiOlsibWVyY29sZWRpIiwidmVuZXJkaSIsInNhYmF0byJdLCJvcmEiOiIxMDozMCJ9XX19LCJhbHRyaVNlcnZpemkiOnsiZWxlbmNvU2Vydml6aSI6eyJBcHBhcnRhbWVudGkgcHJvdGV0dGkiOmZhbHNlLCJBc3Npc3RlbnphIERvbWljaWxpYXJlIjpmYWxzZSwiQXNzaXN0ZW56YSByZXNpZGVuemlhbGUgcGVyIHJpZnVnaWF0aS9wcm9mdWdoaSI6ZmFsc2UsIkF0dGl2aXRhJyBmaXNpY2EgYWRhdHRhdGEiOmZhbHNlLCJDYXNhIGRlbGxhIHNhbHV0ZSI6ZmFsc2UsIkNlbnRybyBkaSBzb2NpYWxpenphemlvbmUgcGVyIGF1dG9zdWZmaWNpZW50aSI6ZmFsc2UsIkNlbnRybyBkaXVybm8gQWx6aGVpbWVyIjpmYWxzZSwiQ2VudHJvIGRpdXJubyBwZXIgYXV0b3N1ZmZpY2llbnRpIjpmYWxzZSwiQ2VudHJvIGRpdXJubyBwZXIgbm9uIGF1dG9zdWZmaWNpZW50aSI6ZmFsc2UsIkxhdmFuZGVyaWEgcGVyIGFzc2lzdGl0aSBhIGRvbWljaWxpbyI6ZmFsc2UsIk9yZ2FuaXp6YXppb25lIGRlbCB0cmFzcG9ydG8gZSBhY2NvbXBhZ25hbWVudG8gZGVnbGkgYXNzaXN0aXRpIGRlYW1idWxhbnRpIHBlciB2aXNpdGUvcHJlc3Rhemlvbmkgc2FuaXRhcmllLCBhdnZpc2FuZG9uZSBpIGZhbWlsaWFyaSI6dHJ1ZSwiUHJlc3RhemlvbmkgZGkgYXNzaXN0ZW56YSBkaSBiYXNlIHBlciB1dGVudGkgZXN0ZXJuaSAoYmFnbm8gYXNzaXN0aXRvKSI6ZmFsc2UsIlJlc2lkZW56YSBwZXIgQXV0b3N1ZmZpY2llbnRpIjp0cnVlLCJSZXNpZGVuemEgc29jaWFsZSBwZXIgZGlzYWJpbGkgKFJTRCkiOmZhbHNlLCJSaXN0b3JhemlvbmUgYSBkb21pY2lsaW8iOmZhbHNlLCJSaXN0b3JhemlvbmUgcGVyIHV0ZW50aSBlc3Rlcm5pIjpmYWxzZSwiU2VncmV0YXJpYXRvIHNvY2lhbGUiOmZhbHNlLCJTZXJ2aXppbyBDb250aW51aXRhJyBBc3Npc3RlbnppYWxlIChFeCBHdWFyZGlhIE1lZGljYSkiOmZhbHNlLCJUcmFzcG9ydG8gcGVyIGFkdWx0aSBkaXNhYmlsaSI6ZmFsc2V9LCJzZXJ2aXppQW1taW5pc3RyYXRpdmkiOnsic2Vydml6aUFtbWluaXN0cmF0aXZpU3BlYyI6W3siZ2lvcm5pU2V0dGltYW5hIjpbImx1bmVkaSIsIm1hcnRlZGkiLCJtZXJjb2xlZGkiLCJnaW92ZWRpIiwidmVuZXJkaSJdLCJvcmFJbml6aW8iOiIwOTozMCIsIm9yYUZpbmUiOiIxMzowMCJ9LHsiZ2lvcm5pU2V0dGltYW5hIjpbImx1bmVkaSIsIm1hcnRlZGkiLCJtZXJjb2xlZGkiLCJnaW92ZWRpIiwidmVuZXJkaSJdLCJvcmFJbml6aW8iOiIxNDowMCIsIm9yYUZpbmUiOiIxNzozMCJ9XX0sImRpcmV6aW9uZSI6eyJkaXJlemlvbmVTcGVjIjpbeyJnaW9ybmlTZXR0aW1hbmEiOlsibHVuZWRpIiwibWFydGVkaSIsIm1lcmNvbGVkaSIsImdpb3ZlZGkiLCJ2ZW5lcmRpIl0sIm9yYUluaXppbyI6IjA5OjMwIiwib3JhRmluZSI6IjEzOjAwIn0seyJnaW9ybmlTZXR0aW1hbmEiOlsibHVuZWRpIiwibWFydGVkaSIsIm1lcmNvbGVkaSIsImdpb3ZlZGkiLCJ2ZW5lcmRpIl0sIm9yYUluaXppbyI6IjE0OjAwIiwib3JhRmluZSI6IjE3OjMwIn1dfSwib3JhcmlvVmlzaXRlIjp7Im9yYXJpb1Zpc2l0ZVNwZWMiOnsib3JhcmlTZXJ2aXppbyI6eyJvcmFJbml6aW8iOiIwOTo0NSIsIm9yYUZpbmUiOiIxMTo0NSIsIm9yYUluaXppbzIiOiIxNDozMCIsIm9yYUZpbmUyIjoiMTc6NDUifX19fX0sImFycyI6eyJub21lIjoiUlNBIEFwdWFuZSIsImNvZF9zdHMyNCI6IlUwMzE0SSIsImF0dGl2YSI6IjEiLCJhY2NvcmRvIjoiMSIsImluZGlyaXp6byI6IlZpYSBTdHJhZGEgUHJvdmluY2lhbGUgNzIgZGVsIFBhc3NvIGRlbGxlIFJhZGljaSwgMzA1IiwiY29kX2NvbXVuZSI6IjQ2MDA5IiwiZ2VzdGlvbmUiOiJwcml2YXRhIiwicXVvdGEiOjU5LjMsInF1b3Rhc2FuaXRhcmlhIjo1OS4xfX0=",
+        "posti_liberi_int": 6,
+        "posti_liberi_m_int": 3,
         "posti_liberi_f_int": 3,
         "decoded_details": null
     },
@@ -10320,12 +9988,12 @@
         "gestione": "pubblica",
         "indirizzo": "Via Casa del Duca,18",
         "cod_comune": "49014",
-        "cod_comune_sede": "49012",
         "comune": "Portoferraio",
         "zona": "Elba",
         "tel1_zona": "0565-926859",
         "tel2_zona": "0565-926867",
         "tel3_zona": "",
+        "telefono": "0565-926859 0565-926867",
         "rsa_ico_animazione": "animazione_socio-educativa.png",
         "rsa_ico_fisioterapia": "fisioterapia.png",
         "rsa_ico_cucina": "ristorazione_esterna.png",
@@ -10997,12 +10665,12 @@
         "gestione": "privata",
         "indirizzo": "Via Rio, 81",
         "cod_comune": "48039",
-        "cod_comune_sede": "48039",
         "comune": "San Godenzo",
         "zona": "Fiorentina Sud-Est",
         "tel1_zona": "055-6936562",
         "tel2_zona": "055-6936308",
         "tel3_zona": "",
+        "telefono": "055-6936562 055-6936308",
         "rsa_ico_animazione": "animazione_socio-educativa.png",
         "rsa_ico_fisioterapia": "fisioterapia.png",
         "rsa_ico_cucina": "ristorazione_interna.png",
