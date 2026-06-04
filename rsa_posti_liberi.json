@@ -10068,12 +10068,12 @@
         "gestione": "privata",
         "indirizzo": "Via Rio, 81",
         "cod_comune": "48039",
-        "cod_comune_sede": "48039",
         "comune": "San Godenzo",
         "zona": "Fiorentina Sud-Est",
         "tel1_zona": "055-6936562",
         "tel2_zona": "055-6936308",
         "tel3_zona": "",
+        "telefono": "055-6936562 055-6936308",
         "rsa_ico_animazione": "animazione_socio-educativa.png",
         "rsa_ico_fisioterapia": "fisioterapia.png",
         "rsa_ico_cucina": "ristorazione_interna.png",
@@ -11684,6 +11684,458 @@
                 "cod_comune": "46033",
                 "gestione": "privata",
                 "quota": 53.5,
+                "quotasanitaria": 59.1
+            }
+        }
+    },
+    {
+        "id": "58",
+        "foto0": "altacec_santachiara_struttura.jpg",
+        "foto1": "altacec_santachiara_salone.jpg",
+        "foto2": "altacec_santachiara_saletta.jpg",
+        "foto3": "altacec_santachiara_palestra.jpg",
+        "foto4": "altacec_santachiara_esterno.jpg",
+        "foto5": "",
+        "nome": "Santa Chiara",
+        "tipo": "",
+        "gestione": "pubblica",
+        "indirizzo": "Borgo Santo Stefano, 153",
+        "cod_comune": "50039",
+        "cod_comune_sede": "50039",
+        "comune": "Volterra",
+        "zona": "Alta Val di Cecina - Val d'Era",
+        "tel1_zona": "0587-273634",
+        "tel2_zona": "0588-91610",
+        "tel3_zona": "",
+        "rsa_ico_animazione": "animazione_socio-educativa.png",
+        "rsa_ico_fisioterapia": "fisioterapia.png",
+        "rsa_ico_cucina": "ristorazione_interna.png",
+        "rsa_ico_giardino": "giardino.png",
+        "rsa_ico_parrucchiere": "parrucchiere.png",
+        "rsa_ico_barbiere": "",
+        "rsa_ico_estetista": "estetista.png",
+        "rsa_ico_relig": "assistenza_religiosa.png",
+        "rsa_ico_geriatra": "consulenza_medico_specialistica.png",
+        "rsa_ico_assistenza_infermieristica": "assistenza_infermieristica.png",
+        "rsa_ico_psicologo": "psicologo.png",
+        "rsa_ico_podologo": "podologo.png",
+        "rsa_ico_lavanderia": "lavanderia.png",
+        "rsa_ico_postoletto": "",
+        "rsa_posti_liberi": "2",
+        "rsa_quota": "57.00",
+        "rsa_quotasanitaria": "59.10",
+        "rsa_quota_img": "alvalcec_quota_santachiara.png",
+        "rsa_mod_base": "si",
+        "rsa_mod_cogn": "",
+        "rsa_mod_riab": "",
+        "rsa_mod_veg": "",
+        "rsa_attiva": "1",
+        "rsa_nome_brochure": "alvalcec_santachiara.pdf",
+        "rsa_data_aggiornamento": "2026.06.04 10:04:07",
+        "lat": "43.4076270402582978",
+        "lon": "10.8524864102502008",
+        "gbnord": "4807764",
+        "gbest": "1650022",
+        "accordo": "1",
+        "cod_sts24": "321I4I",
+        "posti_liberi_m": "1",
+        "posti_liberi_f": "1",
+        "indirizzo_sede": "Borgo Santo Stefano,153",
+        "comune_sede": "Volterra",
+        "fax_sede": "0588 86984",
+        "telefono_sede": "0588 86090",
+        "email_sede": "info@santa-chiara.it",
+        "posta_certificata_sede": "santa-chiara@pec.it",
+        "json_data": "eyJpZCI6NTgsInN0cnV0dHVyYSI6eyJhdnZpc29EZWNpbWFsZSI6IiIsInBvc3RpX21vZHVsb19iYXNlIjo3NCwicG9zdGlfbGliZXJpIjoyLCJwb3N0aV9saWJlcmlfbSI6MSwicG9zdGlfbGliZXJpX2YiOjEsImNmX2RpcmV0dG9yZSI6IkZSU1BSSTczRDIxTTEyNkIiLCJub21lX2RpcmV0dG9yZSI6IlBpZXJvIiwiY29nbm9tZV9kaXJldHRvcmUiOiJGdXJpZXNpIiwidGVsZWZvbm9fcnNhIjoiMDU4OCA4NjA5MCIsImZheF9yc2EiOiIwNTg4IDg2OTg0IiwiZW1haWwiOiJpbmZvQHNhbnRhLWNoaWFyYS5pdCIsInNpdG9faW50ZXJuZXQiOiJ3d3cuc2FudGEtY2hpYXJhLml0IiwidGFyaWZmYV9wcml2YXRhX3JhbmdlZCI6eyJtaW5pbWEiOjEwMy41LCJtYXNzaW1hIjoxMDMuNX0sIm1vZHVsbyI6WyJNb2R1bG8gYmFzZSJdLCJpbmRpcml6em9fc2VkZSI6IkJvcmdvIFNhbnRvIFN0ZWZhbm8sMTUzIiwiY29kX2NvbXVuZV9zZWRlIjoiMDUwMDM5IiwidGVsX3NlZGUiOiIwNTg4IDg2MDkwIiwiZmF4X3NlZGUiOiIwNTg4IDg2OTg0IiwiZW1haWxfc2VkZSI6ImluZm9Ac2FudGEtY2hpYXJhLml0IiwicG9zdGFfY2VydGlmaWNhdGFfc2VkZSI6InNhbnRhLWNoaWFyYUBwZWMuaXQiLCJyZXNpZGVuemEiOnsibnVtZXJvUGlhbmkiOjIsImRldHRhZ2xpb0NhbWVyZSI6W3sibnVtZXJvQ2FtZXJlIjozLCJudW1lcm9MZXR0aSI6Miwic2Vydml6aVByZXNlbnRpIjpbImJhZ25vIGRlZGljYXRvIiwidHYiLCJpbXBpYW50byBjb25kaXppb25hbWVudG8iXX0seyJudW1lcm9DYW1lcmUiOjEsIm51bWVyb0xldHRpIjoyLCJzZXJ2aXppUHJlc2VudGkiOlsiYmFnbm8gZGVkaWNhdG8iLCJ0diIsImltcGlhbnRvIGNvbmRpemlvbmFtZW50byJdfSx7Im51bWVyb0NhbWVyZSI6MiwibnVtZXJvTGV0dGkiOjIsInNlcnZpemlQcmVzZW50aSI6WyJiYWdubyBkZWRpY2F0byIsImltcGlhbnRvIGNvbmRpemlvbmFtZW50byJdfSx7Im51bWVyb0NhbWVyZSI6NCwibnVtZXJvTGV0dGkiOjEsInNlcnZpemlQcmVzZW50aSI6WyJiYWdubyBjb25kaXZpc28iLCJpbXBpYW50byBjb25kaXppb25hbWVudG8iXX0seyJudW1lcm9DYW1lcmUiOjIsIm51bWVyb0xldHRpIjoyLCJzZXJ2aXppUHJlc2VudGkiOlsiYmFnbm8gY29uZGl2aXNvIiwiaW1waWFudG8gY29uZGl6aW9uYW1lbnRvIl19LHsibnVtZXJvQ2FtZXJlIjo2LCJudW1lcm9MZXR0aSI6Miwic2Vydml6aVByZXNlbnRpIjpbImJhZ25vIGNvbmRpdmlzbyIsInR2Il19LHsibnVtZXJvQ2FtZXJlIjoxNCwibnVtZXJvTGV0dGkiOjMsInNlcnZpemlQcmVzZW50aSI6WyJiYWdubyBjb25kaXZpc28iLCJ0diIsImltcGlhbnRvIGNvbmRpemlvbmFtZW50byJdfV19LCJwdW50aURpSW50ZXJlc3NlIjpbImRpc3RyZXR0byBzYW5pdGFyaW8iLCJhdXRvYnVzIiwiY2hpZXNhIiwiY2VudHJvIHN0b3JpY28iLCJ0ZWF0cm8iLCJjaW5lbWEiLCJiaWJsaW90ZWNhIiwiYXNzb2NpYXppb25pIGRpIHZvbG9udGFyaWF0byIsIm9zcGVkYWxlIl0sInNwYXppb0VzdGVybm8iOiJTSSIsInNlcnZpemlTb2Npb1Nhbml0YXJpIjp7ImFuaW1hemlvbmVTb2Npb0VkdWNhdGl2YSI6eyJhbmltYXppb25lU29jaW9FZHVjYXRpdmFTcGVjIjpbeyJnaW9ybmlTZXR0aW1hbmEiOlsibHVuZWRpIiwibWFydGVkaSIsIm1lcmNvbGVkaSIsImdpb3ZlZGkiXSwib3JhSW5pemlvIjoiMDk6MDAiLCJvcmFGaW5lIjoiMTM6MDAifSx7Imdpb3JuaVNldHRpbWFuYSI6WyJ2ZW5lcmRpIl0sIm9yYUluaXppbyI6IjA5OjAwIiwib3JhRmluZSI6IjEyOjAwIn0seyJnaW9ybmlTZXR0aW1hbmEiOlsibWFydGVkaSJdLCJvcmFJbml6aW8iOiIxNDozMCIsIm9yYUZpbmUiOiIxODozMCJ9LHsiZ2lvcm5pU2V0dGltYW5hIjpbImx1bmVkaSJdLCJvcmFJbml6aW8iOiIxNDowMCIsIm9yYUZpbmUiOiIxNzowMCJ9LHsiZ2lvcm5pU2V0dGltYW5hIjpbIm1hcnRlZGkiLCJtZXJjb2xlZGkiLCJnaW92ZWRpIl0sIm9yYUluaXppbyI6IjE0OjAwIiwib3JhRmluZSI6IjE3OjMwIn1dfSwiZmlzaW90ZXJhcGlhIjp7ImZpc2lvdGVyYXBpYVNwZWMiOlt7Imdpb3JuaVNldHRpbWFuYSI6WyJsdW5lZGkiLCJtYXJ0ZWRpIl0sIm9yYUluaXppbyI6IjA4OjMwIiwib3JhRmluZSI6IjEzOjAwIn0seyJnaW9ybmlTZXR0aW1hbmEiOlsibHVuZWRpIiwibWFydGVkaSIsIm1lcmNvbGVkaSIsInZlbmVyZGkiXSwib3JhSW5pemlvIjoiMTQ6MzAiLCJvcmFGaW5lIjoiMTg6MzAifSx7Imdpb3JuaVNldHRpbWFuYSI6WyJsdW5lZGkiLCJnaW92ZWRpIiwidmVuZXJkaSJdLCJvcmFJbml6aW8iOiIxMzozMCIsIm9yYUZpbmUiOiIxNzowMCJ9LHsiZ2lvcm5pU2V0dGltYW5hIjpbIm1hcnRlZGkiLCJzYWJhdG8iXSwib3JhSW5pemlvIjoiMTM6MzAiLCJvcmFGaW5lIjoiMTc6MzAifV19LCJhc3Npc3RlbnphSW5mZXJtaWVyaXN0aWNhIjp7ImFzc2lzdGVuemFJbmZlcm1pZXJpc3RpY2FTcGVjIjp7InJlcGVyaWJpbGl0YU5vdHR1cm5hIjoiTk8iLCJvcmFyaVNlcnZpemlvIjp7Im9yYUluaXppbyI6IjA2OjAwIiwib3JhRmluZSI6IjIyOjAwIiwib3JhSW5pemlvMiI6IjAwOjAwIiwib3JhRmluZTIiOiIwMDowMCJ9fX0sIm1lZGljaVNwZWNpYWxpc3RpIjp7InN1YlRpdGxlIjoiIiwiZGV0dGFnbGlvU3BlY2lhbGlzdGkiOlt7Im1lZGljb1NwZWNpYWxpc3RhIjoiZ2VyaWF0cmEiLCJlcm9nYXppb25lU2Vydml6aW8iOnsic2NlbHRhIjoiU3UgcmljaGllc3RhIiwib25SZXF1ZXN0IjoidHJ1ZSJ9LCJpbmNsdXNvUXVvdGEiOiJTSSJ9LHsibWVkaWNvU3BlY2lhbGlzdGEiOiJkZW50aXN0YSIsImVyb2dhemlvbmVTZXJ2aXppbyI6eyJzY2VsdGEiOiJTdSByaWNoaWVzdGEiLCJvblJlcXVlc3QiOiJ0cnVlIn0sImluY2x1c29RdW90YSI6IlNJIn0seyJtZWRpY29TcGVjaWFsaXN0YSI6InBhbGxpYXRpdmlzdGEiLCJlcm9nYXppb25lU2Vydml6aW8iOnsic2NlbHRhIjoiU3UgcmljaGllc3RhIiwib25SZXF1ZXN0IjoidHJ1ZSJ9LCJpbmNsdXNvUXVvdGEiOiJTSSJ9LHsibWVkaWNvU3BlY2lhbGlzdGEiOiJwc2ljaGlhdHJhIiwiZXJvZ2F6aW9uZVNlcnZpemlvIjp7InNjZWx0YSI6IlN1IHJpY2hpZXN0YSIsIm9uUmVxdWVzdCI6InRydWUifSwiaW5jbHVzb1F1b3RhIjoiU0kifV19LCJwc2ljb2xvZ28iOnsibm9uUHJldmlzdG8iOmZhbHNlLCJlcm9nYXppb25lU2Vydml6aW8iOnsic2NlbHRhIjoiU3UgcmljaGllc3RhIiwib25SZXF1ZXN0IjoidHJ1ZSJ9LCJpbmNsdXNvUXVvdGEiOiJTSSJ9LCJwb2RvbG9nbyI6eyJlcm9nYXppb25lU2Vydml6aW8iOiJOIHZvbHRlIGFsIG1lc2UiLCJudW1lcm9Wb2x0ZSI6MSwicHJlc3RhemlvbmlJbmNsdXNlTWVzZSI6MX19LCJzZXJ2aXppQWxiZXJnaGllcmkiOnsiY3VjaW5hIjp7InRpcG9DdWNpbmEiOiJJbnRlcm5hIn0sImxhdmFuZGVyaWEiOnsiaW5kdW1lbnRpX3BlcnNvbmFsaSI6IlNJIn0sInBhcnJ1Y2NoaWVyZSI6eyJlcm9nYXppb25lU2Vydml6aW8iOiJOIHZvbHRlIGEgc2V0dGltYW5hIiwibnVtZXJvVm9sdGUiOjEsInByZXN0YXppb25pSW5jbHVzZU1lc2UiOjJ9LCJlc3RldGlzdGEiOnsibm9uUHJldmlzdG8iOmZhbHNlLCJlcm9nYXppb25lU2Vydml6aW8iOnsibnVtZXJvU2V0dGltYW5hIjoyfSwiaW5jbHVzb1F1b3RhIjoiU0kifSwiYXNzaXN0ZW56YVJlbGlnaW9zYSI6eyJub25QcmV2aXN0byI6ZmFsc2UsImFwZXJ0dXJhVGlwaUN1bHRvIjoiU0kiLCJhc3Npc3RlbnphUmVsaWdpb3NhU3BlYyI6W3siZ2lvcm5pU2V0dGltYW5hIjpbImdpb3ZlZGkiLCJzYWJhdG8iXSwib3JhIjoiMTc6MzAifV19fSwiYWx0cmlTZXJ2aXppIjp7ImVsZW5jb1NlcnZpemkiOnsiQXBwYXJ0YW1lbnRpIHByb3RldHRpIjpmYWxzZSwiQXNzaXN0ZW56YSBEb21pY2lsaWFyZSI6ZmFsc2UsIkFzc2lzdGVuemEgcmVzaWRlbnppYWxlIHBlciByaWZ1Z2lhdGkvcHJvZnVnaGkiOmZhbHNlLCJBdHRpdml0YScgZmlzaWNhIGFkYXR0YXRhIjp0cnVlLCJDYXNhIGRlbGxhIHNhbHV0ZSI6ZmFsc2UsIkNlbnRybyBkaSBzb2NpYWxpenphemlvbmUgcGVyIGF1dG9zdWZmaWNpZW50aSI6ZmFsc2UsIkNlbnRybyBkaXVybm8gQWx6aGVpbWVyIjpmYWxzZSwiQ2VudHJvIGRpdXJubyBwZXIgYXV0b3N1ZmZpY2llbnRpIjpmYWxzZSwiQ2VudHJvIGRpdXJubyBwZXIgbm9uIGF1dG9zdWZmaWNpZW50aSI6ZmFsc2UsIkxhdmFuZGVyaWEgcGVyIGFzc2lzdGl0aSBhIGRvbWljaWxpbyI6ZmFsc2UsIk9yZ2FuaXp6YXppb25lIGRlbCB0cmFzcG9ydG8gZSBhY2NvbXBhZ25hbWVudG8gZGVnbGkgYXNzaXN0aXRpIGRlYW1idWxhbnRpIHBlciB2aXNpdGUvcHJlc3Rhemlvbmkgc2FuaXRhcmllLCBhdnZpc2FuZG9uZSBpIGZhbWlsaWFyaSI6ZmFsc2UsIlByZXN0YXppb25pIGRpIGFzc2lzdGVuemEgZGkgYmFzZSBwZXIgdXRlbnRpIGVzdGVybmkgKGJhZ25vIGFzc2lzdGl0bykiOmZhbHNlLCJSZXNpZGVuemEgcGVyIEF1dG9zdWZmaWNpZW50aSI6ZmFsc2UsIlJlc2lkZW56YSBzb2NpYWxlIHBlciBkaXNhYmlsaSAoUlNEKSI6ZmFsc2UsIlJpc3RvcmF6aW9uZSBhIGRvbWljaWxpbyI6ZmFsc2UsIlJpc3RvcmF6aW9uZSBwZXIgdXRlbnRpIGVzdGVybmkiOmZhbHNlLCJTZWdyZXRhcmlhdG8gc29jaWFsZSI6dHJ1ZSwiU2Vydml6aW8gQ29udGludWl0YScgQXNzaXN0ZW56aWFsZSAoRXggR3VhcmRpYSBNZWRpY2EpIjpmYWxzZSwiVHJhc3BvcnRvIHBlciBhZHVsdGkgZGlzYWJpbGkiOmZhbHNlfSwic2Vydml6aUFtbWluaXN0cmF0aXZpIjp7InNlcnZpemlBbW1pbmlzdHJhdGl2aVNwZWMiOlt7Imdpb3JuaVNldHRpbWFuYSI6WyJsdW5lZGkiLCJtYXJ0ZWRpIiwibWVyY29sZWRpIiwiZ2lvdmVkaSIsInZlbmVyZGkiXSwib3JhSW5pemlvIjoiMDg6MDAiLCJvcmFGaW5lIjoiMTM6MDAifSx7Imdpb3JuaVNldHRpbWFuYSI6WyJtYXJ0ZWRpIiwiZ2lvdmVkaSJdLCJvcmFJbml6aW8iOiIxNDowMCIsIm9yYUZpbmUiOiIxODowMCJ9LHsiZ2lvcm5pU2V0dGltYW5hIjpbIm1lcmNvbGVkaSJdLCJvcmFJbml6aW8iOiIxNDowMCIsIm9yYUZpbmUiOiIxNzowMCJ9XX0sImRpcmV6aW9uZSI6eyJkaXJlemlvbmVTcGVjIjpbeyJnaW9ybmlTZXR0aW1hbmEiOlsibHVuZWRpIiwibWFydGVkaSIsIm1lcmNvbGVkaSIsImdpb3ZlZGkiLCJ2ZW5lcmRpIl0sIm9yYUluaXppbyI6IjA4OjAwIiwib3JhRmluZSI6IjEzOjAwIn0seyJnaW9ybmlTZXR0aW1hbmEiOlsibWFydGVkaSIsImdpb3ZlZGkiXSwib3JhSW5pemlvIjoiMTQ6MDAiLCJvcmFGaW5lIjoiMTg6MDAifSx7Imdpb3JuaVNldHRpbWFuYSI6WyJtZXJjb2xlZGkiXSwib3JhSW5pemlvIjoiMTQ6MDAiLCJvcmFGaW5lIjoiMTc6MDAifV19LCJvcmFyaW9WaXNpdGUiOnsib3JhcmlvVmlzaXRlU3BlYyI6eyJvcmFyaVNlcnZpemlvIjp7Im9yYUluaXppbyI6IjEwOjAwIiwib3JhRmluZSI6IjE5OjAwIiwib3JhSW5pemlvMiI6IiIsIm9yYUZpbmUyIjoiIn19fX19LCJhcnMiOnsibm9tZSI6IlNhbnRhIENoaWFyYSIsImNvZF9zdHMyNCI6IjMyMUk0SSIsImF0dGl2YSI6IjEiLCJhY2NvcmRvIjoiMSIsImluZGlyaXp6byI6IkJvcmdvIFNhbnRvIFN0ZWZhbm8sIDE1MyIsImNvZF9jb211bmUiOiI1MDAzOSIsImdlc3Rpb25lIjoicHViYmxpY2EiLCJxdW90YSI6NTcsInF1b3Rhc2FuaXRhcmlhIjo1OS4xfX0=",
+        "posti_liberi_int": 2,
+        "posti_liberi_m_int": 1,
+        "posti_liberi_f_int": 1,
+        "decoded_details": {
+            "id": 58,
+            "struttura": {
+                "avvisoDecimale": "",
+                "posti_modulo_base": 74,
+                "posti_liberi": 2,
+                "posti_liberi_m": 1,
+                "posti_liberi_f": 1,
+                "cf_direttore": "FRSPRI73D21M126B",
+                "nome_direttore": "Piero",
+                "cognome_direttore": "Furiesi",
+                "telefono_rsa": "0588 86090",
+                "fax_rsa": "0588 86984",
+                "email": "info@santa-chiara.it",
+                "sito_internet": "www.santa-chiara.it",
+                "tariffa_privata_ranged": {
+                    "minima": 103.5,
+                    "massima": 103.5
+                },
+                "modulo": [
+                    "Modulo base"
+                ],
+                "indirizzo_sede": "Borgo Santo Stefano,153",
+                "cod_comune_sede": "050039",
+                "tel_sede": "0588 86090",
+                "fax_sede": "0588 86984",
+                "email_sede": "info@santa-chiara.it",
+                "posta_certificata_sede": "santa-chiara@pec.it",
+                "residenza": {
+                    "numeroPiani": 2,
+                    "dettaglioCamere": [
+                        {
+                            "numeroCamere": 3,
+                            "numeroLetti": 2,
+                            "serviziPresenti": [
+                                "bagno dedicato",
+                                "tv",
+                                "impianto condizionamento"
+                            ]
+                        },
+                        {
+                            "numeroCamere": 1,
+                            "numeroLetti": 2,
+                            "serviziPresenti": [
+                                "bagno dedicato",
+                                "tv",
+                                "impianto condizionamento"
+                            ]
+                        },
+                        {
+                            "numeroCamere": 2,
+                            "numeroLetti": 2,
+                            "serviziPresenti": [
+                                "bagno dedicato",
+                                "impianto condizionamento"
+                            ]
+                        },
+                        {
+                            "numeroCamere": 4,
+                            "numeroLetti": 1,
+                            "serviziPresenti": [
+                                "bagno condiviso",
+                                "impianto condizionamento"
+                            ]
+                        },
+                        {
+                            "numeroCamere": 2,
+                            "numeroLetti": 2,
+                            "serviziPresenti": [
+                                "bagno condiviso",
+                                "impianto condizionamento"
+                            ]
+                        },
+                        {
+                            "numeroCamere": 6,
+                            "numeroLetti": 2,
+                            "serviziPresenti": [
+                                "bagno condiviso",
+                                "tv"
+                            ]
+                        },
+                        {
+                            "numeroCamere": 14,
+                            "numeroLetti": 3,
+                            "serviziPresenti": [
+                                "bagno condiviso",
+                                "tv",
+                                "impianto condizionamento"
+                            ]
+                        }
+                    ]
+                },
+                "puntiDiInteresse": [
+                    "distretto sanitario",
+                    "autobus",
+                    "chiesa",
+                    "centro storico",
+                    "teatro",
+                    "cinema",
+                    "biblioteca",
+                    "associazioni di volontariato",
+                    "ospedale"
+                ],
+                "spazioEsterno": "SI",
+                "serviziSocioSanitari": {
+                    "animazioneSocioEducativa": {
+                        "animazioneSocioEducativaSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "martedi",
+                                    "mercoledi",
+                                    "giovedi"
+                                ],
+                                "oraInizio": "09:00",
+                                "oraFine": "13:00"
+                            },
+                            {
+                                "giorniSettimana": [
+                                    "venerdi"
+                                ],
+                                "oraInizio": "09:00",
+                                "oraFine": "12:00"
+                            },
+                            {
+                                "giorniSettimana": [
+                                    "martedi"
+                                ],
+                                "oraInizio": "14:30",
+                                "oraFine": "18:30"
+                            },
+                            {
+                                "giorniSettimana": [
+                                    "lunedi"
+                                ],
+                                "oraInizio": "14:00",
+                                "oraFine": "17:00"
+                            },
+                            {
+                                "giorniSettimana": [
+                                    "martedi",
+                                    "mercoledi",
+                                    "giovedi"
+                                ],
+                                "oraInizio": "14:00",
+                                "oraFine": "17:30"
+                            }
+                        ]
+                    },
+                    "fisioterapia": {
+                        "fisioterapiaSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "martedi"
+                                ],
+                                "oraInizio": "08:30",
+                                "oraFine": "13:00"
+                            },
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "martedi",
+                                    "mercoledi",
+                                    "venerdi"
+                                ],
+                                "oraInizio": "14:30",
+                                "oraFine": "18:30"
+                            },
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "giovedi",
+                                    "venerdi"
+                                ],
+                                "oraInizio": "13:30",
+                                "oraFine": "17:00"
+                            },
+                            {
+                                "giorniSettimana": [
+                                    "martedi",
+                                    "sabato"
+                                ],
+                                "oraInizio": "13:30",
+                                "oraFine": "17:30"
+                            }
+                        ]
+                    },
+                    "assistenzaInfermieristica": {
+                        "assistenzaInfermieristicaSpec": {
+                            "reperibilitaNotturna": "NO",
+                            "orariServizio": {
+                                "oraInizio": "06:00",
+                                "oraFine": "22:00",
+                                "oraInizio2": "00:00",
+                                "oraFine2": "00:00"
+                            }
+                        }
+                    },
+                    "mediciSpecialisti": {
+                        "subTitle": "",
+                        "dettaglioSpecialisti": [
+                            {
+                                "medicoSpecialista": "geriatra",
+                                "erogazioneServizio": {
+                                    "scelta": "Su richiesta",
+                                    "onRequest": "true"
+                                },
+                                "inclusoQuota": "SI"
+                            },
+                            {
+                                "medicoSpecialista": "dentista",
+                                "erogazioneServizio": {
+                                    "scelta": "Su richiesta",
+                                    "onRequest": "true"
+                                },
+                                "inclusoQuota": "SI"
+                            },
+                            {
+                                "medicoSpecialista": "palliativista",
+                                "erogazioneServizio": {
+                                    "scelta": "Su richiesta",
+                                    "onRequest": "true"
+                                },
+                                "inclusoQuota": "SI"
+                            },
+                            {
+                                "medicoSpecialista": "psichiatra",
+                                "erogazioneServizio": {
+                                    "scelta": "Su richiesta",
+                                    "onRequest": "true"
+                                },
+                                "inclusoQuota": "SI"
+                            }
+                        ]
+                    },
+                    "psicologo": {
+                        "nonPrevisto": false,
+                        "erogazioneServizio": {
+                            "scelta": "Su richiesta",
+                            "onRequest": "true"
+                        },
+                        "inclusoQuota": "SI"
+                    },
+                    "podologo": {
+                        "erogazioneServizio": "N volte al mese",
+                        "numeroVolte": 1,
+                        "prestazioniIncluseMese": 1
+                    }
+                },
+                "serviziAlberghieri": {
+                    "cucina": {
+                        "tipoCucina": "Interna"
+                    },
+                    "lavanderia": {
+                        "indumenti_personali": "SI"
+                    },
+                    "parrucchiere": {
+                        "erogazioneServizio": "N volte a settimana",
+                        "numeroVolte": 1,
+                        "prestazioniIncluseMese": 2
+                    },
+                    "estetista": {
+                        "nonPrevisto": false,
+                        "erogazioneServizio": {
+                            "numeroSettimana": 2
+                        },
+                        "inclusoQuota": "SI"
+                    },
+                    "assistenzaReligiosa": {
+                        "nonPrevisto": false,
+                        "aperturaTipiCulto": "SI",
+                        "assistenzaReligiosaSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "giovedi",
+                                    "sabato"
+                                ],
+                                "ora": "17:30"
+                            }
+                        ]
+                    }
+                },
+                "altriServizi": {
+                    "elencoServizi": {
+                        "Appartamenti protetti": false,
+                        "Assistenza Domiciliare": false,
+                        "Assistenza residenziale per rifugiati/profughi": false,
+                        "Attivita' fisica adattata": true,
+                        "Casa della salute": false,
+                        "Centro di socializzazione per autosufficienti": false,
+                        "Centro diurno Alzheimer": false,
+                        "Centro diurno per autosufficienti": false,
+                        "Centro diurno per non autosufficienti": false,
+                        "Lavanderia per assistiti a domicilio": false,
+                        "Organizzazione del trasporto e accompagnamento degli assistiti deambulanti per visite/prestazioni sanitarie, avvisandone i familiari": false,
+                        "Prestazioni di assistenza di base per utenti esterni (bagno assistito)": false,
+                        "Residenza per Autosufficienti": false,
+                        "Residenza sociale per disabili (RSD)": false,
+                        "Ristorazione a domicilio": false,
+                        "Ristorazione per utenti esterni": false,
+                        "Segretariato sociale": true,
+                        "Servizio Continuita' Assistenziale (Ex Guardia Medica)": false,
+                        "Trasporto per adulti disabili": false
+                    },
+                    "serviziAmministrativi": {
+                        "serviziAmministrativiSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "martedi",
+                                    "mercoledi",
+                                    "giovedi",
+                                    "venerdi"
+                                ],
+                                "oraInizio": "08:00",
+                                "oraFine": "13:00"
+                            },
+                            {
+                                "giorniSettimana": [
+                                    "martedi",
+                                    "giovedi"
+                                ],
+                                "oraInizio": "14:00",
+                                "oraFine": "18:00"
+                            },
+                            {
+                                "giorniSettimana": [
+                                    "mercoledi"
+                                ],
+                                "oraInizio": "14:00",
+                                "oraFine": "17:00"
+                            }
+                        ]
+                    },
+                    "direzione": {
+                        "direzioneSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "martedi",
+                                    "mercoledi",
+                                    "giovedi",
+                                    "venerdi"
+                                ],
+                                "oraInizio": "08:00",
+                                "oraFine": "13:00"
+                            },
+                            {
+                                "giorniSettimana": [
+                                    "martedi",
+                                    "giovedi"
+                                ],
+                                "oraInizio": "14:00",
+                                "oraFine": "18:00"
+                            },
+                            {
+                                "giorniSettimana": [
+                                    "mercoledi"
+                                ],
+                                "oraInizio": "14:00",
+                                "oraFine": "17:00"
+                            }
+                        ]
+                    },
+                    "orarioVisite": {
+                        "orarioVisiteSpec": {
+                            "orariServizio": {
+                                "oraInizio": "10:00",
+                                "oraFine": "19:00",
+                                "oraInizio2": "",
+                                "oraFine2": ""
+                            }
+                        }
+                    }
+                }
+            },
+            "ars": {
+                "nome": "Santa Chiara",
+                "cod_sts24": "321I4I",
+                "attiva": "1",
+                "accordo": "1",
+                "indirizzo": "Borgo Santo Stefano, 153",
+                "cod_comune": "50039",
+                "gestione": "pubblica",
+                "quota": 57,
                 "quotasanitaria": 59.1
             }
         }
