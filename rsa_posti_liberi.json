@@ -1209,7 +1209,7 @@
         "rsa_ico_podologo": "podologo.png",
         "rsa_ico_lavanderia": "lavanderia.png",
         "rsa_ico_postoletto": "",
-        "rsa_posti_liberi": "1",
+        "rsa_posti_liberi": "2",
         "rsa_quota": "59.00",
         "rsa_quotasanitaria": "59.10",
         "rsa_quota_img": "pilu_quota_donalbertogori.png",
@@ -1219,14 +1219,14 @@
         "rsa_mod_veg": "",
         "rsa_attiva": "1",
         "rsa_nome_brochure": "pialu_DonGori.pdf",
-        "rsa_data_aggiornamento": "2026.05.25 16:39:45",
+        "rsa_data_aggiornamento": "2026.06.05 10:21:59",
         "lat": "43.9041599833131997",
         "lon": "10.5612851291980991",
         "gbnord": "4862429",
         "gbest": "1625406",
         "accordo": "1",
         "cod_sts24": "10274I",
-        "posti_liberi_m": "1",
+        "posti_liberi_m": "2",
         "posti_liberi_f": "0",
         "indirizzo_sede": "via del Parco, 5 Marlia",
         "comune_sede": "Capannori",
@@ -1234,17 +1234,17 @@
         "telefono_sede": "0583/307556",
         "email_sede": "rsadongori@capannoriservizi.it",
         "posta_certificata_sede": "capannoriservizisrl@cgn.legalmail.it",
-        "json_data": "eyJpZCI6MjM2LCJzdHJ1dHR1cmEiOnsiYXZ2aXNvRGVjaW1hbGUiOiIiLCJwb3N0aV9tb2R1bG9fYmFzZSI6ODAsInBvc3RpX2xpYmVyaSI6MSwicG9zdGlfbGliZXJpX20iOjEsInBvc3RpX2xpYmVyaV9mIjowLCJjZl9kaXJldHRvcmUiOiJTTlNTTEQ2M1MyN0U3MTVRIiwibm9tZV9kaXJldHRvcmUiOiJTdmFsZG8iLCJjb2dub21lX2RpcmV0dG9yZSI6IlNlbnNpIiwidGVsZWZvbm9fcnNhIjoiMDU4MyAzMDc1NTYiLCJmYXhfcnNhIjoiIiwiZW1haWwiOiJkaXJlemlvbmVyc2FAY2FwYW5ub3Jpc2Vydml6aS5pdCIsInNpdG9faW50ZXJuZXQiOiJ3d3cuY2FwYW5ub3Jpc2Vydml6aS5pdCIsInRhcmlmZmFfcHJpdmF0YV9yYW5nZWQiOnsibWluaW1hIjoxMjUsIm1hc3NpbWEiOjEyNX0sIm1vZHVsbyI6WyJNb2R1bG8gYmFzZSJdLCJpbmRpcml6em9fc2VkZSI6InZpYSBkZWwgUGFyY28sIDUgTWFybGlhIiwiY29kX2NvbXVuZV9zZWRlIjoiMDQ2MDA3IiwidGVsX3NlZGUiOiIwNTgzLzMwNzU1NiIsImZheF9zZWRlIjoiIiwiZW1haWxfc2VkZSI6InJzYWRvbmdvcmlAY2FwYW5ub3Jpc2Vydml6aS5pdCIsInBvc3RhX2NlcnRpZmljYXRhX3NlZGUiOiJjYXBhbm5vcmlzZXJ2aXppc3JsQGNnbi5sZWdhbG1haWwuaXQiLCJyZXNpZGVuemEiOnsibnVtZXJvUGlhbmkiOjI0LCJkZXR0YWdsaW9DYW1lcmUiOlt7Im51bWVyb0NhbWVyZSI6NCwibnVtZXJvTGV0dGkiOjMsInNlcnZpemlQcmVzZW50aSI6WyJiYWdubyBkZWRpY2F0byIsInR2Iiwid2lmaSIsImltcGlhbnRvIGNvbmRpemlvbmFtZW50byJdfSx7Im51bWVyb0NhbWVyZSI6NCwibnVtZXJvTGV0dGkiOjMsInNlcnZpemlQcmVzZW50aSI6WyJiYWdubyBjb25kaXZpc28iLCJ0diIsIndpZmkiLCJpbXBpYW50byBjb25kaXppb25hbWVudG8iLCJiYWxjb25lIl19LHsibnVtZXJvQ2FtZXJlIjoxMCwibnVtZXJvTGV0dGkiOjMsInNlcnZpemlQcmVzZW50aSI6WyJiYWdubyBjb25kaXZpc28iLCJ0diIsIndpZmkiLCJpbXBpYW50byBjb25kaXppb25hbWVudG8iXX0seyJudW1lcm9DYW1lcmUiOjEsIm51bWVyb0xldHRpIjoyLCJzZXJ2aXppUHJlc2VudGkiOlsiYmFnbm8gZGVkaWNhdG8iLCJ0diIsIndpZmkiLCJpbXBpYW50byBjb25kaXppb25hbWVudG8iXX0seyJudW1lcm9DYW1lcmUiOjcsIm51bWVyb0xldHRpIjoyLCJzZXJ2aXppUHJlc2VudGkiOlsiYmFnbm8gY29uZGl2aXNvIiwidHYiLCJ3aWZpIiwiaW1waWFudG8gY29uZGl6aW9uYW1lbnRvIiwiYmFsY29uZSJdfSx7Im51bWVyb0NhbWVyZSI6NCwibnVtZXJvTGV0dGkiOjIsInNlcnZpemlQcmVzZW50aSI6WyJiYWdubyBjb25kaXZpc28iLCJ0diIsIndpZmkiLCJpbXBpYW50byBjb25kaXppb25hbWVudG8iXX0seyJudW1lcm9DYW1lcmUiOjIsIm51bWVyb0xldHRpIjoxLCJzZXJ2aXppUHJlc2VudGkiOlsiYmFnbm8gY29uZGl2aXNvIiwidHYiLCJ3aWZpIiwiaW1waWFudG8gY29uZGl6aW9uYW1lbnRvIl19XX0sInB1bnRpRGlJbnRlcmVzc2UiOlsiZGlzdHJldHRvIHNhbml0YXJpbyIsImF1dG9idXMiLCJjaGllc2EiLCJiaWJsaW90ZWNhIiwiYXNzb2NpYXppb25pIGRpIHZvbG9udGFyaWF0byJdLCJzcGF6aW9Fc3Rlcm5vIjoiU0kiLCJzZXJ2aXppU29jaW9TYW5pdGFyaSI6eyJhbmltYXppb25lU29jaW9FZHVjYXRpdmEiOnsiYW5pbWF6aW9uZVNvY2lvRWR1Y2F0aXZhU3BlYyI6W3siZ2lvcm5pU2V0dGltYW5hIjpbImx1bmVkaSIsIm1hcnRlZGkiLCJtZXJjb2xlZGkiLCJnaW92ZWRpIiwidmVuZXJkaSJdLCJvcmFJbml6aW8iOiIwOTozMCIsIm9yYUZpbmUiOiIxMzozMCJ9LHsiZ2lvcm5pU2V0dGltYW5hIjpbImx1bmVkaSIsIm1hcnRlZGkiLCJtZXJjb2xlZGkiLCJnaW92ZWRpIiwidmVuZXJkaSJdLCJvcmFJbml6aW8iOiIxNDowMCIsIm9yYUZpbmUiOiIxOTowMCJ9LHsiZ2lvcm5pU2V0dGltYW5hIjpbInNhYmF0byJdLCJvcmFJbml6aW8iOiIwOTozMCIsIm9yYUZpbmUiOiIxMzowMCJ9LHsiZ2lvcm5pU2V0dGltYW5hIjpbImRvbWVuaWNhIl0sIm9yYUluaXppbyI6IjE0OjAwIiwib3JhRmluZSI6IjE5OjAwIn1dfSwiZmlzaW90ZXJhcGlhIjp7ImZpc2lvdGVyYXBpYVNwZWMiOlt7Imdpb3JuaVNldHRpbWFuYSI6WyJsdW5lZGkiXSwib3JhSW5pemlvIjoiMDg6MDAiLCJvcmFGaW5lIjoiMTY6MDAifSx7Imdpb3JuaVNldHRpbWFuYSI6WyJtYXJ0ZWRpIiwibWVyY29sZWRpIiwiZ2lvdmVkaSIsInZlbmVyZGkiXSwib3JhSW5pemlvIjoiMDg6MDAiLCJvcmFGaW5lIjoiMTQ6MDAifSx7Imdpb3JuaVNldHRpbWFuYSI6WyJzYWJhdG8iXSwib3JhSW5pemlvIjoiMDg6MDAiLCJvcmFGaW5lIjoiMTI6MDAifV19LCJhc3Npc3RlbnphSW5mZXJtaWVyaXN0aWNhIjp7ImFzc2lzdGVuemFJbmZlcm1pZXJpc3RpY2FTcGVjIjp7InJlcGVyaWJpbGl0YU5vdHR1cm5hIjoiTk8iLCJvcmFyaVNlcnZpemlvIjp7Im9yYUluaXppbyI6IjA3OjAwIiwib3JhRmluZSI6IjIxOjAwIiwib3JhSW5pemlvMiI6IiIsIm9yYUZpbmUyIjoiIn19fSwibWVkaWNpU3BlY2lhbGlzdGkiOnsic3ViVGl0bGUiOiIiLCJkZXR0YWdsaW9TcGVjaWFsaXN0aSI6W3sibWVkaWNvU3BlY2lhbGlzdGEiOiJnZXJpYXRyYSIsImVyb2dhemlvbmVTZXJ2aXppbyI6eyJudW1lcm9TZXR0aW1hbmEiOjF9LCJpbmNsdXNvUXVvdGEiOiJTSSJ9XX0sInBzaWNvbG9nbyI6eyJub25QcmV2aXN0byI6ZmFsc2UsImVyb2dhemlvbmVTZXJ2aXppbyI6eyJzY2VsdGEiOiJTdSByaWNoaWVzdGEiLCJvblJlcXVlc3QiOiJ0cnVlIn0sImluY2x1c29RdW90YSI6IlNJIn0sInBvZG9sb2dvIjp7ImVyb2dhemlvbmVTZXJ2aXppbyI6IlN1IHJpY2hpZXN0YSIsIm51bWVyb1ZvbHRlIjoxLCJwcmVzdGF6aW9uaUluY2x1c2VNZXNlIjoxfX0sInNlcnZpemlBbGJlcmdoaWVyaSI6eyJjdWNpbmEiOnsidGlwb0N1Y2luYSI6IkVzdGVybmEifSwibGF2YW5kZXJpYSI6eyJpbmR1bWVudGlfcGVyc29uYWxpIjoiU0kifSwicGFycnVjY2hpZXJlIjp7ImVyb2dhemlvbmVTZXJ2aXppbyI6Ik4gdm9sdGUgYSBzZXR0aW1hbmEiLCJudW1lcm9Wb2x0ZSI6MSwicHJlc3RhemlvbmlJbmNsdXNlTWVzZSI6MX0sImVzdGV0aXN0YSI6eyJub25QcmV2aXN0byI6ZmFsc2UsImVyb2dhemlvbmVTZXJ2aXppbyI6eyJzY2VsdGEiOiJTdSByaWNoaWVzdGEiLCJvblJlcXVlc3QiOiJ0cnVlIn0sImluY2x1c29RdW90YSI6IlNJIn0sImFzc2lzdGVuemFSZWxpZ2lvc2EiOnsibm9uUHJldmlzdG8iOmZhbHNlLCJhcGVydHVyYVRpcGlDdWx0byI6IlNJIiwiYXNzaXN0ZW56YVJlbGlnaW9zYVNwZWMiOlt7Imdpb3JuaVNldHRpbWFuYSI6WyJkb21lbmljYSJdLCJvcmEiOiIxMDoxNSJ9XX19LCJhbHRyaVNlcnZpemkiOnsiZWxlbmNvU2Vydml6aSI6eyJBcHBhcnRhbWVudGkgcHJvdGV0dGkiOmZhbHNlLCJBc3Npc3RlbnphIERvbWljaWxpYXJlIjpmYWxzZSwiQXNzaXN0ZW56YSByZXNpZGVuemlhbGUgcGVyIHJpZnVnaWF0aS9wcm9mdWdoaSI6ZmFsc2UsIkF0dGl2aXRhJyBmaXNpY2EgYWRhdHRhdGEiOnRydWUsIkNhc2EgZGVsbGEgc2FsdXRlIjp0cnVlLCJDZW50cm8gZGkgc29jaWFsaXp6YXppb25lIHBlciBhdXRvc3VmZmljaWVudGkiOmZhbHNlLCJDZW50cm8gZGl1cm5vIEFsemhlaW1lciI6ZmFsc2UsIkNlbnRybyBkaXVybm8gcGVyIGF1dG9zdWZmaWNpZW50aSI6dHJ1ZSwiQ2VudHJvIGRpdXJubyBwZXIgbm9uIGF1dG9zdWZmaWNpZW50aSI6dHJ1ZSwiTGF2YW5kZXJpYSBwZXIgYXNzaXN0aXRpIGEgZG9taWNpbGlvIjpmYWxzZSwiT3JnYW5penphemlvbmUgZGVsIHRyYXNwb3J0byBlIGFjY29tcGFnbmFtZW50byBkZWdsaSBhc3Npc3RpdGkgZGVhbWJ1bGFudGkgcGVyIHZpc2l0ZS9wcmVzdGF6aW9uaSBzYW5pdGFyaWUsIGF2dmlzYW5kb25lIGkgZmFtaWxpYXJpIjp0cnVlLCJQcmVzdGF6aW9uaSBkaSBhc3Npc3RlbnphIGRpIGJhc2UgcGVyIHV0ZW50aSBlc3Rlcm5pIChiYWdubyBhc3Npc3RpdG8pIjp0cnVlLCJSZXNpZGVuemEgcGVyIEF1dG9zdWZmaWNpZW50aSI6ZmFsc2UsIlJlc2lkZW56YSBzb2NpYWxlIHBlciBkaXNhYmlsaSAoUlNEKSI6ZmFsc2UsIlJpc3RvcmF6aW9uZSBhIGRvbWljaWxpbyI6ZmFsc2UsIlJpc3RvcmF6aW9uZSBwZXIgdXRlbnRpIGVzdGVybmkiOmZhbHNlLCJTZWdyZXRhcmlhdG8gc29jaWFsZSI6dHJ1ZSwiU2Vydml6aW8gQ29udGludWl0YScgQXNzaXN0ZW56aWFsZSAoRXggR3VhcmRpYSBNZWRpY2EpIjpmYWxzZSwiVHJhc3BvcnRvIHBlciBhZHVsdGkgZGlzYWJpbGkiOmZhbHNlfSwic2Vydml6aUFtbWluaXN0cmF0aXZpIjp7InNlcnZpemlBbW1pbmlzdHJhdGl2aVNwZWMiOlt7Imdpb3JuaVNldHRpbWFuYSI6WyJsdW5lZGkiLCJtYXJ0ZWRpIiwibWVyY29sZWRpIiwiZ2lvdmVkaSIsInZlbmVyZGkiXSwib3JhSW5pemlvIjoiMDg6MDAiLCJvcmFGaW5lIjoiMTQ6MDAifV19LCJkaXJlemlvbmUiOnsiZGlyZXppb25lU3BlYyI6W3siZ2lvcm5pU2V0dGltYW5hIjpbImx1bmVkaSIsIm1hcnRlZGkiLCJtZXJjb2xlZGkiLCJnaW92ZWRpIiwidmVuZXJkaSJdLCJvcmFJbml6aW8iOiIwOTowMCIsIm9yYUZpbmUiOiIxNDowMCJ9XX0sIm9yYXJpb1Zpc2l0ZSI6eyJvcmFyaW9WaXNpdGVTcGVjIjp7Im9yYXJpU2Vydml6aW8iOnsib3JhSW5pemlvIjoiMDk6MDAiLCJvcmFGaW5lIjoiMTk6MDAiLCJvcmFJbml6aW8yIjoiIiwib3JhRmluZTIiOiIifX19fX0sImFycyI6eyJub21lIjoiRG9uIEFsYmVydG8gR29yaSIsImNvZF9zdHMyNCI6IjEwMjc0SSIsImF0dGl2YSI6IjEiLCJhY2NvcmRvIjoiMSIsImluZGlyaXp6byI6IlZpYSBkZWwgUGFyY28sIDUgLSBNYXJsaWEiLCJjb2RfY29tdW5lIjoiNDYwMDciLCJnZXN0aW9uZSI6InB1YmJsaWNhIiwicXVvdGEiOjU5LCJxdW90YXNhbml0YXJpYSI6NTkuMX19",
-        "posti_liberi_int": 1,
-        "posti_liberi_m_int": 1,
+        "json_data": "eyJpZCI6MjM2LCJzdHJ1dHR1cmEiOnsiYXZ2aXNvRGVjaW1hbGUiOiIiLCJwb3N0aV9tb2R1bG9fYmFzZSI6ODAsInBvc3RpX2xpYmVyaSI6MiwicG9zdGlfbGliZXJpX20iOjIsInBvc3RpX2xpYmVyaV9mIjowLCJjZl9kaXJldHRvcmUiOiJTTlNTTEQ2M1MyN0U3MTVRIiwibm9tZV9kaXJldHRvcmUiOiJTdmFsZG8iLCJjb2dub21lX2RpcmV0dG9yZSI6IlNlbnNpIiwidGVsZWZvbm9fcnNhIjoiMDU4MyAzMDc1NTYiLCJmYXhfcnNhIjoiIiwiZW1haWwiOiJkaXJlemlvbmVyc2FAY2FwYW5ub3Jpc2Vydml6aS5pdCIsInNpdG9faW50ZXJuZXQiOiJ3d3cuY2FwYW5ub3Jpc2Vydml6aS5pdCIsInRhcmlmZmFfcHJpdmF0YV9yYW5nZWQiOnsibWluaW1hIjoxMjUsIm1hc3NpbWEiOjEyNX0sIm1vZHVsbyI6WyJNb2R1bG8gYmFzZSJdLCJpbmRpcml6em9fc2VkZSI6InZpYSBkZWwgUGFyY28sIDUgTWFybGlhIiwiY29kX2NvbXVuZV9zZWRlIjoiMDQ2MDA3IiwidGVsX3NlZGUiOiIwNTgzLzMwNzU1NiIsImZheF9zZWRlIjoiIiwiZW1haWxfc2VkZSI6InJzYWRvbmdvcmlAY2FwYW5ub3Jpc2Vydml6aS5pdCIsInBvc3RhX2NlcnRpZmljYXRhX3NlZGUiOiJjYXBhbm5vcmlzZXJ2aXppc3JsQGNnbi5sZWdhbG1haWwuaXQiLCJyZXNpZGVuemEiOnsibnVtZXJvUGlhbmkiOjI0LCJkZXR0YWdsaW9DYW1lcmUiOlt7Im51bWVyb0NhbWVyZSI6NCwibnVtZXJvTGV0dGkiOjMsInNlcnZpemlQcmVzZW50aSI6WyJiYWdubyBkZWRpY2F0byIsInR2Iiwid2lmaSIsImltcGlhbnRvIGNvbmRpemlvbmFtZW50byJdfSx7Im51bWVyb0NhbWVyZSI6NCwibnVtZXJvTGV0dGkiOjMsInNlcnZpemlQcmVzZW50aSI6WyJiYWdubyBjb25kaXZpc28iLCJ0diIsIndpZmkiLCJpbXBpYW50byBjb25kaXppb25hbWVudG8iLCJiYWxjb25lIl19LHsibnVtZXJvQ2FtZXJlIjoxMCwibnVtZXJvTGV0dGkiOjMsInNlcnZpemlQcmVzZW50aSI6WyJiYWdubyBjb25kaXZpc28iLCJ0diIsIndpZmkiLCJpbXBpYW50byBjb25kaXppb25hbWVudG8iXX0seyJudW1lcm9DYW1lcmUiOjEsIm51bWVyb0xldHRpIjoyLCJzZXJ2aXppUHJlc2VudGkiOlsiYmFnbm8gZGVkaWNhdG8iLCJ0diIsIndpZmkiLCJpbXBpYW50byBjb25kaXppb25hbWVudG8iXX0seyJudW1lcm9DYW1lcmUiOjcsIm51bWVyb0xldHRpIjoyLCJzZXJ2aXppUHJlc2VudGkiOlsiYmFnbm8gY29uZGl2aXNvIiwidHYiLCJ3aWZpIiwiaW1waWFudG8gY29uZGl6aW9uYW1lbnRvIiwiYmFsY29uZSJdfSx7Im51bWVyb0NhbWVyZSI6NCwibnVtZXJvTGV0dGkiOjIsInNlcnZpemlQcmVzZW50aSI6WyJiYWdubyBjb25kaXZpc28iLCJ0diIsIndpZmkiLCJpbXBpYW50byBjb25kaXppb25hbWVudG8iXX0seyJudW1lcm9DYW1lcmUiOjIsIm51bWVyb0xldHRpIjoxLCJzZXJ2aXppUHJlc2VudGkiOlsiYmFnbm8gY29uZGl2aXNvIiwidHYiLCJ3aWZpIiwiaW1waWFudG8gY29uZGl6aW9uYW1lbnRvIl19XX0sInB1bnRpRGlJbnRlcmVzc2UiOlsiZGlzdHJldHRvIHNhbml0YXJpbyIsImF1dG9idXMiLCJjaGllc2EiLCJiaWJsaW90ZWNhIiwiYXNzb2NpYXppb25pIGRpIHZvbG9udGFyaWF0byJdLCJzcGF6aW9Fc3Rlcm5vIjoiU0kiLCJzZXJ2aXppU29jaW9TYW5pdGFyaSI6eyJhbmltYXppb25lU29jaW9FZHVjYXRpdmEiOnsiYW5pbWF6aW9uZVNvY2lvRWR1Y2F0aXZhU3BlYyI6W3siZ2lvcm5pU2V0dGltYW5hIjpbImx1bmVkaSIsIm1hcnRlZGkiLCJtZXJjb2xlZGkiLCJnaW92ZWRpIiwidmVuZXJkaSJdLCJvcmFJbml6aW8iOiIwOTozMCIsIm9yYUZpbmUiOiIxMzozMCJ9LHsiZ2lvcm5pU2V0dGltYW5hIjpbImx1bmVkaSIsIm1hcnRlZGkiLCJtZXJjb2xlZGkiLCJnaW92ZWRpIiwidmVuZXJkaSJdLCJvcmFJbml6aW8iOiIxNDowMCIsIm9yYUZpbmUiOiIxOTowMCJ9LHsiZ2lvcm5pU2V0dGltYW5hIjpbInNhYmF0byJdLCJvcmFJbml6aW8iOiIwOTozMCIsIm9yYUZpbmUiOiIxMzowMCJ9LHsiZ2lvcm5pU2V0dGltYW5hIjpbImRvbWVuaWNhIl0sIm9yYUluaXppbyI6IjE0OjAwIiwib3JhRmluZSI6IjE5OjAwIn1dfSwiZmlzaW90ZXJhcGlhIjp7ImZpc2lvdGVyYXBpYVNwZWMiOlt7Imdpb3JuaVNldHRpbWFuYSI6WyJsdW5lZGkiXSwib3JhSW5pemlvIjoiMDg6MDAiLCJvcmFGaW5lIjoiMTY6MDAifSx7Imdpb3JuaVNldHRpbWFuYSI6WyJtYXJ0ZWRpIiwibWVyY29sZWRpIiwiZ2lvdmVkaSIsInZlbmVyZGkiXSwib3JhSW5pemlvIjoiMDg6MDAiLCJvcmFGaW5lIjoiMTQ6MDAifSx7Imdpb3JuaVNldHRpbWFuYSI6WyJzYWJhdG8iXSwib3JhSW5pemlvIjoiMDg6MDAiLCJvcmFGaW5lIjoiMTI6MDAifV19LCJhc3Npc3RlbnphSW5mZXJtaWVyaXN0aWNhIjp7ImFzc2lzdGVuemFJbmZlcm1pZXJpc3RpY2FTcGVjIjp7InJlcGVyaWJpbGl0YU5vdHR1cm5hIjoiTk8iLCJvcmFyaVNlcnZpemlvIjp7Im9yYUluaXppbyI6IjA3OjAwIiwib3JhRmluZSI6IjIxOjAwIiwib3JhSW5pemlvMiI6IiIsIm9yYUZpbmUyIjoiIn19fSwibWVkaWNpU3BlY2lhbGlzdGkiOnsic3ViVGl0bGUiOiIiLCJkZXR0YWdsaW9TcGVjaWFsaXN0aSI6W3sibWVkaWNvU3BlY2lhbGlzdGEiOiJnZXJpYXRyYSIsImVyb2dhemlvbmVTZXJ2aXppbyI6eyJudW1lcm9TZXR0aW1hbmEiOjF9LCJpbmNsdXNvUXVvdGEiOiJTSSJ9XX0sInBzaWNvbG9nbyI6eyJub25QcmV2aXN0byI6ZmFsc2UsImVyb2dhemlvbmVTZXJ2aXppbyI6eyJzY2VsdGEiOiJTdSByaWNoaWVzdGEiLCJvblJlcXVlc3QiOiJ0cnVlIn0sImluY2x1c29RdW90YSI6IlNJIn0sInBvZG9sb2dvIjp7ImVyb2dhemlvbmVTZXJ2aXppbyI6IlN1IHJpY2hpZXN0YSIsIm51bWVyb1ZvbHRlIjoxLCJwcmVzdGF6aW9uaUluY2x1c2VNZXNlIjoxfX0sInNlcnZpemlBbGJlcmdoaWVyaSI6eyJjdWNpbmEiOnsidGlwb0N1Y2luYSI6IkVzdGVybmEifSwibGF2YW5kZXJpYSI6eyJpbmR1bWVudGlfcGVyc29uYWxpIjoiU0kifSwicGFycnVjY2hpZXJlIjp7ImVyb2dhemlvbmVTZXJ2aXppbyI6Ik4gdm9sdGUgYSBzZXR0aW1hbmEiLCJudW1lcm9Wb2x0ZSI6MSwicHJlc3RhemlvbmlJbmNsdXNlTWVzZSI6MX0sImVzdGV0aXN0YSI6eyJub25QcmV2aXN0byI6ZmFsc2UsImVyb2dhemlvbmVTZXJ2aXppbyI6eyJzY2VsdGEiOiJTdSByaWNoaWVzdGEiLCJvblJlcXVlc3QiOiJ0cnVlIn0sImluY2x1c29RdW90YSI6IlNJIn0sImFzc2lzdGVuemFSZWxpZ2lvc2EiOnsibm9uUHJldmlzdG8iOmZhbHNlLCJhcGVydHVyYVRpcGlDdWx0byI6IlNJIiwiYXNzaXN0ZW56YVJlbGlnaW9zYVNwZWMiOlt7Imdpb3JuaVNldHRpbWFuYSI6WyJkb21lbmljYSJdLCJvcmEiOiIxMDoxNSJ9XX19LCJhbHRyaVNlcnZpemkiOnsiZWxlbmNvU2Vydml6aSI6eyJBcHBhcnRhbWVudGkgcHJvdGV0dGkiOmZhbHNlLCJBc3Npc3RlbnphIERvbWljaWxpYXJlIjpmYWxzZSwiQXNzaXN0ZW56YSByZXNpZGVuemlhbGUgcGVyIHJpZnVnaWF0aS9wcm9mdWdoaSI6ZmFsc2UsIkF0dGl2aXRhJyBmaXNpY2EgYWRhdHRhdGEiOnRydWUsIkNhc2EgZGVsbGEgc2FsdXRlIjp0cnVlLCJDZW50cm8gZGkgc29jaWFsaXp6YXppb25lIHBlciBhdXRvc3VmZmljaWVudGkiOmZhbHNlLCJDZW50cm8gZGl1cm5vIEFsemhlaW1lciI6ZmFsc2UsIkNlbnRybyBkaXVybm8gcGVyIGF1dG9zdWZmaWNpZW50aSI6dHJ1ZSwiQ2VudHJvIGRpdXJubyBwZXIgbm9uIGF1dG9zdWZmaWNpZW50aSI6dHJ1ZSwiTGF2YW5kZXJpYSBwZXIgYXNzaXN0aXRpIGEgZG9taWNpbGlvIjpmYWxzZSwiT3JnYW5penphemlvbmUgZGVsIHRyYXNwb3J0byBlIGFjY29tcGFnbmFtZW50byBkZWdsaSBhc3Npc3RpdGkgZGVhbWJ1bGFudGkgcGVyIHZpc2l0ZS9wcmVzdGF6aW9uaSBzYW5pdGFyaWUsIGF2dmlzYW5kb25lIGkgZmFtaWxpYXJpIjp0cnVlLCJQcmVzdGF6aW9uaSBkaSBhc3Npc3RlbnphIGRpIGJhc2UgcGVyIHV0ZW50aSBlc3Rlcm5pIChiYWdubyBhc3Npc3RpdG8pIjp0cnVlLCJSZXNpZGVuemEgcGVyIEF1dG9zdWZmaWNpZW50aSI6ZmFsc2UsIlJlc2lkZW56YSBzb2NpYWxlIHBlciBkaXNhYmlsaSAoUlNEKSI6ZmFsc2UsIlJpc3RvcmF6aW9uZSBhIGRvbWljaWxpbyI6ZmFsc2UsIlJpc3RvcmF6aW9uZSBwZXIgdXRlbnRpIGVzdGVybmkiOmZhbHNlLCJTZWdyZXRhcmlhdG8gc29jaWFsZSI6dHJ1ZSwiU2Vydml6aW8gQ29udGludWl0YScgQXNzaXN0ZW56aWFsZSAoRXggR3VhcmRpYSBNZWRpY2EpIjpmYWxzZSwiVHJhc3BvcnRvIHBlciBhZHVsdGkgZGlzYWJpbGkiOmZhbHNlfSwic2Vydml6aUFtbWluaXN0cmF0aXZpIjp7InNlcnZpemlBbW1pbmlzdHJhdGl2aVNwZWMiOlt7Imdpb3JuaVNldHRpbWFuYSI6WyJsdW5lZGkiLCJtYXJ0ZWRpIiwibWVyY29sZWRpIiwiZ2lvdmVkaSIsInZlbmVyZGkiXSwib3JhSW5pemlvIjoiMDg6MDAiLCJvcmFGaW5lIjoiMTQ6MDAifV19LCJkaXJlemlvbmUiOnsiZGlyZXppb25lU3BlYyI6W3siZ2lvcm5pU2V0dGltYW5hIjpbImx1bmVkaSIsIm1hcnRlZGkiLCJtZXJjb2xlZGkiLCJnaW92ZWRpIiwidmVuZXJkaSJdLCJvcmFJbml6aW8iOiIwOTowMCIsIm9yYUZpbmUiOiIxNDowMCJ9XX0sIm9yYXJpb1Zpc2l0ZSI6eyJvcmFyaW9WaXNpdGVTcGVjIjp7Im9yYXJpU2Vydml6aW8iOnsib3JhSW5pemlvIjoiMDk6MDAiLCJvcmFGaW5lIjoiMTk6MDAiLCJvcmFJbml6aW8yIjoiIiwib3JhRmluZTIiOiIifX19fX0sImFycyI6eyJub21lIjoiRG9uIEFsYmVydG8gR29yaSIsImNvZF9zdHMyNCI6IjEwMjc0SSIsImF0dGl2YSI6IjEiLCJhY2NvcmRvIjoiMSIsImluZGlyaXp6byI6IlZpYSBkZWwgUGFyY28sIDUgLSBNYXJsaWEiLCJjb2RfY29tdW5lIjoiNDYwMDciLCJnZXN0aW9uZSI6InB1YmJsaWNhIiwicXVvdGEiOjU5LCJxdW90YXNhbml0YXJpYSI6NTkuMX19",
+        "posti_liberi_int": 2,
+        "posti_liberi_m_int": 2,
         "posti_liberi_f_int": 0,
         "decoded_details": {
             "id": 236,
             "struttura": {
                 "avvisoDecimale": "",
                 "posti_modulo_base": 80,
-                "posti_liberi": 1,
-                "posti_liberi_m": 1,
+                "posti_liberi": 2,
+                "posti_liberi_m": 2,
                 "posti_liberi_f": 0,
                 "cf_direttore": "SNSSLD63S27E715Q",
                 "nome_direttore": "Svaldo",
@@ -1562,322 +1562,6 @@
                 "indirizzo": "Via del Parco, 5 - Marlia",
                 "cod_comune": "46007",
                 "gestione": "pubblica",
-                "quota": 59,
-                "quotasanitaria": 59.1
-            }
-        }
-    },
-    {
-        "id": "315",
-        "foto0": "pialu_marianetti_struttura.jpg",
-        "foto1": "pialu_marianetti_esterno.jpg",
-        "foto2": "pialu_marianetti_camera.jpg",
-        "foto3": "pialu_marianetti_salapranzo.jpg",
-        "foto4": "pialu_marianetti_sala1.jpg",
-        "foto5": "pialu_marianetti_sala2.jpg",
-        "nome": "Marianetti",
-        "tipo": "",
-        "gestione": "privata",
-        "indirizzo": "Via Sodini, 66 Loc. Massa Macinaia",
-        "cod_comune": "46007",
-        "comune": "Capannori",
-        "zona": "Piana di Lucca",
-        "tel1_zona": "0583 449898",
-        "tel2_zona": "",
-        "tel3_zona": "",
-        "telefono": "0583-449898",
-        "rsa_ico_animazione": "animazione_socio-educativa.png",
-        "rsa_ico_fisioterapia": "fisioterapia.png",
-        "rsa_ico_cucina": "ristorazione_esterna.png",
-        "rsa_ico_giardino": "giardino.png",
-        "rsa_ico_parrucchiere": "parrucchiere.png",
-        "rsa_ico_barbiere": "",
-        "rsa_ico_estetista": "estetista.png",
-        "rsa_ico_relig": "assistenza_religiosa.png",
-        "rsa_ico_geriatra": "consulenza_medico_specialistica_p.png",
-        "rsa_ico_assistenza_infermieristica": "assistenza_infermieristica.png",
-        "rsa_ico_psicologo": "psicologo_p.png",
-        "rsa_ico_podologo": "podologo.png",
-        "rsa_ico_lavanderia": "lavanderia.png",
-        "rsa_ico_postoletto": "",
-        "rsa_posti_liberi": "1",
-        "rsa_quota": "59.00",
-        "rsa_quotasanitaria": "59.10",
-        "rsa_quota_img": "",
-        "rsa_mod_base": "si",
-        "rsa_mod_cogn": "",
-        "rsa_mod_riab": "",
-        "rsa_mod_veg": "",
-        "rsa_attiva": "1",
-        "rsa_nome_brochure": "pialu_marianetti.pdf",
-        "rsa_data_aggiornamento": "2025.12.03 11:35:37",
-        "lat": "43.8033341447633973",
-        "lon": "10.5453997486215005",
-        "gbnord": "4851207",
-        "gbest": "1624340",
-        "accordo": "1",
-        "cod_sts24": "U0034I",
-        "posti_liberi_m": "0",
-        "posti_liberi_f": "1",
-        "indirizzo_sede": "Via Nuova,63 ",
-        "comune_sede": "Lucca",
-        "fax_sede": "0583-48007",
-        "telefono_sede": "0583-48007",
-        "email_sede": "cooplacerchia@interfree.it",
-        "posta_certificata_sede": "cooperativalacerchia@pec-mail.it",
-        "json_data": "eyJpZCI6MzE1LCJzdHJ1dHR1cmEiOnsiYXZ2aXNvRGVjaW1hbGUiOiIiLCJwb3N0aV9tb2R1bG9fYmFzZSI6MTQsInBvc3RpX2xpYmVyaSI6MSwicG9zdGlfbGliZXJpX20iOjAsInBvc3RpX2xpYmVyaV9mIjoxLCJjZl9kaXJldHRvcmUiOiJDTlNMUlQ0NUUxNUU3MTVLIiwibm9tZV9kaXJldHRvcmUiOiJBbGJlcnRvIiwiY29nbm9tZV9kaXJldHRvcmUiOiJDb25zYW5pIiwidGVsZWZvbm9fcnNhIjoiMDU4MyA5MDkzMDUiLCJmYXhfcnNhIjoiMDU4My05MDIzNCIsImVtYWlsIjoibGFjZXJjaGlhQGFsaWNlLml0Iiwic2l0b19pbnRlcm5ldCI6IiIsInRhcmlmZmFfcHJpdmF0YV9yYW5nZWQiOnsibWluaW1hIjoxMTAsIm1hc3NpbWEiOjExMH0sIm1vZHVsbyI6WyJNb2R1bG8gYmFzZSJdLCJpbmRpcml6em9fc2VkZSI6IlZpYSBOdW92YSw2MyAiLCJjb2RfY29tdW5lX3NlZGUiOiIwNDYwMTciLCJ0ZWxfc2VkZSI6IjA1ODMtNDgwMDciLCJmYXhfc2VkZSI6IjA1ODMtNDgwMDciLCJlbWFpbF9zZWRlIjoiY29vcGxhY2VyY2hpYUBpbnRlcmZyZWUuaXQiLCJwb3N0YV9jZXJ0aWZpY2F0YV9zZWRlIjoiY29vcGVyYXRpdmFsYWNlcmNoaWFAcGVjLW1haWwuaXQiLCJyZXNpZGVuemEiOnsibnVtZXJvUGlhbmkiOjAsImRldHRhZ2xpb0NhbWVyZSI6W3sibnVtZXJvQ2FtZXJlIjo3LCJudW1lcm9MZXR0aSI6MTQsInNlcnZpemlQcmVzZW50aSI6WyJiYWdubyBkZWRpY2F0byIsInR2IiwiaW1waWFudG8gY29uZGl6aW9uYW1lbnRvIl19XX0sInB1bnRpRGlJbnRlcmVzc2UiOlsiZGlzdHJldHRvIHNhbml0YXJpbyIsImF1dG9idXMiLCJjaGllc2EiLCJiaWJsaW90ZWNhIiwiYXNzb2NpYXppb25pIGRpIHZvbG9udGFyaWF0byJdLCJzcGF6aW9Fc3Rlcm5vIjoiU0kiLCJzZXJ2aXppU29jaW9TYW5pdGFyaSI6eyJhbmltYXppb25lU29jaW9FZHVjYXRpdmEiOnsiYW5pbWF6aW9uZVNvY2lvRWR1Y2F0aXZhU3BlYyI6W3siZ2lvcm5pU2V0dGltYW5hIjpbImx1bmVkaSIsIm1lcmNvbGVkaSIsInNhYmF0byJdLCJvcmFJbml6aW8iOiIxMDowMCIsIm9yYUZpbmUiOiIxMjowMCJ9LHsiZ2lvcm5pU2V0dGltYW5hIjpbInZlbmVyZGkiXSwib3JhSW5pemlvIjoiMTU6MzAiLCJvcmFGaW5lIjoiMTg6MzAifSx7Imdpb3JuaVNldHRpbWFuYSI6WyJzYWJhdG8iXSwib3JhSW5pemlvIjoiMDk6MzAiLCJvcmFGaW5lIjoiMTI6MzAifV19LCJmaXNpb3RlcmFwaWEiOnsiZmlzaW90ZXJhcGlhU3BlYyI6W3siZ2lvcm5pU2V0dGltYW5hIjpbImx1bmVkaSIsIm1lcmNvbGVkaSJdLCJvcmFJbml6aW8iOiIxNTowMCIsIm9yYUZpbmUiOiIxODowMCJ9LHsiZ2lvcm5pU2V0dGltYW5hIjpbIm1hcnRlZGkiXSwib3JhSW5pemlvIjoiMDk6MDAiLCJvcmFGaW5lIjoiMTI6MDAifV19LCJhc3Npc3RlbnphSW5mZXJtaWVyaXN0aWNhIjp7ImFzc2lzdGVuemFJbmZlcm1pZXJpc3RpY2FTcGVjIjp7InJlcGVyaWJpbGl0YU5vdHR1cm5hIjoiU0kiLCJvcmFyaVNlcnZpemlvIjp7Im9yYUluaXppbyI6IjA4OjAwIiwib3JhRmluZSI6IjE0OjAwIiwib3JhSW5pemlvMiI6IjE3OjAwIiwib3JhRmluZTIiOiIyMTowMCJ9fX0sIm1lZGljaVNwZWNpYWxpc3RpIjp7InN1YlRpdGxlIjoiIiwiZGV0dGFnbGlvU3BlY2lhbGlzdGkiOlt7Im1lZGljb1NwZWNpYWxpc3RhIjoibmV1cm9sb2dvIiwiZXJvZ2F6aW9uZVNlcnZpemlvIjp7InNjZWx0YSI6IlN1IHJpY2hpZXN0YSIsIm9uUmVxdWVzdCI6InRydWUifSwiaW5jbHVzb1F1b3RhIjoiTk8ifSx7Im1lZGljb1NwZWNpYWxpc3RhIjoiZ2VyaWF0cmEiLCJlcm9nYXppb25lU2Vydml6aW8iOnsic2NlbHRhIjoiU3UgcmljaGllc3RhIiwib25SZXF1ZXN0IjoidHJ1ZSJ9LCJpbmNsdXNvUXVvdGEiOiJOTyJ9LHsibWVkaWNvU3BlY2lhbGlzdGEiOiJmaXNpYXRyYSIsImVyb2dhemlvbmVTZXJ2aXppbyI6eyJzY2VsdGEiOiJTdSByaWNoaWVzdGEiLCJvblJlcXVlc3QiOiJ0cnVlIn0sImluY2x1c29RdW90YSI6Ik5PIn0seyJtZWRpY29TcGVjaWFsaXN0YSI6ImRlbnRpc3RhIiwiZXJvZ2F6aW9uZVNlcnZpemlvIjp7InNjZWx0YSI6IlN1IHJpY2hpZXN0YSIsIm9uUmVxdWVzdCI6InRydWUifSwiaW5jbHVzb1F1b3RhIjoiTk8ifV19LCJwc2ljb2xvZ28iOnsibm9uUHJldmlzdG8iOmZhbHNlLCJlcm9nYXppb25lU2Vydml6aW8iOnsic2NlbHRhIjoiU3UgcmljaGllc3RhIiwib25SZXF1ZXN0IjoidHJ1ZSJ9LCJpbmNsdXNvUXVvdGEiOiJOTyJ9LCJwb2RvbG9nbyI6eyJlcm9nYXppb25lU2Vydml6aW8iOiJOIHZvbHRlIGFsIG1lc2UiLCJudW1lcm9Wb2x0ZSI6MSwicHJlc3RhemlvbmlJbmNsdXNlTWVzZSI6MX19LCJzZXJ2aXppQWxiZXJnaGllcmkiOnsiY3VjaW5hIjp7InRpcG9DdWNpbmEiOiJFc3Rlcm5hIn0sImxhdmFuZGVyaWEiOnsiaW5kdW1lbnRpX3BlcnNvbmFsaSI6IlNJIn0sInBhcnJ1Y2NoaWVyZSI6eyJlcm9nYXppb25lU2Vydml6aW8iOiJOIHZvbHRlIGEgc2V0dGltYW5hIiwibnVtZXJvVm9sdGUiOjEsInByZXN0YXppb25pSW5jbHVzZU1lc2UiOjR9LCJlc3RldGlzdGEiOnsibm9uUHJldmlzdG8iOmZhbHNlLCJlcm9nYXppb25lU2Vydml6aW8iOnsibnVtZXJvTWVzZSI6MX0sImluY2x1c29RdW90YSI6IlNJIn0sImFzc2lzdGVuemFSZWxpZ2lvc2EiOnsibm9uUHJldmlzdG8iOmZhbHNlLCJhcGVydHVyYVRpcGlDdWx0byI6IlNJIiwiYXNzaXN0ZW56YVJlbGlnaW9zYVNwZWMiOlt7Imdpb3JuaVNldHRpbWFuYSI6WyJtYXJ0ZWRpIl0sIm9yYSI6IjEwOjMwIn1dfX0sImFsdHJpU2Vydml6aSI6eyJlbGVuY29TZXJ2aXppIjp7IkFwcGFydGFtZW50aSBwcm90ZXR0aSI6ZmFsc2UsIkFzc2lzdGVuemEgRG9taWNpbGlhcmUiOmZhbHNlLCJBc3Npc3RlbnphIHJlc2lkZW56aWFsZSBwZXIgcmlmdWdpYXRpL3Byb2Z1Z2hpIjpmYWxzZSwiQXR0aXZpdGEnIGZpc2ljYSBhZGF0dGF0YSI6ZmFsc2UsIkNhc2EgZGVsbGEgc2FsdXRlIjpmYWxzZSwiQ2VudHJvIGRpIHNvY2lhbGl6emF6aW9uZSBwZXIgYXV0b3N1ZmZpY2llbnRpIjpmYWxzZSwiQ2VudHJvIGRpdXJubyBBbHpoZWltZXIiOmZhbHNlLCJDZW50cm8gZGl1cm5vIHBlciBhdXRvc3VmZmljaWVudGkiOnRydWUsIkNlbnRybyBkaXVybm8gcGVyIG5vbiBhdXRvc3VmZmljaWVudGkiOnRydWUsIkxhdmFuZGVyaWEgcGVyIGFzc2lzdGl0aSBhIGRvbWljaWxpbyI6ZmFsc2UsIk9yZ2FuaXp6YXppb25lIGRlbCB0cmFzcG9ydG8gZSBhY2NvbXBhZ25hbWVudG8gZGVnbGkgYXNzaXN0aXRpIGRlYW1idWxhbnRpIHBlciB2aXNpdGUvcHJlc3Rhemlvbmkgc2FuaXRhcmllLCBhdnZpc2FuZG9uZSBpIGZhbWlsaWFyaSI6ZmFsc2UsIlByZXN0YXppb25pIGRpIGFzc2lzdGVuemEgZGkgYmFzZSBwZXIgdXRlbnRpIGVzdGVybmkgKGJhZ25vIGFzc2lzdGl0bykiOnRydWUsIlJlc2lkZW56YSBwZXIgQXV0b3N1ZmZpY2llbnRpIjpmYWxzZSwiUmVzaWRlbnphIHNvY2lhbGUgcGVyIGRpc2FiaWxpIChSU0QpIjpmYWxzZSwiUmlzdG9yYXppb25lIGEgZG9taWNpbGlvIjpmYWxzZSwiUmlzdG9yYXppb25lIHBlciB1dGVudGkgZXN0ZXJuaSI6ZmFsc2UsIlNlZ3JldGFyaWF0byBzb2NpYWxlIjpmYWxzZSwiU2Vydml6aW8gQ29udGludWl0YScgQXNzaXN0ZW56aWFsZSAoRXggR3VhcmRpYSBNZWRpY2EpIjpmYWxzZSwiVHJhc3BvcnRvIHBlciBhZHVsdGkgZGlzYWJpbGkiOmZhbHNlfSwic2Vydml6aUFtbWluaXN0cmF0aXZpIjp7InNlcnZpemlBbW1pbmlzdHJhdGl2aVNwZWMiOnsib3JhSW5pemlvIjoiMTA6MDAiLCJvcmFGaW5lIjoiMTI6MDAiLCJvcmFJbml6aW8yIjoiIiwib3JhRmluZTIiOiIifX0sImRpcmV6aW9uZSI6eyJkaXJlemlvbmVTcGVjIjp7Im9yYUluaXppbyI6IjA4OjMwIiwib3JhRmluZSI6IjEzOjAwIiwib3JhSW5pemlvMiI6IjE0OjAwIiwib3JhRmluZTIiOiIxNzowMCJ9fSwib3JhcmlvVmlzaXRlIjp7Im9yYXJpb1Zpc2l0ZVNwZWMiOnsib3JhcmlTZXJ2aXppbyI6eyJvcmFJbml6aW8iOiIwOTozMCIsIm9yYUZpbmUiOiIxMjozMCIsIm9yYUluaXppbzIiOiIxNTowMCIsIm9yYUZpbmUyIjoiMTg6MzAifX19fX0sImFycyI6eyJub21lIjoiTWFyaWFuZXR0aSIsImNvZF9zdHMyNCI6IlUwMDM0SSIsImF0dGl2YSI6IjEiLCJhY2NvcmRvIjoiMSIsImluZGlyaXp6byI6IlZpYSBTb2RpbmksIDY2IExvYy4gTWFzc2EgTWFjaW5haWEiLCJjb2RfY29tdW5lIjoiNDYwMDciLCJnZXN0aW9uZSI6InByaXZhdGEiLCJxdW90YSI6NTksInF1b3Rhc2FuaXRhcmlhIjo1OS4xfX0=",
-        "posti_liberi_int": 1,
-        "posti_liberi_m_int": 0,
-        "posti_liberi_f_int": 1,
-        "decoded_details": {
-            "id": 315,
-            "struttura": {
-                "avvisoDecimale": "",
-                "posti_modulo_base": 14,
-                "posti_liberi": 1,
-                "posti_liberi_m": 0,
-                "posti_liberi_f": 1,
-                "cf_direttore": "CNSLRT45E15E715K",
-                "nome_direttore": "Alberto",
-                "cognome_direttore": "Consani",
-                "telefono_rsa": "0583 909305",
-                "fax_rsa": "0583-90234",
-                "email": "lacerchia@alice.it",
-                "sito_internet": "",
-                "tariffa_privata_ranged": {
-                    "minima": 110,
-                    "massima": 110
-                },
-                "modulo": [
-                    "Modulo base"
-                ],
-                "indirizzo_sede": "Via Nuova,63 ",
-                "cod_comune_sede": "046017",
-                "tel_sede": "0583-48007",
-                "fax_sede": "0583-48007",
-                "email_sede": "cooplacerchia@interfree.it",
-                "posta_certificata_sede": "cooperativalacerchia@pec-mail.it",
-                "residenza": {
-                    "numeroPiani": 0,
-                    "dettaglioCamere": [
-                        {
-                            "numeroCamere": 7,
-                            "numeroLetti": 14,
-                            "serviziPresenti": [
-                                "bagno dedicato",
-                                "tv",
-                                "impianto condizionamento"
-                            ]
-                        }
-                    ]
-                },
-                "puntiDiInteresse": [
-                    "distretto sanitario",
-                    "autobus",
-                    "chiesa",
-                    "biblioteca",
-                    "associazioni di volontariato"
-                ],
-                "spazioEsterno": "SI",
-                "serviziSocioSanitari": {
-                    "animazioneSocioEducativa": {
-                        "animazioneSocioEducativaSpec": [
-                            {
-                                "giorniSettimana": [
-                                    "lunedi",
-                                    "mercoledi",
-                                    "sabato"
-                                ],
-                                "oraInizio": "10:00",
-                                "oraFine": "12:00"
-                            },
-                            {
-                                "giorniSettimana": [
-                                    "venerdi"
-                                ],
-                                "oraInizio": "15:30",
-                                "oraFine": "18:30"
-                            },
-                            {
-                                "giorniSettimana": [
-                                    "sabato"
-                                ],
-                                "oraInizio": "09:30",
-                                "oraFine": "12:30"
-                            }
-                        ]
-                    },
-                    "fisioterapia": {
-                        "fisioterapiaSpec": [
-                            {
-                                "giorniSettimana": [
-                                    "lunedi",
-                                    "mercoledi"
-                                ],
-                                "oraInizio": "15:00",
-                                "oraFine": "18:00"
-                            },
-                            {
-                                "giorniSettimana": [
-                                    "martedi"
-                                ],
-                                "oraInizio": "09:00",
-                                "oraFine": "12:00"
-                            }
-                        ]
-                    },
-                    "assistenzaInfermieristica": {
-                        "assistenzaInfermieristicaSpec": {
-                            "reperibilitaNotturna": "SI",
-                            "orariServizio": {
-                                "oraInizio": "08:00",
-                                "oraFine": "14:00",
-                                "oraInizio2": "17:00",
-                                "oraFine2": "21:00"
-                            }
-                        }
-                    },
-                    "mediciSpecialisti": {
-                        "subTitle": "",
-                        "dettaglioSpecialisti": [
-                            {
-                                "medicoSpecialista": "neurologo",
-                                "erogazioneServizio": {
-                                    "scelta": "Su richiesta",
-                                    "onRequest": "true"
-                                },
-                                "inclusoQuota": "NO"
-                            },
-                            {
-                                "medicoSpecialista": "geriatra",
-                                "erogazioneServizio": {
-                                    "scelta": "Su richiesta",
-                                    "onRequest": "true"
-                                },
-                                "inclusoQuota": "NO"
-                            },
-                            {
-                                "medicoSpecialista": "fisiatra",
-                                "erogazioneServizio": {
-                                    "scelta": "Su richiesta",
-                                    "onRequest": "true"
-                                },
-                                "inclusoQuota": "NO"
-                            },
-                            {
-                                "medicoSpecialista": "dentista",
-                                "erogazioneServizio": {
-                                    "scelta": "Su richiesta",
-                                    "onRequest": "true"
-                                },
-                                "inclusoQuota": "NO"
-                            }
-                        ]
-                    },
-                    "psicologo": {
-                        "nonPrevisto": false,
-                        "erogazioneServizio": {
-                            "scelta": "Su richiesta",
-                            "onRequest": "true"
-                        },
-                        "inclusoQuota": "NO"
-                    },
-                    "podologo": {
-                        "erogazioneServizio": "N volte al mese",
-                        "numeroVolte": 1,
-                        "prestazioniIncluseMese": 1
-                    }
-                },
-                "serviziAlberghieri": {
-                    "cucina": {
-                        "tipoCucina": "Esterna"
-                    },
-                    "lavanderia": {
-                        "indumenti_personali": "SI"
-                    },
-                    "parrucchiere": {
-                        "erogazioneServizio": "N volte a settimana",
-                        "numeroVolte": 1,
-                        "prestazioniIncluseMese": 4
-                    },
-                    "estetista": {
-                        "nonPrevisto": false,
-                        "erogazioneServizio": {
-                            "numeroMese": 1
-                        },
-                        "inclusoQuota": "SI"
-                    },
-                    "assistenzaReligiosa": {
-                        "nonPrevisto": false,
-                        "aperturaTipiCulto": "SI",
-                        "assistenzaReligiosaSpec": [
-                            {
-                                "giorniSettimana": [
-                                    "martedi"
-                                ],
-                                "ora": "10:30"
-                            }
-                        ]
-                    }
-                },
-                "altriServizi": {
-                    "elencoServizi": {
-                        "Appartamenti protetti": false,
-                        "Assistenza Domiciliare": false,
-                        "Assistenza residenziale per rifugiati/profughi": false,
-                        "Attivita' fisica adattata": false,
-                        "Casa della salute": false,
-                        "Centro di socializzazione per autosufficienti": false,
-                        "Centro diurno Alzheimer": false,
-                        "Centro diurno per autosufficienti": true,
-                        "Centro diurno per non autosufficienti": true,
-                        "Lavanderia per assistiti a domicilio": false,
-                        "Organizzazione del trasporto e accompagnamento degli assistiti deambulanti per visite/prestazioni sanitarie, avvisandone i familiari": false,
-                        "Prestazioni di assistenza di base per utenti esterni (bagno assistito)": true,
-                        "Residenza per Autosufficienti": false,
-                        "Residenza sociale per disabili (RSD)": false,
-                        "Ristorazione a domicilio": false,
-                        "Ristorazione per utenti esterni": false,
-                        "Segretariato sociale": false,
-                        "Servizio Continuita' Assistenziale (Ex Guardia Medica)": false,
-                        "Trasporto per adulti disabili": false
-                    },
-                    "serviziAmministrativi": {
-                        "serviziAmministrativiSpec": {
-                            "oraInizio": "10:00",
-                            "oraFine": "12:00",
-                            "oraInizio2": "",
-                            "oraFine2": ""
-                        }
-                    },
-                    "direzione": {
-                        "direzioneSpec": {
-                            "oraInizio": "08:30",
-                            "oraFine": "13:00",
-                            "oraInizio2": "14:00",
-                            "oraFine2": "17:00"
-                        }
-                    },
-                    "orarioVisite": {
-                        "orarioVisiteSpec": {
-                            "orariServizio": {
-                                "oraInizio": "09:30",
-                                "oraFine": "12:30",
-                                "oraInizio2": "15:00",
-                                "oraFine2": "18:30"
-                            }
-                        }
-                    }
-                }
-            },
-            "ars": {
-                "nome": "Marianetti",
-                "cod_sts24": "U0034I",
-                "attiva": "1",
-                "accordo": "1",
-                "indirizzo": "Via Sodini, 66 Loc. Massa Macinaia",
-                "cod_comune": "46007",
-                "gestione": "privata",
                 "quota": 59,
                 "quotasanitaria": 59.1
             }
@@ -3861,356 +3545,6 @@
                 "cod_comune": "45005",
                 "gestione": "privata",
                 "quota": 53,
-                "quotasanitaria": 59.1
-            }
-        }
-    },
-    {
-        "id": "69",
-        "foto0": "fio_rsa_lameridiana_struttura.png",
-        "foto1": "fio_rsa_lameridiana_giardino.jpg",
-        "foto2": "fio_rsa_lameridiana_esterno.jpg",
-        "foto3": "fio_rsa_lameridiana_esterno2.jpg",
-        "foto4": "fio_rsa_lameridiana_esterno3.jpg",
-        "foto5": "fio_rsa_lameridiana_sala.jpg",
-        "nome": "La Meridiana",
-        "tipo": "",
-        "gestione": "privata",
-        "indirizzo": "Via Cosimo il Vecchio, 28/30",
-        "cod_comune": "48017",
-        "comune": "Firenze",
-        "zona": "Firenze",
-        "tel1_zona": "055-2616250",
-        "tel2_zona": "",
-        "tel3_zona": "",
-        "telefono": "055-2616250",
-        "rsa_ico_animazione": "animazione_socio-educativa.png",
-        "rsa_ico_fisioterapia": "fisioterapia.png",
-        "rsa_ico_cucina": "ristorazione_esterna.png",
-        "rsa_ico_giardino": "giardino.png",
-        "rsa_ico_parrucchiere": "parrucchiere.png",
-        "rsa_ico_barbiere": "",
-        "rsa_ico_estetista": "",
-        "rsa_ico_relig": "assistenza_religiosa.png",
-        "rsa_ico_geriatra": "consulenza_medico_specialistica.png",
-        "rsa_ico_assistenza_infermieristica": "assistenza_infermieristica.png",
-        "rsa_ico_psicologo": "psicologo.png",
-        "rsa_ico_podologo": "podologo.png",
-        "rsa_ico_lavanderia": "lavanderia.png",
-        "rsa_ico_postoletto": "",
-        "rsa_posti_liberi": "2",
-        "rsa_quota": "69.00",
-        "rsa_quotasanitaria": "59.10",
-        "rsa_quota_img": "quota_meridiana.png",
-        "rsa_mod_base": "si",
-        "rsa_mod_cogn": "",
-        "rsa_mod_riab": "",
-        "rsa_mod_veg": "",
-        "rsa_attiva": "1",
-        "rsa_nome_brochure": "fio_rsa_meridiana.pdf",
-        "rsa_data_aggiornamento": "2026.05.14 15:37:18",
-        "lat": "43.8084148638014028",
-        "lon": "11.2544286042303998",
-        "gbnord": "4853080",
-        "gbest": "1681360",
-        "accordo": "1",
-        "cod_sts24": "60944I",
-        "posti_liberi_m": "1",
-        "posti_liberi_f": "1",
-        "indirizzo_sede": "via Cosimo Il Vecchio 28/30",
-        "comune_sede": "Firenze",
-        "fax_sede": "NULL",
-        "telefono_sede": "NULL",
-        "email_sede": "NULL",
-        "posta_certificata_sede": "immobiliarelameridia@legalmail.it",
-        "json_data": "eyJpZCI6NjksInN0cnV0dHVyYSI6eyJhdnZpc29EZWNpbWFsZSI6IiIsInBvc3RpX21vZHVsb19iYXNlIjozNiwicG9zdGlfbGliZXJpIjoyLCJwb3N0aV9saWJlcmlfbSI6MSwicG9zdGlfbGliZXJpX2YiOjEsImNmX2RpcmV0dG9yZSI6IkRORFBMQTY2TDUwSDcwM0UiLCJub21lX2RpcmV0dG9yZSI6IlBhb2xhIiwiY29nbm9tZV9kaXJldHRvcmUiOiJEb25hZGlvIiwidGVsZWZvbm9fcnNhIjoiMDU1IDQzNjE5OTEiLCJmYXhfcnNhIjoiMDU1NDM2MTIyMiIsImVtYWlsIjoic2VncmV0ZXJpYUB2aWxsYWxhbWVyaWRpYW5hcnNhLml0Iiwic2l0b19pbnRlcm5ldCI6Ind3dy52aWxsYWxhbWVyaWRpYW5hcnNhLml0LyIsInRhcmlmZmFfcHJpdmF0YV9yYW5nZWQiOnsibWluaW1hIjoxMjcuNiwibWFzc2ltYSI6MTI3LjZ9LCJtb2R1bG8iOlsiTW9kdWxvIGJhc2UiXSwiaW5kaXJpenpvX3NlZGUiOiJ2aWEgQ29zaW1vIElsIFZlY2NoaW8gMjgvMzAiLCJjb2RfY29tdW5lX3NlZGUiOiIwNDgwMTciLCJ0ZWxfc2VkZSI6IiIsImZheF9zZWRlIjoiIiwiZW1haWxfc2VkZSI6IiIsInBvc3RhX2NlcnRpZmljYXRhX3NlZGUiOiJpbW1vYmlsaWFyZWxhbWVyaWRpYUBsZWdhbG1haWwuaXQiLCJyZXNpZGVuemEiOnsibnVtZXJvUGlhbmkiOjIsImRldHRhZ2xpb0NhbWVyZSI6W3sibnVtZXJvQ2FtZXJlIjozLCJudW1lcm9MZXR0aSI6Miwic2Vydml6aVByZXNlbnRpIjpbImJhZ25vIGRlZGljYXRvIiwiaW1waWFudG8gY29uZGl6aW9uYW1lbnRvIl19LHsibnVtZXJvQ2FtZXJlIjoxLCJudW1lcm9MZXR0aSI6Mywic2Vydml6aVByZXNlbnRpIjpbImJhZ25vIGNvbmRpdmlzbyIsImltcGlhbnRvIGNvbmRpemlvbmFtZW50byJdfSx7Im51bWVyb0NhbWVyZSI6NSwibnVtZXJvTGV0dGkiOjQsInNlcnZpemlQcmVzZW50aSI6WyJiYWdubyBkZWRpY2F0byIsImltcGlhbnRvIGNvbmRpemlvbmFtZW50byJdfSx7Im51bWVyb0NhbWVyZSI6MiwibnVtZXJvTGV0dGkiOjIsInNlcnZpemlQcmVzZW50aSI6WyJiYWdubyBjb25kaXZpc28iLCJpbXBpYW50byBjb25kaXppb25hbWVudG8iXX0seyJudW1lcm9DYW1lcmUiOjEsIm51bWVyb0xldHRpIjoyLCJzZXJ2aXppUHJlc2VudGkiOlsiYmFnbm8gZGVkaWNhdG8iLCJpbXBpYW50byBjb25kaXppb25hbWVudG8iLCJiYWxjb25lIl19XX0sInB1bnRpRGlJbnRlcmVzc2UiOlsiZGlzdHJldHRvIHNhbml0YXJpbyIsImF1dG9idXMiLCJjaGllc2EiLCJvc3BlZGFsZSJdLCJzcGF6aW9Fc3Rlcm5vIjoiU0kiLCJzZXJ2aXppU29jaW9TYW5pdGFyaSI6eyJhbmltYXppb25lU29jaW9FZHVjYXRpdmEiOnsiYW5pbWF6aW9uZVNvY2lvRWR1Y2F0aXZhU3BlYyI6W3siZ2lvcm5pU2V0dGltYW5hIjpbImx1bmVkaSIsIm1hcnRlZGkiLCJtZXJjb2xlZGkiLCJnaW92ZWRpIiwidmVuZXJkaSJdLCJvcmFJbml6aW8iOiIxMDowMCIsIm9yYUZpbmUiOiIxNDowMCJ9LHsiZ2lvcm5pU2V0dGltYW5hIjpbImx1bmVkaSIsIm1hcnRlZGkiLCJtZXJjb2xlZGkiLCJnaW92ZWRpIiwidmVuZXJkaSJdLCJvcmFJbml6aW8iOiIxNDowMCIsIm9yYUZpbmUiOiIxNjowMCJ9XX0sImZpc2lvdGVyYXBpYSI6eyJmaXNpb3RlcmFwaWFTcGVjIjpbeyJnaW9ybmlTZXR0aW1hbmEiOlsibHVuZWRpIiwibWFydGVkaSIsIm1lcmNvbGVkaSIsImdpb3ZlZGkiLCJ2ZW5lcmRpIl0sIm9yYUluaXppbyI6IjA5OjAwIiwib3JhRmluZSI6IjEyOjAwIn0seyJnaW9ybmlTZXR0aW1hbmEiOlsibHVuZWRpIiwibWFydGVkaSIsIm1lcmNvbGVkaSIsImdpb3ZlZGkiLCJ2ZW5lcmRpIl0sIm9yYUluaXppbyI6IjE1OjAwIiwib3JhRmluZSI6IjE3OjAwIn1dfSwiYXNzaXN0ZW56YUluZmVybWllcmlzdGljYSI6eyJhc3Npc3RlbnphSW5mZXJtaWVyaXN0aWNhU3BlYyI6eyJyZXBlcmliaWxpdGFOb3R0dXJuYSI6Ik5PIiwib3JhcmlTZXJ2aXppbyI6eyJvcmFJbml6aW8iOiIwNzowMCIsIm9yYUZpbmUiOiIyMDowMCIsIm9yYUluaXppbzIiOiIiLCJvcmFGaW5lMiI6IiJ9fX0sIm1lZGljaVNwZWNpYWxpc3RpIjp7InN1YlRpdGxlIjoiIiwiZGV0dGFnbGlvU3BlY2lhbGlzdGkiOlt7Im1lZGljb1NwZWNpYWxpc3RhIjoiZ2VyaWF0cmEiLCJlcm9nYXppb25lU2Vydml6aW8iOnsic2NlbHRhIjoiU3UgcmljaGllc3RhIiwib25SZXF1ZXN0IjoidHJ1ZSJ9LCJpbmNsdXNvUXVvdGEiOiJTSSJ9XX0sInBzaWNvbG9nbyI6eyJub25QcmV2aXN0byI6ZmFsc2UsImVyb2dhemlvbmVTZXJ2aXppbyI6eyJudW1lcm9TZXR0aW1hbmEiOjV9LCJpbmNsdXNvUXVvdGEiOiJTSSJ9LCJwb2RvbG9nbyI6eyJlcm9nYXppb25lU2Vydml6aW8iOiJTdSByaWNoaWVzdGEiLCJudW1lcm9Wb2x0ZSI6MSwicHJlc3RhemlvbmlJbmNsdXNlTWVzZSI6MX19LCJzZXJ2aXppQWxiZXJnaGllcmkiOnsiY3VjaW5hIjp7InRpcG9DdWNpbmEiOiJFc3Rlcm5hIn0sImxhdmFuZGVyaWEiOnsiaW5kdW1lbnRpX3BlcnNvbmFsaSI6IlNJIn0sInBhcnJ1Y2NoaWVyZSI6eyJlcm9nYXppb25lU2Vydml6aW8iOiJOIHZvbHRlIGFsIG1lc2UiLCJudW1lcm9Wb2x0ZSI6MSwicHJlc3RhemlvbmlJbmNsdXNlTWVzZSI6MX0sImVzdGV0aXN0YSI6eyJub25QcmV2aXN0byI6dHJ1ZSwiZXJvZ2F6aW9uZVNlcnZpemlvIjp7InNjZWx0YSI6IlN1IHJpY2hpZXN0YSIsIm9uUmVxdWVzdCI6InRydWUifSwiaW5jbHVzb1F1b3RhIjoiTk8ifSwiYXNzaXN0ZW56YVJlbGlnaW9zYSI6eyJub25QcmV2aXN0byI6ZmFsc2UsImFwZXJ0dXJhVGlwaUN1bHRvIjoiU0kiLCJhc3Npc3RlbnphUmVsaWdpb3NhU3BlYyI6W3siZ2lvcm5pU2V0dGltYW5hIjpbInZlbmVyZGkiXSwib3JhIjoiMTA6MDAifV19fSwiYWx0cmlTZXJ2aXppIjp7ImVsZW5jb1NlcnZpemkiOnsiQXBwYXJ0YW1lbnRpIHByb3RldHRpIjpmYWxzZSwiQXNzaXN0ZW56YSBEb21pY2lsaWFyZSI6ZmFsc2UsIkFzc2lzdGVuemEgcmVzaWRlbnppYWxlIHBlciByaWZ1Z2lhdGkvcHJvZnVnaGkiOmZhbHNlLCJBdHRpdml0YScgZmlzaWNhIGFkYXR0YXRhIjpmYWxzZSwiQ2FzYSBkZWxsYSBzYWx1dGUiOmZhbHNlLCJDZW50cm8gZGkgc29jaWFsaXp6YXppb25lIHBlciBhdXRvc3VmZmljaWVudGkiOmZhbHNlLCJDZW50cm8gZGl1cm5vIEFsemhlaW1lciI6ZmFsc2UsIkNlbnRybyBkaXVybm8gcGVyIGF1dG9zdWZmaWNpZW50aSI6ZmFsc2UsIkNlbnRybyBkaXVybm8gcGVyIG5vbiBhdXRvc3VmZmljaWVudGkiOnRydWUsIkxhdmFuZGVyaWEgcGVyIGFzc2lzdGl0aSBhIGRvbWljaWxpbyI6ZmFsc2UsIk9yZ2FuaXp6YXppb25lIGRlbCB0cmFzcG9ydG8gZSBhY2NvbXBhZ25hbWVudG8gZGVnbGkgYXNzaXN0aXRpIGRlYW1idWxhbnRpIHBlciB2aXNpdGUvcHJlc3Rhemlvbmkgc2FuaXRhcmllLCBhdnZpc2FuZG9uZSBpIGZhbWlsaWFyaSI6ZmFsc2UsIlByZXN0YXppb25pIGRpIGFzc2lzdGVuemEgZGkgYmFzZSBwZXIgdXRlbnRpIGVzdGVybmkgKGJhZ25vIGFzc2lzdGl0bykiOmZhbHNlLCJSZXNpZGVuemEgcGVyIEF1dG9zdWZmaWNpZW50aSI6ZmFsc2UsIlJlc2lkZW56YSBzb2NpYWxlIHBlciBkaXNhYmlsaSAoUlNEKSI6ZmFsc2UsIlJpc3RvcmF6aW9uZSBhIGRvbWljaWxpbyI6ZmFsc2UsIlJpc3RvcmF6aW9uZSBwZXIgdXRlbnRpIGVzdGVybmkiOmZhbHNlLCJTZWdyZXRhcmlhdG8gc29jaWFsZSI6ZmFsc2UsIlNlcnZpemlvIENvbnRpbnVpdGEnIEFzc2lzdGVuemlhbGUgKEV4IEd1YXJkaWEgTWVkaWNhKSI6ZmFsc2UsIlRyYXNwb3J0byBwZXIgYWR1bHRpIGRpc2FiaWxpIjpmYWxzZX0sInNlcnZpemlBbW1pbmlzdHJhdGl2aSI6eyJzZXJ2aXppQW1taW5pc3RyYXRpdmlTcGVjIjpbeyJnaW9ybmlTZXR0aW1hbmEiOlsibHVuZWRpIiwibWFydGVkaSIsIm1lcmNvbGVkaSIsImdpb3ZlZGkiLCJ2ZW5lcmRpIl0sIm9yYUluaXppbyI6IjA5OjAwIiwib3JhRmluZSI6IjE4OjAwIn0seyJnaW9ybmlTZXR0aW1hbmEiOlsic2FiYXRvIl0sIm9yYUluaXppbyI6IjA5OjAwIiwib3JhRmluZSI6IjEzOjAwIn1dfSwiZGlyZXppb25lIjp7ImRpcmV6aW9uZVNwZWMiOlt7Imdpb3JuaVNldHRpbWFuYSI6WyJsdW5lZGkiLCJtYXJ0ZWRpIiwibWVyY29sZWRpIiwiZ2lvdmVkaSIsInZlbmVyZGkiXSwib3JhSW5pemlvIjoiMDk6MDAiLCJvcmFGaW5lIjoiMTg6MDAifV19LCJvcmFyaW9WaXNpdGUiOnsib3JhcmlvVmlzaXRlU3BlYyI6eyJvcmFyaVNlcnZpemlvIjp7Im9yYUluaXppbyI6IjEwOjAwIiwib3JhRmluZSI6IjE0OjAwIiwib3JhSW5pemlvMiI6IjE2OjAwIiwib3JhRmluZTIiOiIyMDowMCJ9fX19fSwiYXJzIjp7Im5vbWUiOiJMYSBNZXJpZGlhbmEiLCJjb2Rfc3RzMjQiOiI2MDk0NEkiLCJhdHRpdmEiOiIxIiwiYWNjb3JkbyI6IjEiLCJpbmRpcml6em8iOiJWaWEgQ29zaW1vIGlsIFZlY2NoaW8sIDI4LzMwIiwiY29kX2NvbXVuZSI6IjQ4MDE3IiwiZ2VzdGlvbmUiOiJwcml2YXRhIiwicXVvdGEiOjY5LCJxdW90YXNhbml0YXJpYSI6NTkuMX19",
-        "posti_liberi_int": 2,
-        "posti_liberi_m_int": 1,
-        "posti_liberi_f_int": 1,
-        "decoded_details": {
-            "id": 69,
-            "struttura": {
-                "avvisoDecimale": "",
-                "posti_modulo_base": 36,
-                "posti_liberi": 2,
-                "posti_liberi_m": 1,
-                "posti_liberi_f": 1,
-                "cf_direttore": "DNDPLA66L50H703E",
-                "nome_direttore": "Paola",
-                "cognome_direttore": "Donadio",
-                "telefono_rsa": "055 4361991",
-                "fax_rsa": "0554361222",
-                "email": "segreteria@villalameridianarsa.it",
-                "sito_internet": "www.villalameridianarsa.it/",
-                "tariffa_privata_ranged": {
-                    "minima": 127.6,
-                    "massima": 127.6
-                },
-                "modulo": [
-                    "Modulo base"
-                ],
-                "indirizzo_sede": "via Cosimo Il Vecchio 28/30",
-                "cod_comune_sede": "048017",
-                "tel_sede": "",
-                "fax_sede": "",
-                "email_sede": "",
-                "posta_certificata_sede": "immobiliarelameridia@legalmail.it",
-                "residenza": {
-                    "numeroPiani": 2,
-                    "dettaglioCamere": [
-                        {
-                            "numeroCamere": 3,
-                            "numeroLetti": 2,
-                            "serviziPresenti": [
-                                "bagno dedicato",
-                                "impianto condizionamento"
-                            ]
-                        },
-                        {
-                            "numeroCamere": 1,
-                            "numeroLetti": 3,
-                            "serviziPresenti": [
-                                "bagno condiviso",
-                                "impianto condizionamento"
-                            ]
-                        },
-                        {
-                            "numeroCamere": 5,
-                            "numeroLetti": 4,
-                            "serviziPresenti": [
-                                "bagno dedicato",
-                                "impianto condizionamento"
-                            ]
-                        },
-                        {
-                            "numeroCamere": 2,
-                            "numeroLetti": 2,
-                            "serviziPresenti": [
-                                "bagno condiviso",
-                                "impianto condizionamento"
-                            ]
-                        },
-                        {
-                            "numeroCamere": 1,
-                            "numeroLetti": 2,
-                            "serviziPresenti": [
-                                "bagno dedicato",
-                                "impianto condizionamento",
-                                "balcone"
-                            ]
-                        }
-                    ]
-                },
-                "puntiDiInteresse": [
-                    "distretto sanitario",
-                    "autobus",
-                    "chiesa",
-                    "ospedale"
-                ],
-                "spazioEsterno": "SI",
-                "serviziSocioSanitari": {
-                    "animazioneSocioEducativa": {
-                        "animazioneSocioEducativaSpec": [
-                            {
-                                "giorniSettimana": [
-                                    "lunedi",
-                                    "martedi",
-                                    "mercoledi",
-                                    "giovedi",
-                                    "venerdi"
-                                ],
-                                "oraInizio": "10:00",
-                                "oraFine": "14:00"
-                            },
-                            {
-                                "giorniSettimana": [
-                                    "lunedi",
-                                    "martedi",
-                                    "mercoledi",
-                                    "giovedi",
-                                    "venerdi"
-                                ],
-                                "oraInizio": "14:00",
-                                "oraFine": "16:00"
-                            }
-                        ]
-                    },
-                    "fisioterapia": {
-                        "fisioterapiaSpec": [
-                            {
-                                "giorniSettimana": [
-                                    "lunedi",
-                                    "martedi",
-                                    "mercoledi",
-                                    "giovedi",
-                                    "venerdi"
-                                ],
-                                "oraInizio": "09:00",
-                                "oraFine": "12:00"
-                            },
-                            {
-                                "giorniSettimana": [
-                                    "lunedi",
-                                    "martedi",
-                                    "mercoledi",
-                                    "giovedi",
-                                    "venerdi"
-                                ],
-                                "oraInizio": "15:00",
-                                "oraFine": "17:00"
-                            }
-                        ]
-                    },
-                    "assistenzaInfermieristica": {
-                        "assistenzaInfermieristicaSpec": {
-                            "reperibilitaNotturna": "NO",
-                            "orariServizio": {
-                                "oraInizio": "07:00",
-                                "oraFine": "20:00",
-                                "oraInizio2": "",
-                                "oraFine2": ""
-                            }
-                        }
-                    },
-                    "mediciSpecialisti": {
-                        "subTitle": "",
-                        "dettaglioSpecialisti": [
-                            {
-                                "medicoSpecialista": "geriatra",
-                                "erogazioneServizio": {
-                                    "scelta": "Su richiesta",
-                                    "onRequest": "true"
-                                },
-                                "inclusoQuota": "SI"
-                            }
-                        ]
-                    },
-                    "psicologo": {
-                        "nonPrevisto": false,
-                        "erogazioneServizio": {
-                            "numeroSettimana": 5
-                        },
-                        "inclusoQuota": "SI"
-                    },
-                    "podologo": {
-                        "erogazioneServizio": "Su richiesta",
-                        "numeroVolte": 1,
-                        "prestazioniIncluseMese": 1
-                    }
-                },
-                "serviziAlberghieri": {
-                    "cucina": {
-                        "tipoCucina": "Esterna"
-                    },
-                    "lavanderia": {
-                        "indumenti_personali": "SI"
-                    },
-                    "parrucchiere": {
-                        "erogazioneServizio": "N volte al mese",
-                        "numeroVolte": 1,
-                        "prestazioniIncluseMese": 1
-                    },
-                    "estetista": {
-                        "nonPrevisto": true,
-                        "erogazioneServizio": {
-                            "scelta": "Su richiesta",
-                            "onRequest": "true"
-                        },
-                        "inclusoQuota": "NO"
-                    },
-                    "assistenzaReligiosa": {
-                        "nonPrevisto": false,
-                        "aperturaTipiCulto": "SI",
-                        "assistenzaReligiosaSpec": [
-                            {
-                                "giorniSettimana": [
-                                    "venerdi"
-                                ],
-                                "ora": "10:00"
-                            }
-                        ]
-                    }
-                },
-                "altriServizi": {
-                    "elencoServizi": {
-                        "Appartamenti protetti": false,
-                        "Assistenza Domiciliare": false,
-                        "Assistenza residenziale per rifugiati/profughi": false,
-                        "Attivita' fisica adattata": false,
-                        "Casa della salute": false,
-                        "Centro di socializzazione per autosufficienti": false,
-                        "Centro diurno Alzheimer": false,
-                        "Centro diurno per autosufficienti": false,
-                        "Centro diurno per non autosufficienti": true,
-                        "Lavanderia per assistiti a domicilio": false,
-                        "Organizzazione del trasporto e accompagnamento degli assistiti deambulanti per visite/prestazioni sanitarie, avvisandone i familiari": false,
-                        "Prestazioni di assistenza di base per utenti esterni (bagno assistito)": false,
-                        "Residenza per Autosufficienti": false,
-                        "Residenza sociale per disabili (RSD)": false,
-                        "Ristorazione a domicilio": false,
-                        "Ristorazione per utenti esterni": false,
-                        "Segretariato sociale": false,
-                        "Servizio Continuita' Assistenziale (Ex Guardia Medica)": false,
-                        "Trasporto per adulti disabili": false
-                    },
-                    "serviziAmministrativi": {
-                        "serviziAmministrativiSpec": [
-                            {
-                                "giorniSettimana": [
-                                    "lunedi",
-                                    "martedi",
-                                    "mercoledi",
-                                    "giovedi",
-                                    "venerdi"
-                                ],
-                                "oraInizio": "09:00",
-                                "oraFine": "18:00"
-                            },
-                            {
-                                "giorniSettimana": [
-                                    "sabato"
-                                ],
-                                "oraInizio": "09:00",
-                                "oraFine": "13:00"
-                            }
-                        ]
-                    },
-                    "direzione": {
-                        "direzioneSpec": [
-                            {
-                                "giorniSettimana": [
-                                    "lunedi",
-                                    "martedi",
-                                    "mercoledi",
-                                    "giovedi",
-                                    "venerdi"
-                                ],
-                                "oraInizio": "09:00",
-                                "oraFine": "18:00"
-                            }
-                        ]
-                    },
-                    "orarioVisite": {
-                        "orarioVisiteSpec": {
-                            "orariServizio": {
-                                "oraInizio": "10:00",
-                                "oraFine": "14:00",
-                                "oraInizio2": "16:00",
-                                "oraFine2": "20:00"
-                            }
-                        }
-                    }
-                }
-            },
-            "ars": {
-                "nome": "La Meridiana",
-                "cod_sts24": "60944I",
-                "attiva": "1",
-                "accordo": "1",
-                "indirizzo": "Via Cosimo il Vecchio, 28/30",
-                "cod_comune": "48017",
-                "gestione": "privata",
-                "quota": 69,
                 "quotasanitaria": 59.1
             }
         }
@@ -6275,6 +5609,318 @@
                 "cod_comune": "46017",
                 "gestione": "privata",
                 "quota": 59,
+                "quotasanitaria": 59.1
+            }
+        }
+    },
+    {
+        "id": "307",
+        "foto0": "apu_villaverde_struttura.png",
+        "foto1": "apu_villaverde_notte.jpg",
+        "foto2": "apu_villaverde_giardino.jpg",
+        "foto3": "apu_villaverde_esterno.jpg",
+        "foto4": "apu_villaverde_cappella.jpg",
+        "foto5": "",
+        "nome": "Sempreverde",
+        "tipo": "",
+        "gestione": "privata",
+        "indirizzo": "Via F. Torta, 31",
+        "cod_comune": "45010",
+        "comune": "Massa",
+        "zona": "Apuane",
+        "tel1_zona": "0585-657686",
+        "tel2_zona": "0585-657966",
+        "tel3_zona": "",
+        "telefono": "0585-657686 0585-657966",
+        "rsa_ico_animazione": "animazione_socio-educativa.png",
+        "rsa_ico_fisioterapia": "fisioterapia.png",
+        "rsa_ico_cucina": "ristorazione_interna.png",
+        "rsa_ico_giardino": "giardino.png",
+        "rsa_ico_parrucchiere": "parrucchiere.png",
+        "rsa_ico_barbiere": "",
+        "rsa_ico_estetista": "",
+        "rsa_ico_relig": "assistenza_religiosa.png",
+        "rsa_ico_geriatra": "consulenza_medico_specialistica.png",
+        "rsa_ico_assistenza_infermieristica": "assistenza_infermieristica_notturna.png",
+        "rsa_ico_psicologo": "",
+        "rsa_ico_podologo": "podologo.png",
+        "rsa_ico_lavanderia": "lavanderia.png",
+        "rsa_ico_postoletto": "",
+        "rsa_posti_liberi": "2",
+        "rsa_quota": "60.00",
+        "rsa_quotasanitaria": "59.10",
+        "rsa_quota_img": "apu_quota_villaverde.png",
+        "rsa_mod_base": "si",
+        "rsa_mod_cogn": "",
+        "rsa_mod_riab": "",
+        "rsa_mod_veg": "",
+        "rsa_attiva": "1",
+        "rsa_nome_brochure": "apu_villaverde.pdf",
+        "rsa_data_aggiornamento": "2026.06.05 11:25:41",
+        "lat": "44.0186299936830991",
+        "lon": "10.1286536402259006",
+        "gbnord": "4874578",
+        "gbest": "1590489",
+        "accordo": "1",
+        "cod_sts24": "M3044I",
+        "posti_liberi_m": "1",
+        "posti_liberi_f": "1",
+        "indirizzo_sede": "Viale Democrazia, 19 ",
+        "comune_sede": "Massa",
+        "fax_sede": "NULL",
+        "telefono_sede": "0585792762",
+        "email_sede": "sogesrl.massa@gmail.com",
+        "posta_certificata_sede": "NULL",
+        "json_data": "eyJpZCI6MzA3LCJzdHJ1dHR1cmEiOnsiYXZ2aXNvRGVjaW1hbGUiOiIiLCJwb3N0aV9tb2R1bG9fYmFzZSI6NzEsInBvc3RpX2xpYmVyaSI6MiwicG9zdGlfbGliZXJpX20iOjEsInBvc3RpX2xpYmVyaV9mIjoxLCJjZl9kaXJldHRvcmUiOiJCU0xSTk41MEQxM0I4MzJZIiwibm9tZV9kaXJldHRvcmUiOiJFcm1hbm5vIiwiY29nbm9tZV9kaXJldHRvcmUiOiJCaXNlbGxpIiwidGVsZWZvbm9fcnNhIjoiMDU4NTc5Mjc2MiIsImZheF9yc2EiOiIiLCJlbWFpbCI6ImRpcmV0dG9yZS5zZW1wcmV2ZXJkZUBnbWFpbC5jb20iLCJzaXRvX2ludGVybmV0Ijoid3d3LnZpbGxhc2VtcHJldmVyZGVtYXNzYS5pdCIsInRhcmlmZmFfcHJpdmF0YV9yYW5nZWQiOnsibWluaW1hIjoxMzAsIm1hc3NpbWEiOjEzMH0sIm1vZHVsbyI6WyJNb2R1bG8gYmFzZSJdLCJpbmRpcml6em9fc2VkZSI6IlZpYWxlIERlbW9jcmF6aWEsIDE5ICIsImNvZF9jb211bmVfc2VkZSI6IjA0NTAxMCIsInRlbF9zZWRlIjoiMDU4NTc5Mjc2MiIsImZheF9zZWRlIjoiIiwiZW1haWxfc2VkZSI6InNvZ2VzcmwubWFzc2FAZ21haWwuY29tIiwicG9zdGFfY2VydGlmaWNhdGFfc2VkZSI6IiIsInJlc2lkZW56YSI6eyJudW1lcm9QaWFuaSI6MywiZGV0dGFnbGlvQ2FtZXJlIjpbeyJudW1lcm9DYW1lcmUiOjM1LCJudW1lcm9MZXR0aSI6NzAsInNlcnZpemlQcmVzZW50aSI6WyJiYWdubyBkZWRpY2F0byIsImltcGlhbnRvIGNvbmRpemlvbmFtZW50byJdfSx7Im51bWVyb0NhbWVyZSI6MSwibnVtZXJvTGV0dGkiOjEsInNlcnZpemlQcmVzZW50aSI6WyJiYWdubyBkZWRpY2F0byIsImltcGlhbnRvIGNvbmRpemlvbmFtZW50byJdfV19LCJwdW50aURpSW50ZXJlc3NlIjpbImRpc3RyZXR0byBzYW5pdGFyaW8iLCJjaGllc2EiLCJzdGF6aW9uZSBmZXJyb3ZpYXJpYSJdLCJzcGF6aW9Fc3Rlcm5vIjoiU0kiLCJzZXJ2aXppU29jaW9TYW5pdGFyaSI6eyJhbmltYXppb25lU29jaW9FZHVjYXRpdmEiOnsiYW5pbWF6aW9uZVNvY2lvRWR1Y2F0aXZhU3BlYyI6W3siZ2lvcm5pU2V0dGltYW5hIjpbImx1bmVkaSIsIm1hcnRlZGkiLCJtZXJjb2xlZGkiLCJnaW92ZWRpIiwidmVuZXJkaSIsInNhYmF0byJdLCJvcmFJbml6aW8iOiIwOTowMCIsIm9yYUZpbmUiOiIxMjowMCJ9XX0sImZpc2lvdGVyYXBpYSI6eyJmaXNpb3RlcmFwaWFTcGVjIjpbeyJnaW9ybmlTZXR0aW1hbmEiOlsibHVuZWRpIiwibWFydGVkaSIsIm1lcmNvbGVkaSIsImdpb3ZlZGkiLCJ2ZW5lcmRpIiwic2FiYXRvIl0sIm9yYUluaXppbyI6IjA3OjAwIiwib3JhRmluZSI6IjEyOjAwIn1dfSwiYXNzaXN0ZW56YUluZmVybWllcmlzdGljYSI6eyJhc3Npc3RlbnphSW5mZXJtaWVyaXN0aWNhU3BlYyI6eyJzY2VsdGEiOiIyNGgifX0sIm1lZGljaVNwZWNpYWxpc3RpIjp7InN1YlRpdGxlIjoiIiwiZGV0dGFnbGlvU3BlY2lhbGlzdGkiOlt7Im1lZGljb1NwZWNpYWxpc3RhIjoiY2hpcnVyZ28iLCJlcm9nYXppb25lU2Vydml6aW8iOnsibnVtZXJvU2V0dGltYW5hIjo2fSwiaW5jbHVzb1F1b3RhIjoiU0kifV19LCJwc2ljb2xvZ28iOnsibm9uUHJldmlzdG8iOnRydWUsImVyb2dhemlvbmVTZXJ2aXppbyI6eyJzY2VsdGEiOiJUdXR0aSBpIGdpb3JuaSIsImFsbERheXMiOiJ0cnVlIn0sImluY2x1c29RdW90YSI6IlNJIn0sInBvZG9sb2dvIjp7ImVyb2dhemlvbmVTZXJ2aXppbyI6Ik4gdm9sdGUgYSBzZXR0aW1hbmEiLCJudW1lcm9Wb2x0ZSI6MywicHJlc3RhemlvbmlJbmNsdXNlTWVzZSI6MX19LCJzZXJ2aXppQWxiZXJnaGllcmkiOnsiY3VjaW5hIjp7InRpcG9DdWNpbmEiOiJJbnRlcm5hIn0sImxhdmFuZGVyaWEiOnsiaW5kdW1lbnRpX3BlcnNvbmFsaSI6IlNJIn0sInBhcnJ1Y2NoaWVyZSI6eyJlcm9nYXppb25lU2Vydml6aW8iOiJOIHZvbHRlIGEgc2V0dGltYW5hIiwibnVtZXJvVm9sdGUiOjQsInByZXN0YXppb25pSW5jbHVzZU1lc2UiOjF9LCJlc3RldGlzdGEiOnsibm9uUHJldmlzdG8iOnRydWUsImVyb2dhemlvbmVTZXJ2aXppbyI6eyJudW1lcm9TZXR0aW1hbmEiOjF9LCJpbmNsdXNvUXVvdGEiOiJTSSJ9LCJhc3Npc3RlbnphUmVsaWdpb3NhIjp7Im5vblByZXZpc3RvIjpmYWxzZSwiYXBlcnR1cmFUaXBpQ3VsdG8iOiJTSSIsImFzc2lzdGVuemFSZWxpZ2lvc2FTcGVjIjpbeyJnaW9ybmlTZXR0aW1hbmEiOlsidmVuZXJkaSJdLCJvcmEiOiIxMDoxMSJ9XX19LCJhbHRyaVNlcnZpemkiOnsiZWxlbmNvU2Vydml6aSI6eyJBcHBhcnRhbWVudGkgcHJvdGV0dGkiOnRydWUsIkFzc2lzdGVuemEgRG9taWNpbGlhcmUiOmZhbHNlLCJBc3Npc3RlbnphIHJlc2lkZW56aWFsZSBwZXIgcmlmdWdpYXRpL3Byb2Z1Z2hpIjpmYWxzZSwiQXR0aXZpdGEnIGZpc2ljYSBhZGF0dGF0YSI6dHJ1ZSwiQ2FzYSBkZWxsYSBzYWx1dGUiOmZhbHNlLCJDZW50cm8gZGkgc29jaWFsaXp6YXppb25lIHBlciBhdXRvc3VmZmljaWVudGkiOmZhbHNlLCJDZW50cm8gZGl1cm5vIEFsemhlaW1lciI6ZmFsc2UsIkNlbnRybyBkaXVybm8gcGVyIGF1dG9zdWZmaWNpZW50aSI6ZmFsc2UsIkNlbnRybyBkaXVybm8gcGVyIG5vbiBhdXRvc3VmZmljaWVudGkiOnRydWUsIkxhdmFuZGVyaWEgcGVyIGFzc2lzdGl0aSBhIGRvbWljaWxpbyI6ZmFsc2UsIk9yZ2FuaXp6YXppb25lIGRlbCB0cmFzcG9ydG8gZSBhY2NvbXBhZ25hbWVudG8gZGVnbGkgYXNzaXN0aXRpIGRlYW1idWxhbnRpIHBlciB2aXNpdGUvcHJlc3Rhemlvbmkgc2FuaXRhcmllLCBhdnZpc2FuZG9uZSBpIGZhbWlsaWFyaSI6ZmFsc2UsIlByZXN0YXppb25pIGRpIGFzc2lzdGVuemEgZGkgYmFzZSBwZXIgdXRlbnRpIGVzdGVybmkgKGJhZ25vIGFzc2lzdGl0bykiOmZhbHNlLCJSZXNpZGVuemEgcGVyIEF1dG9zdWZmaWNpZW50aSI6ZmFsc2UsIlJlc2lkZW56YSBzb2NpYWxlIHBlciBkaXNhYmlsaSAoUlNEKSI6ZmFsc2UsIlJpc3RvcmF6aW9uZSBhIGRvbWljaWxpbyI6ZmFsc2UsIlJpc3RvcmF6aW9uZSBwZXIgdXRlbnRpIGVzdGVybmkiOmZhbHNlLCJTZWdyZXRhcmlhdG8gc29jaWFsZSI6ZmFsc2UsIlNlcnZpemlvIENvbnRpbnVpdGEnIEFzc2lzdGVuemlhbGUgKEV4IEd1YXJkaWEgTWVkaWNhKSI6ZmFsc2UsIlRyYXNwb3J0byBwZXIgYWR1bHRpIGRpc2FiaWxpIjpmYWxzZX0sInNlcnZpemlBbW1pbmlzdHJhdGl2aSI6eyJzZXJ2aXppQW1taW5pc3RyYXRpdmlTcGVjIjpbeyJnaW9ybmlTZXR0aW1hbmEiOlsibHVuZWRpIiwibWFydGVkaSIsIm1lcmNvbGVkaSIsImdpb3ZlZGkiLCJ2ZW5lcmRpIiwic2FiYXRvIl0sIm9yYUluaXppbyI6IjA4OjAwIiwib3JhRmluZSI6IjE4OjAwIn1dfSwiZGlyZXppb25lIjp7ImRpcmV6aW9uZVNwZWMiOlt7Imdpb3JuaVNldHRpbWFuYSI6WyJsdW5lZGkiLCJtYXJ0ZWRpIiwibWVyY29sZWRpIiwiZ2lvdmVkaSIsInZlbmVyZGkiLCJzYWJhdG8iXSwib3JhSW5pemlvIjoiMDg6MDAiLCJvcmFGaW5lIjoiMTI6MDAifV19LCJvcmFyaW9WaXNpdGUiOnsib3JhcmlvVmlzaXRlU3BlYyI6eyJvcmFyaVNlcnZpemlvIjpbeyJnaW9ybmlTZXR0aW1hbmEiOlsibHVuZWRpIiwibWFydGVkaSIsIm1lcmNvbGVkaSIsImdpb3ZlZGkiLCJ2ZW5lcmRpIiwic2FiYXRvIl0sIm9yYUluaXppbyI6IjEwOjAwIiwib3JhRmluZSI6IjExOjMwIn0seyJnaW9ybmlTZXR0aW1hbmEiOlsibHVuZWRpIiwibWFydGVkaSIsIm1lcmNvbGVkaSIsImdpb3ZlZGkiLCJ2ZW5lcmRpIiwic2FiYXRvIl0sIm9yYUluaXppbyI6IjE2OjAwIiwib3JhRmluZSI6IjE3OjMwIn1dfX19fSwiYXJzIjp7Im5vbWUiOiJTZW1wcmV2ZXJkZSIsImNvZF9zdHMyNCI6Ik0zMDQ0SSIsImF0dGl2YSI6IjEiLCJhY2NvcmRvIjoiMSIsImluZGlyaXp6byI6IlZpYSBGLiBUb3J0YSwgMzEiLCJjb2RfY29tdW5lIjoiNDUwMTAiLCJnZXN0aW9uZSI6InByaXZhdGEiLCJxdW90YSI6NjAsInF1b3Rhc2FuaXRhcmlhIjo1OS4xfX0=",
+        "posti_liberi_int": 2,
+        "posti_liberi_m_int": 1,
+        "posti_liberi_f_int": 1,
+        "decoded_details": {
+            "id": 307,
+            "struttura": {
+                "avvisoDecimale": "",
+                "posti_modulo_base": 71,
+                "posti_liberi": 2,
+                "posti_liberi_m": 1,
+                "posti_liberi_f": 1,
+                "cf_direttore": "BSLRNN50D13B832Y",
+                "nome_direttore": "Ermanno",
+                "cognome_direttore": "Biselli",
+                "telefono_rsa": "0585792762",
+                "fax_rsa": "",
+                "email": "direttore.sempreverde@gmail.com",
+                "sito_internet": "www.villasempreverdemassa.it",
+                "tariffa_privata_ranged": {
+                    "minima": 130,
+                    "massima": 130
+                },
+                "modulo": [
+                    "Modulo base"
+                ],
+                "indirizzo_sede": "Viale Democrazia, 19 ",
+                "cod_comune_sede": "045010",
+                "tel_sede": "0585792762",
+                "fax_sede": "",
+                "email_sede": "sogesrl.massa@gmail.com",
+                "posta_certificata_sede": "",
+                "residenza": {
+                    "numeroPiani": 3,
+                    "dettaglioCamere": [
+                        {
+                            "numeroCamere": 35,
+                            "numeroLetti": 70,
+                            "serviziPresenti": [
+                                "bagno dedicato",
+                                "impianto condizionamento"
+                            ]
+                        },
+                        {
+                            "numeroCamere": 1,
+                            "numeroLetti": 1,
+                            "serviziPresenti": [
+                                "bagno dedicato",
+                                "impianto condizionamento"
+                            ]
+                        }
+                    ]
+                },
+                "puntiDiInteresse": [
+                    "distretto sanitario",
+                    "chiesa",
+                    "stazione ferroviaria"
+                ],
+                "spazioEsterno": "SI",
+                "serviziSocioSanitari": {
+                    "animazioneSocioEducativa": {
+                        "animazioneSocioEducativaSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "martedi",
+                                    "mercoledi",
+                                    "giovedi",
+                                    "venerdi",
+                                    "sabato"
+                                ],
+                                "oraInizio": "09:00",
+                                "oraFine": "12:00"
+                            }
+                        ]
+                    },
+                    "fisioterapia": {
+                        "fisioterapiaSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "martedi",
+                                    "mercoledi",
+                                    "giovedi",
+                                    "venerdi",
+                                    "sabato"
+                                ],
+                                "oraInizio": "07:00",
+                                "oraFine": "12:00"
+                            }
+                        ]
+                    },
+                    "assistenzaInfermieristica": {
+                        "assistenzaInfermieristicaSpec": {
+                            "scelta": "24h"
+                        }
+                    },
+                    "mediciSpecialisti": {
+                        "subTitle": "",
+                        "dettaglioSpecialisti": [
+                            {
+                                "medicoSpecialista": "chirurgo",
+                                "erogazioneServizio": {
+                                    "numeroSettimana": 6
+                                },
+                                "inclusoQuota": "SI"
+                            }
+                        ]
+                    },
+                    "psicologo": {
+                        "nonPrevisto": true,
+                        "erogazioneServizio": {
+                            "scelta": "Tutti i giorni",
+                            "allDays": "true"
+                        },
+                        "inclusoQuota": "SI"
+                    },
+                    "podologo": {
+                        "erogazioneServizio": "N volte a settimana",
+                        "numeroVolte": 3,
+                        "prestazioniIncluseMese": 1
+                    }
+                },
+                "serviziAlberghieri": {
+                    "cucina": {
+                        "tipoCucina": "Interna"
+                    },
+                    "lavanderia": {
+                        "indumenti_personali": "SI"
+                    },
+                    "parrucchiere": {
+                        "erogazioneServizio": "N volte a settimana",
+                        "numeroVolte": 4,
+                        "prestazioniIncluseMese": 1
+                    },
+                    "estetista": {
+                        "nonPrevisto": true,
+                        "erogazioneServizio": {
+                            "numeroSettimana": 1
+                        },
+                        "inclusoQuota": "SI"
+                    },
+                    "assistenzaReligiosa": {
+                        "nonPrevisto": false,
+                        "aperturaTipiCulto": "SI",
+                        "assistenzaReligiosaSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "venerdi"
+                                ],
+                                "ora": "10:11"
+                            }
+                        ]
+                    }
+                },
+                "altriServizi": {
+                    "elencoServizi": {
+                        "Appartamenti protetti": true,
+                        "Assistenza Domiciliare": false,
+                        "Assistenza residenziale per rifugiati/profughi": false,
+                        "Attivita' fisica adattata": true,
+                        "Casa della salute": false,
+                        "Centro di socializzazione per autosufficienti": false,
+                        "Centro diurno Alzheimer": false,
+                        "Centro diurno per autosufficienti": false,
+                        "Centro diurno per non autosufficienti": true,
+                        "Lavanderia per assistiti a domicilio": false,
+                        "Organizzazione del trasporto e accompagnamento degli assistiti deambulanti per visite/prestazioni sanitarie, avvisandone i familiari": false,
+                        "Prestazioni di assistenza di base per utenti esterni (bagno assistito)": false,
+                        "Residenza per Autosufficienti": false,
+                        "Residenza sociale per disabili (RSD)": false,
+                        "Ristorazione a domicilio": false,
+                        "Ristorazione per utenti esterni": false,
+                        "Segretariato sociale": false,
+                        "Servizio Continuita' Assistenziale (Ex Guardia Medica)": false,
+                        "Trasporto per adulti disabili": false
+                    },
+                    "serviziAmministrativi": {
+                        "serviziAmministrativiSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "martedi",
+                                    "mercoledi",
+                                    "giovedi",
+                                    "venerdi",
+                                    "sabato"
+                                ],
+                                "oraInizio": "08:00",
+                                "oraFine": "18:00"
+                            }
+                        ]
+                    },
+                    "direzione": {
+                        "direzioneSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "martedi",
+                                    "mercoledi",
+                                    "giovedi",
+                                    "venerdi",
+                                    "sabato"
+                                ],
+                                "oraInizio": "08:00",
+                                "oraFine": "12:00"
+                            }
+                        ]
+                    },
+                    "orarioVisite": {
+                        "orarioVisiteSpec": {
+                            "orariServizio": [
+                                {
+                                    "giorniSettimana": [
+                                        "lunedi",
+                                        "martedi",
+                                        "mercoledi",
+                                        "giovedi",
+                                        "venerdi",
+                                        "sabato"
+                                    ],
+                                    "oraInizio": "10:00",
+                                    "oraFine": "11:30"
+                                },
+                                {
+                                    "giorniSettimana": [
+                                        "lunedi",
+                                        "martedi",
+                                        "mercoledi",
+                                        "giovedi",
+                                        "venerdi",
+                                        "sabato"
+                                    ],
+                                    "oraInizio": "16:00",
+                                    "oraFine": "17:30"
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            "ars": {
+                "nome": "Sempreverde",
+                "cod_sts24": "M3044I",
+                "attiva": "1",
+                "accordo": "1",
+                "indirizzo": "Via F. Torta, 31",
+                "cod_comune": "45010",
+                "gestione": "privata",
+                "quota": 60,
                 "quotasanitaria": 59.1
             }
         }
@@ -10068,12 +9714,12 @@
         "gestione": "privata",
         "indirizzo": "Via Rio, 81",
         "cod_comune": "48039",
+        "cod_comune_sede": "48039",
         "comune": "San Godenzo",
         "zona": "Fiorentina Sud-Est",
         "tel1_zona": "055-6936562",
         "tel2_zona": "055-6936308",
         "tel3_zona": "",
-        "telefono": "055-6936562 055-6936308",
         "rsa_ico_animazione": "animazione_socio-educativa.png",
         "rsa_ico_fisioterapia": "fisioterapia.png",
         "rsa_ico_cucina": "ristorazione_interna.png",
@@ -10765,7 +10411,7 @@
         "rsa_ico_podologo": "podologo.png",
         "rsa_ico_lavanderia": "lavanderia.png",
         "rsa_ico_postoletto": "",
-        "rsa_posti_liberi": "1",
+        "rsa_posti_liberi": "19",
         "rsa_quota": "54.64",
         "rsa_quotasanitaria": "59.10",
         "rsa_quota_img": "valtib_quota_sestino.png",
@@ -10775,7 +10421,7 @@
         "rsa_mod_veg": "",
         "rsa_attiva": "1",
         "rsa_nome_brochure": "valtib_sestino_bertozzi.pdf",
-        "rsa_data_aggiornamento": "2026.05.15 11:03:41",
+        "rsa_data_aggiornamento": "2026.06.05 13:19:38",
         "lat": "43.7103447009962025",
         "lon": "12.2965272059285002",
         "gbnord": "4845000",
@@ -10783,25 +10429,25 @@
         "accordo": "1",
         "cod_sts24": "29114I",
         "posti_liberi_m": "0",
-        "posti_liberi_f": "1",
+        "posti_liberi_f": "0",
         "indirizzo_sede": "Via Giuliana Ciuffoni Stanghini 12",
         "comune_sede": "Monte San Savino",
         "fax_sede": "0575844550",
         "telefono_sede": "0575844364-844235",
         "email_sede": "info@comars.org",
         "posta_certificata_sede": "comars@pec.confcooperative.it",
-        "json_data": "eyJpZCI6MjIzLCJzdHJ1dHR1cmEiOnsiYXZ2aXNvRGVjaW1hbGUiOiIiLCJwb3N0aV9tb2R1bG9fYmFzZSI6MTksInBvc3RpX2xpYmVyaSI6MSwicG9zdGlfbGliZXJpX20iOjAsInBvc3RpX2xpYmVyaV9mIjoxLCJjZl9kaXJldHRvcmUiOiJNU0NOREE3MkE2OUk0NTlWIiwibm9tZV9kaXJldHRvcmUiOiJOYWRpYSIsImNvZ25vbWVfZGlyZXR0b3JlIjoiTW9zY29uaSIsInRlbGVmb25vX3JzYSI6IjA1NzUvMTM5MDAwNSIsImZheF9yc2EiOiIiLCJlbWFpbCI6InJzYXNlc3Rpbm9AY29tYXJzLm9yZyIsInNpdG9faW50ZXJuZXQiOiJ3d3cuY29tYXJzLm9yZyIsInRhcmlmZmFfcHJpdmF0YV9yYW5nZWQiOnsibWluaW1hIjoxMDgsIm1hc3NpbWEiOjEwOH0sIm1vZHVsbyI6WyJNb2R1bG8gYmFzZSJdLCJpbmRpcml6em9fc2VkZSI6IlZpYSBHaXVsaWFuYSBDaXVmZm9uaSBTdGFuZ2hpbmkgMTIiLCJjb2RfY29tdW5lX3NlZGUiOiIwNTEwMjUiLCJ0ZWxfc2VkZSI6IjA1NzU4NDQzNjQtODQ0MjM1IiwiZmF4X3NlZGUiOiIwNTc1ODQ0NTUwIiwiZW1haWxfc2VkZSI6ImluZm9AY29tYXJzLm9yZyIsInBvc3RhX2NlcnRpZmljYXRhX3NlZGUiOiJjb21hcnNAcGVjLmNvbmZjb29wZXJhdGl2ZS5pdCIsInJlc2lkZW56YSI6eyJudW1lcm9QaWFuaSI6MSwiZGV0dGFnbGlvQ2FtZXJlIjpbeyJudW1lcm9DYW1lcmUiOjcsIm51bWVyb0xldHRpIjoyLCJzZXJ2aXppUHJlc2VudGkiOlsiYmFnbm8gZGVkaWNhdG8iXX0seyJudW1lcm9DYW1lcmUiOjUsIm51bWVyb0xldHRpIjoxLCJzZXJ2aXppUHJlc2VudGkiOlsiYmFnbm8gZGVkaWNhdG8iXX1dfSwicHVudGlEaUludGVyZXNzZSI6WyJkaXN0cmV0dG8gc2FuaXRhcmlvIiwiYXV0b2J1cyIsImNoaWVzYSIsImNlbnRybyBzdG9yaWNvIiwidGVhdHJvIiwiYXNzb2NpYXppb25pIGRpIHZvbG9udGFyaWF0byJdLCJzcGF6aW9Fc3Rlcm5vIjoiU0kiLCJzZXJ2aXppU29jaW9TYW5pdGFyaSI6eyJhbmltYXppb25lU29jaW9FZHVjYXRpdmEiOnsiYW5pbWF6aW9uZVNvY2lvRWR1Y2F0aXZhU3BlYyI6W3siZ2lvcm5pU2V0dGltYW5hIjpbImx1bmVkaSIsIm1hcnRlZGkiLCJtZXJjb2xlZGkiLCJnaW92ZWRpIiwidmVuZXJkaSJdLCJvcmFJbml6aW8iOiIxMDowMCIsIm9yYUZpbmUiOiIxMTozMCJ9XX0sImZpc2lvdGVyYXBpYSI6eyJmaXNpb3RlcmFwaWFTcGVjIjpbeyJnaW9ybmlTZXR0aW1hbmEiOlsibHVuZWRpIiwibWVyY29sZWRpIl0sIm9yYUluaXppbyI6IjA5OjMwIiwib3JhRmluZSI6IjE0OjMwIn1dfSwiYXNzaXN0ZW56YUluZmVybWllcmlzdGljYSI6eyJhc3Npc3RlbnphSW5mZXJtaWVyaXN0aWNhU3BlYyI6eyJyZXBlcmliaWxpdGFOb3R0dXJuYSI6Ik5PIiwib3JhcmlTZXJ2aXppbyI6eyJvcmFJbml6aW8iOiIwODowMCIsIm9yYUZpbmUiOiIxNDowMCIsIm9yYUluaXppbzIiOiIxNjowMCIsIm9yYUZpbmUyIjoiMTg6MDAifX19LCJtZWRpY2lTcGVjaWFsaXN0aSI6eyJzdWJUaXRsZSI6IiIsImRldHRhZ2xpb1NwZWNpYWxpc3RpIjpbeyJtZWRpY29TcGVjaWFsaXN0YSI6InBzaWNoaWF0cmEiLCJlcm9nYXppb25lU2Vydml6aW8iOnsic2NlbHRhIjoiU3UgcmljaGllc3RhIiwib25SZXF1ZXN0IjoidHJ1ZSJ9LCJpbmNsdXNvUXVvdGEiOiJOTyJ9LHsibWVkaWNvU3BlY2lhbGlzdGEiOiJudXRyaXppb25pc3RhIiwiZXJvZ2F6aW9uZVNlcnZpemlvIjp7InNjZWx0YSI6IlN1IHJpY2hpZXN0YSIsIm9uUmVxdWVzdCI6InRydWUifSwiaW5jbHVzb1F1b3RhIjoiU0kifSx7Im1lZGljb1NwZWNpYWxpc3RhIjoiZ2VyaWF0cmEiLCJlcm9nYXppb25lU2Vydml6aW8iOnsic2NlbHRhIjoiU3UgcmljaGllc3RhIiwib25SZXF1ZXN0IjoidHJ1ZSJ9LCJpbmNsdXNvUXVvdGEiOiJTSSJ9LHsibWVkaWNvU3BlY2lhbGlzdGEiOiJkZW50aXN0YSIsImVyb2dhemlvbmVTZXJ2aXppbyI6eyJzY2VsdGEiOiJTdSByaWNoaWVzdGEiLCJvblJlcXVlc3QiOiJ0cnVlIn0sImluY2x1c29RdW90YSI6Ik5PIn1dfSwicHNpY29sb2dvIjp7Im5vblByZXZpc3RvIjp0cnVlLCJlcm9nYXppb25lU2Vydml6aW8iOnsibnVtZXJvTWVzZSI6MX0sImluY2x1c29RdW90YSI6Ik5PIn0sInBvZG9sb2dvIjp7ImVyb2dhemlvbmVTZXJ2aXppbyI6Ik4gdm9sdGUgYWwgbWVzZSIsIm51bWVyb1ZvbHRlIjoxLCJwcmVzdGF6aW9uaUluY2x1c2VNZXNlIjoxfX0sInNlcnZpemlBbGJlcmdoaWVyaSI6eyJjdWNpbmEiOnsidGlwb0N1Y2luYSI6IkludGVybmEifSwibGF2YW5kZXJpYSI6eyJpbmR1bWVudGlfcGVyc29uYWxpIjoiU0kifSwicGFycnVjY2hpZXJlIjp7ImVyb2dhemlvbmVTZXJ2aXppbyI6Ik4gdm9sdGUgYWwgbWVzZSIsIm51bWVyb1ZvbHRlIjoxLCJwcmVzdGF6aW9uaUluY2x1c2VNZXNlIjoxfSwiZXN0ZXRpc3RhIjp7Im5vblByZXZpc3RvIjp0cnVlLCJlcm9nYXppb25lU2Vydml6aW8iOnsic2NlbHRhIjoiU3UgcmljaGllc3RhIiwib25SZXF1ZXN0IjoidHJ1ZSJ9LCJpbmNsdXNvUXVvdGEiOiJOTyJ9LCJhc3Npc3RlbnphUmVsaWdpb3NhIjp7Im5vblByZXZpc3RvIjp0cnVlLCJhcGVydHVyYVRpcGlDdWx0byI6IlNJIiwiYXNzaXN0ZW56YVJlbGlnaW9zYVNwZWMiOlt7Imdpb3JuaVNldHRpbWFuYSI6WyJzYWJhdG8iXSwib3JhIjoiMTA6MDAifV19fSwiYWx0cmlTZXJ2aXppIjp7ImVsZW5jb1NlcnZpemkiOnsiQXBwYXJ0YW1lbnRpIHByb3RldHRpIjpmYWxzZSwiQXNzaXN0ZW56YSBEb21pY2lsaWFyZSI6ZmFsc2UsIkFzc2lzdGVuemEgcmVzaWRlbnppYWxlIHBlciByaWZ1Z2lhdGkvcHJvZnVnaGkiOmZhbHNlLCJBdHRpdml0YScgZmlzaWNhIGFkYXR0YXRhIjpmYWxzZSwiQ2FzYSBkZWxsYSBzYWx1dGUiOmZhbHNlLCJDZW50cm8gZGkgc29jaWFsaXp6YXppb25lIHBlciBhdXRvc3VmZmljaWVudGkiOmZhbHNlLCJDZW50cm8gZGl1cm5vIEFsemhlaW1lciI6ZmFsc2UsIkNlbnRybyBkaXVybm8gcGVyIGF1dG9zdWZmaWNpZW50aSI6ZmFsc2UsIkNlbnRybyBkaXVybm8gcGVyIG5vbiBhdXRvc3VmZmljaWVudGkiOmZhbHNlLCJMYXZhbmRlcmlhIHBlciBhc3Npc3RpdGkgYSBkb21pY2lsaW8iOmZhbHNlLCJPcmdhbml6emF6aW9uZSBkZWwgdHJhc3BvcnRvIGUgYWNjb21wYWduYW1lbnRvIGRlZ2xpIGFzc2lzdGl0aSBkZWFtYnVsYW50aSBwZXIgdmlzaXRlL3ByZXN0YXppb25pIHNhbml0YXJpZSwgYXZ2aXNhbmRvbmUgaSBmYW1pbGlhcmkiOmZhbHNlLCJQcmVzdGF6aW9uaSBkaSBhc3Npc3RlbnphIGRpIGJhc2UgcGVyIHV0ZW50aSBlc3Rlcm5pIChiYWdubyBhc3Npc3RpdG8pIjpmYWxzZSwiUmVzaWRlbnphIHBlciBBdXRvc3VmZmljaWVudGkiOmZhbHNlLCJSZXNpZGVuemEgc29jaWFsZSBwZXIgZGlzYWJpbGkgKFJTRCkiOmZhbHNlLCJSaXN0b3JhemlvbmUgYSBkb21pY2lsaW8iOmZhbHNlLCJSaXN0b3JhemlvbmUgcGVyIHV0ZW50aSBlc3Rlcm5pIjpmYWxzZSwiU2VncmV0YXJpYXRvIHNvY2lhbGUiOmZhbHNlLCJTZXJ2aXppbyBDb250aW51aXRhJyBBc3Npc3RlbnppYWxlIChFeCBHdWFyZGlhIE1lZGljYSkiOmZhbHNlLCJUcmFzcG9ydG8gcGVyIGFkdWx0aSBkaXNhYmlsaSI6ZmFsc2V9LCJzZXJ2aXppQW1taW5pc3RyYXRpdmkiOnsic2Vydml6aUFtbWluaXN0cmF0aXZpU3BlYyI6W3siZ2lvcm5pU2V0dGltYW5hIjpbImx1bmVkaSIsIm1hcnRlZGkiLCJtZXJjb2xlZGkiLCJnaW92ZWRpIiwidmVuZXJkaSIsInNhYmF0byJdLCJvcmFJbml6aW8iOiIwODowMCIsIm9yYUZpbmUiOiIxNDowMCJ9XX0sImRpcmV6aW9uZSI6eyJkaXJlemlvbmVTcGVjIjpbeyJnaW9ybmlTZXR0aW1hbmEiOlsibHVuZWRpIiwibWFydGVkaSIsIm1lcmNvbGVkaSIsImdpb3ZlZGkiLCJ2ZW5lcmRpIiwic2FiYXRvIl0sIm9yYUluaXppbyI6IjA4OjAwIiwib3JhRmluZSI6IjE0OjAwIn1dfSwib3JhcmlvVmlzaXRlIjp7Im9yYXJpb1Zpc2l0ZVNwZWMiOnsib3JhcmlTZXJ2aXppbyI6eyJvcmFJbml6aW8iOiIxMDowMCIsIm9yYUZpbmUiOiIxMDo0NSIsIm9yYUluaXppbzIiOiIxMTowMCIsIm9yYUZpbmUyIjoiMTE6NDUifX19fX0sImFycyI6eyJub21lIjoiU2VzdGlubyBHLiBCZXJ0b3p6aSIsImNvZF9zdHMyNCI6IjI5MTE0SSIsImF0dGl2YSI6IjEiLCJhY2NvcmRvIjoiMSIsImluZGlyaXp6byI6IlZpYSBkZWkgVGlnbGksIDE3IiwiY29kX2NvbXVuZSI6IjUxMDM1IiwiZ2VzdGlvbmUiOiJwcml2YXRhIiwicXVvdGEiOjU0LjY0LCJxdW90YXNhbml0YXJpYSI6NTkuMX19",
-        "posti_liberi_int": 1,
+        "json_data": "eyJpZCI6MjIzLCJzdHJ1dHR1cmEiOnsiYXZ2aXNvRGVjaW1hbGUiOiIiLCJwb3N0aV9tb2R1bG9fYmFzZSI6MTksInBvc3RpX2xpYmVyaSI6MTksInBvc3RpX2xpYmVyaV9tIjowLCJwb3N0aV9saWJlcmlfZiI6MCwiY2ZfZGlyZXR0b3JlIjoiTVNDTkRBNzJBNjlJNDU5ViIsIm5vbWVfZGlyZXR0b3JlIjoiTmFkaWEiLCJjb2dub21lX2RpcmV0dG9yZSI6Ik1vc2NvbmkiLCJ0ZWxlZm9ub19yc2EiOiIwNTc1LzEzOTAwMDUiLCJmYXhfcnNhIjoiIiwiZW1haWwiOiJyc2FzZXN0aW5vQGNvbWFycy5vcmciLCJzaXRvX2ludGVybmV0Ijoid3d3LmNvbWFycy5vcmciLCJ0YXJpZmZhX3ByaXZhdGFfcmFuZ2VkIjp7Im1pbmltYSI6MTA4LCJtYXNzaW1hIjoxMDh9LCJtb2R1bG8iOlsiTW9kdWxvIGJhc2UiXSwiaW5kaXJpenpvX3NlZGUiOiJWaWEgR2l1bGlhbmEgQ2l1ZmZvbmkgU3RhbmdoaW5pIDEyIiwiY29kX2NvbXVuZV9zZWRlIjoiMDUxMDI1IiwidGVsX3NlZGUiOiIwNTc1ODQ0MzY0LTg0NDIzNSIsImZheF9zZWRlIjoiMDU3NTg0NDU1MCIsImVtYWlsX3NlZGUiOiJpbmZvQGNvbWFycy5vcmciLCJwb3N0YV9jZXJ0aWZpY2F0YV9zZWRlIjoiY29tYXJzQHBlYy5jb25mY29vcGVyYXRpdmUuaXQiLCJyZXNpZGVuemEiOnsibnVtZXJvUGlhbmkiOjEsImRldHRhZ2xpb0NhbWVyZSI6W3sibnVtZXJvQ2FtZXJlIjo3LCJudW1lcm9MZXR0aSI6Miwic2Vydml6aVByZXNlbnRpIjpbImJhZ25vIGRlZGljYXRvIl19LHsibnVtZXJvQ2FtZXJlIjo1LCJudW1lcm9MZXR0aSI6MSwic2Vydml6aVByZXNlbnRpIjpbImJhZ25vIGRlZGljYXRvIl19XX0sInB1bnRpRGlJbnRlcmVzc2UiOlsiZGlzdHJldHRvIHNhbml0YXJpbyIsImF1dG9idXMiLCJjaGllc2EiLCJjZW50cm8gc3RvcmljbyIsInRlYXRybyIsImFzc29jaWF6aW9uaSBkaSB2b2xvbnRhcmlhdG8iXSwic3BhemlvRXN0ZXJubyI6IlNJIiwic2Vydml6aVNvY2lvU2FuaXRhcmkiOnsiYW5pbWF6aW9uZVNvY2lvRWR1Y2F0aXZhIjp7ImFuaW1hemlvbmVTb2Npb0VkdWNhdGl2YVNwZWMiOlt7Imdpb3JuaVNldHRpbWFuYSI6WyJsdW5lZGkiLCJtYXJ0ZWRpIiwibWVyY29sZWRpIiwiZ2lvdmVkaSIsInZlbmVyZGkiXSwib3JhSW5pemlvIjoiMTA6MDAiLCJvcmFGaW5lIjoiMTE6MzAifV19LCJmaXNpb3RlcmFwaWEiOnsiZmlzaW90ZXJhcGlhU3BlYyI6W3siZ2lvcm5pU2V0dGltYW5hIjpbImx1bmVkaSIsIm1lcmNvbGVkaSJdLCJvcmFJbml6aW8iOiIwOTozMCIsIm9yYUZpbmUiOiIxNDozMCJ9XX0sImFzc2lzdGVuemFJbmZlcm1pZXJpc3RpY2EiOnsiYXNzaXN0ZW56YUluZmVybWllcmlzdGljYVNwZWMiOnsicmVwZXJpYmlsaXRhTm90dHVybmEiOiJOTyIsIm9yYXJpU2Vydml6aW8iOnsib3JhSW5pemlvIjoiMDg6MDAiLCJvcmFGaW5lIjoiMTQ6MDAiLCJvcmFJbml6aW8yIjoiMTY6MDAiLCJvcmFGaW5lMiI6IjE4OjAwIn19fSwibWVkaWNpU3BlY2lhbGlzdGkiOnsic3ViVGl0bGUiOiIiLCJkZXR0YWdsaW9TcGVjaWFsaXN0aSI6W3sibWVkaWNvU3BlY2lhbGlzdGEiOiJwc2ljaGlhdHJhIiwiZXJvZ2F6aW9uZVNlcnZpemlvIjp7InNjZWx0YSI6IlN1IHJpY2hpZXN0YSIsIm9uUmVxdWVzdCI6InRydWUifSwiaW5jbHVzb1F1b3RhIjoiTk8ifSx7Im1lZGljb1NwZWNpYWxpc3RhIjoibnV0cml6aW9uaXN0YSIsImVyb2dhemlvbmVTZXJ2aXppbyI6eyJzY2VsdGEiOiJTdSByaWNoaWVzdGEiLCJvblJlcXVlc3QiOiJ0cnVlIn0sImluY2x1c29RdW90YSI6IlNJIn0seyJtZWRpY29TcGVjaWFsaXN0YSI6ImdlcmlhdHJhIiwiZXJvZ2F6aW9uZVNlcnZpemlvIjp7InNjZWx0YSI6IlN1IHJpY2hpZXN0YSIsIm9uUmVxdWVzdCI6InRydWUifSwiaW5jbHVzb1F1b3RhIjoiU0kifSx7Im1lZGljb1NwZWNpYWxpc3RhIjoiZGVudGlzdGEiLCJlcm9nYXppb25lU2Vydml6aW8iOnsic2NlbHRhIjoiU3UgcmljaGllc3RhIiwib25SZXF1ZXN0IjoidHJ1ZSJ9LCJpbmNsdXNvUXVvdGEiOiJOTyJ9XX0sInBzaWNvbG9nbyI6eyJub25QcmV2aXN0byI6dHJ1ZSwiZXJvZ2F6aW9uZVNlcnZpemlvIjp7Im51bWVyb01lc2UiOjF9LCJpbmNsdXNvUXVvdGEiOiJOTyJ9LCJwb2RvbG9nbyI6eyJlcm9nYXppb25lU2Vydml6aW8iOiJOIHZvbHRlIGFsIG1lc2UiLCJudW1lcm9Wb2x0ZSI6MSwicHJlc3RhemlvbmlJbmNsdXNlTWVzZSI6MX19LCJzZXJ2aXppQWxiZXJnaGllcmkiOnsiY3VjaW5hIjp7InRpcG9DdWNpbmEiOiJJbnRlcm5hIn0sImxhdmFuZGVyaWEiOnsiaW5kdW1lbnRpX3BlcnNvbmFsaSI6IlNJIn0sInBhcnJ1Y2NoaWVyZSI6eyJlcm9nYXppb25lU2Vydml6aW8iOiJOIHZvbHRlIGFsIG1lc2UiLCJudW1lcm9Wb2x0ZSI6MSwicHJlc3RhemlvbmlJbmNsdXNlTWVzZSI6MX0sImVzdGV0aXN0YSI6eyJub25QcmV2aXN0byI6dHJ1ZSwiZXJvZ2F6aW9uZVNlcnZpemlvIjp7InNjZWx0YSI6IlN1IHJpY2hpZXN0YSIsIm9uUmVxdWVzdCI6InRydWUifSwiaW5jbHVzb1F1b3RhIjoiTk8ifSwiYXNzaXN0ZW56YVJlbGlnaW9zYSI6eyJub25QcmV2aXN0byI6dHJ1ZSwiYXBlcnR1cmFUaXBpQ3VsdG8iOiJTSSIsImFzc2lzdGVuemFSZWxpZ2lvc2FTcGVjIjpbeyJnaW9ybmlTZXR0aW1hbmEiOlsic2FiYXRvIl0sIm9yYSI6IjEwOjAwIn1dfX0sImFsdHJpU2Vydml6aSI6eyJlbGVuY29TZXJ2aXppIjp7IkFwcGFydGFtZW50aSBwcm90ZXR0aSI6ZmFsc2UsIkFzc2lzdGVuemEgRG9taWNpbGlhcmUiOmZhbHNlLCJBc3Npc3RlbnphIHJlc2lkZW56aWFsZSBwZXIgcmlmdWdpYXRpL3Byb2Z1Z2hpIjpmYWxzZSwiQXR0aXZpdGEnIGZpc2ljYSBhZGF0dGF0YSI6ZmFsc2UsIkNhc2EgZGVsbGEgc2FsdXRlIjpmYWxzZSwiQ2VudHJvIGRpIHNvY2lhbGl6emF6aW9uZSBwZXIgYXV0b3N1ZmZpY2llbnRpIjpmYWxzZSwiQ2VudHJvIGRpdXJubyBBbHpoZWltZXIiOmZhbHNlLCJDZW50cm8gZGl1cm5vIHBlciBhdXRvc3VmZmljaWVudGkiOmZhbHNlLCJDZW50cm8gZGl1cm5vIHBlciBub24gYXV0b3N1ZmZpY2llbnRpIjpmYWxzZSwiTGF2YW5kZXJpYSBwZXIgYXNzaXN0aXRpIGEgZG9taWNpbGlvIjpmYWxzZSwiT3JnYW5penphemlvbmUgZGVsIHRyYXNwb3J0byBlIGFjY29tcGFnbmFtZW50byBkZWdsaSBhc3Npc3RpdGkgZGVhbWJ1bGFudGkgcGVyIHZpc2l0ZS9wcmVzdGF6aW9uaSBzYW5pdGFyaWUsIGF2dmlzYW5kb25lIGkgZmFtaWxpYXJpIjpmYWxzZSwiUHJlc3RhemlvbmkgZGkgYXNzaXN0ZW56YSBkaSBiYXNlIHBlciB1dGVudGkgZXN0ZXJuaSAoYmFnbm8gYXNzaXN0aXRvKSI6ZmFsc2UsIlJlc2lkZW56YSBwZXIgQXV0b3N1ZmZpY2llbnRpIjpmYWxzZSwiUmVzaWRlbnphIHNvY2lhbGUgcGVyIGRpc2FiaWxpIChSU0QpIjpmYWxzZSwiUmlzdG9yYXppb25lIGEgZG9taWNpbGlvIjpmYWxzZSwiUmlzdG9yYXppb25lIHBlciB1dGVudGkgZXN0ZXJuaSI6ZmFsc2UsIlNlZ3JldGFyaWF0byBzb2NpYWxlIjpmYWxzZSwiU2Vydml6aW8gQ29udGludWl0YScgQXNzaXN0ZW56aWFsZSAoRXggR3VhcmRpYSBNZWRpY2EpIjpmYWxzZSwiVHJhc3BvcnRvIHBlciBhZHVsdGkgZGlzYWJpbGkiOmZhbHNlfSwic2Vydml6aUFtbWluaXN0cmF0aXZpIjp7InNlcnZpemlBbW1pbmlzdHJhdGl2aVNwZWMiOlt7Imdpb3JuaVNldHRpbWFuYSI6WyJsdW5lZGkiLCJtYXJ0ZWRpIiwibWVyY29sZWRpIiwiZ2lvdmVkaSIsInZlbmVyZGkiLCJzYWJhdG8iXSwib3JhSW5pemlvIjoiMDg6MDAiLCJvcmFGaW5lIjoiMTQ6MDAifV19LCJkaXJlemlvbmUiOnsiZGlyZXppb25lU3BlYyI6W3siZ2lvcm5pU2V0dGltYW5hIjpbImx1bmVkaSIsIm1hcnRlZGkiLCJtZXJjb2xlZGkiLCJnaW92ZWRpIiwidmVuZXJkaSIsInNhYmF0byJdLCJvcmFJbml6aW8iOiIwODowMCIsIm9yYUZpbmUiOiIxNDowMCJ9XX0sIm9yYXJpb1Zpc2l0ZSI6eyJvcmFyaW9WaXNpdGVTcGVjIjp7Im9yYXJpU2Vydml6aW8iOnsib3JhSW5pemlvIjoiMTA6MDAiLCJvcmFGaW5lIjoiMTA6NDUiLCJvcmFJbml6aW8yIjoiMTE6MDAiLCJvcmFGaW5lMiI6IjExOjQ1In19fX19LCJhcnMiOnsibm9tZSI6IlNlc3Rpbm8gRy4gQmVydG96emkiLCJjb2Rfc3RzMjQiOiIyOTExNEkiLCJhdHRpdmEiOiIxIiwiYWNjb3JkbyI6IjEiLCJpbmRpcml6em8iOiJWaWEgZGVpIFRpZ2xpLCAxNyIsImNvZF9jb211bmUiOiI1MTAzNSIsImdlc3Rpb25lIjoicHJpdmF0YSIsInF1b3RhIjo1NC42NCwicXVvdGFzYW5pdGFyaWEiOjU5LjF9fQ==",
+        "posti_liberi_int": 19,
         "posti_liberi_m_int": 0,
-        "posti_liberi_f_int": 1,
+        "posti_liberi_f_int": 0,
         "decoded_details": {
             "id": 223,
             "struttura": {
                 "avvisoDecimale": "",
                 "posti_modulo_base": 19,
-                "posti_liberi": 1,
+                "posti_liberi": 19,
                 "posti_liberi_m": 0,
-                "posti_liberi_f": 1,
+                "posti_liberi_f": 0,
                 "cf_direttore": "MSCNDA72A69I459V",
                 "nome_direttore": "Nadia",
                 "cognome_direttore": "Mosconi",
@@ -11388,305 +11034,6 @@
         "posti_liberi_m_int": 22,
         "posti_liberi_f_int": 22,
         "decoded_details": null
-    },
-    {
-        "id": "16",
-        "foto0": "vers_villa_dei_fiori_struttura.png",
-        "foto1": "vers_villa_dei_fiori_letti.jpg",
-        "foto2": "vers_villa_dei_fiori_interno.jpg",
-        "foto3": "vers_villa_dei_fiori_giardino.jpg",
-        "foto4": "vers_villa_dei_fiori_esterno.jpg",
-        "foto5": "vers_villa_dei_fiori_entrata.jpg",
-        "nome": "Villa dei Fiori",
-        "tipo": "",
-        "gestione": "privata",
-        "indirizzo": "Via Fratti, 720",
-        "cod_comune": "46033",
-        "comune": "Viareggio",
-        "zona": "Versilia",
-        "tel1_zona": "0584-6059269",
-        "tel2_zona": "",
-        "tel3_zona": "",
-        "telefono": "0584-6059381",
-        "rsa_ico_animazione": "animazione_socio-educativa.png",
-        "rsa_ico_fisioterapia": "fisioterapia.png",
-        "rsa_ico_cucina": "ristorazione_interna.png",
-        "rsa_ico_giardino": "giardino.png",
-        "rsa_ico_parrucchiere": "parrucchiere.png",
-        "rsa_ico_barbiere": "",
-        "rsa_ico_estetista": "estetista.png",
-        "rsa_ico_relig": "assistenza_religiosa.png",
-        "rsa_ico_geriatra": "",
-        "rsa_ico_assistenza_infermieristica": "assistenza_infermieristica.png",
-        "rsa_ico_psicologo": "",
-        "rsa_ico_podologo": "podologo.png",
-        "rsa_ico_lavanderia": "lavanderia.png",
-        "rsa_ico_postoletto": "",
-        "rsa_posti_liberi": "1",
-        "rsa_quota": "53.50",
-        "rsa_quotasanitaria": "59.10",
-        "rsa_quota_img": "quota_villa_dei_fiori.png",
-        "rsa_mod_base": "si",
-        "rsa_mod_cogn": "",
-        "rsa_mod_riab": "",
-        "rsa_mod_veg": "",
-        "rsa_attiva": "1",
-        "rsa_nome_brochure": "vers_villadeifiori.pdf",
-        "rsa_data_aggiornamento": "2026.05.13 12:12:24",
-        "lat": "43.8816482513180972",
-        "lon": "10.2419214976982005",
-        "gbnord": "4859494",
-        "gbest": "1599797",
-        "accordo": "1",
-        "cod_sts24": "20364I",
-        "posti_liberi_m": "0",
-        "posti_liberi_f": "1",
-        "indirizzo_sede": "via Fratti 720 Viareggio",
-        "comune_sede": "Viareggio",
-        "fax_sede": "NULL",
-        "telefono_sede": "0584 51108",
-        "email_sede": "rsavilladeifiorisrl@gmail.com",
-        "posta_certificata_sede": "villadeifiori@pec.it",
-        "json_data": "eyJpZCI6MTYsInN0cnV0dHVyYSI6eyJhdnZpc29EZWNpbWFsZSI6IiIsInBvc3RpX21vZHVsb19iYXNlIjoyMiwicG9zdGlfbGliZXJpIjoxLCJwb3N0aV9saWJlcmlfbSI6MCwicG9zdGlfbGliZXJpX2YiOjEsImNmX2RpcmV0dG9yZSI6IlNDUkxOWjcxUDE4RjUzN0IiLCJub21lX2RpcmV0dG9yZSI6IkxvcmVuem8iLCJjb2dub21lX2RpcmV0dG9yZSI6IlNjb3JkYW1hZ2xpYSBMb3JlbnpvIiwidGVsZWZvbm9fcnNhIjoiMDU4NCA1MTEwOCIsImZheF9yc2EiOiIiLCJlbWFpbCI6InJzYXZpbGxhZGVpZmlvcmlzcmxAZ21haWwuY29tIiwic2l0b19pbnRlcm5ldCI6Ind3dy52aWxsYWRlaWZpb3JpdmlhcmVnZ2lvLml0IiwidGFyaWZmYV9wcml2YXRhX3JhbmdlZCI6eyJtaW5pbWEiOjExMiwibWFzc2ltYSI6MTE4fSwibW9kdWxvIjpbIk1vZHVsbyBiYXNlIl0sImluZGlyaXp6b19zZWRlIjoidmlhIEZyYXR0aSA3MjAgVmlhcmVnZ2lvIiwiY29kX2NvbXVuZV9zZWRlIjoiMDQ2MDMzIiwidGVsX3NlZGUiOiIwNTg0IDUxMTA4IiwiZmF4X3NlZGUiOiIiLCJlbWFpbF9zZWRlIjoicnNhdmlsbGFkZWlmaW9yaXNybEBnbWFpbC5jb20iLCJwb3N0YV9jZXJ0aWZpY2F0YV9zZWRlIjoidmlsbGFkZWlmaW9yaUBwZWMuaXQiLCJyZXNpZGVuemEiOnsibnVtZXJvUGlhbmkiOjMsImRldHRhZ2xpb0NhbWVyZSI6W3sibnVtZXJvQ2FtZXJlIjoxMSwibnVtZXJvTGV0dGkiOjIyLCJzZXJ2aXppUHJlc2VudGkiOlsiYmFnbm8gY29uZGl2aXNvIiwid2lmaSJdfV19LCJwdW50aURpSW50ZXJlc3NlIjpbImRpc3RyZXR0byBzYW5pdGFyaW8iLCJhdXRvYnVzIiwiY2hpZXNhIiwiY2VudHJvIHN0b3JpY28iLCJ0ZWF0cm8iLCJjaW5lbWEiLCJzdGF6aW9uZSBmZXJyb3ZpYXJpYSJdLCJzcGF6aW9Fc3Rlcm5vIjoiU0kiLCJzZXJ2aXppU29jaW9TYW5pdGFyaSI6eyJhbmltYXppb25lU29jaW9FZHVjYXRpdmEiOnsiYW5pbWF6aW9uZVNvY2lvRWR1Y2F0aXZhU3BlYyI6W3siZ2lvcm5pU2V0dGltYW5hIjpbImx1bmVkaSIsIm1hcnRlZGkiLCJtZXJjb2xlZGkiLCJnaW92ZWRpIiwidmVuZXJkaSJdLCJvcmFJbml6aW8iOiIwODozMCIsIm9yYUZpbmUiOiIxMzozMCJ9LHsiZ2lvcm5pU2V0dGltYW5hIjpbImx1bmVkaSIsIm1hcnRlZGkiLCJtZXJjb2xlZGkiLCJnaW92ZWRpIiwidmVuZXJkaSJdLCJvcmFJbml6aW8iOiIxNDozMCIsIm9yYUZpbmUiOiIxNzozMCJ9LHsiZ2lvcm5pU2V0dGltYW5hIjpbInNhYmF0byJdLCJvcmFJbml6aW8iOiIxNDozMCIsIm9yYUZpbmUiOiIxNzozMCJ9XX0sImZpc2lvdGVyYXBpYSI6eyJmaXNpb3RlcmFwaWFTcGVjIjpbeyJnaW9ybmlTZXR0aW1hbmEiOlsibWFydGVkaSIsIm1lcmNvbGVkaSIsInZlbmVyZGkiXSwib3JhSW5pemlvIjoiMDg6MDAiLCJvcmFGaW5lIjoiMTI6MDAifV19LCJhc3Npc3RlbnphSW5mZXJtaWVyaXN0aWNhIjp7ImFzc2lzdGVuemFJbmZlcm1pZXJpc3RpY2FTcGVjIjp7InJlcGVyaWJpbGl0YU5vdHR1cm5hIjoiU0kiLCJvcmFyaVNlcnZpemlvIjp7Im9yYUluaXppbyI6IjA3OjAwIiwib3JhRmluZSI6IjE0OjAwIiwib3JhSW5pemlvMiI6IjE1OjMwIiwib3JhRmluZTIiOiIxOTozMCJ9fX0sIm1lZGljaVNwZWNpYWxpc3RpIjp7InN1YlRpdGxlIjoiIiwiZGV0dGFnbGlvU3BlY2lhbGlzdGkiOltdfSwicHNpY29sb2dvIjp7Im5vblByZXZpc3RvIjp0cnVlLCJlcm9nYXppb25lU2Vydml6aW8iOnsic2NlbHRhIjoiVHV0dGkgaSBnaW9ybmkiLCJhbGxEYXlzIjoidHJ1ZSJ9LCJpbmNsdXNvUXVvdGEiOiJTSSJ9LCJwb2RvbG9nbyI6eyJlcm9nYXppb25lU2Vydml6aW8iOiJTdSByaWNoaWVzdGEiLCJudW1lcm9Wb2x0ZSI6MSwicHJlc3RhemlvbmlJbmNsdXNlTWVzZSI6MX19LCJzZXJ2aXppQWxiZXJnaGllcmkiOnsiY3VjaW5hIjp7InRpcG9DdWNpbmEiOiJJbnRlcm5hIn0sImxhdmFuZGVyaWEiOnsiaW5kdW1lbnRpX3BlcnNvbmFsaSI6IlNJIn0sInBhcnJ1Y2NoaWVyZSI6eyJlcm9nYXppb25lU2Vydml6aW8iOiJTdSByaWNoaWVzdGEiLCJudW1lcm9Wb2x0ZSI6MSwicHJlc3RhemlvbmlJbmNsdXNlTWVzZSI6MX0sImVzdGV0aXN0YSI6eyJub25QcmV2aXN0byI6ZmFsc2UsImVyb2dhemlvbmVTZXJ2aXppbyI6eyJzY2VsdGEiOiJTdSByaWNoaWVzdGEiLCJvblJlcXVlc3QiOiJ0cnVlIn0sImluY2x1c29RdW90YSI6Ik5PIn0sImFzc2lzdGVuemFSZWxpZ2lvc2EiOnsibm9uUHJldmlzdG8iOmZhbHNlLCJhcGVydHVyYVRpcGlDdWx0byI6IlNJIiwiYXNzaXN0ZW56YVJlbGlnaW9zYVNwZWMiOlt7Imdpb3JuaVNldHRpbWFuYSI6WyJkb21lbmljYSJdLCJvcmEiOiIxMTowMCJ9XX19LCJhbHRyaVNlcnZpemkiOnsiZWxlbmNvU2Vydml6aSI6eyJBcHBhcnRhbWVudGkgcHJvdGV0dGkiOmZhbHNlLCJBc3Npc3RlbnphIERvbWljaWxpYXJlIjpmYWxzZSwiQXNzaXN0ZW56YSByZXNpZGVuemlhbGUgcGVyIHJpZnVnaWF0aS9wcm9mdWdoaSI6ZmFsc2UsIkF0dGl2aXRhJyBmaXNpY2EgYWRhdHRhdGEiOmZhbHNlLCJDYXNhIGRlbGxhIHNhbHV0ZSI6ZmFsc2UsIkNlbnRybyBkaSBzb2NpYWxpenphemlvbmUgcGVyIGF1dG9zdWZmaWNpZW50aSI6ZmFsc2UsIkNlbnRybyBkaXVybm8gQWx6aGVpbWVyIjpmYWxzZSwiQ2VudHJvIGRpdXJubyBwZXIgYXV0b3N1ZmZpY2llbnRpIjpmYWxzZSwiQ2VudHJvIGRpdXJubyBwZXIgbm9uIGF1dG9zdWZmaWNpZW50aSI6ZmFsc2UsIkxhdmFuZGVyaWEgcGVyIGFzc2lzdGl0aSBhIGRvbWljaWxpbyI6ZmFsc2UsIk9yZ2FuaXp6YXppb25lIGRlbCB0cmFzcG9ydG8gZSBhY2NvbXBhZ25hbWVudG8gZGVnbGkgYXNzaXN0aXRpIGRlYW1idWxhbnRpIHBlciB2aXNpdGUvcHJlc3Rhemlvbmkgc2FuaXRhcmllLCBhdnZpc2FuZG9uZSBpIGZhbWlsaWFyaSI6dHJ1ZSwiUHJlc3RhemlvbmkgZGkgYXNzaXN0ZW56YSBkaSBiYXNlIHBlciB1dGVudGkgZXN0ZXJuaSAoYmFnbm8gYXNzaXN0aXRvKSI6ZmFsc2UsIlJlc2lkZW56YSBwZXIgQXV0b3N1ZmZpY2llbnRpIjp0cnVlLCJSZXNpZGVuemEgc29jaWFsZSBwZXIgZGlzYWJpbGkgKFJTRCkiOmZhbHNlLCJSaXN0b3JhemlvbmUgYSBkb21pY2lsaW8iOmZhbHNlLCJSaXN0b3JhemlvbmUgcGVyIHV0ZW50aSBlc3Rlcm5pIjpmYWxzZSwiU2VncmV0YXJpYXRvIHNvY2lhbGUiOmZhbHNlLCJTZXJ2aXppbyBDb250aW51aXRhJyBBc3Npc3RlbnppYWxlIChFeCBHdWFyZGlhIE1lZGljYSkiOmZhbHNlLCJUcmFzcG9ydG8gcGVyIGFkdWx0aSBkaXNhYmlsaSI6ZmFsc2V9LCJzZXJ2aXppQW1taW5pc3RyYXRpdmkiOnsic2Vydml6aUFtbWluaXN0cmF0aXZpU3BlYyI6W3siZ2lvcm5pU2V0dGltYW5hIjpbImx1bmVkaSIsIm1hcnRlZGkiLCJtZXJjb2xlZGkiLCJnaW92ZWRpIiwidmVuZXJkaSJdLCJvcmFJbml6aW8iOiIwOTowMCIsIm9yYUZpbmUiOiIxNTowMCJ9XX0sImRpcmV6aW9uZSI6eyJkaXJlemlvbmVTcGVjIjpbeyJnaW9ybmlTZXR0aW1hbmEiOlsibHVuZWRpIiwibWFydGVkaSIsIm1lcmNvbGVkaSIsImdpb3ZlZGkiLCJ2ZW5lcmRpIl0sIm9yYUluaXppbyI6IjA5OjAwIiwib3JhRmluZSI6IjE1OjAwIn1dfSwib3JhcmlvVmlzaXRlIjp7Im9yYXJpb1Zpc2l0ZVNwZWMiOnsib3JhcmlTZXJ2aXppbyI6eyJvcmFJbml6aW8iOiIxMDowMCIsIm9yYUZpbmUiOiIxMTozMCIsIm9yYUluaXppbzIiOiIxNTowMCIsIm9yYUZpbmUyIjoiMTc6MDAifX19fX0sImFycyI6eyJub21lIjoiVmlsbGEgZGVpIEZpb3JpIiwiY29kX3N0czI0IjoiMjAzNjRJIiwiYXR0aXZhIjoiMSIsImFjY29yZG8iOiIxIiwiaW5kaXJpenpvIjoiVmlhIEZyYXR0aSwgNzIwIiwiY29kX2NvbXVuZSI6IjQ2MDMzIiwiZ2VzdGlvbmUiOiJwcml2YXRhIiwicXVvdGEiOjUzLjUsInF1b3Rhc2FuaXRhcmlhIjo1OS4xfX0=",
-        "posti_liberi_int": 1,
-        "posti_liberi_m_int": 0,
-        "posti_liberi_f_int": 1,
-        "decoded_details": {
-            "id": 16,
-            "struttura": {
-                "avvisoDecimale": "",
-                "posti_modulo_base": 22,
-                "posti_liberi": 1,
-                "posti_liberi_m": 0,
-                "posti_liberi_f": 1,
-                "cf_direttore": "SCRLNZ71P18F537B",
-                "nome_direttore": "Lorenzo",
-                "cognome_direttore": "Scordamaglia Lorenzo",
-                "telefono_rsa": "0584 51108",
-                "fax_rsa": "",
-                "email": "rsavilladeifiorisrl@gmail.com",
-                "sito_internet": "www.villadeifioriviareggio.it",
-                "tariffa_privata_ranged": {
-                    "minima": 112,
-                    "massima": 118
-                },
-                "modulo": [
-                    "Modulo base"
-                ],
-                "indirizzo_sede": "via Fratti 720 Viareggio",
-                "cod_comune_sede": "046033",
-                "tel_sede": "0584 51108",
-                "fax_sede": "",
-                "email_sede": "rsavilladeifiorisrl@gmail.com",
-                "posta_certificata_sede": "villadeifiori@pec.it",
-                "residenza": {
-                    "numeroPiani": 3,
-                    "dettaglioCamere": [
-                        {
-                            "numeroCamere": 11,
-                            "numeroLetti": 22,
-                            "serviziPresenti": [
-                                "bagno condiviso",
-                                "wifi"
-                            ]
-                        }
-                    ]
-                },
-                "puntiDiInteresse": [
-                    "distretto sanitario",
-                    "autobus",
-                    "chiesa",
-                    "centro storico",
-                    "teatro",
-                    "cinema",
-                    "stazione ferroviaria"
-                ],
-                "spazioEsterno": "SI",
-                "serviziSocioSanitari": {
-                    "animazioneSocioEducativa": {
-                        "animazioneSocioEducativaSpec": [
-                            {
-                                "giorniSettimana": [
-                                    "lunedi",
-                                    "martedi",
-                                    "mercoledi",
-                                    "giovedi",
-                                    "venerdi"
-                                ],
-                                "oraInizio": "08:30",
-                                "oraFine": "13:30"
-                            },
-                            {
-                                "giorniSettimana": [
-                                    "lunedi",
-                                    "martedi",
-                                    "mercoledi",
-                                    "giovedi",
-                                    "venerdi"
-                                ],
-                                "oraInizio": "14:30",
-                                "oraFine": "17:30"
-                            },
-                            {
-                                "giorniSettimana": [
-                                    "sabato"
-                                ],
-                                "oraInizio": "14:30",
-                                "oraFine": "17:30"
-                            }
-                        ]
-                    },
-                    "fisioterapia": {
-                        "fisioterapiaSpec": [
-                            {
-                                "giorniSettimana": [
-                                    "martedi",
-                                    "mercoledi",
-                                    "venerdi"
-                                ],
-                                "oraInizio": "08:00",
-                                "oraFine": "12:00"
-                            }
-                        ]
-                    },
-                    "assistenzaInfermieristica": {
-                        "assistenzaInfermieristicaSpec": {
-                            "reperibilitaNotturna": "SI",
-                            "orariServizio": {
-                                "oraInizio": "07:00",
-                                "oraFine": "14:00",
-                                "oraInizio2": "15:30",
-                                "oraFine2": "19:30"
-                            }
-                        }
-                    },
-                    "mediciSpecialisti": {
-                        "subTitle": "",
-                        "dettaglioSpecialisti": []
-                    },
-                    "psicologo": {
-                        "nonPrevisto": true,
-                        "erogazioneServizio": {
-                            "scelta": "Tutti i giorni",
-                            "allDays": "true"
-                        },
-                        "inclusoQuota": "SI"
-                    },
-                    "podologo": {
-                        "erogazioneServizio": "Su richiesta",
-                        "numeroVolte": 1,
-                        "prestazioniIncluseMese": 1
-                    }
-                },
-                "serviziAlberghieri": {
-                    "cucina": {
-                        "tipoCucina": "Interna"
-                    },
-                    "lavanderia": {
-                        "indumenti_personali": "SI"
-                    },
-                    "parrucchiere": {
-                        "erogazioneServizio": "Su richiesta",
-                        "numeroVolte": 1,
-                        "prestazioniIncluseMese": 1
-                    },
-                    "estetista": {
-                        "nonPrevisto": false,
-                        "erogazioneServizio": {
-                            "scelta": "Su richiesta",
-                            "onRequest": "true"
-                        },
-                        "inclusoQuota": "NO"
-                    },
-                    "assistenzaReligiosa": {
-                        "nonPrevisto": false,
-                        "aperturaTipiCulto": "SI",
-                        "assistenzaReligiosaSpec": [
-                            {
-                                "giorniSettimana": [
-                                    "domenica"
-                                ],
-                                "ora": "11:00"
-                            }
-                        ]
-                    }
-                },
-                "altriServizi": {
-                    "elencoServizi": {
-                        "Appartamenti protetti": false,
-                        "Assistenza Domiciliare": false,
-                        "Assistenza residenziale per rifugiati/profughi": false,
-                        "Attivita' fisica adattata": false,
-                        "Casa della salute": false,
-                        "Centro di socializzazione per autosufficienti": false,
-                        "Centro diurno Alzheimer": false,
-                        "Centro diurno per autosufficienti": false,
-                        "Centro diurno per non autosufficienti": false,
-                        "Lavanderia per assistiti a domicilio": false,
-                        "Organizzazione del trasporto e accompagnamento degli assistiti deambulanti per visite/prestazioni sanitarie, avvisandone i familiari": true,
-                        "Prestazioni di assistenza di base per utenti esterni (bagno assistito)": false,
-                        "Residenza per Autosufficienti": true,
-                        "Residenza sociale per disabili (RSD)": false,
-                        "Ristorazione a domicilio": false,
-                        "Ristorazione per utenti esterni": false,
-                        "Segretariato sociale": false,
-                        "Servizio Continuita' Assistenziale (Ex Guardia Medica)": false,
-                        "Trasporto per adulti disabili": false
-                    },
-                    "serviziAmministrativi": {
-                        "serviziAmministrativiSpec": [
-                            {
-                                "giorniSettimana": [
-                                    "lunedi",
-                                    "martedi",
-                                    "mercoledi",
-                                    "giovedi",
-                                    "venerdi"
-                                ],
-                                "oraInizio": "09:00",
-                                "oraFine": "15:00"
-                            }
-                        ]
-                    },
-                    "direzione": {
-                        "direzioneSpec": [
-                            {
-                                "giorniSettimana": [
-                                    "lunedi",
-                                    "martedi",
-                                    "mercoledi",
-                                    "giovedi",
-                                    "venerdi"
-                                ],
-                                "oraInizio": "09:00",
-                                "oraFine": "15:00"
-                            }
-                        ]
-                    },
-                    "orarioVisite": {
-                        "orarioVisiteSpec": {
-                            "orariServizio": {
-                                "oraInizio": "10:00",
-                                "oraFine": "11:30",
-                                "oraInizio2": "15:00",
-                                "oraFine2": "17:00"
-                            }
-                        }
-                    }
-                }
-            },
-            "ars": {
-                "nome": "Villa dei Fiori",
-                "cod_sts24": "20364I",
-                "attiva": "1",
-                "accordo": "1",
-                "indirizzo": "Via Fratti, 720",
-                "cod_comune": "46033",
-                "gestione": "privata",
-                "quota": 53.5,
-                "quotasanitaria": 59.1
-            }
-        }
     },
     {
         "id": "58",
