@@ -4098,6 +4098,415 @@
         }
     },
     {
+        "id": "271",
+        "foto0": "sen_casariposomisericordia_struttura.png",
+        "foto1": "sen_casariposomisericordia_sala.jpg",
+        "foto2": "sen_casariposomisericordia_panorama.jpg",
+        "foto3": "sen_casariposomisericordia_giardinoesterno.jpg",
+        "foto4": "sen_casariposomisericordia_giardino.jpg",
+        "foto5": "sen_casariposomisericordia_corridoio.jpg",
+        "nome": "Casa di Riposo della Misericordia",
+        "tipo": "",
+        "gestione": "pubblica",
+        "indirizzo": "Via Dante Alighieri, 7",
+        "cod_comune": "52013",
+        "comune": "Gaiole in Chianti",
+        "zona": "Senese",
+        "tel1_zona": "0577-535978",
+        "tel2_zona": "0577-535997",
+        "tel3_zona": "",
+        "telefono": "0577-535978 0577-535997",
+        "rsa_ico_animazione": "animazione_socio-educativa.png",
+        "rsa_ico_fisioterapia": "fisioterapia.png",
+        "rsa_ico_cucina": "ristorazione_interna.png",
+        "rsa_ico_giardino": "giardino.png",
+        "rsa_ico_parrucchiere": "parrucchiere.png",
+        "rsa_ico_barbiere": "",
+        "rsa_ico_estetista": "estetista.png",
+        "rsa_ico_relig": "assistenza_religiosa.png",
+        "rsa_ico_geriatra": "consulenza_medico_specialistica_p.png",
+        "rsa_ico_assistenza_infermieristica": "assistenza_infermieristica.png",
+        "rsa_ico_psicologo": "psicologo_p.png",
+        "rsa_ico_podologo": "podologo.png",
+        "rsa_ico_lavanderia": "lavanderia.png",
+        "rsa_ico_postoletto": "",
+        "rsa_posti_liberi": "1",
+        "rsa_quota": "53.50",
+        "rsa_quotasanitaria": "59.10",
+        "rsa_quota_img": "sen_quota_misericordia_gaiole.png",
+        "rsa_mod_base": "si",
+        "rsa_mod_cogn": "",
+        "rsa_mod_riab": "",
+        "rsa_mod_veg": "",
+        "rsa_attiva": "1",
+        "rsa_nome_brochure": "sen_casamisericordia.pdf",
+        "rsa_data_aggiornamento": "2026.06.08 14:30:33",
+        "lat": "43.4680266295902982",
+        "lon": "11.4355672644191007",
+        "gbnord": "4815687",
+        "gbest": "1697039",
+        "accordo": "1",
+        "cod_sts24": "47424I",
+        "posti_liberi_m": "1",
+        "posti_liberi_f": "0",
+        "indirizzo_sede": "Via D. Alighieri n. 7",
+        "comune_sede": "Gaiole in Chianti",
+        "fax_sede": "0577 749131",
+        "telefono_sede": "0577 749491",
+        "email_sede": "info@casariposogaiole.it",
+        "posta_certificata_sede": "info@pec.casariposogaiole.it",
+        "json_data": "eyJpZCI6MjcxLCJzdHJ1dHR1cmEiOnsiYXZ2aXNvRGVjaW1hbGUiOiIiLCJwb3N0aV9tb2R1bG9fYmFzZSI6MjAsInBvc3RpX2xpYmVyaSI6MSwicG9zdGlfbGliZXJpX20iOjEsInBvc3RpX2xpYmVyaV9mIjowLCJjZl9kaXJldHRvcmUiOiJGUklGTkM5M0g1NkY4MzlEIiwibm9tZV9kaXJldHRvcmUiOiJGcmFuY2VzY2EiLCJjb2dub21lX2RpcmV0dG9yZSI6IkZpb3JlIiwidGVsZWZvbm9fcnNhIjoiMDU3NyA3NDk0OTEiLCJmYXhfcnNhIjoiMDU3NyA3NDkxMzEiLCJlbWFpbCI6ImluZm9AY2FzYXJpcG9zb2dhaW9sZS5pdCIsInNpdG9faW50ZXJuZXQiOiJ3d3cuY2FzYXJpcG9zb2dhaW9sZS5pdCIsInRhcmlmZmFfcHJpdmF0YV9yYW5nZWQiOnsibWluaW1hIjoxMDguNSwibWFzc2ltYSI6MTA4LjV9LCJtb2R1bG8iOlsiTW9kdWxvIGJhc2UiXSwiaW5kaXJpenpvX3NlZGUiOiJWaWEgRC4gQWxpZ2hpZXJpIG4uIDciLCJjb2RfY29tdW5lX3NlZGUiOiIwNTIwMTMiLCJ0ZWxfc2VkZSI6IjA1NzcgNzQ5NDkxIiwiZmF4X3NlZGUiOiIwNTc3IDc0OTEzMSIsImVtYWlsX3NlZGUiOiJpbmZvQGNhc2FyaXBvc29nYWlvbGUuaXQiLCJwb3N0YV9jZXJ0aWZpY2F0YV9zZWRlIjoiaW5mb0BwZWMuY2FzYXJpcG9zb2dhaW9sZS5pdCIsInJlc2lkZW56YSI6eyJudW1lcm9QaWFuaSI6MiwiZGV0dGFnbGlvQ2FtZXJlIjpbeyJudW1lcm9DYW1lcmUiOjEsIm51bWVyb0xldHRpIjoxLCJzZXJ2aXppUHJlc2VudGkiOlsiYmFnbm8gZGVkaWNhdG8iLCJ0diIsImltcGlhbnRvIGNvbmRpemlvbmFtZW50byIsImJhbGNvbmUiXX0seyJudW1lcm9DYW1lcmUiOjEsIm51bWVyb0xldHRpIjoyLCJzZXJ2aXppUHJlc2VudGkiOlsiYmFnbm8gZGVkaWNhdG8iLCJpbXBpYW50byBjb25kaXppb25hbWVudG8iLCJiYWxjb25lIl19LHsibnVtZXJvQ2FtZXJlIjoxLCJudW1lcm9MZXR0aSI6Miwic2Vydml6aVByZXNlbnRpIjpbImJhZ25vIGNvbmRpdmlzbyIsImltcGlhbnRvIGNvbmRpemlvbmFtZW50byIsImJhbGNvbmUiXX0seyJudW1lcm9DYW1lcmUiOjIsIm51bWVyb0xldHRpIjoxLCJzZXJ2aXppUHJlc2VudGkiOlsiYmFnbm8gY29uZGl2aXNvIiwiaW1waWFudG8gY29uZGl6aW9uYW1lbnRvIl19LHsibnVtZXJvQ2FtZXJlIjoxLCJudW1lcm9MZXR0aSI6Miwic2Vydml6aVByZXNlbnRpIjpbImJhZ25vIGNvbmRpdmlzbyIsImltcGlhbnRvIGNvbmRpemlvbmFtZW50byJdfSx7Im51bWVyb0NhbWVyZSI6NSwibnVtZXJvTGV0dGkiOjMsInNlcnZpemlQcmVzZW50aSI6WyJiYWdubyBjb25kaXZpc28iLCJpbXBpYW50byBjb25kaXppb25hbWVudG8iXX0seyJudW1lcm9DYW1lcmUiOjIsIm51bWVyb0xldHRpIjozLCJzZXJ2aXppUHJlc2VudGkiOlsiYmFnbm8gY29uZGl2aXNvIiwiaW1waWFudG8gY29uZGl6aW9uYW1lbnRvIiwiYmFsY29uZSJdfSx7Im51bWVyb0NhbWVyZSI6MSwibnVtZXJvTGV0dGkiOjEsInNlcnZpemlQcmVzZW50aSI6WyJiYWdubyBjb25kaXZpc28iLCJpbXBpYW50byBjb25kaXppb25hbWVudG8iLCJiYWxjb25lIl19XX0sInB1bnRpRGlJbnRlcmVzc2UiOlsiZGlzdHJldHRvIHNhbml0YXJpbyIsImF1dG9idXMiLCJjaGllc2EiLCJjZW50cm8gc3RvcmljbyIsImNpbmVtYSIsImJpYmxpb3RlY2EiLCJhc3NvY2lhemlvbmkgZGkgdm9sb250YXJpYXRvIl0sInNwYXppb0VzdGVybm8iOiJTSSIsInNlcnZpemlTb2Npb1Nhbml0YXJpIjp7ImFuaW1hemlvbmVTb2Npb0VkdWNhdGl2YSI6eyJhbmltYXppb25lU29jaW9FZHVjYXRpdmFTcGVjIjpbeyJnaW9ybmlTZXR0aW1hbmEiOlsibHVuZWRpIl0sIm9yYUluaXppbyI6IjEwOjAwIiwib3JhRmluZSI6IjEzOjAwIn0seyJnaW9ybmlTZXR0aW1hbmEiOlsibHVuZWRpIl0sIm9yYUluaXppbyI6IjEzOjMwIiwib3JhRmluZSI6IjE4OjAwIn0seyJnaW9ybmlTZXR0aW1hbmEiOlsibWFydGVkaSJdLCJvcmFJbml6aW8iOiIxNDowMCIsIm9yYUZpbmUiOiIxODozMCJ9LHsiZ2lvcm5pU2V0dGltYW5hIjpbIm1lcmNvbGVkaSJdLCJvcmFJbml6aW8iOiIxNDowMCIsIm9yYUZpbmUiOiIxODozMCJ9LHsiZ2lvcm5pU2V0dGltYW5hIjpbImdpb3ZlZGkiXSwib3JhSW5pemlvIjoiMTA6MzAiLCJvcmFGaW5lIjoiMTM6MDAifSx7Imdpb3JuaVNldHRpbWFuYSI6WyJnaW92ZWRpIl0sIm9yYUluaXppbyI6IjEzOjMwIiwib3JhRmluZSI6IjE4OjAwIn0seyJnaW9ybmlTZXR0aW1hbmEiOlsidmVuZXJkaSJdLCJvcmFJbml6aW8iOiIxNDowMCIsIm9yYUZpbmUiOiIxODozMCJ9XX0sImZpc2lvdGVyYXBpYSI6eyJmaXNpb3RlcmFwaWFTcGVjIjpbeyJnaW9ybmlTZXR0aW1hbmEiOlsibHVuZWRpIl0sIm9yYUluaXppbyI6IjA5OjAwIiwib3JhRmluZSI6IjEzOjAwIn0seyJnaW9ybmlTZXR0aW1hbmEiOlsibWFydGVkaSJdLCJvcmFJbml6aW8iOiIxNDozMCIsIm9yYUZpbmUiOiIxODozMCJ9LHsiZ2lvcm5pU2V0dGltYW5hIjpbImdpb3ZlZGkiXSwib3JhSW5pemlvIjoiMDk6MDAiLCJvcmFGaW5lIjoiMTU6MDAifSx7Imdpb3JuaVNldHRpbWFuYSI6WyJ2ZW5lcmRpIl0sIm9yYUluaXppbyI6IjA5OjAwIiwib3JhRmluZSI6IjEyOjMwIn1dfSwiYXNzaXN0ZW56YUluZmVybWllcmlzdGljYSI6eyJhc3Npc3RlbnphSW5mZXJtaWVyaXN0aWNhU3BlYyI6eyJyZXBlcmliaWxpdGFOb3R0dXJuYSI6IlNJIiwib3JhcmlTZXJ2aXppbyI6eyJvcmFJbml6aW8iOiIwNjozMCIsIm9yYUZpbmUiOiIxMzowMCIsIm9yYUluaXppbzIiOiIxNjozMCIsIm9yYUZpbmUyIjoiMjA6MDAifX19LCJtZWRpY2lTcGVjaWFsaXN0aSI6eyJzdWJUaXRsZSI6IiIsImRldHRhZ2xpb1NwZWNpYWxpc3RpIjpbeyJtZWRpY29TcGVjaWFsaXN0YSI6InBzaWNoaWF0cmEiLCJlcm9nYXppb25lU2Vydml6aW8iOnsic2NlbHRhIjoiU3UgcmljaGllc3RhIiwib25SZXF1ZXN0IjoidHJ1ZSJ9LCJpbmNsdXNvUXVvdGEiOiJOTyJ9XX0sInBzaWNvbG9nbyI6eyJub25QcmV2aXN0byI6ZmFsc2UsImVyb2dhemlvbmVTZXJ2aXppbyI6eyJzY2VsdGEiOiJTdSByaWNoaWVzdGEiLCJvblJlcXVlc3QiOiJ0cnVlIn0sImluY2x1c29RdW90YSI6Ik5PIn0sInBvZG9sb2dvIjp7ImVyb2dhemlvbmVTZXJ2aXppbyI6Ik4gdm9sdGUgYWwgbWVzZSIsIm51bWVyb1ZvbHRlIjoxLCJwcmVzdGF6aW9uaUluY2x1c2VNZXNlIjoxfX0sInNlcnZpemlBbGJlcmdoaWVyaSI6eyJjdWNpbmEiOnsidGlwb0N1Y2luYSI6IkludGVybmEifSwibGF2YW5kZXJpYSI6eyJpbmR1bWVudGlfcGVyc29uYWxpIjoiU0kifSwicGFycnVjY2hpZXJlIjp7ImVyb2dhemlvbmVTZXJ2aXppbyI6Ik4gdm9sdGUgYWwgbWVzZSIsIm51bWVyb1ZvbHRlIjoxLCJwcmVzdGF6aW9uaUluY2x1c2VNZXNlIjoxfSwiZXN0ZXRpc3RhIjp7Im5vblByZXZpc3RvIjpmYWxzZSwiZXJvZ2F6aW9uZVNlcnZpemlvIjp7InNjZWx0YSI6IlN1IHJpY2hpZXN0YSIsIm9uUmVxdWVzdCI6InRydWUifSwiaW5jbHVzb1F1b3RhIjoiTk8ifSwiYXNzaXN0ZW56YVJlbGlnaW9zYSI6eyJub25QcmV2aXN0byI6ZmFsc2UsImFwZXJ0dXJhVGlwaUN1bHRvIjoiU0kiLCJhc3Npc3RlbnphUmVsaWdpb3NhU3BlYyI6W3siZ2lvcm5pU2V0dGltYW5hIjpbIm1lcmNvbGVkaSJdLCJvcmEiOiIxNTozMCJ9XX19LCJhbHRyaVNlcnZpemkiOnsiZWxlbmNvU2Vydml6aSI6eyJBcHBhcnRhbWVudGkgcHJvdGV0dGkiOmZhbHNlLCJBc3Npc3RlbnphIERvbWljaWxpYXJlIjpmYWxzZSwiQXNzaXN0ZW56YSByZXNpZGVuemlhbGUgcGVyIHJpZnVnaWF0aS9wcm9mdWdoaSI6ZmFsc2UsIkF0dGl2aXRhJyBmaXNpY2EgYWRhdHRhdGEiOmZhbHNlLCJDYXNhIGRlbGxhIHNhbHV0ZSI6ZmFsc2UsIkNlbnRybyBkaSBzb2NpYWxpenphemlvbmUgcGVyIGF1dG9zdWZmaWNpZW50aSI6ZmFsc2UsIkNlbnRybyBkaXVybm8gQWx6aGVpbWVyIjpmYWxzZSwiQ2VudHJvIGRpdXJubyBwZXIgYXV0b3N1ZmZpY2llbnRpIjpmYWxzZSwiQ2VudHJvIGRpdXJubyBwZXIgbm9uIGF1dG9zdWZmaWNpZW50aSI6ZmFsc2UsIkxhdmFuZGVyaWEgcGVyIGFzc2lzdGl0aSBhIGRvbWljaWxpbyI6ZmFsc2UsIk9yZ2FuaXp6YXppb25lIGRlbCB0cmFzcG9ydG8gZSBhY2NvbXBhZ25hbWVudG8gZGVnbGkgYXNzaXN0aXRpIGRlYW1idWxhbnRpIHBlciB2aXNpdGUvcHJlc3Rhemlvbmkgc2FuaXRhcmllLCBhdnZpc2FuZG9uZSBpIGZhbWlsaWFyaSI6ZmFsc2UsIlByZXN0YXppb25pIGRpIGFzc2lzdGVuemEgZGkgYmFzZSBwZXIgdXRlbnRpIGVzdGVybmkgKGJhZ25vIGFzc2lzdGl0bykiOmZhbHNlLCJSZXNpZGVuemEgcGVyIEF1dG9zdWZmaWNpZW50aSI6dHJ1ZSwiUmVzaWRlbnphIHNvY2lhbGUgcGVyIGRpc2FiaWxpIChSU0QpIjpmYWxzZSwiUmlzdG9yYXppb25lIGEgZG9taWNpbGlvIjpmYWxzZSwiUmlzdG9yYXppb25lIHBlciB1dGVudGkgZXN0ZXJuaSI6ZmFsc2UsIlNlZ3JldGFyaWF0byBzb2NpYWxlIjpmYWxzZSwiU2Vydml6aW8gQ29udGludWl0YScgQXNzaXN0ZW56aWFsZSAoRXggR3VhcmRpYSBNZWRpY2EpIjpmYWxzZSwiVHJhc3BvcnRvIHBlciBhZHVsdGkgZGlzYWJpbGkiOmZhbHNlfSwic2Vydml6aUFtbWluaXN0cmF0aXZpIjp7InNlcnZpemlBbW1pbmlzdHJhdGl2aVNwZWMiOlt7Imdpb3JuaVNldHRpbWFuYSI6WyJsdW5lZGkiLCJtYXJ0ZWRpIiwibWVyY29sZWRpIiwiZ2lvdmVkaSIsInZlbmVyZGkiXSwib3JhSW5pemlvIjoiMDg6MzAiLCJvcmFGaW5lIjoiMTM6MzAifV19LCJkaXJlemlvbmUiOnsiZGlyZXppb25lU3BlYyI6W3siZ2lvcm5pU2V0dGltYW5hIjpbImx1bmVkaSIsIm1hcnRlZGkiLCJtZXJjb2xlZGkiLCJnaW92ZWRpIiwidmVuZXJkaSJdLCJvcmFJbml6aW8iOiIwODozMCIsIm9yYUZpbmUiOiIxMzozMCJ9XX0sIm9yYXJpb1Zpc2l0ZSI6eyJvcmFyaW9WaXNpdGVTcGVjIjp7Im9yYXJpU2Vydml6aW8iOnsib3JhSW5pemlvIjoiMTA6MDAiLCJvcmFGaW5lIjoiMTI6MDAiLCJvcmFJbml6aW8yIjoiMTY6MDAiLCJvcmFGaW5lMiI6IjE4OjAwIn19fX19LCJhcnMiOnsibm9tZSI6IkNhc2EgZGkgUmlwb3NvIGRlbGxhIE1pc2VyaWNvcmRpYSIsImNvZF9zdHMyNCI6IjQ3NDI0SSIsImF0dGl2YSI6IjEiLCJhY2NvcmRvIjoiMSIsImluZGlyaXp6byI6IlZpYSBEYW50ZSBBbGlnaGllcmksIDciLCJjb2RfY29tdW5lIjoiNTIwMTMiLCJnZXN0aW9uZSI6InB1YmJsaWNhIiwicXVvdGEiOjUzLjUsInF1b3Rhc2FuaXRhcmlhIjo1OS4xfX0=",
+        "posti_liberi_int": 1,
+        "posti_liberi_m_int": 1,
+        "posti_liberi_f_int": 0,
+        "decoded_details": {
+            "id": 271,
+            "struttura": {
+                "avvisoDecimale": "",
+                "posti_modulo_base": 20,
+                "posti_liberi": 1,
+                "posti_liberi_m": 1,
+                "posti_liberi_f": 0,
+                "cf_direttore": "FRIFNC93H56F839D",
+                "nome_direttore": "Francesca",
+                "cognome_direttore": "Fiore",
+                "telefono_rsa": "0577 749491",
+                "fax_rsa": "0577 749131",
+                "email": "info@casariposogaiole.it",
+                "sito_internet": "www.casariposogaiole.it",
+                "tariffa_privata_ranged": {
+                    "minima": 108.5,
+                    "massima": 108.5
+                },
+                "modulo": [
+                    "Modulo base"
+                ],
+                "indirizzo_sede": "Via D. Alighieri n. 7",
+                "cod_comune_sede": "052013",
+                "tel_sede": "0577 749491",
+                "fax_sede": "0577 749131",
+                "email_sede": "info@casariposogaiole.it",
+                "posta_certificata_sede": "info@pec.casariposogaiole.it",
+                "residenza": {
+                    "numeroPiani": 2,
+                    "dettaglioCamere": [
+                        {
+                            "numeroCamere": 1,
+                            "numeroLetti": 1,
+                            "serviziPresenti": [
+                                "bagno dedicato",
+                                "tv",
+                                "impianto condizionamento",
+                                "balcone"
+                            ]
+                        },
+                        {
+                            "numeroCamere": 1,
+                            "numeroLetti": 2,
+                            "serviziPresenti": [
+                                "bagno dedicato",
+                                "impianto condizionamento",
+                                "balcone"
+                            ]
+                        },
+                        {
+                            "numeroCamere": 1,
+                            "numeroLetti": 2,
+                            "serviziPresenti": [
+                                "bagno condiviso",
+                                "impianto condizionamento",
+                                "balcone"
+                            ]
+                        },
+                        {
+                            "numeroCamere": 2,
+                            "numeroLetti": 1,
+                            "serviziPresenti": [
+                                "bagno condiviso",
+                                "impianto condizionamento"
+                            ]
+                        },
+                        {
+                            "numeroCamere": 1,
+                            "numeroLetti": 2,
+                            "serviziPresenti": [
+                                "bagno condiviso",
+                                "impianto condizionamento"
+                            ]
+                        },
+                        {
+                            "numeroCamere": 5,
+                            "numeroLetti": 3,
+                            "serviziPresenti": [
+                                "bagno condiviso",
+                                "impianto condizionamento"
+                            ]
+                        },
+                        {
+                            "numeroCamere": 2,
+                            "numeroLetti": 3,
+                            "serviziPresenti": [
+                                "bagno condiviso",
+                                "impianto condizionamento",
+                                "balcone"
+                            ]
+                        },
+                        {
+                            "numeroCamere": 1,
+                            "numeroLetti": 1,
+                            "serviziPresenti": [
+                                "bagno condiviso",
+                                "impianto condizionamento",
+                                "balcone"
+                            ]
+                        }
+                    ]
+                },
+                "puntiDiInteresse": [
+                    "distretto sanitario",
+                    "autobus",
+                    "chiesa",
+                    "centro storico",
+                    "cinema",
+                    "biblioteca",
+                    "associazioni di volontariato"
+                ],
+                "spazioEsterno": "SI",
+                "serviziSocioSanitari": {
+                    "animazioneSocioEducativa": {
+                        "animazioneSocioEducativaSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "lunedi"
+                                ],
+                                "oraInizio": "10:00",
+                                "oraFine": "13:00"
+                            },
+                            {
+                                "giorniSettimana": [
+                                    "lunedi"
+                                ],
+                                "oraInizio": "13:30",
+                                "oraFine": "18:00"
+                            },
+                            {
+                                "giorniSettimana": [
+                                    "martedi"
+                                ],
+                                "oraInizio": "14:00",
+                                "oraFine": "18:30"
+                            },
+                            {
+                                "giorniSettimana": [
+                                    "mercoledi"
+                                ],
+                                "oraInizio": "14:00",
+                                "oraFine": "18:30"
+                            },
+                            {
+                                "giorniSettimana": [
+                                    "giovedi"
+                                ],
+                                "oraInizio": "10:30",
+                                "oraFine": "13:00"
+                            },
+                            {
+                                "giorniSettimana": [
+                                    "giovedi"
+                                ],
+                                "oraInizio": "13:30",
+                                "oraFine": "18:00"
+                            },
+                            {
+                                "giorniSettimana": [
+                                    "venerdi"
+                                ],
+                                "oraInizio": "14:00",
+                                "oraFine": "18:30"
+                            }
+                        ]
+                    },
+                    "fisioterapia": {
+                        "fisioterapiaSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "lunedi"
+                                ],
+                                "oraInizio": "09:00",
+                                "oraFine": "13:00"
+                            },
+                            {
+                                "giorniSettimana": [
+                                    "martedi"
+                                ],
+                                "oraInizio": "14:30",
+                                "oraFine": "18:30"
+                            },
+                            {
+                                "giorniSettimana": [
+                                    "giovedi"
+                                ],
+                                "oraInizio": "09:00",
+                                "oraFine": "15:00"
+                            },
+                            {
+                                "giorniSettimana": [
+                                    "venerdi"
+                                ],
+                                "oraInizio": "09:00",
+                                "oraFine": "12:30"
+                            }
+                        ]
+                    },
+                    "assistenzaInfermieristica": {
+                        "assistenzaInfermieristicaSpec": {
+                            "reperibilitaNotturna": "SI",
+                            "orariServizio": {
+                                "oraInizio": "06:30",
+                                "oraFine": "13:00",
+                                "oraInizio2": "16:30",
+                                "oraFine2": "20:00"
+                            }
+                        }
+                    },
+                    "mediciSpecialisti": {
+                        "subTitle": "",
+                        "dettaglioSpecialisti": [
+                            {
+                                "medicoSpecialista": "psichiatra",
+                                "erogazioneServizio": {
+                                    "scelta": "Su richiesta",
+                                    "onRequest": "true"
+                                },
+                                "inclusoQuota": "NO"
+                            }
+                        ]
+                    },
+                    "psicologo": {
+                        "nonPrevisto": false,
+                        "erogazioneServizio": {
+                            "scelta": "Su richiesta",
+                            "onRequest": "true"
+                        },
+                        "inclusoQuota": "NO"
+                    },
+                    "podologo": {
+                        "erogazioneServizio": "N volte al mese",
+                        "numeroVolte": 1,
+                        "prestazioniIncluseMese": 1
+                    }
+                },
+                "serviziAlberghieri": {
+                    "cucina": {
+                        "tipoCucina": "Interna"
+                    },
+                    "lavanderia": {
+                        "indumenti_personali": "SI"
+                    },
+                    "parrucchiere": {
+                        "erogazioneServizio": "N volte al mese",
+                        "numeroVolte": 1,
+                        "prestazioniIncluseMese": 1
+                    },
+                    "estetista": {
+                        "nonPrevisto": false,
+                        "erogazioneServizio": {
+                            "scelta": "Su richiesta",
+                            "onRequest": "true"
+                        },
+                        "inclusoQuota": "NO"
+                    },
+                    "assistenzaReligiosa": {
+                        "nonPrevisto": false,
+                        "aperturaTipiCulto": "SI",
+                        "assistenzaReligiosaSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "mercoledi"
+                                ],
+                                "ora": "15:30"
+                            }
+                        ]
+                    }
+                },
+                "altriServizi": {
+                    "elencoServizi": {
+                        "Appartamenti protetti": false,
+                        "Assistenza Domiciliare": false,
+                        "Assistenza residenziale per rifugiati/profughi": false,
+                        "Attivita' fisica adattata": false,
+                        "Casa della salute": false,
+                        "Centro di socializzazione per autosufficienti": false,
+                        "Centro diurno Alzheimer": false,
+                        "Centro diurno per autosufficienti": false,
+                        "Centro diurno per non autosufficienti": false,
+                        "Lavanderia per assistiti a domicilio": false,
+                        "Organizzazione del trasporto e accompagnamento degli assistiti deambulanti per visite/prestazioni sanitarie, avvisandone i familiari": false,
+                        "Prestazioni di assistenza di base per utenti esterni (bagno assistito)": false,
+                        "Residenza per Autosufficienti": true,
+                        "Residenza sociale per disabili (RSD)": false,
+                        "Ristorazione a domicilio": false,
+                        "Ristorazione per utenti esterni": false,
+                        "Segretariato sociale": false,
+                        "Servizio Continuita' Assistenziale (Ex Guardia Medica)": false,
+                        "Trasporto per adulti disabili": false
+                    },
+                    "serviziAmministrativi": {
+                        "serviziAmministrativiSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "martedi",
+                                    "mercoledi",
+                                    "giovedi",
+                                    "venerdi"
+                                ],
+                                "oraInizio": "08:30",
+                                "oraFine": "13:30"
+                            }
+                        ]
+                    },
+                    "direzione": {
+                        "direzioneSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "martedi",
+                                    "mercoledi",
+                                    "giovedi",
+                                    "venerdi"
+                                ],
+                                "oraInizio": "08:30",
+                                "oraFine": "13:30"
+                            }
+                        ]
+                    },
+                    "orarioVisite": {
+                        "orarioVisiteSpec": {
+                            "orariServizio": {
+                                "oraInizio": "10:00",
+                                "oraFine": "12:00",
+                                "oraInizio2": "16:00",
+                                "oraFine2": "18:00"
+                            }
+                        }
+                    }
+                }
+            },
+            "ars": {
+                "nome": "Casa di Riposo della Misericordia",
+                "cod_sts24": "47424I",
+                "attiva": "1",
+                "accordo": "1",
+                "indirizzo": "Via Dante Alighieri, 7",
+                "cod_comune": "52013",
+                "gestione": "pubblica",
+                "quota": 53.5,
+                "quotasanitaria": 59.1
+            }
+        }
+    },
+    {
         "id": "343",
         "foto0": "liv_rsaigirasoli_immagine1.jpg",
         "foto1": "liv_rsaigirasoli_immagine2.jpg",
