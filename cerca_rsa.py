@@ -337,34 +337,44 @@ def generate_html_table(structures, output_dir):
             color: var(--accent);
         }
 
-        .btn-refresh {
-            background-color: var(--accent);
-            color: var(--text-primary);
-            border: 1px solid rgba(255, 255, 255, 0.1);
-            padding: 0.35rem 0.75rem;
-            font-size: 0.8rem;
-            font-weight: 600;
-            border-radius: 8px;
-            cursor: pointer;
-            transition: all 0.2s ease;
+        footer {
+            margin-top: 2.5rem;
+            text-align: center;
+            color: var(--text-muted);
+            font-size: 0.85rem;
+            padding: 1.5rem;
+            border-top: 1px solid rgba(255, 255, 255, 0.06);
+        }
+
+        footer a {
+            color: var(--accent);
+            text-decoration: none;
+            font-weight: 500;
+        }
+
+        footer a:hover {
+            text-decoration: underline;
+        }
+
+        .footer-download {
             display: inline-flex;
             align-items: center;
-            gap: 0.25rem;
-            outline: none;
+            gap: 0.4rem;
+            background-color: var(--bg-secondary);
+            border: 1px solid rgba(255, 255, 255, 0.08);
+            border-radius: 8px;
+            padding: 0.5rem 1rem;
+            margin-top: 0.75rem;
+            color: var(--text-primary);
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 0.9rem;
+            transition: background-color 0.2s ease;
         }
 
-        .btn-refresh:hover:not(:disabled) {
-            background-color: var(--accent-hover);
-            transform: translateY(-1px);
-        }
-
-        .btn-refresh:active:not(:disabled) {
-            transform: translateY(0);
-        }
-
-        .btn-refresh:disabled {
-            opacity: 0.6;
-            cursor: not-allowed;
+        .footer-download:hover {
+            background-color: var(--bg-tertiary);
+            text-decoration: none;
         }
 
         /* Table Container */
@@ -569,7 +579,6 @@ def generate_html_table(structures, output_dir):
 
         <div class="stats-bar">
             <span>Trovate <strong id="count-structures">0</strong> strutture con disponibilità per un totale di <strong id="count-beds">0</strong> posti liberi</span>
-            <button id="btn-force-update" onclick="triggerWorkflow()" class="btn-refresh">🔄 Forza Aggiorna</button>
             <span id="update-date" style="font-size: 0.8rem; color: var(--text-muted)"></span>
         </div>
 
@@ -595,6 +604,22 @@ def generate_html_table(structures, output_dir):
             </div>
         </div>
     </div>
+
+    <footer>
+        <div>Sviluppato da <strong>Leonardo Cozzolino</strong> &mdash;
+            <a href="mailto:Leonardo.cozzolino@gmail.com">Leonardo.cozzolino@gmail.com</a>
+        </div>
+        <div style="margin-top: 0.4rem; color: var(--text-secondary)">
+            Sorgente e app scaricabile su GitHub:
+        </div>
+        <a class="footer-download" href="https://github.com/mencoxx/rsa-toscana/releases/download/v1.0/RSA_App.exe" target="_blank" rel="noopener">
+            ⬇️ Scarica RSA_App.exe (Windows)
+        </a>
+        &nbsp;
+        <a class="footer-download" href="https://github.com/mencoxx/rsa-toscana" target="_blank" rel="noopener" style="background:transparent; border-color: rgba(255,255,255,0.15);">
+            GitHub
+        </a>
+    </footer>
 
     <script>
         // Data injected from Python (embedded fallback)
@@ -656,53 +681,6 @@ def generate_html_table(structures, output_dir):
 
             // Initial Sort & Render
             sortBy('comune');
-        }
-
-        async function triggerWorkflow() {
-            const btn = document.getElementById('btn-force-update');
-            const originalText = btn.textContent;
-            btn.disabled = true;
-            btn.textContent = "⌛ Invio in corso...";
-            
-            const owner = 'mencoxx';
-            const repo = 'rsa-toscana';
-            const workflowId = 'scrape.yml';
-            
-            // Obfuscated token to bypass GitHub regex scanner (Base64)
-            const encodedToken = "Z2hwXzlaSUtrbXl1ajE0bEJOYWVxNHNwSmhtdm1mVHN4bjFTZG5JdQ==";
-            const token = atob(encodedToken);
-            
-            try {
-                const response = await fetch(`https://api.github.com/repos/${owner}/${repo}/actions/workflows/${workflowId}/dispatches`, {
-                    method: 'POST',
-                    headers: {
-                        'Authorization': `token ${token}`,
-                        'Accept': 'application/vnd.github.v3+json',
-                        'Content-Type': 'application/json'
-                    },
-                    body: JSON.stringify({ ref: 'main' })
-                });
-                
-                if (response.ok) {
-                    btn.textContent = "✅ Avviato!";
-                    alert("Aggiornamento avviato in cloud! I dati saranno pronti sul telefono tra circa 1 minuto (ricarica l'app allora).");
-                } else {
-                    btn.textContent = "❌ Errore";
-                    btn.disabled = false;
-                    alert("Errore nell'avvio dell'aggiornamento: " + response.statusText);
-                }
-            } catch (e) {
-                btn.textContent = "❌ Errore";
-                btn.disabled = false;
-                alert("Errore di connessione: " + e.message);
-            }
-            
-            setTimeout(() => {
-                if (btn.textContent === "✅ Avviato!") {
-                    btn.textContent = originalText;
-                    btn.disabled = false;
-                }
-            }, 5000);
         }
 
         function sortBy(column) {
