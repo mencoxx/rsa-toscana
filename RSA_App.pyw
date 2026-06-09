@@ -581,36 +581,6 @@ class RSAApp:
             color: var(--accent);
         }
 
-        .btn-refresh {
-            background-color: var(--accent);
-            color: var(--text-primary);
-            border: 1px solid rgba(255, 255, 255, 0.1);
-            padding: 0.35rem 0.75rem;
-            font-size: 0.8rem;
-            font-weight: 600;
-            border-radius: 8px;
-            cursor: pointer;
-            transition: all 0.2s ease;
-            display: inline-flex;
-            align-items: center;
-            gap: 0.25rem;
-            outline: none;
-        }
-
-        .btn-refresh:hover:not(:disabled) {
-            background-color: var(--accent-hover);
-            transform: translateY(-1px);
-        }
-
-        .btn-refresh:active:not(:disabled) {
-            transform: translateY(0);
-        }
-
-        .btn-refresh:disabled {
-            opacity: 0.6;
-            cursor: not-allowed;
-        }
-
         /* Table Container */
         .table-responsive {
             background-color: var(--bg-secondary);
@@ -853,7 +823,6 @@ class RSAApp:
 
         <div class="stats-bar">
             <span>Trovate <strong id="count-structures">0</strong> strutture con disponibilità per un totale di <strong id="count-beds">0</strong> posti liberi</span>
-            <a id="btn-force-update" href="https://github.com/mencoxx/rsa-toscana/actions/workflows/scrape.yml" target="_blank" rel="noopener" class="btn-refresh">🔄 Forza Aggiorna</a>
             <span id="update-date" style="font-size: 0.8rem; color: var(--text-muted)"></span>
         </div>
 
