@@ -26,6 +26,8 @@ Se preferisci usare l'applicazione locale, puoi scaricarla direttamente:
 
 ### ⬇️ [Scarica RSA_App.exe](https://github.com/mencoxx/rsa-toscana/releases/download/v1.0/RSA_App.exe)
 
+### 📄 [Visualizza / Scarica il sorgente (RSA_App.pyw)](https://github.com/mencoxx/rsa-toscana/blob/main/RSA_App.pyw)
+
 > Dimensione: ~11 MB — Nessuna installazione richiesta, basta avviare il file.
 
 ### Come si usa
