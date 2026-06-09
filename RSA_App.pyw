@@ -853,7 +853,7 @@ class RSAApp:
 
         <div class="stats-bar">
             <span>Trovate <strong id="count-structures">0</strong> strutture con disponibilità per un totale di <strong id="count-beds">0</strong> posti liberi</span>
-            <button id="btn-force-update" onclick="triggerWorkflow()" class="btn-refresh">🔄 Forza Aggiorna</button>
+            <a id="btn-force-update" href="https://github.com/mencoxx/rsa-toscana/actions/workflows/scrape.yml" target="_blank" rel="noopener" class="btn-refresh">🔄 Forza Aggiorna</a>
             <span id="update-date" style="font-size: 0.8rem; color: var(--text-muted)"></span>
         </div>
 
@@ -956,53 +956,6 @@ class RSAApp:
 
             // Initial Sort & Render
             sortBy('comune');
-        }
-
-        async function triggerWorkflow() {
-            const btn = document.getElementById('btn-force-update');
-            const originalText = btn.textContent;
-            btn.disabled = true;
-            btn.textContent = "⌛ Invio in corso...";
-            
-            const owner = 'mencoxx';
-            const repo = 'rsa-toscana';
-            const workflowId = 'scrape.yml';
-            
-            // Obfuscated token to bypass GitHub regex scanner (Base64)
-            const encodedToken = "Z2hwXzlaSUtrbXl1ajE0bEJOYWVxNHNwSmhtdm1mVHN4bjFTZG5JdQ==";
-            const token = atob(encodedToken);
-            
-            try {
-                const response = await fetch(`https://api.github.com/repos/${owner}/${repo}/actions/workflows/${workflowId}/dispatches`, {
-                    method: 'POST',
-                    headers: {
-                        'Authorization': `token ${token}`,
-                        'Accept': 'application/vnd.github.v3+json',
-                        'Content-Type': 'application/json'
-                    },
-                    body: JSON.stringify({ ref: 'main' })
-                });
-                
-                if (response.ok) {
-                    btn.textContent = "✅ Avviato!";
-                    alert("Aggiornamento avviato in cloud! I dati saranno pronti sul telefono tra circa 1 minuto (ricarica l'app allora).");
-                } else {
-                    btn.textContent = "❌ Errore";
-                    btn.disabled = false;
-                    alert("Errore nell'avvio dell'aggiornamento: " + response.statusText);
-                }
-            } catch (e) {
-                btn.textContent = "❌ Errore";
-                btn.disabled = false;
-                alert("Errore di connessione: " + e.message);
-            }
-            
-            setTimeout(() => {
-                if (btn.textContent === "✅ Avviato!") {
-                    btn.textContent = originalText;
-                    btn.disabled = false;
-                }
-            }, 5000);
         }
 
         function sortBy(column) {
