@@ -904,6 +904,299 @@
         }
     },
     {
+        "id": "256",
+        "foto0": "valcor_campigliamarittima_img1.jpg",
+        "foto1": "valcor_campigliamarittima_img2.jpg",
+        "foto2": "valcor_campigliamarittima_img3.jpg",
+        "foto3": "valcor_campigliamarittima_img4.jpg",
+        "foto4": "valcor_campigliamarittima_img5.jpg",
+        "foto5": "valcor_campigliamarittima_img6.jpg",
+        "nome": "Campiglia Marittima",
+        "tipo": "",
+        "gestione": "pubblica",
+        "indirizzo": "Via della Liberta', 97",
+        "cod_comune": "49002",
+        "comune": "Campiglia Marittima",
+        "zona": "Bassa Val di Cecina - Val di Cornia",
+        "tel1_zona": "0565-67700",
+        "tel2_zona": "0586-614522",
+        "tel3_zona": "",
+        "telefono": "0565-67700",
+        "rsa_ico_animazione": "animazione_socio-educativa.png",
+        "rsa_ico_fisioterapia": "fisioterapia.png",
+        "rsa_ico_cucina": "ristorazione_esterna.png",
+        "rsa_ico_giardino": "giardino.png",
+        "rsa_ico_parrucchiere": "parrucchiere.png",
+        "rsa_ico_barbiere": "",
+        "rsa_ico_estetista": "",
+        "rsa_ico_relig": "assistenza_religiosa.png",
+        "rsa_ico_geriatra": "",
+        "rsa_ico_assistenza_infermieristica": "assistenza_infermieristica.png",
+        "rsa_ico_psicologo": "",
+        "rsa_ico_podologo": "podologo.png",
+        "rsa_ico_lavanderia": "lavanderia.png",
+        "rsa_ico_postoletto": "",
+        "rsa_posti_liberi": "2",
+        "rsa_quota": "59.30",
+        "rsa_quotasanitaria": "59.10",
+        "rsa_quota_img": "valco_quote_campigliamarittima.png",
+        "rsa_mod_base": "si",
+        "rsa_mod_cogn": "",
+        "rsa_mod_riab": "",
+        "rsa_mod_veg": "",
+        "rsa_attiva": "1",
+        "rsa_nome_brochure": "valcor_campigliamarittima.pdf",
+        "rsa_data_aggiornamento": "2026.06.15 09:31:58",
+        "lat": "43.058977013959101",
+        "lon": "10.6246410336294002",
+        "gbnord": "4768659",
+        "gbest": "1632325",
+        "accordo": "1",
+        "cod_sts24": "30174I",
+        "posti_liberi_m": "1",
+        "posti_liberi_f": "1",
+        "indirizzo_sede": "VIA DELLA LIBERTA' 97",
+        "comune_sede": "Campiglia Marittima",
+        "fax_sede": "0565827535",
+        "telefono_sede": "056567806",
+        "email_sede": "NULL",
+        "posta_certificata_sede": "NULL",
+        "json_data": "eyJpZCI6MjU2LCJzdHJ1dHR1cmEiOnsiYXZ2aXNvRGVjaW1hbGUiOiIiLCJwb3N0aV9tb2R1bG9fYmFzZSI6MzYsInBvc3RpX2xpYmVyaSI6MiwicG9zdGlfbGliZXJpX20iOjEsInBvc3RpX2xpYmVyaV9mIjoxLCJjZl9kaXJldHRvcmUiOiJSREFDTlo3M0E0NUYwMzJIIiwibm9tZV9kaXJldHRvcmUiOiJDaW56aWEiLCJjb2dub21lX2RpcmV0dG9yZSI6IlJhZGkiLCJ0ZWxlZm9ub19yc2EiOiIwNTY1IDY3ODA2IiwiZmF4X3JzYSI6IjA1NjU4Mjc1MzUiLCJlbWFpbCI6ImMucmFkaUBkaXZpdHRvcmlvLml0Iiwic2l0b19pbnRlcm5ldCI6IiIsInRhcmlmZmFfcHJpdmF0YV9yYW5nZWQiOnsibWluaW1hIjowLCJtYXNzaW1hIjo1My41fSwibW9kdWxvIjpbIk1vZHVsbyBiYXNlIl0sImluZGlyaXp6b19zZWRlIjoiVklBIERFTExBIExJQkVSVEEnIDk3IiwiY29kX2NvbXVuZV9zZWRlIjoiMDQ5MDAyIiwidGVsX3NlZGUiOiIwNTY1Njc4MDYiLCJmYXhfc2VkZSI6IjA1NjU4Mjc1MzUiLCJlbWFpbF9zZWRlIjoiIiwicG9zdGFfY2VydGlmaWNhdGFfc2VkZSI6IiIsInJlc2lkZW56YSI6eyJudW1lcm9QaWFuaSI6MiwiZGV0dGFnbGlvQ2FtZXJlIjpbeyJudW1lcm9DYW1lcmUiOjE3LCJudW1lcm9MZXR0aSI6MzYsInNlcnZpemlQcmVzZW50aSI6WyJiYWdubyBkZWRpY2F0byIsImltcGlhbnRvIGNvbmRpemlvbmFtZW50byIsImJhbGNvbmUiXX1dfSwicHVudGlEaUludGVyZXNzZSI6WyJkaXN0cmV0dG8gc2FuaXRhcmlvIiwiY2hpZXNhIiwiY2VudHJvIHN0b3JpY28iLCJ0ZWF0cm8iLCJhc3NvY2lhemlvbmkgZGkgdm9sb250YXJpYXRvIiwib3NwZWRhbGUiXSwic3BhemlvRXN0ZXJubyI6IlNJIiwic2Vydml6aVNvY2lvU2FuaXRhcmkiOnsiYW5pbWF6aW9uZVNvY2lvRWR1Y2F0aXZhIjp7ImFuaW1hemlvbmVTb2Npb0VkdWNhdGl2YVNwZWMiOlt7Imdpb3JuaVNldHRpbWFuYSI6WyJsdW5lZGkiLCJtYXJ0ZWRpIiwiZ2lvdmVkaSIsInZlbmVyZGkiLCJzYWJhdG8iXSwib3JhSW5pemlvIjoiMDg6MDAiLCJvcmFGaW5lIjoiMTM6MDAifV19LCJmaXNpb3RlcmFwaWEiOnsiZmlzaW90ZXJhcGlhU3BlYyI6W3siZ2lvcm5pU2V0dGltYW5hIjpbImx1bmVkaSIsIm1hcnRlZGkiLCJtZXJjb2xlZGkiLCJnaW92ZWRpIiwidmVuZXJkaSIsInNhYmF0byJdLCJvcmFJbml6aW8iOiIwNzozMCIsIm9yYUZpbmUiOiIxMzowMCJ9XX0sImFzc2lzdGVuemFJbmZlcm1pZXJpc3RpY2EiOnsiYXNzaXN0ZW56YUluZmVybWllcmlzdGljYVNwZWMiOnsicmVwZXJpYmlsaXRhTm90dHVybmEiOiJTSSIsIm9yYXJpU2Vydml6aW8iOnsib3JhSW5pemlvIjoiMDY6MDAiLCJvcmFGaW5lIjoiMjI6MDAiLCJvcmFJbml6aW8yIjoiIiwib3JhRmluZTIiOiIifX19LCJtZWRpY2lTcGVjaWFsaXN0aSI6eyJzdWJUaXRsZSI6IiIsImRldHRhZ2xpb1NwZWNpYWxpc3RpIjpbXX0sInBzaWNvbG9nbyI6eyJub25QcmV2aXN0byI6dHJ1ZSwiZXJvZ2F6aW9uZVNlcnZpemlvIjp7InNjZWx0YSI6IlR1dHRpIGkgZ2lvcm5pIiwiYWxsRGF5cyI6InRydWUifSwiaW5jbHVzb1F1b3RhIjoiU0kifSwicG9kb2xvZ28iOnsiZXJvZ2F6aW9uZVNlcnZpemlvIjoiTiB2b2x0ZSBhbCBtZXNlIiwibnVtZXJvVm9sdGUiOjIsInByZXN0YXppb25pSW5jbHVzZU1lc2UiOjF9fSwic2Vydml6aUFsYmVyZ2hpZXJpIjp7ImN1Y2luYSI6eyJ0aXBvQ3VjaW5hIjoiRXN0ZXJuYSJ9LCJsYXZhbmRlcmlhIjp7ImluZHVtZW50aV9wZXJzb25hbGkiOiJOTyJ9LCJwYXJydWNjaGllcmUiOnsiZXJvZ2F6aW9uZVNlcnZpemlvIjoiTiB2b2x0ZSBhbCBtZXNlIiwibnVtZXJvVm9sdGUiOjEsInByZXN0YXppb25pSW5jbHVzZU1lc2UiOjF9LCJlc3RldGlzdGEiOnsibm9uUHJldmlzdG8iOnRydWUsImVyb2dhemlvbmVTZXJ2aXppbyI6eyJzY2VsdGEiOiJUdXR0aSBpIGdpb3JuaSIsImFsbERheXMiOiJ0cnVlIn0sImluY2x1c29RdW90YSI6IlNJIn0sImFzc2lzdGVuemFSZWxpZ2lvc2EiOnsibm9uUHJldmlzdG8iOmZhbHNlLCJhcGVydHVyYVRpcGlDdWx0byI6IlNJIiwiYXNzaXN0ZW56YVJlbGlnaW9zYVNwZWMiOlt7Imdpb3JuaVNldHRpbWFuYSI6WyJkb21lbmljYSJdLCJvcmEiOiIxMDowMCJ9XX19LCJhbHRyaVNlcnZpemkiOnsiZWxlbmNvU2Vydml6aSI6eyJBcHBhcnRhbWVudGkgcHJvdGV0dGkiOmZhbHNlLCJBc3Npc3RlbnphIERvbWljaWxpYXJlIjpmYWxzZSwiQXNzaXN0ZW56YSByZXNpZGVuemlhbGUgcGVyIHJpZnVnaWF0aS9wcm9mdWdoaSI6ZmFsc2UsIkF0dGl2aXRhJyBmaXNpY2EgYWRhdHRhdGEiOmZhbHNlLCJDYXNhIGRlbGxhIHNhbHV0ZSI6ZmFsc2UsIkNlbnRybyBkaSBzb2NpYWxpenphemlvbmUgcGVyIGF1dG9zdWZmaWNpZW50aSI6ZmFsc2UsIkNlbnRybyBkaXVybm8gQWx6aGVpbWVyIjpmYWxzZSwiQ2VudHJvIGRpdXJubyBwZXIgYXV0b3N1ZmZpY2llbnRpIjpmYWxzZSwiQ2VudHJvIGRpdXJubyBwZXIgbm9uIGF1dG9zdWZmaWNpZW50aSI6ZmFsc2UsIkxhdmFuZGVyaWEgcGVyIGFzc2lzdGl0aSBhIGRvbWljaWxpbyI6ZmFsc2UsIk9yZ2FuaXp6YXppb25lIGRlbCB0cmFzcG9ydG8gZSBhY2NvbXBhZ25hbWVudG8gZGVnbGkgYXNzaXN0aXRpIGRlYW1idWxhbnRpIHBlciB2aXNpdGUvcHJlc3Rhemlvbmkgc2FuaXRhcmllLCBhdnZpc2FuZG9uZSBpIGZhbWlsaWFyaSI6ZmFsc2UsIlByZXN0YXppb25pIGRpIGFzc2lzdGVuemEgZGkgYmFzZSBwZXIgdXRlbnRpIGVzdGVybmkgKGJhZ25vIGFzc2lzdGl0bykiOmZhbHNlLCJSZXNpZGVuemEgcGVyIEF1dG9zdWZmaWNpZW50aSI6ZmFsc2UsIlJlc2lkZW56YSBzb2NpYWxlIHBlciBkaXNhYmlsaSAoUlNEKSI6ZmFsc2UsIlJpc3RvcmF6aW9uZSBhIGRvbWljaWxpbyI6ZmFsc2UsIlJpc3RvcmF6aW9uZSBwZXIgdXRlbnRpIGVzdGVybmkiOmZhbHNlLCJTZWdyZXRhcmlhdG8gc29jaWFsZSI6ZmFsc2UsIlNlcnZpemlvIENvbnRpbnVpdGEnIEFzc2lzdGVuemlhbGUgKEV4IEd1YXJkaWEgTWVkaWNhKSI6ZmFsc2UsIlRyYXNwb3J0byBwZXIgYWR1bHRpIGRpc2FiaWxpIjpmYWxzZX0sInNlcnZpemlBbW1pbmlzdHJhdGl2aSI6eyJzZXJ2aXppQW1taW5pc3RyYXRpdmlTcGVjIjpbeyJnaW9ybmlTZXR0aW1hbmEiOlsibHVuZWRpIiwibWFydGVkaSIsIm1lcmNvbGVkaSIsImdpb3ZlZGkiLCJ2ZW5lcmRpIl0sIm9yYUluaXppbyI6IjA4OjMwIiwib3JhRmluZSI6IjEyOjMwIn1dfSwiZGlyZXppb25lIjp7ImRpcmV6aW9uZVNwZWMiOlt7Imdpb3JuaVNldHRpbWFuYSI6WyJsdW5lZGkiLCJtYXJ0ZWRpIiwibWVyY29sZWRpIiwiZ2lvdmVkaSIsInZlbmVyZGkiXSwib3JhSW5pemlvIjoiMDc6MzAiLCJvcmFGaW5lIjoiMTY6MDAifV19LCJvcmFyaW9WaXNpdGUiOnsib3JhcmlvVmlzaXRlU3BlYyI6eyJvcmFyaVNlcnZpemlvIjpbeyJnaW9ybmlTZXR0aW1hbmEiOlsibHVuZWRpIiwibWFydGVkaSIsIm1lcmNvbGVkaSIsImdpb3ZlZGkiLCJ2ZW5lcmRpIiwic2FiYXRvIiwiZG9tZW5pY2EiXSwib3JhSW5pemlvIjoiMDk6NDAiLCJvcmFGaW5lIjoiMTc6MDAifV19fX19LCJhcnMiOnsibm9tZSI6IkNhbXBpZ2xpYSBNYXJpdHRpbWEiLCJjb2Rfc3RzMjQiOiIzMDE3NEkiLCJhdHRpdmEiOiIxIiwiYWNjb3JkbyI6IjEiLCJpbmRpcml6em8iOiJWaWEgZGVsbGEgTGliZXJ0YScsIDk3IiwiY29kX2NvbXVuZSI6IjQ5MDAyIiwiZ2VzdGlvbmUiOiJwdWJibGljYSIsInF1b3RhIjo1OS4zLCJxdW90YXNhbml0YXJpYSI6NTkuMX19",
+        "posti_liberi_int": 2,
+        "posti_liberi_m_int": 1,
+        "posti_liberi_f_int": 1,
+        "decoded_details": {
+            "id": 256,
+            "struttura": {
+                "avvisoDecimale": "",
+                "posti_modulo_base": 36,
+                "posti_liberi": 2,
+                "posti_liberi_m": 1,
+                "posti_liberi_f": 1,
+                "cf_direttore": "RDACNZ73A45F032H",
+                "nome_direttore": "Cinzia",
+                "cognome_direttore": "Radi",
+                "telefono_rsa": "0565 67806",
+                "fax_rsa": "0565827535",
+                "email": "c.radi@divittorio.it",
+                "sito_internet": "",
+                "tariffa_privata_ranged": {
+                    "minima": 0,
+                    "massima": 53.5
+                },
+                "modulo": [
+                    "Modulo base"
+                ],
+                "indirizzo_sede": "VIA DELLA LIBERTA' 97",
+                "cod_comune_sede": "049002",
+                "tel_sede": "056567806",
+                "fax_sede": "0565827535",
+                "email_sede": "",
+                "posta_certificata_sede": "",
+                "residenza": {
+                    "numeroPiani": 2,
+                    "dettaglioCamere": [
+                        {
+                            "numeroCamere": 17,
+                            "numeroLetti": 36,
+                            "serviziPresenti": [
+                                "bagno dedicato",
+                                "impianto condizionamento",
+                                "balcone"
+                            ]
+                        }
+                    ]
+                },
+                "puntiDiInteresse": [
+                    "distretto sanitario",
+                    "chiesa",
+                    "centro storico",
+                    "teatro",
+                    "associazioni di volontariato",
+                    "ospedale"
+                ],
+                "spazioEsterno": "SI",
+                "serviziSocioSanitari": {
+                    "animazioneSocioEducativa": {
+                        "animazioneSocioEducativaSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "martedi",
+                                    "giovedi",
+                                    "venerdi",
+                                    "sabato"
+                                ],
+                                "oraInizio": "08:00",
+                                "oraFine": "13:00"
+                            }
+                        ]
+                    },
+                    "fisioterapia": {
+                        "fisioterapiaSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "martedi",
+                                    "mercoledi",
+                                    "giovedi",
+                                    "venerdi",
+                                    "sabato"
+                                ],
+                                "oraInizio": "07:30",
+                                "oraFine": "13:00"
+                            }
+                        ]
+                    },
+                    "assistenzaInfermieristica": {
+                        "assistenzaInfermieristicaSpec": {
+                            "reperibilitaNotturna": "SI",
+                            "orariServizio": {
+                                "oraInizio": "06:00",
+                                "oraFine": "22:00",
+                                "oraInizio2": "",
+                                "oraFine2": ""
+                            }
+                        }
+                    },
+                    "mediciSpecialisti": {
+                        "subTitle": "",
+                        "dettaglioSpecialisti": []
+                    },
+                    "psicologo": {
+                        "nonPrevisto": true,
+                        "erogazioneServizio": {
+                            "scelta": "Tutti i giorni",
+                            "allDays": "true"
+                        },
+                        "inclusoQuota": "SI"
+                    },
+                    "podologo": {
+                        "erogazioneServizio": "N volte al mese",
+                        "numeroVolte": 2,
+                        "prestazioniIncluseMese": 1
+                    }
+                },
+                "serviziAlberghieri": {
+                    "cucina": {
+                        "tipoCucina": "Esterna"
+                    },
+                    "lavanderia": {
+                        "indumenti_personali": "NO"
+                    },
+                    "parrucchiere": {
+                        "erogazioneServizio": "N volte al mese",
+                        "numeroVolte": 1,
+                        "prestazioniIncluseMese": 1
+                    },
+                    "estetista": {
+                        "nonPrevisto": true,
+                        "erogazioneServizio": {
+                            "scelta": "Tutti i giorni",
+                            "allDays": "true"
+                        },
+                        "inclusoQuota": "SI"
+                    },
+                    "assistenzaReligiosa": {
+                        "nonPrevisto": false,
+                        "aperturaTipiCulto": "SI",
+                        "assistenzaReligiosaSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "domenica"
+                                ],
+                                "ora": "10:00"
+                            }
+                        ]
+                    }
+                },
+                "altriServizi": {
+                    "elencoServizi": {
+                        "Appartamenti protetti": false,
+                        "Assistenza Domiciliare": false,
+                        "Assistenza residenziale per rifugiati/profughi": false,
+                        "Attivita' fisica adattata": false,
+                        "Casa della salute": false,
+                        "Centro di socializzazione per autosufficienti": false,
+                        "Centro diurno Alzheimer": false,
+                        "Centro diurno per autosufficienti": false,
+                        "Centro diurno per non autosufficienti": false,
+                        "Lavanderia per assistiti a domicilio": false,
+                        "Organizzazione del trasporto e accompagnamento degli assistiti deambulanti per visite/prestazioni sanitarie, avvisandone i familiari": false,
+                        "Prestazioni di assistenza di base per utenti esterni (bagno assistito)": false,
+                        "Residenza per Autosufficienti": false,
+                        "Residenza sociale per disabili (RSD)": false,
+                        "Ristorazione a domicilio": false,
+                        "Ristorazione per utenti esterni": false,
+                        "Segretariato sociale": false,
+                        "Servizio Continuita' Assistenziale (Ex Guardia Medica)": false,
+                        "Trasporto per adulti disabili": false
+                    },
+                    "serviziAmministrativi": {
+                        "serviziAmministrativiSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "martedi",
+                                    "mercoledi",
+                                    "giovedi",
+                                    "venerdi"
+                                ],
+                                "oraInizio": "08:30",
+                                "oraFine": "12:30"
+                            }
+                        ]
+                    },
+                    "direzione": {
+                        "direzioneSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "martedi",
+                                    "mercoledi",
+                                    "giovedi",
+                                    "venerdi"
+                                ],
+                                "oraInizio": "07:30",
+                                "oraFine": "16:00"
+                            }
+                        ]
+                    },
+                    "orarioVisite": {
+                        "orarioVisiteSpec": {
+                            "orariServizio": [
+                                {
+                                    "giorniSettimana": [
+                                        "lunedi",
+                                        "martedi",
+                                        "mercoledi",
+                                        "giovedi",
+                                        "venerdi",
+                                        "sabato",
+                                        "domenica"
+                                    ],
+                                    "oraInizio": "09:40",
+                                    "oraFine": "17:00"
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            "ars": {
+                "nome": "Campiglia Marittima",
+                "cod_sts24": "30174I",
+                "attiva": "1",
+                "accordo": "1",
+                "indirizzo": "Via della Liberta', 97",
+                "cod_comune": "49002",
+                "gestione": "pubblica",
+                "quota": 59.3,
+                "quotasanitaria": 59.1
+            }
+        }
+    },
+    {
         "id": "236",
         "foto0": "pialu_dongori_struttura.png",
         "foto1": "pialu_dongori_palestra.jpg",
@@ -2601,322 +2894,6 @@
         "posti_liberi_m_int": 1,
         "posti_liberi_f_int": 2,
         "decoded_details": null
-    },
-    {
-        "id": "285",
-        "foto0": "valchise_cetona_struttura.png",
-        "foto1": "valchise_cetona_esterno.jpg",
-        "foto2": "valchise_cetona_palestra.jpg",
-        "foto3": "valchise_cetona_interno.jpg",
-        "foto4": "valchise_cetona_camera.jpg",
-        "foto5": "valchise_cetona_cucina.jpg",
-        "nome": "Casa Famiglia Cetona",
-        "tipo": "",
-        "gestione": "pubblica",
-        "indirizzo": "Via S. Sebastiano, 16",
-        "cod_comune": "52008",
-        "comune": "Cetona",
-        "zona": "Amiata senese e Val d’Orcia - Valdichiana senese",
-        "tel1_zona": "0577-782400",
-        "tel2_zona": "0578-713208",
-        "tel3_zona": "",
-        "telefono": "0578-713207 0578-713208",
-        "rsa_ico_animazione": "animazione_socio-educativa.png",
-        "rsa_ico_fisioterapia": "fisioterapia.png",
-        "rsa_ico_cucina": "ristorazione_interna.png",
-        "rsa_ico_giardino": "giardino.png",
-        "rsa_ico_parrucchiere": "parrucchiere.png",
-        "rsa_ico_barbiere": "",
-        "rsa_ico_estetista": "estetista.png",
-        "rsa_ico_relig": "assistenza_religiosa.png",
-        "rsa_ico_geriatra": "",
-        "rsa_ico_assistenza_infermieristica": "assistenza_infermieristica.png",
-        "rsa_ico_psicologo": "",
-        "rsa_ico_podologo": "podologo.png",
-        "rsa_ico_lavanderia": "lavanderia.png",
-        "rsa_ico_postoletto": "",
-        "rsa_posti_liberi": "1",
-        "rsa_quota": "53.00",
-        "rsa_quotasanitaria": "59.10",
-        "rsa_quota_img": "valchise_quota_casafamiglia.png",
-        "rsa_mod_base": "si",
-        "rsa_mod_cogn": "",
-        "rsa_mod_riab": "",
-        "rsa_mod_veg": "",
-        "rsa_attiva": "1",
-        "rsa_nome_brochure": "valchise_casa_famiglia_cetona.pdf",
-        "rsa_data_aggiornamento": "2026.06.12 11:07:51",
-        "lat": "42.9663068350528974",
-        "lon": "11.8980641890656997",
-        "gbnord": "4761163",
-        "gbest": "1736384",
-        "accordo": "1",
-        "cod_sts24": "23424I",
-        "posti_liberi_m": "0",
-        "posti_liberi_f": "1",
-        "indirizzo_sede": "Via San Sebastiano 16",
-        "comune_sede": "Cetona",
-        "fax_sede": "0578 237936",
-        "telefono_sede": "0578 238052",
-        "email_sede": "protocollo@casafamigliacetona.it",
-        "posta_certificata_sede": "istitutocasafamiglia@pec.it",
-        "json_data": "eyJpZCI6Mjg1LCJzdHJ1dHR1cmEiOnsiYXZ2aXNvRGVjaW1hbGUiOiIiLCJwb3N0aV9tb2R1bG9fYmFzZSI6NDAsInBvc3RpX2xpYmVyaSI6MSwicG9zdGlfbGliZXJpX20iOjAsInBvc3RpX2xpYmVyaV9mIjoxLCJjZl9kaXJldHRvcmUiOiJQUkZHUFA3M0IwM0I4MzJJIiwibm9tZV9kaXJldHRvcmUiOiJHaXVzZXBwZSBTaW1vbmUiLCJjb2dub21lX2RpcmV0dG9yZSI6IlByb2ZpbGkiLCJ0ZWxlZm9ub19yc2EiOiIwNTc4IDIzODA1MiIsImZheF9yc2EiOiIiLCJlbWFpbCI6InByb3RvY29sbG9AY2FzYWZhbWlnbGlhY2V0b25hLml0Iiwic2l0b19pbnRlcm5ldCI6Ind3dy5jYXNhZmFtaWdsaWFjZXRvbmEuaXQiLCJ0YXJpZmZhX3ByaXZhdGFfcmFuZ2VkIjp7Im1pbmltYSI6NTMsIm1hc3NpbWEiOjExMi4xfSwibW9kdWxvIjpbIk1vZHVsbyBiYXNlIl0sImluZGlyaXp6b19zZWRlIjoiVmlhIFNhbiBTZWJhc3RpYW5vIDE2IiwiY29kX2NvbXVuZV9zZWRlIjoiMDUyMDA4IiwidGVsX3NlZGUiOiIwNTc4IDIzODA1MiIsImZheF9zZWRlIjoiIiwiZW1haWxfc2VkZSI6InByb3RvY29sbG9AY2FzYWZhbWlnbGlhY2V0b25hLml0IiwicG9zdGFfY2VydGlmaWNhdGFfc2VkZSI6ImlzdGl0dXRvY2FzYWZhbWlnbGlhQHBlYy5pdCIsInJlc2lkZW56YSI6eyJudW1lcm9QaWFuaSI6MywiZGV0dGFnbGlvQ2FtZXJlIjpbeyJudW1lcm9DYW1lcmUiOjIwLCJudW1lcm9MZXR0aSI6Miwic2Vydml6aVByZXNlbnRpIjpbImJhZ25vIGRlZGljYXRvIiwid2lmaSIsImltcGlhbnRvIGNvbmRpemlvbmFtZW50byJdfSx7Im51bWVyb0NhbWVyZSI6MiwibnVtZXJvTGV0dGkiOjEsInNlcnZpemlQcmVzZW50aSI6WyJiYWdubyBkZWRpY2F0byIsIndpZmkiLCJpbXBpYW50byBjb25kaXppb25hbWVudG8iXX1dfSwicHVudGlEaUludGVyZXNzZSI6WyJkaXN0cmV0dG8gc2FuaXRhcmlvIiwiYXV0b2J1cyIsImNoaWVzYSIsImNlbnRybyBzdG9yaWNvIiwiYmlibGlvdGVjYSJdLCJzcGF6aW9Fc3Rlcm5vIjoiU0kiLCJzZXJ2aXppU29jaW9TYW5pdGFyaSI6eyJhbmltYXppb25lU29jaW9FZHVjYXRpdmEiOnsiYW5pbWF6aW9uZVNvY2lvRWR1Y2F0aXZhU3BlYyI6W3siZ2lvcm5pU2V0dGltYW5hIjpbImx1bmVkaSIsIm1hcnRlZGkiLCJtZXJjb2xlZGkiLCJnaW92ZWRpIiwidmVuZXJkaSIsInNhYmF0byJdLCJvcmFJbml6aW8iOiIwOTowMCIsIm9yYUZpbmUiOiIxMzowMCJ9LHsiZ2lvcm5pU2V0dGltYW5hIjpbIm1hcnRlZGkiLCJnaW92ZWRpIl0sIm9yYUluaXppbyI6IjE0OjAwIiwib3JhRmluZSI6IjE3OjMwIn1dfSwiZmlzaW90ZXJhcGlhIjp7ImZpc2lvdGVyYXBpYVNwZWMiOlt7Imdpb3JuaVNldHRpbWFuYSI6WyJsdW5lZGkiLCJtYXJ0ZWRpIiwibWVyY29sZWRpIiwiZ2lvdmVkaSIsInZlbmVyZGkiLCJzYWJhdG8iXSwib3JhSW5pemlvIjoiMDc6MDAiLCJvcmFGaW5lIjoiMTM6MDAifSx7Imdpb3JuaVNldHRpbWFuYSI6WyJtZXJjb2xlZGkiLCJnaW92ZWRpIl0sIm9yYUluaXppbyI6IjE0OjAwIiwib3JhRmluZSI6IjE4OjAwIn1dfSwiYXNzaXN0ZW56YUluZmVybWllcmlzdGljYSI6eyJhc3Npc3RlbnphSW5mZXJtaWVyaXN0aWNhU3BlYyI6eyJyZXBlcmliaWxpdGFOb3R0dXJuYSI6Ik5PIiwib3JhcmlTZXJ2aXppbyI6eyJvcmFJbml6aW8iOiIwNjozMCIsIm9yYUZpbmUiOiIyMDozMCIsIm9yYUluaXppbzIiOiIiLCJvcmFGaW5lMiI6IiJ9fX0sIm1lZGljaVNwZWNpYWxpc3RpIjp7InN1YlRpdGxlIjoiIiwiZGV0dGFnbGlvU3BlY2lhbGlzdGkiOltdfSwicHNpY29sb2dvIjp7Im5vblByZXZpc3RvIjp0cnVlLCJlcm9nYXppb25lU2Vydml6aW8iOnsic2NlbHRhIjoiVHV0dGkgaSBnaW9ybmkiLCJhbGxEYXlzIjoidHJ1ZSJ9LCJpbmNsdXNvUXVvdGEiOiJTSSJ9LCJwb2RvbG9nbyI6eyJlcm9nYXppb25lU2Vydml6aW8iOiJOIHZvbHRlIGFsIG1lc2UiLCJudW1lcm9Wb2x0ZSI6MSwicHJlc3RhemlvbmlJbmNsdXNlTWVzZSI6MX19LCJzZXJ2aXppQWxiZXJnaGllcmkiOnsiY3VjaW5hIjp7InRpcG9DdWNpbmEiOiJJbnRlcm5hIn0sImxhdmFuZGVyaWEiOnsiaW5kdW1lbnRpX3BlcnNvbmFsaSI6IlNJIn0sInBhcnJ1Y2NoaWVyZSI6eyJlcm9nYXppb25lU2Vydml6aW8iOiJOIHZvbHRlIGFsIG1lc2UiLCJudW1lcm9Wb2x0ZSI6MSwicHJlc3RhemlvbmlJbmNsdXNlTWVzZSI6MX0sImVzdGV0aXN0YSI6eyJub25QcmV2aXN0byI6ZmFsc2UsImVyb2dhemlvbmVTZXJ2aXppbyI6eyJudW1lcm9NZXNlIjoxfSwiaW5jbHVzb1F1b3RhIjoiU0kifSwiYXNzaXN0ZW56YVJlbGlnaW9zYSI6eyJub25QcmV2aXN0byI6ZmFsc2UsImFwZXJ0dXJhVGlwaUN1bHRvIjoiU0kiLCJhc3Npc3RlbnphUmVsaWdpb3NhU3BlYyI6W3siZ2lvcm5pU2V0dGltYW5hIjpbInZlbmVyZGkiXSwib3JhIjoiMTA6MDAifV19fSwiYWx0cmlTZXJ2aXppIjp7ImVsZW5jb1NlcnZpemkiOnsiQXBwYXJ0YW1lbnRpIHByb3RldHRpIjpmYWxzZSwiQXNzaXN0ZW56YSBEb21pY2lsaWFyZSI6ZmFsc2UsIkFzc2lzdGVuemEgcmVzaWRlbnppYWxlIHBlciByaWZ1Z2lhdGkvcHJvZnVnaGkiOmZhbHNlLCJBdHRpdml0YScgZmlzaWNhIGFkYXR0YXRhIjpmYWxzZSwiQ2FzYSBkZWxsYSBzYWx1dGUiOmZhbHNlLCJDZW50cm8gZGkgc29jaWFsaXp6YXppb25lIHBlciBhdXRvc3VmZmljaWVudGkiOmZhbHNlLCJDZW50cm8gZGl1cm5vIEFsemhlaW1lciI6ZmFsc2UsIkNlbnRybyBkaXVybm8gcGVyIGF1dG9zdWZmaWNpZW50aSI6ZmFsc2UsIkNlbnRybyBkaXVybm8gcGVyIG5vbiBhdXRvc3VmZmljaWVudGkiOmZhbHNlLCJMYXZhbmRlcmlhIHBlciBhc3Npc3RpdGkgYSBkb21pY2lsaW8iOmZhbHNlLCJPcmdhbml6emF6aW9uZSBkZWwgdHJhc3BvcnRvIGUgYWNjb21wYWduYW1lbnRvIGRlZ2xpIGFzc2lzdGl0aSBkZWFtYnVsYW50aSBwZXIgdmlzaXRlL3ByZXN0YXppb25pIHNhbml0YXJpZSwgYXZ2aXNhbmRvbmUgaSBmYW1pbGlhcmkiOmZhbHNlLCJQcmVzdGF6aW9uaSBkaSBhc3Npc3RlbnphIGRpIGJhc2UgcGVyIHV0ZW50aSBlc3Rlcm5pIChiYWdubyBhc3Npc3RpdG8pIjpmYWxzZSwiUmVzaWRlbnphIHBlciBBdXRvc3VmZmljaWVudGkiOnRydWUsIlJlc2lkZW56YSBzb2NpYWxlIHBlciBkaXNhYmlsaSAoUlNEKSI6ZmFsc2UsIlJpc3RvcmF6aW9uZSBhIGRvbWljaWxpbyI6dHJ1ZSwiUmlzdG9yYXppb25lIHBlciB1dGVudGkgZXN0ZXJuaSI6ZmFsc2UsIlNlZ3JldGFyaWF0byBzb2NpYWxlIjpmYWxzZSwiU2Vydml6aW8gQ29udGludWl0YScgQXNzaXN0ZW56aWFsZSAoRXggR3VhcmRpYSBNZWRpY2EpIjpmYWxzZSwiVHJhc3BvcnRvIHBlciBhZHVsdGkgZGlzYWJpbGkiOmZhbHNlfSwic2Vydml6aUFtbWluaXN0cmF0aXZpIjp7InNlcnZpemlBbW1pbmlzdHJhdGl2aVNwZWMiOlt7Imdpb3JuaVNldHRpbWFuYSI6WyJsdW5lZGkiLCJtYXJ0ZWRpIiwibWVyY29sZWRpIiwiZ2lvdmVkaSIsInZlbmVyZGkiXSwib3JhSW5pemlvIjoiMTA6MDAiLCJvcmFGaW5lIjoiMTM6MDAifSx7Imdpb3JuaVNldHRpbWFuYSI6WyJtZXJjb2xlZGkiLCJnaW92ZWRpIl0sIm9yYUluaXppbyI6IjE1OjMwIiwib3JhRmluZSI6IjE3OjMwIn1dfSwiZGlyZXppb25lIjp7ImRpcmV6aW9uZVNwZWMiOlt7Imdpb3JuaVNldHRpbWFuYSI6WyJtZXJjb2xlZGkiLCJnaW92ZWRpIl0sIm9yYUluaXppbyI6IjEwOjMwIiwib3JhRmluZSI6IjEzOjMwIn0seyJnaW9ybmlTZXR0aW1hbmEiOlsibWVyY29sZWRpIiwiZ2lvdmVkaSJdLCJvcmFJbml6aW8iOiIxNTozMCIsIm9yYUZpbmUiOiIxNzozMCJ9XX0sIm9yYXJpb1Zpc2l0ZSI6eyJvcmFyaW9WaXNpdGVTcGVjIjp7InNjZWx0YSI6IjI0aCJ9fX19LCJhcnMiOnsibm9tZSI6IkNhc2EgRmFtaWdsaWEgQ2V0b25hIiwiY29kX3N0czI0IjoiMjM0MjRJIiwiYXR0aXZhIjoiMSIsImFjY29yZG8iOiIxIiwiaW5kaXJpenpvIjoiVmlhIFMuIFNlYmFzdGlhbm8sIDE2IiwiY29kX2NvbXVuZSI6IjUyMDA4IiwiZ2VzdGlvbmUiOiJwdWJibGljYSIsInF1b3RhIjo1MywicXVvdGFzYW5pdGFyaWEiOjU5LjF9fQ==",
-        "posti_liberi_int": 1,
-        "posti_liberi_m_int": 0,
-        "posti_liberi_f_int": 1,
-        "decoded_details": {
-            "id": 285,
-            "struttura": {
-                "avvisoDecimale": "",
-                "posti_modulo_base": 40,
-                "posti_liberi": 1,
-                "posti_liberi_m": 0,
-                "posti_liberi_f": 1,
-                "cf_direttore": "PRFGPP73B03B832I",
-                "nome_direttore": "Giuseppe Simone",
-                "cognome_direttore": "Profili",
-                "telefono_rsa": "0578 238052",
-                "fax_rsa": "",
-                "email": "protocollo@casafamigliacetona.it",
-                "sito_internet": "www.casafamigliacetona.it",
-                "tariffa_privata_ranged": {
-                    "minima": 53,
-                    "massima": 112.1
-                },
-                "modulo": [
-                    "Modulo base"
-                ],
-                "indirizzo_sede": "Via San Sebastiano 16",
-                "cod_comune_sede": "052008",
-                "tel_sede": "0578 238052",
-                "fax_sede": "",
-                "email_sede": "protocollo@casafamigliacetona.it",
-                "posta_certificata_sede": "istitutocasafamiglia@pec.it",
-                "residenza": {
-                    "numeroPiani": 3,
-                    "dettaglioCamere": [
-                        {
-                            "numeroCamere": 20,
-                            "numeroLetti": 2,
-                            "serviziPresenti": [
-                                "bagno dedicato",
-                                "wifi",
-                                "impianto condizionamento"
-                            ]
-                        },
-                        {
-                            "numeroCamere": 2,
-                            "numeroLetti": 1,
-                            "serviziPresenti": [
-                                "bagno dedicato",
-                                "wifi",
-                                "impianto condizionamento"
-                            ]
-                        }
-                    ]
-                },
-                "puntiDiInteresse": [
-                    "distretto sanitario",
-                    "autobus",
-                    "chiesa",
-                    "centro storico",
-                    "biblioteca"
-                ],
-                "spazioEsterno": "SI",
-                "serviziSocioSanitari": {
-                    "animazioneSocioEducativa": {
-                        "animazioneSocioEducativaSpec": [
-                            {
-                                "giorniSettimana": [
-                                    "lunedi",
-                                    "martedi",
-                                    "mercoledi",
-                                    "giovedi",
-                                    "venerdi",
-                                    "sabato"
-                                ],
-                                "oraInizio": "09:00",
-                                "oraFine": "13:00"
-                            },
-                            {
-                                "giorniSettimana": [
-                                    "martedi",
-                                    "giovedi"
-                                ],
-                                "oraInizio": "14:00",
-                                "oraFine": "17:30"
-                            }
-                        ]
-                    },
-                    "fisioterapia": {
-                        "fisioterapiaSpec": [
-                            {
-                                "giorniSettimana": [
-                                    "lunedi",
-                                    "martedi",
-                                    "mercoledi",
-                                    "giovedi",
-                                    "venerdi",
-                                    "sabato"
-                                ],
-                                "oraInizio": "07:00",
-                                "oraFine": "13:00"
-                            },
-                            {
-                                "giorniSettimana": [
-                                    "mercoledi",
-                                    "giovedi"
-                                ],
-                                "oraInizio": "14:00",
-                                "oraFine": "18:00"
-                            }
-                        ]
-                    },
-                    "assistenzaInfermieristica": {
-                        "assistenzaInfermieristicaSpec": {
-                            "reperibilitaNotturna": "NO",
-                            "orariServizio": {
-                                "oraInizio": "06:30",
-                                "oraFine": "20:30",
-                                "oraInizio2": "",
-                                "oraFine2": ""
-                            }
-                        }
-                    },
-                    "mediciSpecialisti": {
-                        "subTitle": "",
-                        "dettaglioSpecialisti": []
-                    },
-                    "psicologo": {
-                        "nonPrevisto": true,
-                        "erogazioneServizio": {
-                            "scelta": "Tutti i giorni",
-                            "allDays": "true"
-                        },
-                        "inclusoQuota": "SI"
-                    },
-                    "podologo": {
-                        "erogazioneServizio": "N volte al mese",
-                        "numeroVolte": 1,
-                        "prestazioniIncluseMese": 1
-                    }
-                },
-                "serviziAlberghieri": {
-                    "cucina": {
-                        "tipoCucina": "Interna"
-                    },
-                    "lavanderia": {
-                        "indumenti_personali": "SI"
-                    },
-                    "parrucchiere": {
-                        "erogazioneServizio": "N volte al mese",
-                        "numeroVolte": 1,
-                        "prestazioniIncluseMese": 1
-                    },
-                    "estetista": {
-                        "nonPrevisto": false,
-                        "erogazioneServizio": {
-                            "numeroMese": 1
-                        },
-                        "inclusoQuota": "SI"
-                    },
-                    "assistenzaReligiosa": {
-                        "nonPrevisto": false,
-                        "aperturaTipiCulto": "SI",
-                        "assistenzaReligiosaSpec": [
-                            {
-                                "giorniSettimana": [
-                                    "venerdi"
-                                ],
-                                "ora": "10:00"
-                            }
-                        ]
-                    }
-                },
-                "altriServizi": {
-                    "elencoServizi": {
-                        "Appartamenti protetti": false,
-                        "Assistenza Domiciliare": false,
-                        "Assistenza residenziale per rifugiati/profughi": false,
-                        "Attivita' fisica adattata": false,
-                        "Casa della salute": false,
-                        "Centro di socializzazione per autosufficienti": false,
-                        "Centro diurno Alzheimer": false,
-                        "Centro diurno per autosufficienti": false,
-                        "Centro diurno per non autosufficienti": false,
-                        "Lavanderia per assistiti a domicilio": false,
-                        "Organizzazione del trasporto e accompagnamento degli assistiti deambulanti per visite/prestazioni sanitarie, avvisandone i familiari": false,
-                        "Prestazioni di assistenza di base per utenti esterni (bagno assistito)": false,
-                        "Residenza per Autosufficienti": true,
-                        "Residenza sociale per disabili (RSD)": false,
-                        "Ristorazione a domicilio": true,
-                        "Ristorazione per utenti esterni": false,
-                        "Segretariato sociale": false,
-                        "Servizio Continuita' Assistenziale (Ex Guardia Medica)": false,
-                        "Trasporto per adulti disabili": false
-                    },
-                    "serviziAmministrativi": {
-                        "serviziAmministrativiSpec": [
-                            {
-                                "giorniSettimana": [
-                                    "lunedi",
-                                    "martedi",
-                                    "mercoledi",
-                                    "giovedi",
-                                    "venerdi"
-                                ],
-                                "oraInizio": "10:00",
-                                "oraFine": "13:00"
-                            },
-                            {
-                                "giorniSettimana": [
-                                    "mercoledi",
-                                    "giovedi"
-                                ],
-                                "oraInizio": "15:30",
-                                "oraFine": "17:30"
-                            }
-                        ]
-                    },
-                    "direzione": {
-                        "direzioneSpec": [
-                            {
-                                "giorniSettimana": [
-                                    "mercoledi",
-                                    "giovedi"
-                                ],
-                                "oraInizio": "10:30",
-                                "oraFine": "13:30"
-                            },
-                            {
-                                "giorniSettimana": [
-                                    "mercoledi",
-                                    "giovedi"
-                                ],
-                                "oraInizio": "15:30",
-                                "oraFine": "17:30"
-                            }
-                        ]
-                    },
-                    "orarioVisite": {
-                        "orarioVisiteSpec": {
-                            "scelta": "24h"
-                        }
-                    }
-                }
-            },
-            "ars": {
-                "nome": "Casa Famiglia Cetona",
-                "cod_sts24": "23424I",
-                "attiva": "1",
-                "accordo": "1",
-                "indirizzo": "Via S. Sebastiano, 16",
-                "cod_comune": "52008",
-                "gestione": "pubblica",
-                "quota": 53,
-                "quotasanitaria": 59.1
-            }
-        }
     },
     {
         "id": "39",
@@ -9089,12 +9066,12 @@
         "gestione": "privata",
         "indirizzo": "Via della Fonte, 34",
         "cod_comune": "48046",
-        "cod_comune_sede": "48046",
         "comune": "Vaglia",
         "zona": "Fiorentina Nord-Ovest",
         "tel1_zona": "055 6930246",
         "tel2_zona": "",
         "tel3_zona": "",
+        "telefono": "055-6930225",
         "rsa_ico_animazione": "animazione_socio-educativa.png",
         "rsa_ico_fisioterapia": "fisioterapia.png",
         "rsa_ico_cucina": "ristorazione_interna.png",
