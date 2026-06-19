@@ -1246,7 +1246,7 @@
         "rsa_ico_podologo": "podologo.png",
         "rsa_ico_lavanderia": "lavanderia.png",
         "rsa_ico_postoletto": "",
-        "rsa_posti_liberi": "2",
+        "rsa_posti_liberi": "1",
         "rsa_quota": "59.30",
         "rsa_quotasanitaria": "59.10",
         "rsa_quota_img": "valco_quote_campigliamarittima.png",
@@ -1256,7 +1256,7 @@
         "rsa_mod_veg": "",
         "rsa_attiva": "1",
         "rsa_nome_brochure": "valcor_campigliamarittima.pdf",
-        "rsa_data_aggiornamento": "2026.06.15 09:31:58",
+        "rsa_data_aggiornamento": "2026.06.19 12:05:33",
         "lat": "43.058977013959101",
         "lon": "10.6246410336294002",
         "gbnord": "4768659",
@@ -1264,25 +1264,25 @@
         "accordo": "1",
         "cod_sts24": "30174I",
         "posti_liberi_m": "1",
-        "posti_liberi_f": "1",
+        "posti_liberi_f": "0",
         "indirizzo_sede": "VIA DELLA LIBERTA' 97",
         "comune_sede": "Campiglia Marittima",
         "fax_sede": "0565827535",
         "telefono_sede": "056567806",
         "email_sede": "NULL",
         "posta_certificata_sede": "NULL",
-        "json_data": "eyJpZCI6MjU2LCJzdHJ1dHR1cmEiOnsiYXZ2aXNvRGVjaW1hbGUiOiIiLCJwb3N0aV9tb2R1bG9fYmFzZSI6MzYsInBvc3RpX2xpYmVyaSI6MiwicG9zdGlfbGliZXJpX20iOjEsInBvc3RpX2xpYmVyaV9mIjoxLCJjZl9kaXJldHRvcmUiOiJSREFDTlo3M0E0NUYwMzJIIiwibm9tZV9kaXJldHRvcmUiOiJDaW56aWEiLCJjb2dub21lX2RpcmV0dG9yZSI6IlJhZGkiLCJ0ZWxlZm9ub19yc2EiOiIwNTY1IDY3ODA2IiwiZmF4X3JzYSI6IjA1NjU4Mjc1MzUiLCJlbWFpbCI6ImMucmFkaUBkaXZpdHRvcmlvLml0Iiwic2l0b19pbnRlcm5ldCI6IiIsInRhcmlmZmFfcHJpdmF0YV9yYW5nZWQiOnsibWluaW1hIjowLCJtYXNzaW1hIjo1My41fSwibW9kdWxvIjpbIk1vZHVsbyBiYXNlIl0sImluZGlyaXp6b19zZWRlIjoiVklBIERFTExBIExJQkVSVEEnIDk3IiwiY29kX2NvbXVuZV9zZWRlIjoiMDQ5MDAyIiwidGVsX3NlZGUiOiIwNTY1Njc4MDYiLCJmYXhfc2VkZSI6IjA1NjU4Mjc1MzUiLCJlbWFpbF9zZWRlIjoiIiwicG9zdGFfY2VydGlmaWNhdGFfc2VkZSI6IiIsInJlc2lkZW56YSI6eyJudW1lcm9QaWFuaSI6MiwiZGV0dGFnbGlvQ2FtZXJlIjpbeyJudW1lcm9DYW1lcmUiOjE3LCJudW1lcm9MZXR0aSI6MzYsInNlcnZpemlQcmVzZW50aSI6WyJiYWdubyBkZWRpY2F0byIsImltcGlhbnRvIGNvbmRpemlvbmFtZW50byIsImJhbGNvbmUiXX1dfSwicHVudGlEaUludGVyZXNzZSI6WyJkaXN0cmV0dG8gc2FuaXRhcmlvIiwiY2hpZXNhIiwiY2VudHJvIHN0b3JpY28iLCJ0ZWF0cm8iLCJhc3NvY2lhemlvbmkgZGkgdm9sb250YXJpYXRvIiwib3NwZWRhbGUiXSwic3BhemlvRXN0ZXJubyI6IlNJIiwic2Vydml6aVNvY2lvU2FuaXRhcmkiOnsiYW5pbWF6aW9uZVNvY2lvRWR1Y2F0aXZhIjp7ImFuaW1hemlvbmVTb2Npb0VkdWNhdGl2YVNwZWMiOlt7Imdpb3JuaVNldHRpbWFuYSI6WyJsdW5lZGkiLCJtYXJ0ZWRpIiwiZ2lvdmVkaSIsInZlbmVyZGkiLCJzYWJhdG8iXSwib3JhSW5pemlvIjoiMDg6MDAiLCJvcmFGaW5lIjoiMTM6MDAifV19LCJmaXNpb3RlcmFwaWEiOnsiZmlzaW90ZXJhcGlhU3BlYyI6W3siZ2lvcm5pU2V0dGltYW5hIjpbImx1bmVkaSIsIm1hcnRlZGkiLCJtZXJjb2xlZGkiLCJnaW92ZWRpIiwidmVuZXJkaSIsInNhYmF0byJdLCJvcmFJbml6aW8iOiIwNzozMCIsIm9yYUZpbmUiOiIxMzowMCJ9XX0sImFzc2lzdGVuemFJbmZlcm1pZXJpc3RpY2EiOnsiYXNzaXN0ZW56YUluZmVybWllcmlzdGljYVNwZWMiOnsicmVwZXJpYmlsaXRhTm90dHVybmEiOiJTSSIsIm9yYXJpU2Vydml6aW8iOnsib3JhSW5pemlvIjoiMDY6MDAiLCJvcmFGaW5lIjoiMjI6MDAiLCJvcmFJbml6aW8yIjoiIiwib3JhRmluZTIiOiIifX19LCJtZWRpY2lTcGVjaWFsaXN0aSI6eyJzdWJUaXRsZSI6IiIsImRldHRhZ2xpb1NwZWNpYWxpc3RpIjpbXX0sInBzaWNvbG9nbyI6eyJub25QcmV2aXN0byI6dHJ1ZSwiZXJvZ2F6aW9uZVNlcnZpemlvIjp7InNjZWx0YSI6IlR1dHRpIGkgZ2lvcm5pIiwiYWxsRGF5cyI6InRydWUifSwiaW5jbHVzb1F1b3RhIjoiU0kifSwicG9kb2xvZ28iOnsiZXJvZ2F6aW9uZVNlcnZpemlvIjoiTiB2b2x0ZSBhbCBtZXNlIiwibnVtZXJvVm9sdGUiOjIsInByZXN0YXppb25pSW5jbHVzZU1lc2UiOjF9fSwic2Vydml6aUFsYmVyZ2hpZXJpIjp7ImN1Y2luYSI6eyJ0aXBvQ3VjaW5hIjoiRXN0ZXJuYSJ9LCJsYXZhbmRlcmlhIjp7ImluZHVtZW50aV9wZXJzb25hbGkiOiJOTyJ9LCJwYXJydWNjaGllcmUiOnsiZXJvZ2F6aW9uZVNlcnZpemlvIjoiTiB2b2x0ZSBhbCBtZXNlIiwibnVtZXJvVm9sdGUiOjEsInByZXN0YXppb25pSW5jbHVzZU1lc2UiOjF9LCJlc3RldGlzdGEiOnsibm9uUHJldmlzdG8iOnRydWUsImVyb2dhemlvbmVTZXJ2aXppbyI6eyJzY2VsdGEiOiJUdXR0aSBpIGdpb3JuaSIsImFsbERheXMiOiJ0cnVlIn0sImluY2x1c29RdW90YSI6IlNJIn0sImFzc2lzdGVuemFSZWxpZ2lvc2EiOnsibm9uUHJldmlzdG8iOmZhbHNlLCJhcGVydHVyYVRpcGlDdWx0byI6IlNJIiwiYXNzaXN0ZW56YVJlbGlnaW9zYVNwZWMiOlt7Imdpb3JuaVNldHRpbWFuYSI6WyJkb21lbmljYSJdLCJvcmEiOiIxMDowMCJ9XX19LCJhbHRyaVNlcnZpemkiOnsiZWxlbmNvU2Vydml6aSI6eyJBcHBhcnRhbWVudGkgcHJvdGV0dGkiOmZhbHNlLCJBc3Npc3RlbnphIERvbWljaWxpYXJlIjpmYWxzZSwiQXNzaXN0ZW56YSByZXNpZGVuemlhbGUgcGVyIHJpZnVnaWF0aS9wcm9mdWdoaSI6ZmFsc2UsIkF0dGl2aXRhJyBmaXNpY2EgYWRhdHRhdGEiOmZhbHNlLCJDYXNhIGRlbGxhIHNhbHV0ZSI6ZmFsc2UsIkNlbnRybyBkaSBzb2NpYWxpenphemlvbmUgcGVyIGF1dG9zdWZmaWNpZW50aSI6ZmFsc2UsIkNlbnRybyBkaXVybm8gQWx6aGVpbWVyIjpmYWxzZSwiQ2VudHJvIGRpdXJubyBwZXIgYXV0b3N1ZmZpY2llbnRpIjpmYWxzZSwiQ2VudHJvIGRpdXJubyBwZXIgbm9uIGF1dG9zdWZmaWNpZW50aSI6ZmFsc2UsIkxhdmFuZGVyaWEgcGVyIGFzc2lzdGl0aSBhIGRvbWljaWxpbyI6ZmFsc2UsIk9yZ2FuaXp6YXppb25lIGRlbCB0cmFzcG9ydG8gZSBhY2NvbXBhZ25hbWVudG8gZGVnbGkgYXNzaXN0aXRpIGRlYW1idWxhbnRpIHBlciB2aXNpdGUvcHJlc3Rhemlvbmkgc2FuaXRhcmllLCBhdnZpc2FuZG9uZSBpIGZhbWlsaWFyaSI6ZmFsc2UsIlByZXN0YXppb25pIGRpIGFzc2lzdGVuemEgZGkgYmFzZSBwZXIgdXRlbnRpIGVzdGVybmkgKGJhZ25vIGFzc2lzdGl0bykiOmZhbHNlLCJSZXNpZGVuemEgcGVyIEF1dG9zdWZmaWNpZW50aSI6ZmFsc2UsIlJlc2lkZW56YSBzb2NpYWxlIHBlciBkaXNhYmlsaSAoUlNEKSI6ZmFsc2UsIlJpc3RvcmF6aW9uZSBhIGRvbWljaWxpbyI6ZmFsc2UsIlJpc3RvcmF6aW9uZSBwZXIgdXRlbnRpIGVzdGVybmkiOmZhbHNlLCJTZWdyZXRhcmlhdG8gc29jaWFsZSI6ZmFsc2UsIlNlcnZpemlvIENvbnRpbnVpdGEnIEFzc2lzdGVuemlhbGUgKEV4IEd1YXJkaWEgTWVkaWNhKSI6ZmFsc2UsIlRyYXNwb3J0byBwZXIgYWR1bHRpIGRpc2FiaWxpIjpmYWxzZX0sInNlcnZpemlBbW1pbmlzdHJhdGl2aSI6eyJzZXJ2aXppQW1taW5pc3RyYXRpdmlTcGVjIjpbeyJnaW9ybmlTZXR0aW1hbmEiOlsibHVuZWRpIiwibWFydGVkaSIsIm1lcmNvbGVkaSIsImdpb3ZlZGkiLCJ2ZW5lcmRpIl0sIm9yYUluaXppbyI6IjA4OjMwIiwib3JhRmluZSI6IjEyOjMwIn1dfSwiZGlyZXppb25lIjp7ImRpcmV6aW9uZVNwZWMiOlt7Imdpb3JuaVNldHRpbWFuYSI6WyJsdW5lZGkiLCJtYXJ0ZWRpIiwibWVyY29sZWRpIiwiZ2lvdmVkaSIsInZlbmVyZGkiXSwib3JhSW5pemlvIjoiMDc6MzAiLCJvcmFGaW5lIjoiMTY6MDAifV19LCJvcmFyaW9WaXNpdGUiOnsib3JhcmlvVmlzaXRlU3BlYyI6eyJvcmFyaVNlcnZpemlvIjpbeyJnaW9ybmlTZXR0aW1hbmEiOlsibHVuZWRpIiwibWFydGVkaSIsIm1lcmNvbGVkaSIsImdpb3ZlZGkiLCJ2ZW5lcmRpIiwic2FiYXRvIiwiZG9tZW5pY2EiXSwib3JhSW5pemlvIjoiMDk6NDAiLCJvcmFGaW5lIjoiMTc6MDAifV19fX19LCJhcnMiOnsibm9tZSI6IkNhbXBpZ2xpYSBNYXJpdHRpbWEiLCJjb2Rfc3RzMjQiOiIzMDE3NEkiLCJhdHRpdmEiOiIxIiwiYWNjb3JkbyI6IjEiLCJpbmRpcml6em8iOiJWaWEgZGVsbGEgTGliZXJ0YScsIDk3IiwiY29kX2NvbXVuZSI6IjQ5MDAyIiwiZ2VzdGlvbmUiOiJwdWJibGljYSIsInF1b3RhIjo1OS4zLCJxdW90YXNhbml0YXJpYSI6NTkuMX19",
-        "posti_liberi_int": 2,
+        "json_data": "eyJpZCI6MjU2LCJzdHJ1dHR1cmEiOnsiYXZ2aXNvRGVjaW1hbGUiOiIiLCJwb3N0aV9tb2R1bG9fYmFzZSI6MzYsInBvc3RpX2xpYmVyaSI6MSwicG9zdGlfbGliZXJpX20iOjEsInBvc3RpX2xpYmVyaV9mIjowLCJjZl9kaXJldHRvcmUiOiJSREFDTlo3M0E0NUYwMzJIIiwibm9tZV9kaXJldHRvcmUiOiJDaW56aWEiLCJjb2dub21lX2RpcmV0dG9yZSI6IlJhZGkiLCJ0ZWxlZm9ub19yc2EiOiIwNTY1IDY3ODA2IiwiZmF4X3JzYSI6IjA1NjU4Mjc1MzUiLCJlbWFpbCI6ImMucmFkaUBkaXZpdHRvcmlvLml0Iiwic2l0b19pbnRlcm5ldCI6IiIsInRhcmlmZmFfcHJpdmF0YV9yYW5nZWQiOnsibWluaW1hIjowLCJtYXNzaW1hIjo1My41fSwibW9kdWxvIjpbIk1vZHVsbyBiYXNlIl0sImluZGlyaXp6b19zZWRlIjoiVklBIERFTExBIExJQkVSVEEnIDk3IiwiY29kX2NvbXVuZV9zZWRlIjoiMDQ5MDAyIiwidGVsX3NlZGUiOiIwNTY1Njc4MDYiLCJmYXhfc2VkZSI6IjA1NjU4Mjc1MzUiLCJlbWFpbF9zZWRlIjoiIiwicG9zdGFfY2VydGlmaWNhdGFfc2VkZSI6IiIsInJlc2lkZW56YSI6eyJudW1lcm9QaWFuaSI6MiwiZGV0dGFnbGlvQ2FtZXJlIjpbeyJudW1lcm9DYW1lcmUiOjE3LCJudW1lcm9MZXR0aSI6MzYsInNlcnZpemlQcmVzZW50aSI6WyJiYWdubyBkZWRpY2F0byIsImltcGlhbnRvIGNvbmRpemlvbmFtZW50byIsImJhbGNvbmUiXX1dfSwicHVudGlEaUludGVyZXNzZSI6WyJkaXN0cmV0dG8gc2FuaXRhcmlvIiwiY2hpZXNhIiwiY2VudHJvIHN0b3JpY28iLCJ0ZWF0cm8iLCJhc3NvY2lhemlvbmkgZGkgdm9sb250YXJpYXRvIiwib3NwZWRhbGUiXSwic3BhemlvRXN0ZXJubyI6IlNJIiwic2Vydml6aVNvY2lvU2FuaXRhcmkiOnsiYW5pbWF6aW9uZVNvY2lvRWR1Y2F0aXZhIjp7ImFuaW1hemlvbmVTb2Npb0VkdWNhdGl2YVNwZWMiOlt7Imdpb3JuaVNldHRpbWFuYSI6WyJsdW5lZGkiLCJtYXJ0ZWRpIiwiZ2lvdmVkaSIsInZlbmVyZGkiLCJzYWJhdG8iXSwib3JhSW5pemlvIjoiMDg6MDAiLCJvcmFGaW5lIjoiMTM6MDAifV19LCJmaXNpb3RlcmFwaWEiOnsiZmlzaW90ZXJhcGlhU3BlYyI6W3siZ2lvcm5pU2V0dGltYW5hIjpbImx1bmVkaSIsIm1hcnRlZGkiLCJtZXJjb2xlZGkiLCJnaW92ZWRpIiwidmVuZXJkaSIsInNhYmF0byJdLCJvcmFJbml6aW8iOiIwNzozMCIsIm9yYUZpbmUiOiIxMzowMCJ9XX0sImFzc2lzdGVuemFJbmZlcm1pZXJpc3RpY2EiOnsiYXNzaXN0ZW56YUluZmVybWllcmlzdGljYVNwZWMiOnsicmVwZXJpYmlsaXRhTm90dHVybmEiOiJTSSIsIm9yYXJpU2Vydml6aW8iOnsib3JhSW5pemlvIjoiMDY6MDAiLCJvcmFGaW5lIjoiMjI6MDAiLCJvcmFJbml6aW8yIjoiIiwib3JhRmluZTIiOiIifX19LCJtZWRpY2lTcGVjaWFsaXN0aSI6eyJzdWJUaXRsZSI6IiIsImRldHRhZ2xpb1NwZWNpYWxpc3RpIjpbXX0sInBzaWNvbG9nbyI6eyJub25QcmV2aXN0byI6dHJ1ZSwiZXJvZ2F6aW9uZVNlcnZpemlvIjp7InNjZWx0YSI6IlR1dHRpIGkgZ2lvcm5pIiwiYWxsRGF5cyI6InRydWUifSwiaW5jbHVzb1F1b3RhIjoiU0kifSwicG9kb2xvZ28iOnsiZXJvZ2F6aW9uZVNlcnZpemlvIjoiTiB2b2x0ZSBhbCBtZXNlIiwibnVtZXJvVm9sdGUiOjIsInByZXN0YXppb25pSW5jbHVzZU1lc2UiOjF9fSwic2Vydml6aUFsYmVyZ2hpZXJpIjp7ImN1Y2luYSI6eyJ0aXBvQ3VjaW5hIjoiRXN0ZXJuYSJ9LCJsYXZhbmRlcmlhIjp7ImluZHVtZW50aV9wZXJzb25hbGkiOiJOTyJ9LCJwYXJydWNjaGllcmUiOnsiZXJvZ2F6aW9uZVNlcnZpemlvIjoiTiB2b2x0ZSBhbCBtZXNlIiwibnVtZXJvVm9sdGUiOjEsInByZXN0YXppb25pSW5jbHVzZU1lc2UiOjF9LCJlc3RldGlzdGEiOnsibm9uUHJldmlzdG8iOnRydWUsImVyb2dhemlvbmVTZXJ2aXppbyI6eyJzY2VsdGEiOiJUdXR0aSBpIGdpb3JuaSIsImFsbERheXMiOiJ0cnVlIn0sImluY2x1c29RdW90YSI6IlNJIn0sImFzc2lzdGVuemFSZWxpZ2lvc2EiOnsibm9uUHJldmlzdG8iOmZhbHNlLCJhcGVydHVyYVRpcGlDdWx0byI6IlNJIiwiYXNzaXN0ZW56YVJlbGlnaW9zYVNwZWMiOlt7Imdpb3JuaVNldHRpbWFuYSI6WyJkb21lbmljYSJdLCJvcmEiOiIxMDowMCJ9XX19LCJhbHRyaVNlcnZpemkiOnsiZWxlbmNvU2Vydml6aSI6eyJBcHBhcnRhbWVudGkgcHJvdGV0dGkiOmZhbHNlLCJBc3Npc3RlbnphIERvbWljaWxpYXJlIjpmYWxzZSwiQXNzaXN0ZW56YSByZXNpZGVuemlhbGUgcGVyIHJpZnVnaWF0aS9wcm9mdWdoaSI6ZmFsc2UsIkF0dGl2aXRhJyBmaXNpY2EgYWRhdHRhdGEiOmZhbHNlLCJDYXNhIGRlbGxhIHNhbHV0ZSI6ZmFsc2UsIkNlbnRybyBkaSBzb2NpYWxpenphemlvbmUgcGVyIGF1dG9zdWZmaWNpZW50aSI6ZmFsc2UsIkNlbnRybyBkaXVybm8gQWx6aGVpbWVyIjpmYWxzZSwiQ2VudHJvIGRpdXJubyBwZXIgYXV0b3N1ZmZpY2llbnRpIjpmYWxzZSwiQ2VudHJvIGRpdXJubyBwZXIgbm9uIGF1dG9zdWZmaWNpZW50aSI6ZmFsc2UsIkxhdmFuZGVyaWEgcGVyIGFzc2lzdGl0aSBhIGRvbWljaWxpbyI6ZmFsc2UsIk9yZ2FuaXp6YXppb25lIGRlbCB0cmFzcG9ydG8gZSBhY2NvbXBhZ25hbWVudG8gZGVnbGkgYXNzaXN0aXRpIGRlYW1idWxhbnRpIHBlciB2aXNpdGUvcHJlc3Rhemlvbmkgc2FuaXRhcmllLCBhdnZpc2FuZG9uZSBpIGZhbWlsaWFyaSI6ZmFsc2UsIlByZXN0YXppb25pIGRpIGFzc2lzdGVuemEgZGkgYmFzZSBwZXIgdXRlbnRpIGVzdGVybmkgKGJhZ25vIGFzc2lzdGl0bykiOmZhbHNlLCJSZXNpZGVuemEgcGVyIEF1dG9zdWZmaWNpZW50aSI6ZmFsc2UsIlJlc2lkZW56YSBzb2NpYWxlIHBlciBkaXNhYmlsaSAoUlNEKSI6ZmFsc2UsIlJpc3RvcmF6aW9uZSBhIGRvbWljaWxpbyI6ZmFsc2UsIlJpc3RvcmF6aW9uZSBwZXIgdXRlbnRpIGVzdGVybmkiOmZhbHNlLCJTZWdyZXRhcmlhdG8gc29jaWFsZSI6ZmFsc2UsIlNlcnZpemlvIENvbnRpbnVpdGEnIEFzc2lzdGVuemlhbGUgKEV4IEd1YXJkaWEgTWVkaWNhKSI6ZmFsc2UsIlRyYXNwb3J0byBwZXIgYWR1bHRpIGRpc2FiaWxpIjpmYWxzZX0sInNlcnZpemlBbW1pbmlzdHJhdGl2aSI6eyJzZXJ2aXppQW1taW5pc3RyYXRpdmlTcGVjIjpbeyJnaW9ybmlTZXR0aW1hbmEiOlsibHVuZWRpIiwibWFydGVkaSIsIm1lcmNvbGVkaSIsImdpb3ZlZGkiLCJ2ZW5lcmRpIl0sIm9yYUluaXppbyI6IjA4OjMwIiwib3JhRmluZSI6IjEyOjMwIn1dfSwiZGlyZXppb25lIjp7ImRpcmV6aW9uZVNwZWMiOlt7Imdpb3JuaVNldHRpbWFuYSI6WyJsdW5lZGkiLCJtYXJ0ZWRpIiwibWVyY29sZWRpIiwiZ2lvdmVkaSIsInZlbmVyZGkiXSwib3JhSW5pemlvIjoiMDc6MzAiLCJvcmFGaW5lIjoiMTY6MDAifV19LCJvcmFyaW9WaXNpdGUiOnsib3JhcmlvVmlzaXRlU3BlYyI6eyJvcmFyaVNlcnZpemlvIjpbeyJnaW9ybmlTZXR0aW1hbmEiOlsibHVuZWRpIiwibWFydGVkaSIsIm1lcmNvbGVkaSIsImdpb3ZlZGkiLCJ2ZW5lcmRpIiwic2FiYXRvIiwiZG9tZW5pY2EiXSwib3JhSW5pemlvIjoiMDk6NDAiLCJvcmFGaW5lIjoiMTc6MDAifV19fX19LCJhcnMiOnsibm9tZSI6IkNhbXBpZ2xpYSBNYXJpdHRpbWEiLCJjb2Rfc3RzMjQiOiIzMDE3NEkiLCJhdHRpdmEiOiIxIiwiYWNjb3JkbyI6IjEiLCJpbmRpcml6em8iOiJWaWEgZGVsbGEgTGliZXJ0YScsIDk3IiwiY29kX2NvbXVuZSI6IjQ5MDAyIiwiZ2VzdGlvbmUiOiJwdWJibGljYSIsInF1b3RhIjo1OS4zLCJxdW90YXNhbml0YXJpYSI6NTkuMX19",
+        "posti_liberi_int": 1,
         "posti_liberi_m_int": 1,
-        "posti_liberi_f_int": 1,
+        "posti_liberi_f_int": 0,
         "decoded_details": {
             "id": 256,
             "struttura": {
                 "avvisoDecimale": "",
                 "posti_modulo_base": 36,
-                "posti_liberi": 2,
+                "posti_liberi": 1,
                 "posti_liberi_m": 1,
-                "posti_liberi_f": 1,
+                "posti_liberi_f": 0,
                 "cf_direttore": "RDACNZ73A45F032H",
                 "nome_direttore": "Cinzia",
                 "cognome_direttore": "Radi",
@@ -2790,6 +2790,295 @@
         }
     },
     {
+        "id": "86",
+        "foto0": "fio_rsa_gisellavecchio_struttura.png",
+        "foto1": "fio_rsa_gisellavecchio_palestra.jpg",
+        "foto2": "fio_rsa_gisellavecchio_ingresso.jpg",
+        "foto3": "fio_rsa_gisellanuovo_camera.jpg",
+        "foto4": "",
+        "foto5": "",
+        "nome": "Villa Gisella Vecchio Padiglione",
+        "tipo": "",
+        "gestione": "privata",
+        "indirizzo": "Largo E. Caruso, 1",
+        "cod_comune": "48017",
+        "comune": "Firenze",
+        "zona": "Firenze",
+        "tel1_zona": "055-2616250",
+        "tel2_zona": "",
+        "tel3_zona": "",
+        "telefono": "055-2616250",
+        "rsa_ico_animazione": "animazione_socio-educativa.png",
+        "rsa_ico_fisioterapia": "fisioterapia.png",
+        "rsa_ico_cucina": "ristorazione_interna.png",
+        "rsa_ico_giardino": "giardino.png",
+        "rsa_ico_parrucchiere": "parrucchiere.png",
+        "rsa_ico_barbiere": "",
+        "rsa_ico_estetista": "",
+        "rsa_ico_relig": "assistenza_religiosa.png",
+        "rsa_ico_geriatra": "consulenza_medico_specialistica.png",
+        "rsa_ico_assistenza_infermieristica": "assistenza_infermieristica_notturna.png",
+        "rsa_ico_psicologo": "psicologo.png",
+        "rsa_ico_podologo": "podologo.png",
+        "rsa_ico_lavanderia": "lavanderia.png",
+        "rsa_ico_postoletto": "",
+        "rsa_posti_liberi": "1",
+        "rsa_quota": "70.00",
+        "rsa_quotasanitaria": "59.10",
+        "rsa_quota_img": "quota_gisella_vecchio.png",
+        "rsa_mod_base": "si",
+        "rsa_mod_cogn": "",
+        "rsa_mod_riab": "",
+        "rsa_mod_veg": "",
+        "rsa_attiva": "1",
+        "rsa_nome_brochure": "fio_rsa_gisellavecchio.pdf",
+        "rsa_data_aggiornamento": "2026.06.19 08:52:29",
+        "lat": "43.8076732438142997",
+        "lon": "11.2388767600980994",
+        "gbnord": "4852964",
+        "gbest": "1680111",
+        "accordo": "1",
+        "cod_sts24": "60934I",
+        "posti_liberi_m": "0",
+        "posti_liberi_f": "1",
+        "indirizzo_sede": "LARGO ENRICO CARUSO 1 ",
+        "comune_sede": "Firenze",
+        "fax_sede": "055 453127",
+        "telefono_sede": "055 4250028",
+        "email_sede": "b.chiarelli@gruppozaffiro.it",
+        "posta_certificata_sede": "zaffirocentrosud@legalmail.it",
+        "json_data": "eyJpZCI6ODYsInN0cnV0dHVyYSI6eyJhdnZpc29EZWNpbWFsZSI6IiIsInBvc3RpX21vZHVsb19iYXNlIjo3MywicG9zdGlfbGliZXJpIjoxLCJwb3N0aV9saWJlcmlfbSI6MCwicG9zdGlfbGliZXJpX2YiOjEsImNmX2RpcmV0dG9yZSI6IlBUTE1UVDg5QzI1TDQ4M1kiLCJub21lX2RpcmV0dG9yZSI6Ik1hdHRlbyIsImNvZ25vbWVfZGlyZXR0b3JlIjoiUGl0dWVsbG8iLCJ0ZWxlZm9ub19yc2EiOiIwNTUgNDI1MDAyOCIsImZheF9yc2EiOiIwNTUgNDUzMTI3IiwiZW1haWwiOiJiLmNoaWFyZWxsaUBncnVwcG96YWZmaXJvLml0Iiwic2l0b19pbnRlcm5ldCI6Ind3dy5ncnVwcG96YWZmaXJvLml0IiwidGFyaWZmYV9wcml2YXRhX3JhbmdlZCI6eyJtaW5pbWEiOjEyMywibWFzc2ltYSI6MTIzfSwibW9kdWxvIjpbIk1vZHVsbyBiYXNlIl0sImluZGlyaXp6b19zZWRlIjoiTEFSR08gRU5SSUNPIENBUlVTTyAxICIsImNvZF9jb211bmVfc2VkZSI6IjA0ODAxNyIsInRlbF9zZWRlIjoiMDU1IDQyNTAwMjgiLCJmYXhfc2VkZSI6IjA1NSA0NTMxMjciLCJlbWFpbF9zZWRlIjoiYi5jaGlhcmVsbGlAZ3J1cHBvemFmZmlyby5pdCIsInBvc3RhX2NlcnRpZmljYXRhX3NlZGUiOiJ6YWZmaXJvY2VudHJvc3VkQGxlZ2FsbWFpbC5pdCIsInJlc2lkZW56YSI6eyJudW1lcm9QaWFuaSI6MiwiZGV0dGFnbGlvQ2FtZXJlIjpbeyJudW1lcm9DYW1lcmUiOjI1LCJudW1lcm9MZXR0aSI6NzMsInNlcnZpemlQcmVzZW50aSI6WyJiYWdubyBkZWRpY2F0byIsImltcGlhbnRvIGNvbmRpemlvbmFtZW50byJdfV19LCJwdW50aURpSW50ZXJlc3NlIjpbImRpc3RyZXR0byBzYW5pdGFyaW8iLCJhdXRvYnVzIiwiYmlibGlvdGVjYSIsIm9zcGVkYWxlIl0sInNwYXppb0VzdGVybm8iOiJTSSIsInNlcnZpemlTb2Npb1Nhbml0YXJpIjp7ImFuaW1hemlvbmVTb2Npb0VkdWNhdGl2YSI6eyJhbmltYXppb25lU29jaW9FZHVjYXRpdmFTcGVjIjpbeyJnaW9ybmlTZXR0aW1hbmEiOlsibHVuZWRpIiwibWFydGVkaSIsIm1lcmNvbGVkaSIsImdpb3ZlZGkiLCJ2ZW5lcmRpIl0sIm9yYUluaXppbyI6IjA5OjAwIiwib3JhRmluZSI6IjE4OjAwIn0seyJnaW9ybmlTZXR0aW1hbmEiOlsic2FiYXRvIl0sIm9yYUluaXppbyI6IjA5OjMwIiwib3JhRmluZSI6IjEyOjMwIn1dfSwiZmlzaW90ZXJhcGlhIjp7ImZpc2lvdGVyYXBpYVNwZWMiOlt7Imdpb3JuaVNldHRpbWFuYSI6WyJsdW5lZGkiLCJtYXJ0ZWRpIiwibWVyY29sZWRpIiwiZ2lvdmVkaSIsInZlbmVyZGkiXSwib3JhSW5pemlvIjoiMDk6MDAiLCJvcmFGaW5lIjoiMTg6MDAifV19LCJhc3Npc3RlbnphSW5mZXJtaWVyaXN0aWNhIjp7ImFzc2lzdGVuemFJbmZlcm1pZXJpc3RpY2FTcGVjIjp7InNjZWx0YSI6IjI0aCJ9fSwibWVkaWNpU3BlY2lhbGlzdGkiOnsic3ViVGl0bGUiOiIiLCJkZXR0YWdsaW9TcGVjaWFsaXN0aSI6W3sibWVkaWNvU3BlY2lhbGlzdGEiOiJnZXJpYXRyYSIsImVyb2dhemlvbmVTZXJ2aXppbyI6eyJzY2VsdGEiOiJUdXR0aSBpIGdpb3JuaSIsImFsbERheXMiOiJ0cnVlIn0sImluY2x1c29RdW90YSI6IlNJIn1dfSwicHNpY29sb2dvIjp7Im5vblByZXZpc3RvIjpmYWxzZSwiZXJvZ2F6aW9uZVNlcnZpemlvIjp7Im51bWVyb1NldHRpbWFuYSI6NX0sImluY2x1c29RdW90YSI6IlNJIn0sInBvZG9sb2dvIjp7ImVyb2dhemlvbmVTZXJ2aXppbyI6Ik4gdm9sdGUgYWwgbWVzZSIsIm51bWVyb1ZvbHRlIjoxLCJwcmVzdGF6aW9uaUluY2x1c2VNZXNlIjoxfX0sInNlcnZpemlBbGJlcmdoaWVyaSI6eyJjdWNpbmEiOnsidGlwb0N1Y2luYSI6IkludGVybmEifSwibGF2YW5kZXJpYSI6eyJpbmR1bWVudGlfcGVyc29uYWxpIjoiTk8ifSwicGFycnVjY2hpZXJlIjp7ImVyb2dhemlvbmVTZXJ2aXppbyI6Ik4gdm9sdGUgYSBzZXR0aW1hbmEiLCJudW1lcm9Wb2x0ZSI6MiwicHJlc3RhemlvbmlJbmNsdXNlTWVzZSI6MX0sImVzdGV0aXN0YSI6eyJub25QcmV2aXN0byI6dHJ1ZSwiZXJvZ2F6aW9uZVNlcnZpemlvIjp7InNjZWx0YSI6IlR1dHRpIGkgZ2lvcm5pIiwiYWxsRGF5cyI6InRydWUifSwiaW5jbHVzb1F1b3RhIjoiU0kifSwiYXNzaXN0ZW56YVJlbGlnaW9zYSI6eyJub25QcmV2aXN0byI6ZmFsc2UsImFwZXJ0dXJhVGlwaUN1bHRvIjoiU0kiLCJhc3Npc3RlbnphUmVsaWdpb3NhU3BlYyI6W3siZ2lvcm5pU2V0dGltYW5hIjpbInNhYmF0byJdLCJvcmEiOiIxNTozMCJ9XX19LCJhbHRyaVNlcnZpemkiOnsiZWxlbmNvU2Vydml6aSI6eyJBcHBhcnRhbWVudGkgcHJvdGV0dGkiOmZhbHNlLCJBc3Npc3RlbnphIERvbWljaWxpYXJlIjpmYWxzZSwiQXNzaXN0ZW56YSByZXNpZGVuemlhbGUgcGVyIHJpZnVnaWF0aS9wcm9mdWdoaSI6ZmFsc2UsIkF0dGl2aXRhJyBmaXNpY2EgYWRhdHRhdGEiOmZhbHNlLCJDYXNhIGRlbGxhIHNhbHV0ZSI6ZmFsc2UsIkNlbnRybyBkaSBzb2NpYWxpenphemlvbmUgcGVyIGF1dG9zdWZmaWNpZW50aSI6ZmFsc2UsIkNlbnRybyBkaXVybm8gQWx6aGVpbWVyIjpmYWxzZSwiQ2VudHJvIGRpdXJubyBwZXIgYXV0b3N1ZmZpY2llbnRpIjpmYWxzZSwiQ2VudHJvIGRpdXJubyBwZXIgbm9uIGF1dG9zdWZmaWNpZW50aSI6ZmFsc2UsIkxhdmFuZGVyaWEgcGVyIGFzc2lzdGl0aSBhIGRvbWljaWxpbyI6ZmFsc2UsIk9yZ2FuaXp6YXppb25lIGRlbCB0cmFzcG9ydG8gZSBhY2NvbXBhZ25hbWVudG8gZGVnbGkgYXNzaXN0aXRpIGRlYW1idWxhbnRpIHBlciB2aXNpdGUvcHJlc3Rhemlvbmkgc2FuaXRhcmllLCBhdnZpc2FuZG9uZSBpIGZhbWlsaWFyaSI6dHJ1ZSwiUHJlc3RhemlvbmkgZGkgYXNzaXN0ZW56YSBkaSBiYXNlIHBlciB1dGVudGkgZXN0ZXJuaSAoYmFnbm8gYXNzaXN0aXRvKSI6ZmFsc2UsIlJlc2lkZW56YSBwZXIgQXV0b3N1ZmZpY2llbnRpIjpmYWxzZSwiUmVzaWRlbnphIHNvY2lhbGUgcGVyIGRpc2FiaWxpIChSU0QpIjpmYWxzZSwiUmlzdG9yYXppb25lIGEgZG9taWNpbGlvIjpmYWxzZSwiUmlzdG9yYXppb25lIHBlciB1dGVudGkgZXN0ZXJuaSI6ZmFsc2UsIlNlZ3JldGFyaWF0byBzb2NpYWxlIjpmYWxzZSwiU2Vydml6aW8gQ29udGludWl0YScgQXNzaXN0ZW56aWFsZSAoRXggR3VhcmRpYSBNZWRpY2EpIjpmYWxzZSwiVHJhc3BvcnRvIHBlciBhZHVsdGkgZGlzYWJpbGkiOmZhbHNlfSwic2Vydml6aUFtbWluaXN0cmF0aXZpIjp7InNlcnZpemlBbW1pbmlzdHJhdGl2aVNwZWMiOlt7Imdpb3JuaVNldHRpbWFuYSI6WyJsdW5lZGkiLCJtYXJ0ZWRpIiwibWVyY29sZWRpIiwiZ2lvdmVkaSIsInZlbmVyZGkiXSwib3JhSW5pemlvIjoiMDk6MDAiLCJvcmFGaW5lIjoiMTY6MzAifV19LCJkaXJlemlvbmUiOnsiZGlyZXppb25lU3BlYyI6W3siZ2lvcm5pU2V0dGltYW5hIjpbImx1bmVkaSIsIm1hcnRlZGkiLCJtZXJjb2xlZGkiLCJnaW92ZWRpIiwidmVuZXJkaSJdLCJvcmFJbml6aW8iOiIwOTowMCIsIm9yYUZpbmUiOiIxNzowMCJ9XX0sIm9yYXJpb1Zpc2l0ZSI6eyJvcmFyaW9WaXNpdGVTcGVjIjp7Im9yYXJpU2Vydml6aW8iOnsib3JhSW5pemlvIjoiMTE6MDAiLCJvcmFGaW5lIjoiMTk6MzAiLCJvcmFJbml6aW8yIjoiIiwib3JhRmluZTIiOiIifX19fX0sImFycyI6eyJub21lIjoiVmlsbGEgR2lzZWxsYSBWZWNjaGlvIFBhZGlnbGlvbmUiLCJjb2Rfc3RzMjQiOiI2MDkzNEkiLCJhdHRpdmEiOiIxIiwiYWNjb3JkbyI6IjEiLCJpbmRpcml6em8iOiJMYXJnbyBFLiBDYXJ1c28sIDEiLCJjb2RfY29tdW5lIjoiNDgwMTciLCJnZXN0aW9uZSI6InByaXZhdGEiLCJxdW90YSI6NzAsInF1b3Rhc2FuaXRhcmlhIjo1OS4xfX0=",
+        "posti_liberi_int": 1,
+        "posti_liberi_m_int": 0,
+        "posti_liberi_f_int": 1,
+        "decoded_details": {
+            "id": 86,
+            "struttura": {
+                "avvisoDecimale": "",
+                "posti_modulo_base": 73,
+                "posti_liberi": 1,
+                "posti_liberi_m": 0,
+                "posti_liberi_f": 1,
+                "cf_direttore": "PTLMTT89C25L483Y",
+                "nome_direttore": "Matteo",
+                "cognome_direttore": "Pituello",
+                "telefono_rsa": "055 4250028",
+                "fax_rsa": "055 453127",
+                "email": "b.chiarelli@gruppozaffiro.it",
+                "sito_internet": "www.gruppozaffiro.it",
+                "tariffa_privata_ranged": {
+                    "minima": 123,
+                    "massima": 123
+                },
+                "modulo": [
+                    "Modulo base"
+                ],
+                "indirizzo_sede": "LARGO ENRICO CARUSO 1 ",
+                "cod_comune_sede": "048017",
+                "tel_sede": "055 4250028",
+                "fax_sede": "055 453127",
+                "email_sede": "b.chiarelli@gruppozaffiro.it",
+                "posta_certificata_sede": "zaffirocentrosud@legalmail.it",
+                "residenza": {
+                    "numeroPiani": 2,
+                    "dettaglioCamere": [
+                        {
+                            "numeroCamere": 25,
+                            "numeroLetti": 73,
+                            "serviziPresenti": [
+                                "bagno dedicato",
+                                "impianto condizionamento"
+                            ]
+                        }
+                    ]
+                },
+                "puntiDiInteresse": [
+                    "distretto sanitario",
+                    "autobus",
+                    "biblioteca",
+                    "ospedale"
+                ],
+                "spazioEsterno": "SI",
+                "serviziSocioSanitari": {
+                    "animazioneSocioEducativa": {
+                        "animazioneSocioEducativaSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "martedi",
+                                    "mercoledi",
+                                    "giovedi",
+                                    "venerdi"
+                                ],
+                                "oraInizio": "09:00",
+                                "oraFine": "18:00"
+                            },
+                            {
+                                "giorniSettimana": [
+                                    "sabato"
+                                ],
+                                "oraInizio": "09:30",
+                                "oraFine": "12:30"
+                            }
+                        ]
+                    },
+                    "fisioterapia": {
+                        "fisioterapiaSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "martedi",
+                                    "mercoledi",
+                                    "giovedi",
+                                    "venerdi"
+                                ],
+                                "oraInizio": "09:00",
+                                "oraFine": "18:00"
+                            }
+                        ]
+                    },
+                    "assistenzaInfermieristica": {
+                        "assistenzaInfermieristicaSpec": {
+                            "scelta": "24h"
+                        }
+                    },
+                    "mediciSpecialisti": {
+                        "subTitle": "",
+                        "dettaglioSpecialisti": [
+                            {
+                                "medicoSpecialista": "geriatra",
+                                "erogazioneServizio": {
+                                    "scelta": "Tutti i giorni",
+                                    "allDays": "true"
+                                },
+                                "inclusoQuota": "SI"
+                            }
+                        ]
+                    },
+                    "psicologo": {
+                        "nonPrevisto": false,
+                        "erogazioneServizio": {
+                            "numeroSettimana": 5
+                        },
+                        "inclusoQuota": "SI"
+                    },
+                    "podologo": {
+                        "erogazioneServizio": "N volte al mese",
+                        "numeroVolte": 1,
+                        "prestazioniIncluseMese": 1
+                    }
+                },
+                "serviziAlberghieri": {
+                    "cucina": {
+                        "tipoCucina": "Interna"
+                    },
+                    "lavanderia": {
+                        "indumenti_personali": "NO"
+                    },
+                    "parrucchiere": {
+                        "erogazioneServizio": "N volte a settimana",
+                        "numeroVolte": 2,
+                        "prestazioniIncluseMese": 1
+                    },
+                    "estetista": {
+                        "nonPrevisto": true,
+                        "erogazioneServizio": {
+                            "scelta": "Tutti i giorni",
+                            "allDays": "true"
+                        },
+                        "inclusoQuota": "SI"
+                    },
+                    "assistenzaReligiosa": {
+                        "nonPrevisto": false,
+                        "aperturaTipiCulto": "SI",
+                        "assistenzaReligiosaSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "sabato"
+                                ],
+                                "ora": "15:30"
+                            }
+                        ]
+                    }
+                },
+                "altriServizi": {
+                    "elencoServizi": {
+                        "Appartamenti protetti": false,
+                        "Assistenza Domiciliare": false,
+                        "Assistenza residenziale per rifugiati/profughi": false,
+                        "Attivita' fisica adattata": false,
+                        "Casa della salute": false,
+                        "Centro di socializzazione per autosufficienti": false,
+                        "Centro diurno Alzheimer": false,
+                        "Centro diurno per autosufficienti": false,
+                        "Centro diurno per non autosufficienti": false,
+                        "Lavanderia per assistiti a domicilio": false,
+                        "Organizzazione del trasporto e accompagnamento degli assistiti deambulanti per visite/prestazioni sanitarie, avvisandone i familiari": true,
+                        "Prestazioni di assistenza di base per utenti esterni (bagno assistito)": false,
+                        "Residenza per Autosufficienti": false,
+                        "Residenza sociale per disabili (RSD)": false,
+                        "Ristorazione a domicilio": false,
+                        "Ristorazione per utenti esterni": false,
+                        "Segretariato sociale": false,
+                        "Servizio Continuita' Assistenziale (Ex Guardia Medica)": false,
+                        "Trasporto per adulti disabili": false
+                    },
+                    "serviziAmministrativi": {
+                        "serviziAmministrativiSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "martedi",
+                                    "mercoledi",
+                                    "giovedi",
+                                    "venerdi"
+                                ],
+                                "oraInizio": "09:00",
+                                "oraFine": "16:30"
+                            }
+                        ]
+                    },
+                    "direzione": {
+                        "direzioneSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "martedi",
+                                    "mercoledi",
+                                    "giovedi",
+                                    "venerdi"
+                                ],
+                                "oraInizio": "09:00",
+                                "oraFine": "17:00"
+                            }
+                        ]
+                    },
+                    "orarioVisite": {
+                        "orarioVisiteSpec": {
+                            "orariServizio": {
+                                "oraInizio": "11:00",
+                                "oraFine": "19:30",
+                                "oraInizio2": "",
+                                "oraFine2": ""
+                            }
+                        }
+                    }
+                }
+            },
+            "ars": {
+                "nome": "Villa Gisella Vecchio Padiglione",
+                "cod_sts24": "60934I",
+                "attiva": "1",
+                "accordo": "1",
+                "indirizzo": "Largo E. Caruso, 1",
+                "cod_comune": "48017",
+                "gestione": "privata",
+                "quota": 70,
+                "quotasanitaria": 59.1
+            }
+        }
+    },
+    {
         "id": "33",
         "foto0": "lunig_Fivizzano_esterno.jpg",
         "foto1": "lunig_Fivizzano_sala.jpg",
@@ -3060,293 +3349,6 @@
                 "cod_comune": "45007",
                 "gestione": "privata",
                 "quota": 59.3,
-                "quotasanitaria": 59.1
-            }
-        }
-    },
-    {
-        "id": "155",
-        "foto0": "gros_ferrucci_struttura.png",
-        "foto1": "gros_ferrucci_saletta.jpg",
-        "foto2": "gros_ferrucci_sala_attivita.jpg",
-        "foto3": "gros_ferrucci_sala.jpg",
-        "foto4": "gros_ferrucci_palestra.jpg",
-        "foto5": "gros_ferrucci_camera.jpg",
-        "nome": "Ferrucci",
-        "tipo": "",
-        "gestione": "pubblica",
-        "indirizzo": "Via Ferrucci, 9",
-        "cod_comune": "53011",
-        "comune": "Grosseto",
-        "zona": "Amiata Grossetana - Colline Metallifere - Grossetana",
-        "tel1_zona": "0564-439210",
-        "tel2_zona": "",
-        "tel3_zona": "",
-        "telefono": "0564-483730 0564-483733",
-        "rsa_ico_animazione": "animazione_socio-educativa.png",
-        "rsa_ico_fisioterapia": "fisioterapia.png",
-        "rsa_ico_cucina": "ristorazione_interna.png",
-        "rsa_ico_giardino": "giardino.png",
-        "rsa_ico_parrucchiere": "parrucchiere.png",
-        "rsa_ico_barbiere": "",
-        "rsa_ico_estetista": "estetista.png",
-        "rsa_ico_relig": "assistenza_religiosa.png",
-        "rsa_ico_geriatra": "",
-        "rsa_ico_assistenza_infermieristica": "assistenza_infermieristica_notturna.png",
-        "rsa_ico_psicologo": "",
-        "rsa_ico_podologo": "podologo.png",
-        "rsa_ico_lavanderia": "lavanderia.png",
-        "rsa_ico_postoletto": "",
-        "rsa_posti_liberi": "1",
-        "rsa_quota": "52.88",
-        "rsa_quotasanitaria": "59.10",
-        "rsa_quota_img": "gross_quota_ferrucci.png",
-        "rsa_mod_base": "si",
-        "rsa_mod_cogn": "",
-        "rsa_mod_riab": "",
-        "rsa_mod_veg": "",
-        "rsa_attiva": "1",
-        "rsa_nome_brochure": "gros_ferrucci.pdf",
-        "rsa_data_aggiornamento": "2026.06.18 14:22:25",
-        "lat": "42.7566001385809002",
-        "lon": "11.1135644240527007",
-        "gbnord": "4735966",
-        "gbest": "1672984",
-        "accordo": "1",
-        "cod_sts24": "42274I",
-        "posti_liberi_m": "0",
-        "posti_liberi_f": "1",
-        "indirizzo_sede": "Via Damiano Chiesa 12",
-        "comune_sede": "Grosseto",
-        "fax_sede": "0564 23216",
-        "telefono_sede": "0564 427807",
-        "email_sede": "residenze@coesoareagr.it",
-        "posta_certificata_sede": "sdsgrosseto@pec.it",
-        "json_data": "eyJpZCI6MTU1LCJzdHJ1dHR1cmEiOnsiYXZ2aXNvRGVjaW1hbGUiOiIiLCJwb3N0aV9tb2R1bG9fYmFzZSI6NjcsInBvc3RpX2xpYmVyaSI6MSwicG9zdGlfbGliZXJpX20iOjAsInBvc3RpX2xpYmVyaV9mIjoxLCJjZl9kaXJldHRvcmUiOiJUTExHUEw4M0EwN0UyMDJaIiwibm9tZV9kaXJldHRvcmUiOiJHaWFtcGFvbG8iLCJjb2dub21lX2RpcmV0dG9yZSI6IlRvbGxhcGkiLCJ0ZWxlZm9ub19yc2EiOiIwNTY0IDQyNzgwNyAiLCJmYXhfcnNhIjoiIiwiZW1haWwiOiJyZXNpZGVuemVAY29lc29hcmVhZ3IuaXQiLCJzaXRvX2ludGVybmV0Ijoid3d3LmNvZXNvYXJlYWdyLml0IiwidGFyaWZmYV9wcml2YXRhX3JhbmdlZCI6eyJtaW5pbWEiOjAsIm1hc3NpbWEiOjB9LCJtb2R1bG8iOlsiTW9kdWxvIGJhc2UiXSwiaW5kaXJpenpvX3NlZGUiOiJWaWEgRGFtaWFubyBDaGllc2EgMTIiLCJjb2RfY29tdW5lX3NlZGUiOiIwNTMwMTEiLCJ0ZWxfc2VkZSI6IjA1NjQgNDI3ODA3IiwiZmF4X3NlZGUiOiIiLCJlbWFpbF9zZWRlIjoicmVzaWRlbnplQGNvZXNvYXJlYWdyLml0IiwicG9zdGFfY2VydGlmaWNhdGFfc2VkZSI6InNkc2dyb3NzZXRvQHBlYy5pdCIsInJlc2lkZW56YSI6eyJudW1lcm9QaWFuaSI6MiwiZGV0dGFnbGlvQ2FtZXJlIjpbeyJudW1lcm9DYW1lcmUiOjE1LCJudW1lcm9MZXR0aSI6NDQsInNlcnZpemlQcmVzZW50aSI6WyJiYWdubyBkZWRpY2F0byIsInR2IiwiaW1waWFudG8gY29uZGl6aW9uYW1lbnRvIiwiYmFsY29uZSJdfSx7Im51bWVyb0NhbWVyZSI6MTMsIm51bWVyb0xldHRpIjoyMywic2Vydml6aVByZXNlbnRpIjpbImJhZ25vIGRlZGljYXRvIiwidHYiLCJpbXBpYW50byBjb25kaXppb25hbWVudG8iXX1dfSwicHVudGlEaUludGVyZXNzZSI6WyJkaXN0cmV0dG8gc2FuaXRhcmlvIiwiYXV0b2J1cyIsImNoaWVzYSIsImNlbnRybyBzdG9yaWNvIiwidGVhdHJvIiwiY2luZW1hIiwic3RhemlvbmUgZmVycm92aWFyaWEiLCJiaWJsaW90ZWNhIiwiYXNzb2NpYXppb25pIGRpIHZvbG9udGFyaWF0byIsIm9zcGVkYWxlIl0sInNwYXppb0VzdGVybm8iOiJTSSIsInNlcnZpemlTb2Npb1Nhbml0YXJpIjp7ImFuaW1hemlvbmVTb2Npb0VkdWNhdGl2YSI6eyJhbmltYXppb25lU29jaW9FZHVjYXRpdmFTcGVjIjp7Im9yYUluaXppbyI6IjA5OjAwIiwib3JhRmluZSI6IjEyOjAwIiwib3JhSW5pemlvMiI6IjE1OjAwIiwib3JhRmluZTIiOiIxODozMCJ9fSwiZmlzaW90ZXJhcGlhIjp7ImZpc2lvdGVyYXBpYVNwZWMiOnsib3JhSW5pemlvIjoiMDk6MDAiLCJvcmFGaW5lIjoiMTI6MDAiLCJvcmFJbml6aW8yIjoiMTU6MDAiLCJvcmFGaW5lMiI6IjE4OjAwIn19LCJhc3Npc3RlbnphSW5mZXJtaWVyaXN0aWNhIjp7ImFzc2lzdGVuemFJbmZlcm1pZXJpc3RpY2FTcGVjIjp7InNjZWx0YSI6IjI0aCJ9fSwibWVkaWNpU3BlY2lhbGlzdGkiOnsic3ViVGl0bGUiOiIiLCJkZXR0YWdsaW9TcGVjaWFsaXN0aSI6W119LCJwc2ljb2xvZ28iOnsibm9uUHJldmlzdG8iOnRydWUsImVyb2dhemlvbmVTZXJ2aXppbyI6eyJzY2VsdGEiOiJUdXR0aSBpIGdpb3JuaSIsImFsbERheXMiOiJ0cnVlIn0sImluY2x1c29RdW90YSI6IlNJIn0sInBvZG9sb2dvIjp7ImVyb2dhemlvbmVTZXJ2aXppbyI6Ik4gdm9sdGUgYWwgbWVzZSIsIm51bWVyb1ZvbHRlIjoxLCJwcmVzdGF6aW9uaUluY2x1c2VNZXNlIjoxfX0sInNlcnZpemlBbGJlcmdoaWVyaSI6eyJjdWNpbmEiOnsidGlwb0N1Y2luYSI6IkludGVybmEifSwibGF2YW5kZXJpYSI6eyJpbmR1bWVudGlfcGVyc29uYWxpIjoiU0kifSwicGFycnVjY2hpZXJlIjp7ImVyb2dhemlvbmVTZXJ2aXppbyI6Ik4gdm9sdGUgYWwgbWVzZSIsIm51bWVyb1ZvbHRlIjoyLCJwcmVzdGF6aW9uaUluY2x1c2VNZXNlIjoyfSwiZXN0ZXRpc3RhIjp7Im5vblByZXZpc3RvIjpmYWxzZSwiZXJvZ2F6aW9uZVNlcnZpemlvIjp7Im51bWVyb01lc2UiOjF9LCJpbmNsdXNvUXVvdGEiOiJTSSJ9LCJhc3Npc3RlbnphUmVsaWdpb3NhIjp7Im5vblByZXZpc3RvIjpmYWxzZSwiYXBlcnR1cmFUaXBpQ3VsdG8iOiJTSSIsImFzc2lzdGVuemFSZWxpZ2lvc2FTcGVjIjpbeyJnaW9ybmlTZXR0aW1hbmEiOlsic2FiYXRvIl0sIm9yYSI6IjE2OjMwIn1dfX0sImFsdHJpU2Vydml6aSI6eyJlbGVuY29TZXJ2aXppIjp7IkFwcGFydGFtZW50aSBwcm90ZXR0aSI6ZmFsc2UsIkFzc2lzdGVuemEgRG9taWNpbGlhcmUiOmZhbHNlLCJBc3Npc3RlbnphIHJlc2lkZW56aWFsZSBwZXIgcmlmdWdpYXRpL3Byb2Z1Z2hpIjpmYWxzZSwiQXR0aXZpdGEnIGZpc2ljYSBhZGF0dGF0YSI6dHJ1ZSwiQ2FzYSBkZWxsYSBzYWx1dGUiOmZhbHNlLCJDZW50cm8gZGkgc29jaWFsaXp6YXppb25lIHBlciBhdXRvc3VmZmljaWVudGkiOmZhbHNlLCJDZW50cm8gZGl1cm5vIEFsemhlaW1lciI6ZmFsc2UsIkNlbnRybyBkaXVybm8gcGVyIGF1dG9zdWZmaWNpZW50aSI6dHJ1ZSwiQ2VudHJvIGRpdXJubyBwZXIgbm9uIGF1dG9zdWZmaWNpZW50aSI6ZmFsc2UsIkxhdmFuZGVyaWEgcGVyIGFzc2lzdGl0aSBhIGRvbWljaWxpbyI6ZmFsc2UsIk9yZ2FuaXp6YXppb25lIGRlbCB0cmFzcG9ydG8gZSBhY2NvbXBhZ25hbWVudG8gZGVnbGkgYXNzaXN0aXRpIGRlYW1idWxhbnRpIHBlciB2aXNpdGUvcHJlc3Rhemlvbmkgc2FuaXRhcmllLCBhdnZpc2FuZG9uZSBpIGZhbWlsaWFyaSI6ZmFsc2UsIlByZXN0YXppb25pIGRpIGFzc2lzdGVuemEgZGkgYmFzZSBwZXIgdXRlbnRpIGVzdGVybmkgKGJhZ25vIGFzc2lzdGl0bykiOmZhbHNlLCJSZXNpZGVuemEgcGVyIEF1dG9zdWZmaWNpZW50aSI6dHJ1ZSwiUmVzaWRlbnphIHNvY2lhbGUgcGVyIGRpc2FiaWxpIChSU0QpIjpmYWxzZSwiUmlzdG9yYXppb25lIGEgZG9taWNpbGlvIjpmYWxzZSwiUmlzdG9yYXppb25lIHBlciB1dGVudGkgZXN0ZXJuaSI6ZmFsc2UsIlNlZ3JldGFyaWF0byBzb2NpYWxlIjpmYWxzZSwiU2Vydml6aW8gQ29udGludWl0YScgQXNzaXN0ZW56aWFsZSAoRXggR3VhcmRpYSBNZWRpY2EpIjpmYWxzZSwiVHJhc3BvcnRvIHBlciBhZHVsdGkgZGlzYWJpbGkiOmZhbHNlfSwic2Vydml6aUFtbWluaXN0cmF0aXZpIjp7InNlcnZpemlBbW1pbmlzdHJhdGl2aVNwZWMiOlt7Imdpb3JuaVNldHRpbWFuYSI6WyJsdW5lZGkiLCJtYXJ0ZWRpIiwibWVyY29sZWRpIiwiZ2lvdmVkaSIsInZlbmVyZGkiXSwib3JhSW5pemlvIjoiMDk6MDAiLCJvcmFGaW5lIjoiMTM6MDAifSx7Imdpb3JuaVNldHRpbWFuYSI6WyJtYXJ0ZWRpIiwiZ2lvdmVkaSJdLCJvcmFJbml6aW8iOiIxNTozMCIsIm9yYUZpbmUiOiIxNzozMCJ9XX0sImRpcmV6aW9uZSI6eyJkaXJlemlvbmVTcGVjIjpbeyJnaW9ybmlTZXR0aW1hbmEiOlsibHVuZWRpIiwibWFydGVkaSIsIm1lcmNvbGVkaSIsImdpb3ZlZGkiLCJ2ZW5lcmRpIl0sIm9yYUluaXppbyI6IjA5OjAwIiwib3JhRmluZSI6IjEzOjAwIn0seyJnaW9ybmlTZXR0aW1hbmEiOlsibWFydGVkaSIsImdpb3ZlZGkiXSwib3JhSW5pemlvIjoiMTU6MzAiLCJvcmFGaW5lIjoiMTc6MzAifV19LCJvcmFyaW9WaXNpdGUiOnsib3JhcmlvVmlzaXRlU3BlYyI6eyJzY2VsdGEiOiIyNGgifX19fSwiYXJzIjp7Im5vbWUiOiJGZXJydWNjaSIsImNvZF9zdHMyNCI6IjQyMjc0SSIsImF0dGl2YSI6IjEiLCJhY2NvcmRvIjoiMSIsImluZGlyaXp6byI6IlZpYSBGZXJydWNjaSwgOSIsImNvZF9jb211bmUiOiI1MzAxMSIsImdlc3Rpb25lIjoicHViYmxpY2EiLCJxdW90YSI6NTIuODgsInF1b3Rhc2FuaXRhcmlhIjo1OS4xfX0=",
-        "posti_liberi_int": 1,
-        "posti_liberi_m_int": 0,
-        "posti_liberi_f_int": 1,
-        "decoded_details": {
-            "id": 155,
-            "struttura": {
-                "avvisoDecimale": "",
-                "posti_modulo_base": 67,
-                "posti_liberi": 1,
-                "posti_liberi_m": 0,
-                "posti_liberi_f": 1,
-                "cf_direttore": "TLLGPL83A07E202Z",
-                "nome_direttore": "Giampaolo",
-                "cognome_direttore": "Tollapi",
-                "telefono_rsa": "0564 427807 ",
-                "fax_rsa": "",
-                "email": "residenze@coesoareagr.it",
-                "sito_internet": "www.coesoareagr.it",
-                "tariffa_privata_ranged": {
-                    "minima": 0,
-                    "massima": 0
-                },
-                "modulo": [
-                    "Modulo base"
-                ],
-                "indirizzo_sede": "Via Damiano Chiesa 12",
-                "cod_comune_sede": "053011",
-                "tel_sede": "0564 427807",
-                "fax_sede": "",
-                "email_sede": "residenze@coesoareagr.it",
-                "posta_certificata_sede": "sdsgrosseto@pec.it",
-                "residenza": {
-                    "numeroPiani": 2,
-                    "dettaglioCamere": [
-                        {
-                            "numeroCamere": 15,
-                            "numeroLetti": 44,
-                            "serviziPresenti": [
-                                "bagno dedicato",
-                                "tv",
-                                "impianto condizionamento",
-                                "balcone"
-                            ]
-                        },
-                        {
-                            "numeroCamere": 13,
-                            "numeroLetti": 23,
-                            "serviziPresenti": [
-                                "bagno dedicato",
-                                "tv",
-                                "impianto condizionamento"
-                            ]
-                        }
-                    ]
-                },
-                "puntiDiInteresse": [
-                    "distretto sanitario",
-                    "autobus",
-                    "chiesa",
-                    "centro storico",
-                    "teatro",
-                    "cinema",
-                    "stazione ferroviaria",
-                    "biblioteca",
-                    "associazioni di volontariato",
-                    "ospedale"
-                ],
-                "spazioEsterno": "SI",
-                "serviziSocioSanitari": {
-                    "animazioneSocioEducativa": {
-                        "animazioneSocioEducativaSpec": {
-                            "oraInizio": "09:00",
-                            "oraFine": "12:00",
-                            "oraInizio2": "15:00",
-                            "oraFine2": "18:30"
-                        }
-                    },
-                    "fisioterapia": {
-                        "fisioterapiaSpec": {
-                            "oraInizio": "09:00",
-                            "oraFine": "12:00",
-                            "oraInizio2": "15:00",
-                            "oraFine2": "18:00"
-                        }
-                    },
-                    "assistenzaInfermieristica": {
-                        "assistenzaInfermieristicaSpec": {
-                            "scelta": "24h"
-                        }
-                    },
-                    "mediciSpecialisti": {
-                        "subTitle": "",
-                        "dettaglioSpecialisti": []
-                    },
-                    "psicologo": {
-                        "nonPrevisto": true,
-                        "erogazioneServizio": {
-                            "scelta": "Tutti i giorni",
-                            "allDays": "true"
-                        },
-                        "inclusoQuota": "SI"
-                    },
-                    "podologo": {
-                        "erogazioneServizio": "N volte al mese",
-                        "numeroVolte": 1,
-                        "prestazioniIncluseMese": 1
-                    }
-                },
-                "serviziAlberghieri": {
-                    "cucina": {
-                        "tipoCucina": "Interna"
-                    },
-                    "lavanderia": {
-                        "indumenti_personali": "SI"
-                    },
-                    "parrucchiere": {
-                        "erogazioneServizio": "N volte al mese",
-                        "numeroVolte": 2,
-                        "prestazioniIncluseMese": 2
-                    },
-                    "estetista": {
-                        "nonPrevisto": false,
-                        "erogazioneServizio": {
-                            "numeroMese": 1
-                        },
-                        "inclusoQuota": "SI"
-                    },
-                    "assistenzaReligiosa": {
-                        "nonPrevisto": false,
-                        "aperturaTipiCulto": "SI",
-                        "assistenzaReligiosaSpec": [
-                            {
-                                "giorniSettimana": [
-                                    "sabato"
-                                ],
-                                "ora": "16:30"
-                            }
-                        ]
-                    }
-                },
-                "altriServizi": {
-                    "elencoServizi": {
-                        "Appartamenti protetti": false,
-                        "Assistenza Domiciliare": false,
-                        "Assistenza residenziale per rifugiati/profughi": false,
-                        "Attivita' fisica adattata": true,
-                        "Casa della salute": false,
-                        "Centro di socializzazione per autosufficienti": false,
-                        "Centro diurno Alzheimer": false,
-                        "Centro diurno per autosufficienti": true,
-                        "Centro diurno per non autosufficienti": false,
-                        "Lavanderia per assistiti a domicilio": false,
-                        "Organizzazione del trasporto e accompagnamento degli assistiti deambulanti per visite/prestazioni sanitarie, avvisandone i familiari": false,
-                        "Prestazioni di assistenza di base per utenti esterni (bagno assistito)": false,
-                        "Residenza per Autosufficienti": true,
-                        "Residenza sociale per disabili (RSD)": false,
-                        "Ristorazione a domicilio": false,
-                        "Ristorazione per utenti esterni": false,
-                        "Segretariato sociale": false,
-                        "Servizio Continuita' Assistenziale (Ex Guardia Medica)": false,
-                        "Trasporto per adulti disabili": false
-                    },
-                    "serviziAmministrativi": {
-                        "serviziAmministrativiSpec": [
-                            {
-                                "giorniSettimana": [
-                                    "lunedi",
-                                    "martedi",
-                                    "mercoledi",
-                                    "giovedi",
-                                    "venerdi"
-                                ],
-                                "oraInizio": "09:00",
-                                "oraFine": "13:00"
-                            },
-                            {
-                                "giorniSettimana": [
-                                    "martedi",
-                                    "giovedi"
-                                ],
-                                "oraInizio": "15:30",
-                                "oraFine": "17:30"
-                            }
-                        ]
-                    },
-                    "direzione": {
-                        "direzioneSpec": [
-                            {
-                                "giorniSettimana": [
-                                    "lunedi",
-                                    "martedi",
-                                    "mercoledi",
-                                    "giovedi",
-                                    "venerdi"
-                                ],
-                                "oraInizio": "09:00",
-                                "oraFine": "13:00"
-                            },
-                            {
-                                "giorniSettimana": [
-                                    "martedi",
-                                    "giovedi"
-                                ],
-                                "oraInizio": "15:30",
-                                "oraFine": "17:30"
-                            }
-                        ]
-                    },
-                    "orarioVisite": {
-                        "orarioVisiteSpec": {
-                            "scelta": "24h"
-                        }
-                    }
-                }
-            },
-            "ars": {
-                "nome": "Ferrucci",
-                "cod_sts24": "42274I",
-                "attiva": "1",
-                "accordo": "1",
-                "indirizzo": "Via Ferrucci, 9",
-                "cod_comune": "53011",
-                "gestione": "pubblica",
-                "quota": 52.88,
                 "quotasanitaria": 59.1
             }
         }
@@ -6704,12 +6706,12 @@
         "gestione": "privata",
         "indirizzo": "Via Rio, 81",
         "cod_comune": "48039",
-        "cod_comune_sede": "48039",
         "comune": "San Godenzo",
         "zona": "Fiorentina Sud-Est",
         "tel1_zona": "055-6936562",
         "tel2_zona": "055-6936308",
         "tel3_zona": "",
+        "telefono": "055-6936562 055-6936308",
         "rsa_ico_animazione": "animazione_socio-educativa.png",
         "rsa_ico_fisioterapia": "fisioterapia.png",
         "rsa_ico_cucina": "ristorazione_interna.png",
