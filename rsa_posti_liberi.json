@@ -940,6 +940,317 @@
         }
     },
     {
+        "id": "217",
+        "foto0": "cas_casaalbergoanziani_struttura.png",
+        "foto1": "cas_casaalbergoanziani_terrazzo.jpg",
+        "foto2": "cas_casaalbergoanziani_salapranzo.jpg",
+        "foto3": "cas_casaalbergoanziani_sala.jpg",
+        "foto4": "cas_casaalbergoanziani_esterno.jpg",
+        "foto5": "cas_casaalbergoanziani_camera.jpg",
+        "nome": "Casa Albergo per Anziani",
+        "tipo": "",
+        "gestione": "privata",
+        "indirizzo": "Piazza Vittorio Veneto, 35",
+        "cod_comune": "51010",
+        "comune": "Castel San Niccolò",
+        "zona": "Casentino",
+        "tel1_zona": "0575-568338",
+        "tel2_zona": "",
+        "tel3_zona": "",
+        "telefono": "0575-568304",
+        "rsa_ico_animazione": "animazione_socio-educativa.png",
+        "rsa_ico_fisioterapia": "fisioterapia.png",
+        "rsa_ico_cucina": "ristorazione_interna.png",
+        "rsa_ico_giardino": "giardino.png",
+        "rsa_ico_parrucchiere": "parrucchiere.png",
+        "rsa_ico_barbiere": "",
+        "rsa_ico_estetista": "",
+        "rsa_ico_relig": "assistenza_religiosa.png",
+        "rsa_ico_geriatra": "",
+        "rsa_ico_assistenza_infermieristica": "assistenza_infermieristica.png",
+        "rsa_ico_psicologo": "",
+        "rsa_ico_podologo": "podologo.png",
+        "rsa_ico_lavanderia": "lavanderia.png",
+        "rsa_ico_postoletto": "",
+        "rsa_posti_liberi": "1",
+        "rsa_quota": "58.70",
+        "rsa_quotasanitaria": "59.10",
+        "rsa_quota_img": "cas_quota_albergoanziani.png",
+        "rsa_mod_base": "si",
+        "rsa_mod_cogn": "",
+        "rsa_mod_riab": "",
+        "rsa_mod_veg": "",
+        "rsa_attiva": "1",
+        "rsa_nome_brochure": "cas_casaalbergoanziani.pdf",
+        "rsa_data_aggiornamento": "2026.07.13 11:44:49",
+        "lat": "43.7417826213366965",
+        "lon": "11.7062194308605996",
+        "gbnord": "4846769",
+        "gbest": "1717942",
+        "accordo": "1",
+        "cod_sts24": "13614I",
+        "posti_liberi_m": "0",
+        "posti_liberi_f": "1",
+        "indirizzo_sede": "Via Giuliana Ciuffoni Stanghini, 12 ",
+        "comune_sede": "Monte San Savino",
+        "fax_sede": "0575844550",
+        "telefono_sede": "0575844364",
+        "email_sede": "gisella@comars.org",
+        "posta_certificata_sede": "comars@pec.confcooperative.it",
+        "json_data": "eyJpZCI6MjE3LCJzdHJ1dHR1cmEiOnsiYXZ2aXNvRGVjaW1hbGUiOiIiLCJwb3N0aV9tb2R1bG9fYmFzZSI6MTksInBvc3RpX2xpYmVyaSI6MSwicG9zdGlfbGliZXJpX20iOjAsInBvc3RpX2xpYmVyaV9mIjoxLCJjZl9kaXJldHRvcmUiOiJCTExDSFI5M0w2N0E4NTFXIiwibm9tZV9kaXJldHRvcmUiOiJDaGlhcmEiLCJjb2dub21lX2RpcmV0dG9yZSI6IkJlbGxpIiwidGVsZWZvbm9fcnNhIjoiMDU3NSA1NzI3MDMiLCJmYXhfcnNhIjoiMDU3NSA1MDcyMzAiLCJlbWFpbCI6InJzYWNhc3RlbHNhbm5pY2NvbG9AY29tYXJzLm9yZyIsInNpdG9faW50ZXJuZXQiOiJ3d3cuY29tYXJzLm9yZyIsInRhcmlmZmFfcHJpdmF0YV9yYW5nZWQiOnsibWluaW1hIjoxMjAsIm1hc3NpbWEiOjEyMH0sIm1vZHVsbyI6WyJNb2R1bG8gYmFzZSJdLCJpbmRpcml6em9fc2VkZSI6IlZpYSBHaXVsaWFuYSBDaXVmZm9uaSBTdGFuZ2hpbmksIDEyICIsImNvZF9jb211bmVfc2VkZSI6IjA1MTAyNSIsInRlbF9zZWRlIjoiMDU3NTg0NDM2NCIsImZheF9zZWRlIjoiMDU3NTg0NDU1MCIsImVtYWlsX3NlZGUiOiJnaXNlbGxhQGNvbWFycy5vcmciLCJwb3N0YV9jZXJ0aWZpY2F0YV9zZWRlIjoiY29tYXJzQHBlYy5jb25mY29vcGVyYXRpdmUuaXQiLCJyZXNpZGVuemEiOnsibnVtZXJvUGlhbmkiOjMsImRldHRhZ2xpb0NhbWVyZSI6W3sibnVtZXJvQ2FtZXJlIjo0LCJudW1lcm9MZXR0aSI6MSwic2Vydml6aVByZXNlbnRpIjpbImJhZ25vIGNvbmRpdmlzbyIsIndpZmkiXX0seyJudW1lcm9DYW1lcmUiOjMsIm51bWVyb0xldHRpIjoyLCJzZXJ2aXppUHJlc2VudGkiOlsiYmFnbm8gY29uZGl2aXNvIiwid2lmaSJdfSx7Im51bWVyb0NhbWVyZSI6MywibnVtZXJvTGV0dGkiOjMsInNlcnZpemlQcmVzZW50aSI6WyJiYWdubyBjb25kaXZpc28iLCJ3aWZpIl19XX0sInB1bnRpRGlJbnRlcmVzc2UiOlsiZGlzdHJldHRvIHNhbml0YXJpbyIsImF1dG9idXMiLCJjaGllc2EiLCJjZW50cm8gc3RvcmljbyIsImJpYmxpb3RlY2EiLCJhc3NvY2lhemlvbmkgZGkgdm9sb250YXJpYXRvIiwib3NwZWRhbGUiXSwic3BhemlvRXN0ZXJubyI6IlNJIiwic2Vydml6aVNvY2lvU2FuaXRhcmkiOnsiYW5pbWF6aW9uZVNvY2lvRWR1Y2F0aXZhIjp7ImFuaW1hemlvbmVTb2Npb0VkdWNhdGl2YVNwZWMiOlt7Imdpb3JuaVNldHRpbWFuYSI6WyJsdW5lZGkiLCJtYXJ0ZWRpIiwibWVyY29sZWRpIiwiZ2lvdmVkaSIsInZlbmVyZGkiXSwib3JhSW5pemlvIjoiMTM6MzAiLCJvcmFGaW5lIjoiMTc6MzAifV19LCJmaXNpb3RlcmFwaWEiOnsiZmlzaW90ZXJhcGlhU3BlYyI6W3siZ2lvcm5pU2V0dGltYW5hIjpbIm1hcnRlZGkiLCJnaW92ZWRpIiwidmVuZXJkaSJdLCJvcmFJbml6aW8iOiIxMzowMCIsIm9yYUZpbmUiOiIxNzozMCJ9XX0sImFzc2lzdGVuemFJbmZlcm1pZXJpc3RpY2EiOnsiYXNzaXN0ZW56YUluZmVybWllcmlzdGljYVNwZWMiOnsicmVwZXJpYmlsaXRhTm90dHVybmEiOiJOTyIsIm9yYXJpU2Vydml6aW8iOnsib3JhSW5pemlvIjoiMDc6MDAiLCJvcmFGaW5lIjoiMTI6MzAiLCJvcmFJbml6aW8yIjoiMTU6MDAiLCJvcmFGaW5lMiI6IjE5OjAwIn19fSwibWVkaWNpU3BlY2lhbGlzdGkiOnsic3ViVGl0bGUiOiIiLCJkZXR0YWdsaW9TcGVjaWFsaXN0aSI6W119LCJwc2ljb2xvZ28iOnsibm9uUHJldmlzdG8iOnRydWUsImVyb2dhemlvbmVTZXJ2aXppbyI6eyJzY2VsdGEiOiJUdXR0aSBpIGdpb3JuaSIsImFsbERheXMiOiJ0cnVlIn0sImluY2x1c29RdW90YSI6IlNJIn0sInBvZG9sb2dvIjp7ImVyb2dhemlvbmVTZXJ2aXppbyI6Ik4gdm9sdGUgYWwgbWVzZSIsIm51bWVyb1ZvbHRlIjoxLCJwcmVzdGF6aW9uaUluY2x1c2VNZXNlIjoxfX0sInNlcnZpemlBbGJlcmdoaWVyaSI6eyJjdWNpbmEiOnsidGlwb0N1Y2luYSI6IkludGVybmEifSwibGF2YW5kZXJpYSI6eyJpbmR1bWVudGlfcGVyc29uYWxpIjoiU0kifSwicGFycnVjY2hpZXJlIjp7ImVyb2dhemlvbmVTZXJ2aXppbyI6Ik4gdm9sdGUgYWwgbWVzZSIsIm51bWVyb1ZvbHRlIjoxLCJwcmVzdGF6aW9uaUluY2x1c2VNZXNlIjoxfSwiZXN0ZXRpc3RhIjp7Im5vblByZXZpc3RvIjp0cnVlLCJlcm9nYXppb25lU2Vydml6aW8iOnsic2NlbHRhIjoiVHV0dGkgaSBnaW9ybmkiLCJhbGxEYXlzIjoidHJ1ZSJ9LCJpbmNsdXNvUXVvdGEiOiJTSSJ9LCJhc3Npc3RlbnphUmVsaWdpb3NhIjp7Im5vblByZXZpc3RvIjpmYWxzZSwiYXBlcnR1cmFUaXBpQ3VsdG8iOiJTSSIsImFzc2lzdGVuemFSZWxpZ2lvc2FTcGVjIjpbeyJnaW9ybmlTZXR0aW1hbmEiOlsiZ2lvdmVkaSJdLCJvcmEiOiIxNTowMCJ9XX19LCJhbHRyaVNlcnZpemkiOnsiZWxlbmNvU2Vydml6aSI6eyJBcHBhcnRhbWVudGkgcHJvdGV0dGkiOmZhbHNlLCJBc3Npc3RlbnphIERvbWljaWxpYXJlIjpmYWxzZSwiQXNzaXN0ZW56YSByZXNpZGVuemlhbGUgcGVyIHJpZnVnaWF0aS9wcm9mdWdoaSI6ZmFsc2UsIkF0dGl2aXRhJyBmaXNpY2EgYWRhdHRhdGEiOmZhbHNlLCJDYXNhIGRlbGxhIHNhbHV0ZSI6ZmFsc2UsIkNlbnRybyBkaSBzb2NpYWxpenphemlvbmUgcGVyIGF1dG9zdWZmaWNpZW50aSI6ZmFsc2UsIkNlbnRybyBkaXVybm8gQWx6aGVpbWVyIjpmYWxzZSwiQ2VudHJvIGRpdXJubyBwZXIgYXV0b3N1ZmZpY2llbnRpIjpmYWxzZSwiQ2VudHJvIGRpdXJubyBwZXIgbm9uIGF1dG9zdWZmaWNpZW50aSI6ZmFsc2UsIkxhdmFuZGVyaWEgcGVyIGFzc2lzdGl0aSBhIGRvbWljaWxpbyI6ZmFsc2UsIk9yZ2FuaXp6YXppb25lIGRlbCB0cmFzcG9ydG8gZSBhY2NvbXBhZ25hbWVudG8gZGVnbGkgYXNzaXN0aXRpIGRlYW1idWxhbnRpIHBlciB2aXNpdGUvcHJlc3Rhemlvbmkgc2FuaXRhcmllLCBhdnZpc2FuZG9uZSBpIGZhbWlsaWFyaSI6dHJ1ZSwiUHJlc3RhemlvbmkgZGkgYXNzaXN0ZW56YSBkaSBiYXNlIHBlciB1dGVudGkgZXN0ZXJuaSAoYmFnbm8gYXNzaXN0aXRvKSI6ZmFsc2UsIlJlc2lkZW56YSBwZXIgQXV0b3N1ZmZpY2llbnRpIjpmYWxzZSwiUmVzaWRlbnphIHNvY2lhbGUgcGVyIGRpc2FiaWxpIChSU0QpIjpmYWxzZSwiUmlzdG9yYXppb25lIGEgZG9taWNpbGlvIjpmYWxzZSwiUmlzdG9yYXppb25lIHBlciB1dGVudGkgZXN0ZXJuaSI6ZmFsc2UsIlNlZ3JldGFyaWF0byBzb2NpYWxlIjpmYWxzZSwiU2Vydml6aW8gQ29udGludWl0YScgQXNzaXN0ZW56aWFsZSAoRXggR3VhcmRpYSBNZWRpY2EpIjpmYWxzZSwiVHJhc3BvcnRvIHBlciBhZHVsdGkgZGlzYWJpbGkiOmZhbHNlfSwic2Vydml6aUFtbWluaXN0cmF0aXZpIjp7InNlcnZpemlBbW1pbmlzdHJhdGl2aVNwZWMiOlt7Imdpb3JuaVNldHRpbWFuYSI6WyJsdW5lZGkiLCJtYXJ0ZWRpIiwibWVyY29sZWRpIiwiZ2lvdmVkaSIsInZlbmVyZGkiLCJzYWJhdG8iXSwib3JhSW5pemlvIjoiMDg6MzAiLCJvcmFGaW5lIjoiMTM6MzAifSx7Imdpb3JuaVNldHRpbWFuYSI6WyJtYXJ0ZWRpIiwiZ2lvdmVkaSJdLCJvcmFJbml6aW8iOiIxNTozMCIsIm9yYUZpbmUiOiIxNzozMCJ9XX0sImRpcmV6aW9uZSI6eyJkaXJlemlvbmVTcGVjIjpbeyJnaW9ybmlTZXR0aW1hbmEiOlsibHVuZWRpIiwibWFydGVkaSIsIm1lcmNvbGVkaSIsImdpb3ZlZGkiLCJ2ZW5lcmRpIiwic2FiYXRvIl0sIm9yYUluaXppbyI6IjA5OjAwIiwib3JhRmluZSI6IjEzOjAwIn0seyJnaW9ybmlTZXR0aW1hbmEiOlsibWFydGVkaSIsIm1lcmNvbGVkaSIsImdpb3ZlZGkiXSwib3JhSW5pemlvIjoiMTU6MDAiLCJvcmFGaW5lIjoiMTk6MDAifV19LCJvcmFyaW9WaXNpdGUiOnsib3JhcmlvVmlzaXRlU3BlYyI6eyJzY2VsdGEiOiIyNGgifX19fSwiYXJzIjp7Im5vbWUiOiJDYXNhIEFsYmVyZ28gcGVyIEFuemlhbmkiLCJjb2Rfc3RzMjQiOiIxMzYxNEkiLCJhdHRpdmEiOiIxIiwiYWNjb3JkbyI6IjEiLCJpbmRpcml6em8iOiJQaWF6emEgVml0dG9yaW8gVmVuZXRvLCAzNSIsImNvZF9jb211bmUiOiI1MTAxMCIsImdlc3Rpb25lIjoicHJpdmF0YSIsInF1b3RhIjo1OC43LCJxdW90YXNhbml0YXJpYSI6NTkuMX19",
+        "posti_liberi_int": 1,
+        "posti_liberi_m_int": 0,
+        "posti_liberi_f_int": 1,
+        "decoded_details": {
+            "id": 217,
+            "struttura": {
+                "avvisoDecimale": "",
+                "posti_modulo_base": 19,
+                "posti_liberi": 1,
+                "posti_liberi_m": 0,
+                "posti_liberi_f": 1,
+                "cf_direttore": "BLLCHR93L67A851W",
+                "nome_direttore": "Chiara",
+                "cognome_direttore": "Belli",
+                "telefono_rsa": "0575 572703",
+                "fax_rsa": "0575 507230",
+                "email": "rsacastelsanniccolo@comars.org",
+                "sito_internet": "www.comars.org",
+                "tariffa_privata_ranged": {
+                    "minima": 120,
+                    "massima": 120
+                },
+                "modulo": [
+                    "Modulo base"
+                ],
+                "indirizzo_sede": "Via Giuliana Ciuffoni Stanghini, 12 ",
+                "cod_comune_sede": "051025",
+                "tel_sede": "0575844364",
+                "fax_sede": "0575844550",
+                "email_sede": "gisella@comars.org",
+                "posta_certificata_sede": "comars@pec.confcooperative.it",
+                "residenza": {
+                    "numeroPiani": 3,
+                    "dettaglioCamere": [
+                        {
+                            "numeroCamere": 4,
+                            "numeroLetti": 1,
+                            "serviziPresenti": [
+                                "bagno condiviso",
+                                "wifi"
+                            ]
+                        },
+                        {
+                            "numeroCamere": 3,
+                            "numeroLetti": 2,
+                            "serviziPresenti": [
+                                "bagno condiviso",
+                                "wifi"
+                            ]
+                        },
+                        {
+                            "numeroCamere": 3,
+                            "numeroLetti": 3,
+                            "serviziPresenti": [
+                                "bagno condiviso",
+                                "wifi"
+                            ]
+                        }
+                    ]
+                },
+                "puntiDiInteresse": [
+                    "distretto sanitario",
+                    "autobus",
+                    "chiesa",
+                    "centro storico",
+                    "biblioteca",
+                    "associazioni di volontariato",
+                    "ospedale"
+                ],
+                "spazioEsterno": "SI",
+                "serviziSocioSanitari": {
+                    "animazioneSocioEducativa": {
+                        "animazioneSocioEducativaSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "martedi",
+                                    "mercoledi",
+                                    "giovedi",
+                                    "venerdi"
+                                ],
+                                "oraInizio": "13:30",
+                                "oraFine": "17:30"
+                            }
+                        ]
+                    },
+                    "fisioterapia": {
+                        "fisioterapiaSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "martedi",
+                                    "giovedi",
+                                    "venerdi"
+                                ],
+                                "oraInizio": "13:00",
+                                "oraFine": "17:30"
+                            }
+                        ]
+                    },
+                    "assistenzaInfermieristica": {
+                        "assistenzaInfermieristicaSpec": {
+                            "reperibilitaNotturna": "NO",
+                            "orariServizio": {
+                                "oraInizio": "07:00",
+                                "oraFine": "12:30",
+                                "oraInizio2": "15:00",
+                                "oraFine2": "19:00"
+                            }
+                        }
+                    },
+                    "mediciSpecialisti": {
+                        "subTitle": "",
+                        "dettaglioSpecialisti": []
+                    },
+                    "psicologo": {
+                        "nonPrevisto": true,
+                        "erogazioneServizio": {
+                            "scelta": "Tutti i giorni",
+                            "allDays": "true"
+                        },
+                        "inclusoQuota": "SI"
+                    },
+                    "podologo": {
+                        "erogazioneServizio": "N volte al mese",
+                        "numeroVolte": 1,
+                        "prestazioniIncluseMese": 1
+                    }
+                },
+                "serviziAlberghieri": {
+                    "cucina": {
+                        "tipoCucina": "Interna"
+                    },
+                    "lavanderia": {
+                        "indumenti_personali": "SI"
+                    },
+                    "parrucchiere": {
+                        "erogazioneServizio": "N volte al mese",
+                        "numeroVolte": 1,
+                        "prestazioniIncluseMese": 1
+                    },
+                    "estetista": {
+                        "nonPrevisto": true,
+                        "erogazioneServizio": {
+                            "scelta": "Tutti i giorni",
+                            "allDays": "true"
+                        },
+                        "inclusoQuota": "SI"
+                    },
+                    "assistenzaReligiosa": {
+                        "nonPrevisto": false,
+                        "aperturaTipiCulto": "SI",
+                        "assistenzaReligiosaSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "giovedi"
+                                ],
+                                "ora": "15:00"
+                            }
+                        ]
+                    }
+                },
+                "altriServizi": {
+                    "elencoServizi": {
+                        "Appartamenti protetti": false,
+                        "Assistenza Domiciliare": false,
+                        "Assistenza residenziale per rifugiati/profughi": false,
+                        "Attivita' fisica adattata": false,
+                        "Casa della salute": false,
+                        "Centro di socializzazione per autosufficienti": false,
+                        "Centro diurno Alzheimer": false,
+                        "Centro diurno per autosufficienti": false,
+                        "Centro diurno per non autosufficienti": false,
+                        "Lavanderia per assistiti a domicilio": false,
+                        "Organizzazione del trasporto e accompagnamento degli assistiti deambulanti per visite/prestazioni sanitarie, avvisandone i familiari": true,
+                        "Prestazioni di assistenza di base per utenti esterni (bagno assistito)": false,
+                        "Residenza per Autosufficienti": false,
+                        "Residenza sociale per disabili (RSD)": false,
+                        "Ristorazione a domicilio": false,
+                        "Ristorazione per utenti esterni": false,
+                        "Segretariato sociale": false,
+                        "Servizio Continuita' Assistenziale (Ex Guardia Medica)": false,
+                        "Trasporto per adulti disabili": false
+                    },
+                    "serviziAmministrativi": {
+                        "serviziAmministrativiSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "martedi",
+                                    "mercoledi",
+                                    "giovedi",
+                                    "venerdi",
+                                    "sabato"
+                                ],
+                                "oraInizio": "08:30",
+                                "oraFine": "13:30"
+                            },
+                            {
+                                "giorniSettimana": [
+                                    "martedi",
+                                    "giovedi"
+                                ],
+                                "oraInizio": "15:30",
+                                "oraFine": "17:30"
+                            }
+                        ]
+                    },
+                    "direzione": {
+                        "direzioneSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "martedi",
+                                    "mercoledi",
+                                    "giovedi",
+                                    "venerdi",
+                                    "sabato"
+                                ],
+                                "oraInizio": "09:00",
+                                "oraFine": "13:00"
+                            },
+                            {
+                                "giorniSettimana": [
+                                    "martedi",
+                                    "mercoledi",
+                                    "giovedi"
+                                ],
+                                "oraInizio": "15:00",
+                                "oraFine": "19:00"
+                            }
+                        ]
+                    },
+                    "orarioVisite": {
+                        "orarioVisiteSpec": {
+                            "scelta": "24h"
+                        }
+                    }
+                }
+            },
+            "ars": {
+                "nome": "Casa Albergo per Anziani",
+                "cod_sts24": "13614I",
+                "attiva": "1",
+                "accordo": "1",
+                "indirizzo": "Piazza Vittorio Veneto, 35",
+                "cod_comune": "51010",
+                "gestione": "privata",
+                "quota": 58.7,
+                "quotasanitaria": 59.1
+            }
+        }
+    },
+    {
         "id": "366",
         "foto0": "castelfiorentino_rsa_mario_cappelli_img1.jpg",
         "foto1": "castelfiorentino_rsa_mario_cappelli_img2.jpg",
