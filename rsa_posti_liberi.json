@@ -3464,6 +3464,316 @@
         }
     },
     {
+        "id": "326",
+        "foto0": "pialu_albaserena_ingresso.jpg",
+        "foto1": "pialu_albaserena_salone1.jpg",
+        "foto2": "pialu_albaserena_salone2.jpg",
+        "foto3": "pialu_albaserena_mensa.jpg",
+        "foto4": "pialu_albaserena_camera.jpg",
+        "foto5": "pialu_albaserena_palestra.jpg",
+        "nome": "Alba Serena",
+        "tipo": "",
+        "gestione": "privata",
+        "indirizzo": "Via di Fregionaia, 692/B",
+        "cod_comune": "46017",
+        "comune": "Lucca",
+        "zona": "Piana di Lucca",
+        "tel1_zona": "0583 449898",
+        "tel2_zona": "",
+        "tel3_zona": "",
+        "telefono": "0583-1714808",
+        "rsa_ico_animazione": "animazione_socio-educativa.png",
+        "rsa_ico_fisioterapia": "fisioterapia.png",
+        "rsa_ico_cucina": "ristorazione_interna.png",
+        "rsa_ico_giardino": "giardino.png",
+        "rsa_ico_parrucchiere": "parrucchiere.png",
+        "rsa_ico_barbiere": "",
+        "rsa_ico_estetista": "estetista.png",
+        "rsa_ico_relig": "assistenza_religiosa.png",
+        "rsa_ico_geriatra": "consulenza_medico_specialistica_p.png",
+        "rsa_ico_assistenza_infermieristica": "assistenza_infermieristica.png",
+        "rsa_ico_psicologo": "psicologo.png",
+        "rsa_ico_podologo": "podologo.png",
+        "rsa_ico_lavanderia": "lavanderia.png",
+        "rsa_ico_postoletto": "",
+        "rsa_posti_liberi": "1",
+        "rsa_quota": "59.00",
+        "rsa_quotasanitaria": "59.10",
+        "rsa_quota_img": "",
+        "rsa_mod_base": "si",
+        "rsa_mod_cogn": "",
+        "rsa_mod_riab": "",
+        "rsa_mod_veg": "",
+        "rsa_attiva": "1",
+        "rsa_nome_brochure": "pialu_albaserena.pdf",
+        "rsa_data_aggiornamento": "2026.07.21 13:11:02",
+        "lat": "43.85344",
+        "lon": "10.426100",
+        "gbnord": "4856491.22",
+        "gbest": "1614568.25",
+        "accordo": "1",
+        "cod_sts24": "U0064I",
+        "posti_liberi_m": "1",
+        "posti_liberi_f": "0",
+        "indirizzo_sede": "via di fregionaia 692/b maggiano ",
+        "comune_sede": "Lucca",
+        "fax_sede": "0583 306042",
+        "telefono_sede": "0583 464549",
+        "email_sede": "c.lasalute@email.it",
+        "posta_certificata_sede": "c.lasalute@pec.it",
+        "json_data": "eyJpZCI6MzI2LCJzdHJ1dHR1cmEiOnsiYXZ2aXNvRGVjaW1hbGUiOiIiLCJwb3N0aV9tb2R1bG9fYmFzZSI6NDAsInBvc3RpX2xpYmVyaSI6MSwicG9zdGlfbGliZXJpX20iOjEsInBvc3RpX2xpYmVyaV9mIjowLCJjZl9kaXJldHRvcmUiOiJTTU5OUkM3MVAyNEU3MTVFIiwibm9tZV9kaXJldHRvcmUiOiJFTlJJQ08iLCJjb2dub21lX2RpcmV0dG9yZSI6IlNJTU9ORVRUSSIsInRlbGVmb25vX3JzYSI6IjA1ODMgMTcxNDgwOCIsImZheF9yc2EiOiIwNTgzIDE3MTQ4MzAiLCJlbWFpbCI6ImFsYmFzZXJlbmFAY29vcGxhc2FsdXRlLml0Iiwic2l0b19pbnRlcm5ldCI6IiIsInRhcmlmZmFfcHJpdmF0YV9yYW5nZWQiOnsibWluaW1hIjoxMjYsIm1hc3NpbWEiOjEyNn0sIm1vZHVsbyI6WyJNb2R1bG8gYmFzZSJdLCJpbmRpcml6em9fc2VkZSI6InZpYSBkaSBmcmVnaW9uYWlhIDY5Mi9iIG1hZ2dpYW5vICIsImNvZF9jb211bmVfc2VkZSI6IjA0NjAxNyIsInRlbF9zZWRlIjoiMDU4MyA0NjQ1NDkiLCJmYXhfc2VkZSI6IjA1ODMgMzA2MDQyIiwiZW1haWxfc2VkZSI6ImMubGFzYWx1dGVAZW1haWwuaXQiLCJwb3N0YV9jZXJ0aWZpY2F0YV9zZWRlIjoiYy5sYXNhbHV0ZUBwZWMuaXQiLCJyZXNpZGVuemEiOnsibnVtZXJvUGlhbmkiOjIsImRldHRhZ2xpb0NhbWVyZSI6W3sibnVtZXJvQ2FtZXJlIjoyMCwibnVtZXJvTGV0dGkiOjQwLCJzZXJ2aXppUHJlc2VudGkiOlsiYmFnbm8gZGVkaWNhdG8iLCJ0diIsIndpZmkiLCJpbXBpYW50byBjb25kaXppb25hbWVudG8iXX1dfSwicHVudGlEaUludGVyZXNzZSI6WyJhdXRvYnVzIiwiY2hpZXNhIiwiYXNzb2NpYXppb25pIGRpIHZvbG9udGFyaWF0byJdLCJzcGF6aW9Fc3Rlcm5vIjoiU0kiLCJzZXJ2aXppU29jaW9TYW5pdGFyaSI6eyJhbmltYXppb25lU29jaW9FZHVjYXRpdmEiOnsiYW5pbWF6aW9uZVNvY2lvRWR1Y2F0aXZhU3BlYyI6W3siZ2lvcm5pU2V0dGltYW5hIjpbImx1bmVkaSIsIm1lcmNvbGVkaSIsInZlbmVyZGkiLCJzYWJhdG8iXSwib3JhSW5pemlvIjoiMDg6MzAiLCJvcmFGaW5lIjoiMTM6MzAifSx7Imdpb3JuaVNldHRpbWFuYSI6WyJtYXJ0ZWRpIiwiZ2lvdmVkaSJdLCJvcmFJbml6aW8iOiIxMzozMCIsIm9yYUZpbmUiOiIxODozMCJ9XX0sImZpc2lvdGVyYXBpYSI6eyJmaXNpb3RlcmFwaWFTcGVjIjpbeyJnaW9ybmlTZXR0aW1hbmEiOlsibHVuZWRpIiwibWFydGVkaSIsIm1lcmNvbGVkaSIsImdpb3ZlZGkiLCJ2ZW5lcmRpIiwic2FiYXRvIl0sIm9yYUluaXppbyI6IjA5OjAwIiwib3JhRmluZSI6IjEyOjAwIn0seyJnaW9ybmlTZXR0aW1hbmEiOlsibHVuZWRpIiwibWFydGVkaSIsIm1lcmNvbGVkaSIsImdpb3ZlZGkiLCJ2ZW5lcmRpIiwic2FiYXRvIl0sIm9yYUluaXppbyI6IjE0OjAwIiwib3JhRmluZSI6IjE3OjAwIn1dfSwiYXNzaXN0ZW56YUluZmVybWllcmlzdGljYSI6eyJhc3Npc3RlbnphSW5mZXJtaWVyaXN0aWNhU3BlYyI6eyJyZXBlcmliaWxpdGFOb3R0dXJuYSI6IlNJIiwib3JhcmlTZXJ2aXppbyI6eyJvcmFJbml6aW8iOiIwNzowMCIsIm9yYUZpbmUiOiIyMDowMCIsIm9yYUluaXppbzIiOiIiLCJvcmFGaW5lMiI6IiJ9fX0sIm1lZGljaVNwZWNpYWxpc3RpIjp7InN1YlRpdGxlIjoiIiwiZGV0dGFnbGlvU3BlY2lhbGlzdGkiOlt7Im1lZGljb1NwZWNpYWxpc3RhIjoibmV1cm9sb2dvIiwiZXJvZ2F6aW9uZVNlcnZpemlvIjp7InNjZWx0YSI6IlN1IHJpY2hpZXN0YSIsIm9uUmVxdWVzdCI6InRydWUifSwiaW5jbHVzb1F1b3RhIjoiTk8ifV19LCJwc2ljb2xvZ28iOnsibm9uUHJldmlzdG8iOmZhbHNlLCJlcm9nYXppb25lU2Vydml6aW8iOnsic2NlbHRhIjoiU3UgcmljaGllc3RhIiwib25SZXF1ZXN0IjoidHJ1ZSJ9LCJpbmNsdXNvUXVvdGEiOiJTSSJ9LCJwb2RvbG9nbyI6eyJlcm9nYXppb25lU2Vydml6aW8iOiJTdSByaWNoaWVzdGEiLCJudW1lcm9Wb2x0ZSI6MSwicHJlc3RhemlvbmlJbmNsdXNlTWVzZSI6MX19LCJzZXJ2aXppQWxiZXJnaGllcmkiOnsiY3VjaW5hIjp7InRpcG9DdWNpbmEiOiJJbnRlcm5hIn0sImxhdmFuZGVyaWEiOnsiaW5kdW1lbnRpX3BlcnNvbmFsaSI6IlNJIn0sInBhcnJ1Y2NoaWVyZSI6eyJlcm9nYXppb25lU2Vydml6aW8iOiJOIHZvbHRlIGEgc2V0dGltYW5hIiwibnVtZXJvVm9sdGUiOjIsInByZXN0YXppb25pSW5jbHVzZU1lc2UiOjF9LCJlc3RldGlzdGEiOnsibm9uUHJldmlzdG8iOmZhbHNlLCJlcm9nYXppb25lU2Vydml6aW8iOnsic2NlbHRhIjoiU3UgcmljaGllc3RhIiwib25SZXF1ZXN0IjoidHJ1ZSJ9LCJpbmNsdXNvUXVvdGEiOiJTSSJ9LCJhc3Npc3RlbnphUmVsaWdpb3NhIjp7Im5vblByZXZpc3RvIjpmYWxzZSwiYXBlcnR1cmFUaXBpQ3VsdG8iOiJTSSIsImFzc2lzdGVuemFSZWxpZ2lvc2FTcGVjIjpbeyJnaW9ybmlTZXR0aW1hbmEiOlsiZ2lvdmVkaSJdLCJvcmEiOiIwOTowMCJ9XX19LCJhbHRyaVNlcnZpemkiOnsiZWxlbmNvU2Vydml6aSI6eyJBcHBhcnRhbWVudGkgcHJvdGV0dGkiOmZhbHNlLCJBc3Npc3RlbnphIERvbWljaWxpYXJlIjpmYWxzZSwiQXNzaXN0ZW56YSByZXNpZGVuemlhbGUgcGVyIHJpZnVnaWF0aS9wcm9mdWdoaSI6ZmFsc2UsIkF0dGl2aXRhJyBmaXNpY2EgYWRhdHRhdGEiOnRydWUsIkNhc2EgZGVsbGEgc2FsdXRlIjpmYWxzZSwiQ2VudHJvIGRpIHNvY2lhbGl6emF6aW9uZSBwZXIgYXV0b3N1ZmZpY2llbnRpIjpmYWxzZSwiQ2VudHJvIGRpdXJubyBBbHpoZWltZXIiOmZhbHNlLCJDZW50cm8gZGl1cm5vIHBlciBhdXRvc3VmZmljaWVudGkiOnRydWUsIkNlbnRybyBkaXVybm8gcGVyIG5vbiBhdXRvc3VmZmljaWVudGkiOmZhbHNlLCJMYXZhbmRlcmlhIHBlciBhc3Npc3RpdGkgYSBkb21pY2lsaW8iOmZhbHNlLCJPcmdhbml6emF6aW9uZSBkZWwgdHJhc3BvcnRvIGUgYWNjb21wYWduYW1lbnRvIGRlZ2xpIGFzc2lzdGl0aSBkZWFtYnVsYW50aSBwZXIgdmlzaXRlL3ByZXN0YXppb25pIHNhbml0YXJpZSwgYXZ2aXNhbmRvbmUgaSBmYW1pbGlhcmkiOnRydWUsIlByZXN0YXppb25pIGRpIGFzc2lzdGVuemEgZGkgYmFzZSBwZXIgdXRlbnRpIGVzdGVybmkgKGJhZ25vIGFzc2lzdGl0bykiOmZhbHNlLCJSZXNpZGVuemEgcGVyIEF1dG9zdWZmaWNpZW50aSI6ZmFsc2UsIlJlc2lkZW56YSBzb2NpYWxlIHBlciBkaXNhYmlsaSAoUlNEKSI6ZmFsc2UsIlJpc3RvcmF6aW9uZSBhIGRvbWljaWxpbyI6ZmFsc2UsIlJpc3RvcmF6aW9uZSBwZXIgdXRlbnRpIGVzdGVybmkiOmZhbHNlLCJTZWdyZXRhcmlhdG8gc29jaWFsZSI6ZmFsc2UsIlNlcnZpemlvIENvbnRpbnVpdGEnIEFzc2lzdGVuemlhbGUgKEV4IEd1YXJkaWEgTWVkaWNhKSI6ZmFsc2UsIlRyYXNwb3J0byBwZXIgYWR1bHRpIGRpc2FiaWxpIjpmYWxzZX0sInNlcnZpemlBbW1pbmlzdHJhdGl2aSI6eyJzZXJ2aXppQW1taW5pc3RyYXRpdmlTcGVjIjpbeyJnaW9ybmlTZXR0aW1hbmEiOlsibHVuZWRpIiwibWFydGVkaSIsIm1lcmNvbGVkaSIsInZlbmVyZGkiXSwib3JhSW5pemlvIjoiMDk6MDAiLCJvcmFGaW5lIjoiMTg6MDAifV19LCJkaXJlemlvbmUiOnsiZGlyZXppb25lU3BlYyI6W3siZ2lvcm5pU2V0dGltYW5hIjpbImx1bmVkaSIsIm1hcnRlZGkiLCJtZXJjb2xlZGkiLCJnaW92ZWRpIiwidmVuZXJkaSIsInNhYmF0byJdLCJvcmFJbml6aW8iOiIwODozMCIsIm9yYUZpbmUiOiIxNjowMCJ9XX0sIm9yYXJpb1Zpc2l0ZSI6eyJvcmFyaW9WaXNpdGVTcGVjIjp7Im9yYXJpU2Vydml6aW8iOnsib3JhSW5pemlvIjoiMTA6MDAiLCJvcmFGaW5lIjoiMTI6MDAiLCJvcmFJbml6aW8yIjoiMTQ6MDAiLCJvcmFGaW5lMiI6IjE3OjMwIn19fX19LCJhcnMiOnsibm9tZSI6IkFsYmEgU2VyZW5hIiwiY29kX3N0czI0IjoiVTAwNjRJIiwiYXR0aXZhIjoiMSIsImFjY29yZG8iOiIxIiwiaW5kaXJpenpvIjoiVmlhIGRpIEZyZWdpb25haWEsIDY5Mi9CIiwiY29kX2NvbXVuZSI6IjQ2MDE3IiwiZ2VzdGlvbmUiOiJwcml2YXRhIiwicXVvdGEiOjU5LCJxdW90YXNhbml0YXJpYSI6NTkuMX19",
+        "posti_liberi_int": 1,
+        "posti_liberi_m_int": 1,
+        "posti_liberi_f_int": 0,
+        "decoded_details": {
+            "id": 326,
+            "struttura": {
+                "avvisoDecimale": "",
+                "posti_modulo_base": 40,
+                "posti_liberi": 1,
+                "posti_liberi_m": 1,
+                "posti_liberi_f": 0,
+                "cf_direttore": "SMNNRC71P24E715E",
+                "nome_direttore": "ENRICO",
+                "cognome_direttore": "SIMONETTI",
+                "telefono_rsa": "0583 1714808",
+                "fax_rsa": "0583 1714830",
+                "email": "albaserena@cooplasalute.it",
+                "sito_internet": "",
+                "tariffa_privata_ranged": {
+                    "minima": 126,
+                    "massima": 126
+                },
+                "modulo": [
+                    "Modulo base"
+                ],
+                "indirizzo_sede": "via di fregionaia 692/b maggiano ",
+                "cod_comune_sede": "046017",
+                "tel_sede": "0583 464549",
+                "fax_sede": "0583 306042",
+                "email_sede": "c.lasalute@email.it",
+                "posta_certificata_sede": "c.lasalute@pec.it",
+                "residenza": {
+                    "numeroPiani": 2,
+                    "dettaglioCamere": [
+                        {
+                            "numeroCamere": 20,
+                            "numeroLetti": 40,
+                            "serviziPresenti": [
+                                "bagno dedicato",
+                                "tv",
+                                "wifi",
+                                "impianto condizionamento"
+                            ]
+                        }
+                    ]
+                },
+                "puntiDiInteresse": [
+                    "autobus",
+                    "chiesa",
+                    "associazioni di volontariato"
+                ],
+                "spazioEsterno": "SI",
+                "serviziSocioSanitari": {
+                    "animazioneSocioEducativa": {
+                        "animazioneSocioEducativaSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "mercoledi",
+                                    "venerdi",
+                                    "sabato"
+                                ],
+                                "oraInizio": "08:30",
+                                "oraFine": "13:30"
+                            },
+                            {
+                                "giorniSettimana": [
+                                    "martedi",
+                                    "giovedi"
+                                ],
+                                "oraInizio": "13:30",
+                                "oraFine": "18:30"
+                            }
+                        ]
+                    },
+                    "fisioterapia": {
+                        "fisioterapiaSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "martedi",
+                                    "mercoledi",
+                                    "giovedi",
+                                    "venerdi",
+                                    "sabato"
+                                ],
+                                "oraInizio": "09:00",
+                                "oraFine": "12:00"
+                            },
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "martedi",
+                                    "mercoledi",
+                                    "giovedi",
+                                    "venerdi",
+                                    "sabato"
+                                ],
+                                "oraInizio": "14:00",
+                                "oraFine": "17:00"
+                            }
+                        ]
+                    },
+                    "assistenzaInfermieristica": {
+                        "assistenzaInfermieristicaSpec": {
+                            "reperibilitaNotturna": "SI",
+                            "orariServizio": {
+                                "oraInizio": "07:00",
+                                "oraFine": "20:00",
+                                "oraInizio2": "",
+                                "oraFine2": ""
+                            }
+                        }
+                    },
+                    "mediciSpecialisti": {
+                        "subTitle": "",
+                        "dettaglioSpecialisti": [
+                            {
+                                "medicoSpecialista": "neurologo",
+                                "erogazioneServizio": {
+                                    "scelta": "Su richiesta",
+                                    "onRequest": "true"
+                                },
+                                "inclusoQuota": "NO"
+                            }
+                        ]
+                    },
+                    "psicologo": {
+                        "nonPrevisto": false,
+                        "erogazioneServizio": {
+                            "scelta": "Su richiesta",
+                            "onRequest": "true"
+                        },
+                        "inclusoQuota": "SI"
+                    },
+                    "podologo": {
+                        "erogazioneServizio": "Su richiesta",
+                        "numeroVolte": 1,
+                        "prestazioniIncluseMese": 1
+                    }
+                },
+                "serviziAlberghieri": {
+                    "cucina": {
+                        "tipoCucina": "Interna"
+                    },
+                    "lavanderia": {
+                        "indumenti_personali": "SI"
+                    },
+                    "parrucchiere": {
+                        "erogazioneServizio": "N volte a settimana",
+                        "numeroVolte": 2,
+                        "prestazioniIncluseMese": 1
+                    },
+                    "estetista": {
+                        "nonPrevisto": false,
+                        "erogazioneServizio": {
+                            "scelta": "Su richiesta",
+                            "onRequest": "true"
+                        },
+                        "inclusoQuota": "SI"
+                    },
+                    "assistenzaReligiosa": {
+                        "nonPrevisto": false,
+                        "aperturaTipiCulto": "SI",
+                        "assistenzaReligiosaSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "giovedi"
+                                ],
+                                "ora": "09:00"
+                            }
+                        ]
+                    }
+                },
+                "altriServizi": {
+                    "elencoServizi": {
+                        "Appartamenti protetti": false,
+                        "Assistenza Domiciliare": false,
+                        "Assistenza residenziale per rifugiati/profughi": false,
+                        "Attivita' fisica adattata": true,
+                        "Casa della salute": false,
+                        "Centro di socializzazione per autosufficienti": false,
+                        "Centro diurno Alzheimer": false,
+                        "Centro diurno per autosufficienti": true,
+                        "Centro diurno per non autosufficienti": false,
+                        "Lavanderia per assistiti a domicilio": false,
+                        "Organizzazione del trasporto e accompagnamento degli assistiti deambulanti per visite/prestazioni sanitarie, avvisandone i familiari": true,
+                        "Prestazioni di assistenza di base per utenti esterni (bagno assistito)": false,
+                        "Residenza per Autosufficienti": false,
+                        "Residenza sociale per disabili (RSD)": false,
+                        "Ristorazione a domicilio": false,
+                        "Ristorazione per utenti esterni": false,
+                        "Segretariato sociale": false,
+                        "Servizio Continuita' Assistenziale (Ex Guardia Medica)": false,
+                        "Trasporto per adulti disabili": false
+                    },
+                    "serviziAmministrativi": {
+                        "serviziAmministrativiSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "martedi",
+                                    "mercoledi",
+                                    "venerdi"
+                                ],
+                                "oraInizio": "09:00",
+                                "oraFine": "18:00"
+                            }
+                        ]
+                    },
+                    "direzione": {
+                        "direzioneSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "martedi",
+                                    "mercoledi",
+                                    "giovedi",
+                                    "venerdi",
+                                    "sabato"
+                                ],
+                                "oraInizio": "08:30",
+                                "oraFine": "16:00"
+                            }
+                        ]
+                    },
+                    "orarioVisite": {
+                        "orarioVisiteSpec": {
+                            "orariServizio": {
+                                "oraInizio": "10:00",
+                                "oraFine": "12:00",
+                                "oraInizio2": "14:00",
+                                "oraFine2": "17:30"
+                            }
+                        }
+                    }
+                }
+            },
+            "ars": {
+                "nome": "Alba Serena",
+                "cod_sts24": "U0064I",
+                "attiva": "1",
+                "accordo": "1",
+                "indirizzo": "Via di Fregionaia, 692/B",
+                "cod_comune": "46017",
+                "gestione": "privata",
+                "quota": 59,
+                "quotasanitaria": 59.1
+            }
+        }
+    },
+    {
         "id": "121",
         "foto0": "vniev_sereniorizzonti_struttura.png",
         "foto1": "vniev_sereniorizzonti_salapranzo.jpg",
@@ -4703,12 +5013,12 @@
         "gestione": "pubblica",
         "indirizzo": "Via Casa del Duca,18",
         "cod_comune": "49014",
-        "cod_comune_sede": "49012",
         "comune": "Portoferraio",
         "zona": "Elba",
         "tel1_zona": "0565-926859",
         "tel2_zona": "0565-926867",
         "tel3_zona": "",
+        "telefono": "0565-926859 0565-926867",
         "rsa_ico_animazione": "animazione_socio-educativa.png",
         "rsa_ico_fisioterapia": "fisioterapia.png",
         "rsa_ico_cucina": "ristorazione_esterna.png",
