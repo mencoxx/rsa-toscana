@@ -2591,6 +2591,345 @@
         }
     },
     {
+        "id": "67",
+        "foto0": "fio_rsa_lacupolina_struttura.png",
+        "foto1": "fio_rsa_lacupolina_salottino.jpg",
+        "foto2": "fio_rsa_lacupolina_sala.jpg",
+        "foto3": "fio_rsa_lacupolina_palestra.jpg",
+        "foto4": "fio_rsa_lacupolina_interno.jpg",
+        "foto5": "fio_rsa_lacupolina_camera.jpg",
+        "nome": "La Cupolina",
+        "tipo": "",
+        "gestione": "privata",
+        "indirizzo": "Via Mario de' Bernardi, 39",
+        "cod_comune": "48017",
+        "comune": "Firenze",
+        "zona": "Firenze",
+        "tel1_zona": "055-2616250",
+        "tel2_zona": "",
+        "tel3_zona": "",
+        "telefono": "055-2616250",
+        "rsa_ico_animazione": "animazione_socio-educativa.png",
+        "rsa_ico_fisioterapia": "fisioterapia.png",
+        "rsa_ico_cucina": "ristorazione_esterna.png",
+        "rsa_ico_giardino": "giardino.png",
+        "rsa_ico_parrucchiere": "parrucchiere.png",
+        "rsa_ico_barbiere": "",
+        "rsa_ico_estetista": "estetista.png",
+        "rsa_ico_relig": "assistenza_religiosa.png",
+        "rsa_ico_geriatra": "consulenza_medico_specialistica.png",
+        "rsa_ico_assistenza_infermieristica": "assistenza_infermieristica_notturna.png",
+        "rsa_ico_psicologo": "psicologo.png",
+        "rsa_ico_podologo": "podologo.png",
+        "rsa_ico_lavanderia": "lavanderia.png",
+        "rsa_ico_postoletto": "",
+        "rsa_posti_liberi": "1",
+        "rsa_quota": "66.00",
+        "rsa_quotasanitaria": "59.10",
+        "rsa_quota_img": "quota_cupolina.png",
+        "rsa_mod_base": "si",
+        "rsa_mod_cogn": "",
+        "rsa_mod_riab": "",
+        "rsa_mod_veg": "si",
+        "rsa_attiva": "1",
+        "rsa_nome_brochure": "fio_rsa_cupolina.pdf",
+        "rsa_data_aggiornamento": "2026.07.27 07:43:08",
+        "lat": "43.797060688901901",
+        "lon": "11.1939672293695995",
+        "gbnord": "4851688",
+        "gbest": "1676530",
+        "accordo": "1",
+        "cod_sts24": "60964I",
+        "posti_liberi_m": "1",
+        "posti_liberi_f": "0",
+        "indirizzo_sede": "Via Mario de' Bernardi n. 39",
+        "comune_sede": "Firenze",
+        "fax_sede": "055-3006298",
+        "telefono_sede": "055-30061",
+        "email_sede": "segreteria@lacupolinarsa.it",
+        "posta_certificata_sede": "segreteria@pec.lacupolinarsa.it",
+        "json_data": "eyJpZCI6NjcsInN0cnV0dHVyYSI6eyJhdnZpc29EZWNpbWFsZSI6IiIsInBvc3RpX21vZHVsb19iYXNlIjoxMTUsInBvc3RpX2xpYmVyaSI6MSwicG9zdGlfbGliZXJpX20iOjEsInBvc3RpX2xpYmVyaV9mIjowLCJjZl9kaXJldHRvcmUiOiJTUlJSTkQ0NkUxNUI5NjJTIiwibm9tZV9kaXJldHRvcmUiOiJSb2xhbmRvIiwiY29nbm9tZV9kaXJldHRvcmUiOiJTb3JyaSIsInRlbGVmb25vX3JzYSI6IjA1NSAzMDA2MSIsImZheF9yc2EiOiIiLCJlbWFpbCI6InNlZ3JldGVyaWFAbGFjdXBvbGluYXJzYS5pdCIsInNpdG9faW50ZXJuZXQiOiIiLCJ0YXJpZmZhX3ByaXZhdGFfcmFuZ2VkIjp7Im1pbmltYSI6MTI1LCJtYXNzaW1hIjoxMjV9LCJtb2R1bG8iOlsiTW9kdWxvIGJhc2UiLCJNb2R1bG8gdmVnZXRhdGl2byJdLCJpbmRpcml6em9fc2VkZSI6IlZpYSBNYXJpbyBkZScgQmVybmFyZGkgbi4gMzkiLCJjb2RfY29tdW5lX3NlZGUiOiIwNDgwMTciLCJ0ZWxfc2VkZSI6IjA1NS0zMDA2MSIsImZheF9zZWRlIjoiIiwiZW1haWxfc2VkZSI6InNlZ3JldGVyaWFAbGFjdXBvbGluYXJzYS5pdCIsInBvc3RhX2NlcnRpZmljYXRhX3NlZGUiOiJzZWdyZXRlcmlhQHBlYy5sYWN1cG9saW5hcnNhLml0IiwicmVzaWRlbnphIjp7Im51bWVyb1BpYW5pIjozLCJkZXR0YWdsaW9DYW1lcmUiOlt7Im51bWVyb0NhbWVyZSI6MTUsIm51bWVyb0xldHRpIjoxLCJzZXJ2aXppUHJlc2VudGkiOlsiYmFnbm8gZGVkaWNhdG8iLCJ0diIsInRlbGVmb25vIHBvc3RvIGxldHRvIiwiaW1waWFudG8gY29uZGl6aW9uYW1lbnRvIiwiYmFsY29uZSJdfSx7Im51bWVyb0NhbWVyZSI6NTAsIm51bWVyb0xldHRpIjoyLCJzZXJ2aXppUHJlc2VudGkiOlsiYmFnbm8gY29uZGl2aXNvIiwidHYiLCJ0ZWxlZm9ubyBwb3N0byBsZXR0byIsImltcGlhbnRvIGNvbmRpemlvbmFtZW50byIsImJhbGNvbmUiXX1dfSwicHVudGlEaUludGVyZXNzZSI6WyJkaXN0cmV0dG8gc2FuaXRhcmlvIiwiYXV0b2J1cyIsImNoaWVzYSIsImFzc29jaWF6aW9uaSBkaSB2b2xvbnRhcmlhdG8iXSwic3BhemlvRXN0ZXJubyI6IlNJIiwic2Vydml6aVNvY2lvU2FuaXRhcmkiOnsiYW5pbWF6aW9uZVNvY2lvRWR1Y2F0aXZhIjp7ImFuaW1hemlvbmVTb2Npb0VkdWNhdGl2YVNwZWMiOlt7Imdpb3JuaVNldHRpbWFuYSI6WyJsdW5lZGkiLCJtYXJ0ZWRpIiwibWVyY29sZWRpIiwiZ2lvdmVkaSIsInZlbmVyZGkiXSwib3JhSW5pemlvIjoiMDg6MDAiLCJvcmFGaW5lIjoiMTY6MDAifSx7Imdpb3JuaVNldHRpbWFuYSI6WyJzYWJhdG8iXSwib3JhSW5pemlvIjoiMDg6MDAiLCJvcmFGaW5lIjoiMTQ6MDAifV19LCJmaXNpb3RlcmFwaWEiOnsiZmlzaW90ZXJhcGlhU3BlYyI6W3siZ2lvcm5pU2V0dGltYW5hIjpbImx1bmVkaSIsIm1hcnRlZGkiLCJtZXJjb2xlZGkiLCJnaW92ZWRpIiwidmVuZXJkaSJdLCJvcmFJbml6aW8iOiIwODozMCIsIm9yYUZpbmUiOiIxNjowMCJ9LHsiZ2lvcm5pU2V0dGltYW5hIjpbInNhYmF0byJdLCJvcmFJbml6aW8iOiIwODozMCIsIm9yYUZpbmUiOiIxMzowMCJ9XX0sImFzc2lzdGVuemFJbmZlcm1pZXJpc3RpY2EiOnsiYXNzaXN0ZW56YUluZmVybWllcmlzdGljYVNwZWMiOnsic2NlbHRhIjoiMjRoIn19LCJtZWRpY2lTcGVjaWFsaXN0aSI6eyJzdWJUaXRsZSI6IiIsImRldHRhZ2xpb1NwZWNpYWxpc3RpIjpbeyJtZWRpY29TcGVjaWFsaXN0YSI6InBzaWNoaWF0cmEiLCJlcm9nYXppb25lU2Vydml6aW8iOnsibnVtZXJvU2V0dGltYW5hIjozfSwiaW5jbHVzb1F1b3RhIjoiU0kifV19LCJwc2ljb2xvZ28iOnsibm9uUHJldmlzdG8iOmZhbHNlLCJlcm9nYXppb25lU2Vydml6aW8iOnsic2NlbHRhIjoiU3UgcmljaGllc3RhIiwib25SZXF1ZXN0IjoidHJ1ZSJ9LCJpbmNsdXNvUXVvdGEiOiJTSSJ9LCJwb2RvbG9nbyI6eyJlcm9nYXppb25lU2Vydml6aW8iOiJOIHZvbHRlIGFsIG1lc2UiLCJudW1lcm9Wb2x0ZSI6MywicHJlc3RhemlvbmlJbmNsdXNlTWVzZSI6MX19LCJzZXJ2aXppQWxiZXJnaGllcmkiOnsiY3VjaW5hIjp7InRpcG9DdWNpbmEiOiJFc3Rlcm5hIn0sImxhdmFuZGVyaWEiOnsiaW5kdW1lbnRpX3BlcnNvbmFsaSI6IlNJIn0sInBhcnJ1Y2NoaWVyZSI6eyJlcm9nYXppb25lU2Vydml6aW8iOiJOIHZvbHRlIGFsIG1lc2UiLCJudW1lcm9Wb2x0ZSI6MSwicHJlc3RhemlvbmlJbmNsdXNlTWVzZSI6MX0sImVzdGV0aXN0YSI6eyJub25QcmV2aXN0byI6ZmFsc2UsImVyb2dhemlvbmVTZXJ2aXppbyI6eyJzY2VsdGEiOiJTdSByaWNoaWVzdGEiLCJvblJlcXVlc3QiOiJ0cnVlIn0sImluY2x1c29RdW90YSI6IlNJIn0sImFzc2lzdGVuemFSZWxpZ2lvc2EiOnsibm9uUHJldmlzdG8iOmZhbHNlLCJhcGVydHVyYVRpcGlDdWx0byI6IlNJIiwiYXNzaXN0ZW56YVJlbGlnaW9zYVNwZWMiOlt7Imdpb3JuaVNldHRpbWFuYSI6WyJtZXJjb2xlZGkiXSwib3JhIjoiMTA6MDAifV19fSwiYWx0cmlTZXJ2aXppIjp7ImVsZW5jb1NlcnZpemkiOnsiQXBwYXJ0YW1lbnRpIHByb3RldHRpIjpmYWxzZSwiQXNzaXN0ZW56YSBEb21pY2lsaWFyZSI6ZmFsc2UsIkFzc2lzdGVuemEgcmVzaWRlbnppYWxlIHBlciByaWZ1Z2lhdGkvcHJvZnVnaGkiOmZhbHNlLCJBdHRpdml0YScgZmlzaWNhIGFkYXR0YXRhIjpmYWxzZSwiQ2FzYSBkZWxsYSBzYWx1dGUiOmZhbHNlLCJDZW50cm8gZGkgc29jaWFsaXp6YXppb25lIHBlciBhdXRvc3VmZmljaWVudGkiOmZhbHNlLCJDZW50cm8gZGl1cm5vIEFsemhlaW1lciI6ZmFsc2UsIkNlbnRybyBkaXVybm8gcGVyIGF1dG9zdWZmaWNpZW50aSI6ZmFsc2UsIkNlbnRybyBkaXVybm8gcGVyIG5vbiBhdXRvc3VmZmljaWVudGkiOmZhbHNlLCJMYXZhbmRlcmlhIHBlciBhc3Npc3RpdGkgYSBkb21pY2lsaW8iOmZhbHNlLCJPcmdhbml6emF6aW9uZSBkZWwgdHJhc3BvcnRvIGUgYWNjb21wYWduYW1lbnRvIGRlZ2xpIGFzc2lzdGl0aSBkZWFtYnVsYW50aSBwZXIgdmlzaXRlL3ByZXN0YXppb25pIHNhbml0YXJpZSwgYXZ2aXNhbmRvbmUgaSBmYW1pbGlhcmkiOmZhbHNlLCJQcmVzdGF6aW9uaSBkaSBhc3Npc3RlbnphIGRpIGJhc2UgcGVyIHV0ZW50aSBlc3Rlcm5pIChiYWdubyBhc3Npc3RpdG8pIjpmYWxzZSwiUmVzaWRlbnphIHBlciBBdXRvc3VmZmljaWVudGkiOmZhbHNlLCJSZXNpZGVuemEgc29jaWFsZSBwZXIgZGlzYWJpbGkgKFJTRCkiOmZhbHNlLCJSaXN0b3JhemlvbmUgYSBkb21pY2lsaW8iOmZhbHNlLCJSaXN0b3JhemlvbmUgcGVyIHV0ZW50aSBlc3Rlcm5pIjpmYWxzZSwiU2VncmV0YXJpYXRvIHNvY2lhbGUiOmZhbHNlLCJTZXJ2aXppbyBDb250aW51aXRhJyBBc3Npc3RlbnppYWxlIChFeCBHdWFyZGlhIE1lZGljYSkiOmZhbHNlLCJUcmFzcG9ydG8gcGVyIGFkdWx0aSBkaXNhYmlsaSI6ZmFsc2V9LCJzZXJ2aXppQW1taW5pc3RyYXRpdmkiOnsic2Vydml6aUFtbWluaXN0cmF0aXZpU3BlYyI6W3siZ2lvcm5pU2V0dGltYW5hIjpbImx1bmVkaSIsIm1hcnRlZGkiLCJtZXJjb2xlZGkiLCJnaW92ZWRpIiwidmVuZXJkaSJdLCJvcmFJbml6aW8iOiIwOTowMCIsIm9yYUZpbmUiOiIxODowMCJ9LHsiZ2lvcm5pU2V0dGltYW5hIjpbInNhYmF0byJdLCJvcmFJbml6aW8iOiIwOTowMCIsIm9yYUZpbmUiOiIxMjozMCJ9XX0sImRpcmV6aW9uZSI6eyJkaXJlemlvbmVTcGVjIjpbeyJnaW9ybmlTZXR0aW1hbmEiOlsibHVuZWRpIl0sIm9yYUluaXppbyI6IjEwOjMwIiwib3JhRmluZSI6IjE1OjAwIn1dfSwib3JhcmlvVmlzaXRlIjp7Im9yYXJpb1Zpc2l0ZVNwZWMiOnsib3JhcmlTZXJ2aXppbyI6W3siZ2lvcm5pU2V0dGltYW5hIjpbImx1bmVkaSIsIm1hcnRlZGkiLCJtZXJjb2xlZGkiLCJ2ZW5lcmRpIiwic2FiYXRvIl0sIm9yYUluaXppbyI6IjEwOjAwIiwib3JhRmluZSI6IjEyOjAwIn0seyJnaW9ybmlTZXR0aW1hbmEiOlsibHVuZWRpIiwibWFydGVkaSIsIm1lcmNvbGVkaSIsImdpb3ZlZGkiLCJ2ZW5lcmRpIl0sIm9yYUluaXppbyI6IjE0OjAwIiwib3JhRmluZSI6IjE3OjMwIn0seyJnaW9ybmlTZXR0aW1hbmEiOlsiZG9tZW5pY2EiXSwib3JhSW5pemlvIjoiMTA6MDAiLCJvcmFGaW5lIjoiMTI6MDAifV19fX19LCJhcnMiOnsibm9tZSI6IkxhIEN1cG9saW5hIiwiY29kX3N0czI0IjoiNjA5NjRJIiwiYXR0aXZhIjoiMSIsImFjY29yZG8iOiIxIiwiaW5kaXJpenpvIjoiVmlhIE1hcmlvIGRlJyBCZXJuYXJkaSwgMzkiLCJjb2RfY29tdW5lIjoiNDgwMTciLCJnZXN0aW9uZSI6InByaXZhdGEiLCJxdW90YSI6NjYsInF1b3Rhc2FuaXRhcmlhIjo1OS4xfX0=",
+        "posti_liberi_int": 1,
+        "posti_liberi_m_int": 1,
+        "posti_liberi_f_int": 0,
+        "decoded_details": {
+            "id": 67,
+            "struttura": {
+                "avvisoDecimale": "",
+                "posti_modulo_base": 115,
+                "posti_liberi": 1,
+                "posti_liberi_m": 1,
+                "posti_liberi_f": 0,
+                "cf_direttore": "SRRRND46E15B962S",
+                "nome_direttore": "Rolando",
+                "cognome_direttore": "Sorri",
+                "telefono_rsa": "055 30061",
+                "fax_rsa": "",
+                "email": "segreteria@lacupolinarsa.it",
+                "sito_internet": "",
+                "tariffa_privata_ranged": {
+                    "minima": 125,
+                    "massima": 125
+                },
+                "modulo": [
+                    "Modulo base",
+                    "Modulo vegetativo"
+                ],
+                "indirizzo_sede": "Via Mario de' Bernardi n. 39",
+                "cod_comune_sede": "048017",
+                "tel_sede": "055-30061",
+                "fax_sede": "",
+                "email_sede": "segreteria@lacupolinarsa.it",
+                "posta_certificata_sede": "segreteria@pec.lacupolinarsa.it",
+                "residenza": {
+                    "numeroPiani": 3,
+                    "dettaglioCamere": [
+                        {
+                            "numeroCamere": 15,
+                            "numeroLetti": 1,
+                            "serviziPresenti": [
+                                "bagno dedicato",
+                                "tv",
+                                "telefono posto letto",
+                                "impianto condizionamento",
+                                "balcone"
+                            ]
+                        },
+                        {
+                            "numeroCamere": 50,
+                            "numeroLetti": 2,
+                            "serviziPresenti": [
+                                "bagno condiviso",
+                                "tv",
+                                "telefono posto letto",
+                                "impianto condizionamento",
+                                "balcone"
+                            ]
+                        }
+                    ]
+                },
+                "puntiDiInteresse": [
+                    "distretto sanitario",
+                    "autobus",
+                    "chiesa",
+                    "associazioni di volontariato"
+                ],
+                "spazioEsterno": "SI",
+                "serviziSocioSanitari": {
+                    "animazioneSocioEducativa": {
+                        "animazioneSocioEducativaSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "martedi",
+                                    "mercoledi",
+                                    "giovedi",
+                                    "venerdi"
+                                ],
+                                "oraInizio": "08:00",
+                                "oraFine": "16:00"
+                            },
+                            {
+                                "giorniSettimana": [
+                                    "sabato"
+                                ],
+                                "oraInizio": "08:00",
+                                "oraFine": "14:00"
+                            }
+                        ]
+                    },
+                    "fisioterapia": {
+                        "fisioterapiaSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "martedi",
+                                    "mercoledi",
+                                    "giovedi",
+                                    "venerdi"
+                                ],
+                                "oraInizio": "08:30",
+                                "oraFine": "16:00"
+                            },
+                            {
+                                "giorniSettimana": [
+                                    "sabato"
+                                ],
+                                "oraInizio": "08:30",
+                                "oraFine": "13:00"
+                            }
+                        ]
+                    },
+                    "assistenzaInfermieristica": {
+                        "assistenzaInfermieristicaSpec": {
+                            "scelta": "24h"
+                        }
+                    },
+                    "mediciSpecialisti": {
+                        "subTitle": "",
+                        "dettaglioSpecialisti": [
+                            {
+                                "medicoSpecialista": "psichiatra",
+                                "erogazioneServizio": {
+                                    "numeroSettimana": 3
+                                },
+                                "inclusoQuota": "SI"
+                            }
+                        ]
+                    },
+                    "psicologo": {
+                        "nonPrevisto": false,
+                        "erogazioneServizio": {
+                            "scelta": "Su richiesta",
+                            "onRequest": "true"
+                        },
+                        "inclusoQuota": "SI"
+                    },
+                    "podologo": {
+                        "erogazioneServizio": "N volte al mese",
+                        "numeroVolte": 3,
+                        "prestazioniIncluseMese": 1
+                    }
+                },
+                "serviziAlberghieri": {
+                    "cucina": {
+                        "tipoCucina": "Esterna"
+                    },
+                    "lavanderia": {
+                        "indumenti_personali": "SI"
+                    },
+                    "parrucchiere": {
+                        "erogazioneServizio": "N volte al mese",
+                        "numeroVolte": 1,
+                        "prestazioniIncluseMese": 1
+                    },
+                    "estetista": {
+                        "nonPrevisto": false,
+                        "erogazioneServizio": {
+                            "scelta": "Su richiesta",
+                            "onRequest": "true"
+                        },
+                        "inclusoQuota": "SI"
+                    },
+                    "assistenzaReligiosa": {
+                        "nonPrevisto": false,
+                        "aperturaTipiCulto": "SI",
+                        "assistenzaReligiosaSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "mercoledi"
+                                ],
+                                "ora": "10:00"
+                            }
+                        ]
+                    }
+                },
+                "altriServizi": {
+                    "elencoServizi": {
+                        "Appartamenti protetti": false,
+                        "Assistenza Domiciliare": false,
+                        "Assistenza residenziale per rifugiati/profughi": false,
+                        "Attivita' fisica adattata": false,
+                        "Casa della salute": false,
+                        "Centro di socializzazione per autosufficienti": false,
+                        "Centro diurno Alzheimer": false,
+                        "Centro diurno per autosufficienti": false,
+                        "Centro diurno per non autosufficienti": false,
+                        "Lavanderia per assistiti a domicilio": false,
+                        "Organizzazione del trasporto e accompagnamento degli assistiti deambulanti per visite/prestazioni sanitarie, avvisandone i familiari": false,
+                        "Prestazioni di assistenza di base per utenti esterni (bagno assistito)": false,
+                        "Residenza per Autosufficienti": false,
+                        "Residenza sociale per disabili (RSD)": false,
+                        "Ristorazione a domicilio": false,
+                        "Ristorazione per utenti esterni": false,
+                        "Segretariato sociale": false,
+                        "Servizio Continuita' Assistenziale (Ex Guardia Medica)": false,
+                        "Trasporto per adulti disabili": false
+                    },
+                    "serviziAmministrativi": {
+                        "serviziAmministrativiSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "martedi",
+                                    "mercoledi",
+                                    "giovedi",
+                                    "venerdi"
+                                ],
+                                "oraInizio": "09:00",
+                                "oraFine": "18:00"
+                            },
+                            {
+                                "giorniSettimana": [
+                                    "sabato"
+                                ],
+                                "oraInizio": "09:00",
+                                "oraFine": "12:30"
+                            }
+                        ]
+                    },
+                    "direzione": {
+                        "direzioneSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "lunedi"
+                                ],
+                                "oraInizio": "10:30",
+                                "oraFine": "15:00"
+                            }
+                        ]
+                    },
+                    "orarioVisite": {
+                        "orarioVisiteSpec": {
+                            "orariServizio": [
+                                {
+                                    "giorniSettimana": [
+                                        "lunedi",
+                                        "martedi",
+                                        "mercoledi",
+                                        "venerdi",
+                                        "sabato"
+                                    ],
+                                    "oraInizio": "10:00",
+                                    "oraFine": "12:00"
+                                },
+                                {
+                                    "giorniSettimana": [
+                                        "lunedi",
+                                        "martedi",
+                                        "mercoledi",
+                                        "giovedi",
+                                        "venerdi"
+                                    ],
+                                    "oraInizio": "14:00",
+                                    "oraFine": "17:30"
+                                },
+                                {
+                                    "giorniSettimana": [
+                                        "domenica"
+                                    ],
+                                    "oraInizio": "10:00",
+                                    "oraFine": "12:00"
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            "ars": {
+                "nome": "La Cupolina",
+                "cod_sts24": "60964I",
+                "attiva": "1",
+                "accordo": "1",
+                "indirizzo": "Via Mario de' Bernardi, 39",
+                "cod_comune": "48017",
+                "gestione": "privata",
+                "quota": 66,
+                "quotasanitaria": 59.1
+            }
+        }
+    },
+    {
         "id": "33",
         "foto0": "lunig_Fivizzano_esterno.jpg",
         "foto1": "lunig_Fivizzano_sala.jpg",
@@ -4715,6 +5054,292 @@
                 "cod_comune": "50032",
                 "gestione": "pubblica",
                 "quota": 55.5,
+                "quotasanitaria": 59.1
+            }
+        }
+    },
+    {
+        "id": "299",
+        "foto0": "gros_sangiovanniscansano_struttura.png",
+        "foto1": "gros_sangiovanniscansano_saletta.jpg",
+        "foto2": "gros_sangiovanniscansano_sala.jpg",
+        "foto3": "gros_sangiovanniscansano_entrata.jpg",
+        "foto4": "gros_sangiovanniscansano_camera.jpg",
+        "foto5": "",
+        "nome": "San Giovanni di Scansano",
+        "tipo": "",
+        "gestione": "pubblica",
+        "indirizzo": "Via Diaz, 9",
+        "cod_comune": "53023",
+        "comune": "Scansano",
+        "zona": "Amiata Grossetana - Colline Metallifere - Grossetana",
+        "tel1_zona": "0564-439210",
+        "tel2_zona": "",
+        "tel3_zona": "",
+        "telefono": "0564-483730 0564-483733",
+        "rsa_ico_animazione": "animazione_socio-educativa.png",
+        "rsa_ico_fisioterapia": "fisioterapia.png",
+        "rsa_ico_cucina": "ristorazione_esterna.png",
+        "rsa_ico_giardino": "giardino.png",
+        "rsa_ico_parrucchiere": "parrucchiere.png",
+        "rsa_ico_barbiere": "",
+        "rsa_ico_estetista": "estetista.png",
+        "rsa_ico_relig": "assistenza_religiosa.png",
+        "rsa_ico_geriatra": "consulenza_medico_specialistica_p.png",
+        "rsa_ico_assistenza_infermieristica": "assistenza_infermieristica.png",
+        "rsa_ico_psicologo": "psicologo.png",
+        "rsa_ico_podologo": "podologo.png",
+        "rsa_ico_lavanderia": "lavanderia.png",
+        "rsa_ico_postoletto": "",
+        "rsa_posti_liberi": "1",
+        "rsa_quota": "43.80",
+        "rsa_quotasanitaria": "59.10",
+        "rsa_quota_img": "gros_sangiovanniscansano.png",
+        "rsa_mod_base": "si",
+        "rsa_mod_cogn": "",
+        "rsa_mod_riab": "",
+        "rsa_mod_veg": "",
+        "rsa_attiva": "1",
+        "rsa_nome_brochure": "gros_sangiovanni_scansano.pdf",
+        "rsa_data_aggiornamento": "2026.07.27 08:14:34",
+        "lat": "42.6874937661342031",
+        "lon": "11.3325098973954006",
+        "gbnord": "4728764",
+        "gbest": "1691114",
+        "accordo": "1",
+        "cod_sts24": "41404I",
+        "posti_liberi_m": "0",
+        "posti_liberi_f": "1",
+        "indirizzo_sede": "Grosseto Via Cimabue 109",
+        "comune_sede": "Grosseto",
+        "fax_sede": "0564 485561",
+        "telefono_sede": "0564 485581",
+        "email_sede": "lia.radi@uslsudest.toscana.it",
+        "posta_certificata_sede": "NULL",
+        "json_data": "eyJpZCI6Mjk5LCJzdHJ1dHR1cmEiOnsiYXZ2aXNvRGVjaW1hbGUiOiIiLCJwb3N0aV9tb2R1bG9fYmFzZSI6MjUsInBvc3RpX2xpYmVyaSI6MSwicG9zdGlfbGliZXJpX20iOjAsInBvc3RpX2xpYmVyaV9mIjoxLCJjZl9kaXJldHRvcmUiOiJUTExHUEw4M0EwN0UyMDJaIiwibm9tZV9kaXJldHRvcmUiOiJHaWFtcGFvbG8iLCJjb2dub21lX2RpcmV0dG9yZSI6IlRvbGxhcGkiLCJ0ZWxlZm9ub19yc2EiOiIwNTY0IDQ4NjkxNSIsImZheF9yc2EiOiIwNTY0IDQ4NjkwOSAwNTY0IDQ4NTU2MSIsImVtYWlsIjoicmVzaWRlbnplQGNvZXNvYXJlYWdyLml0Iiwic2l0b19pbnRlcm5ldCI6IiIsInRhcmlmZmFfcHJpdmF0YV9yYW5nZWQiOnsibWluaW1hIjowLCJtYXNzaW1hIjowfSwibW9kdWxvIjpbIk1vZHVsbyBiYXNlIl0sImluZGlyaXp6b19zZWRlIjoiR3Jvc3NldG8gVmlhIENpbWFidWUgMTA5IiwiY29kX2NvbXVuZV9zZWRlIjoiMDUzMDExIiwidGVsX3NlZGUiOiIwNTY0IDQ4NTU4MSIsImZheF9zZWRlIjoiMDU2NCA0ODU1NjEiLCJlbWFpbF9zZWRlIjoiIiwicG9zdGFfY2VydGlmaWNhdGFfc2VkZSI6IiIsInJlc2lkZW56YSI6eyJudW1lcm9QaWFuaSI6MiwiZGV0dGFnbGlvQ2FtZXJlIjpbeyJudW1lcm9DYW1lcmUiOjE0LCJudW1lcm9MZXR0aSI6MjUsInNlcnZpemlQcmVzZW50aSI6WyJiYWdubyBjb25kaXZpc28iLCJ0diJdfV19LCJwdW50aURpSW50ZXJlc3NlIjpbImRpc3RyZXR0byBzYW5pdGFyaW8iLCJjaGllc2EiLCJjZW50cm8gc3RvcmljbyIsInRlYXRybyIsImJpYmxpb3RlY2EiLCJhc3NvY2lhemlvbmkgZGkgdm9sb250YXJpYXRvIl0sInNwYXppb0VzdGVybm8iOiJTSSIsInNlcnZpemlTb2Npb1Nhbml0YXJpIjp7ImFuaW1hemlvbmVTb2Npb0VkdWNhdGl2YSI6eyJhbmltYXppb25lU29jaW9FZHVjYXRpdmFTcGVjIjp7Im9yYUluaXppbyI6IjA5OjAwIiwib3JhRmluZSI6IjEyOjAwIiwib3JhSW5pemlvMiI6IjE1OjAwIiwib3JhRmluZTIiOiIxNzozMCJ9fSwiZmlzaW90ZXJhcGlhIjp7ImZpc2lvdGVyYXBpYVNwZWMiOlt7Imdpb3JuaVNldHRpbWFuYSI6WyJtYXJ0ZWRpIiwibWVyY29sZWRpIiwiZ2lvdmVkaSJdLCJvcmFJbml6aW8iOiIwODowMCIsIm9yYUZpbmUiOiIxMjowMCJ9LHsiZ2lvcm5pU2V0dGltYW5hIjpbIm1lcmNvbGVkaSIsImdpb3ZlZGkiXSwib3JhSW5pemlvIjoiMTQ6MDAiLCJvcmFGaW5lIjoiMTg6MDAifV19LCJhc3Npc3RlbnphSW5mZXJtaWVyaXN0aWNhIjp7ImFzc2lzdGVuemFJbmZlcm1pZXJpc3RpY2FTcGVjIjp7InJlcGVyaWJpbGl0YU5vdHR1cm5hIjoiTk8iLCJvcmFyaVNlcnZpemlvIjp7Im9yYUluaXppbyI6IjA3OjAwIiwib3JhRmluZSI6IjIyOjAwIiwib3JhSW5pemlvMiI6IiIsIm9yYUZpbmUyIjoiIn19fSwibWVkaWNpU3BlY2lhbGlzdGkiOnsic3ViVGl0bGUiOiIiLCJkZXR0YWdsaW9TcGVjaWFsaXN0aSI6W3sibWVkaWNvU3BlY2lhbGlzdGEiOiJkZXJtYXRvbG9nbyIsImVyb2dhemlvbmVTZXJ2aXppbyI6eyJzY2VsdGEiOiJTdSByaWNoaWVzdGEiLCJvblJlcXVlc3QiOiJ0cnVlIn0sImluY2x1c29RdW90YSI6Ik5PIn0seyJtZWRpY29TcGVjaWFsaXN0YSI6InBzaWNoaWF0cmEiLCJlcm9nYXppb25lU2Vydml6aW8iOnsic2NlbHRhIjoiU3UgcmljaGllc3RhIiwib25SZXF1ZXN0IjoidHJ1ZSJ9LCJpbmNsdXNvUXVvdGEiOiJOTyJ9LHsibWVkaWNvU3BlY2lhbGlzdGEiOiJjYXJkaW9sb2dvIiwiZXJvZ2F6aW9uZVNlcnZpemlvIjp7InNjZWx0YSI6IlN1IHJpY2hpZXN0YSIsIm9uUmVxdWVzdCI6InRydWUifSwiaW5jbHVzb1F1b3RhIjoiTk8ifV19LCJwc2ljb2xvZ28iOnsibm9uUHJldmlzdG8iOmZhbHNlLCJlcm9nYXppb25lU2Vydml6aW8iOnsic2NlbHRhIjoiU3UgcmljaGllc3RhIiwib25SZXF1ZXN0IjoidHJ1ZSJ9LCJpbmNsdXNvUXVvdGEiOiJTSSJ9LCJwb2RvbG9nbyI6eyJlcm9nYXppb25lU2Vydml6aW8iOiJOIHZvbHRlIGFsIG1lc2UiLCJudW1lcm9Wb2x0ZSI6MSwicHJlc3RhemlvbmlJbmNsdXNlTWVzZSI6MX19LCJzZXJ2aXppQWxiZXJnaGllcmkiOnsiY3VjaW5hIjp7InRpcG9DdWNpbmEiOiJFc3Rlcm5hIn0sImxhdmFuZGVyaWEiOnsiaW5kdW1lbnRpX3BlcnNvbmFsaSI6IlNJIn0sInBhcnJ1Y2NoaWVyZSI6eyJlcm9nYXppb25lU2Vydml6aW8iOiJOIHZvbHRlIGFsIG1lc2UiLCJudW1lcm9Wb2x0ZSI6MSwicHJlc3RhemlvbmlJbmNsdXNlTWVzZSI6MX0sImVzdGV0aXN0YSI6eyJub25QcmV2aXN0byI6ZmFsc2UsImVyb2dhemlvbmVTZXJ2aXppbyI6eyJudW1lcm9NZXNlIjoxfSwiaW5jbHVzb1F1b3RhIjoiU0kifSwiYXNzaXN0ZW56YVJlbGlnaW9zYSI6eyJub25QcmV2aXN0byI6ZmFsc2UsImFwZXJ0dXJhVGlwaUN1bHRvIjoiU0kiLCJhc3Npc3RlbnphUmVsaWdpb3NhU3BlYyI6W3siZ2lvcm5pU2V0dGltYW5hIjpbIm1hcnRlZGkiXSwib3JhIjoiMTY6MDAifV19fSwiYWx0cmlTZXJ2aXppIjp7ImVsZW5jb1NlcnZpemkiOnsiQXBwYXJ0YW1lbnRpIHByb3RldHRpIjpmYWxzZSwiQXNzaXN0ZW56YSBEb21pY2lsaWFyZSI6ZmFsc2UsIkFzc2lzdGVuemEgcmVzaWRlbnppYWxlIHBlciByaWZ1Z2lhdGkvcHJvZnVnaGkiOmZhbHNlLCJBdHRpdml0YScgZmlzaWNhIGFkYXR0YXRhIjpmYWxzZSwiQ2FzYSBkZWxsYSBzYWx1dGUiOmZhbHNlLCJDZW50cm8gZGkgc29jaWFsaXp6YXppb25lIHBlciBhdXRvc3VmZmljaWVudGkiOmZhbHNlLCJDZW50cm8gZGl1cm5vIEFsemhlaW1lciI6ZmFsc2UsIkNlbnRybyBkaXVybm8gcGVyIGF1dG9zdWZmaWNpZW50aSI6ZmFsc2UsIkNlbnRybyBkaXVybm8gcGVyIG5vbiBhdXRvc3VmZmljaWVudGkiOmZhbHNlLCJMYXZhbmRlcmlhIHBlciBhc3Npc3RpdGkgYSBkb21pY2lsaW8iOmZhbHNlLCJPcmdhbml6emF6aW9uZSBkZWwgdHJhc3BvcnRvIGUgYWNjb21wYWduYW1lbnRvIGRlZ2xpIGFzc2lzdGl0aSBkZWFtYnVsYW50aSBwZXIgdmlzaXRlL3ByZXN0YXppb25pIHNhbml0YXJpZSwgYXZ2aXNhbmRvbmUgaSBmYW1pbGlhcmkiOmZhbHNlLCJQcmVzdGF6aW9uaSBkaSBhc3Npc3RlbnphIGRpIGJhc2UgcGVyIHV0ZW50aSBlc3Rlcm5pIChiYWdubyBhc3Npc3RpdG8pIjpmYWxzZSwiUmVzaWRlbnphIHBlciBBdXRvc3VmZmljaWVudGkiOmZhbHNlLCJSZXNpZGVuemEgc29jaWFsZSBwZXIgZGlzYWJpbGkgKFJTRCkiOmZhbHNlLCJSaXN0b3JhemlvbmUgYSBkb21pY2lsaW8iOmZhbHNlLCJSaXN0b3JhemlvbmUgcGVyIHV0ZW50aSBlc3Rlcm5pIjpmYWxzZSwiU2VncmV0YXJpYXRvIHNvY2lhbGUiOnRydWUsIlNlcnZpemlvIENvbnRpbnVpdGEnIEFzc2lzdGVuemlhbGUgKEV4IEd1YXJkaWEgTWVkaWNhKSI6ZmFsc2UsIlRyYXNwb3J0byBwZXIgYWR1bHRpIGRpc2FiaWxpIjpmYWxzZX0sInNlcnZpemlBbW1pbmlzdHJhdGl2aSI6eyJzZXJ2aXppQW1taW5pc3RyYXRpdmlTcGVjIjp7Im9yYUluaXppbyI6IjA4OjAwIiwib3JhRmluZSI6IjE0OjAwIiwib3JhSW5pemlvMiI6IiIsIm9yYUZpbmUyIjoiIn19LCJkaXJlemlvbmUiOnsiZGlyZXppb25lU3BlYyI6eyJvcmFJbml6aW8iOiIwODowMCIsIm9yYUZpbmUiOiIxNDowMCIsIm9yYUluaXppbzIiOiIiLCJvcmFGaW5lMiI6IiJ9fSwib3JhcmlvVmlzaXRlIjp7Im9yYXJpb1Zpc2l0ZVNwZWMiOnsic2NlbHRhIjoiMjRoIn19fX0sImFycyI6eyJub21lIjoiU2FuIEdpb3Zhbm5pIGRpIFNjYW5zYW5vIiwiY29kX3N0czI0IjoiNDE0MDRJIiwiYXR0aXZhIjoiMSIsImFjY29yZG8iOiIxIiwiaW5kaXJpenpvIjoiVmlhIERpYXosIDkiLCJjb2RfY29tdW5lIjoiNTMwMjMiLCJnZXN0aW9uZSI6InB1YmJsaWNhIiwicXVvdGEiOjQzLjgsInF1b3Rhc2FuaXRhcmlhIjo1OS4xfX0=",
+        "posti_liberi_int": 1,
+        "posti_liberi_m_int": 0,
+        "posti_liberi_f_int": 1,
+        "decoded_details": {
+            "id": 299,
+            "struttura": {
+                "avvisoDecimale": "",
+                "posti_modulo_base": 25,
+                "posti_liberi": 1,
+                "posti_liberi_m": 0,
+                "posti_liberi_f": 1,
+                "cf_direttore": "TLLGPL83A07E202Z",
+                "nome_direttore": "Giampaolo",
+                "cognome_direttore": "Tollapi",
+                "telefono_rsa": "0564 486915",
+                "fax_rsa": "0564 486909 0564 485561",
+                "email": "residenze@coesoareagr.it",
+                "sito_internet": "",
+                "tariffa_privata_ranged": {
+                    "minima": 0,
+                    "massima": 0
+                },
+                "modulo": [
+                    "Modulo base"
+                ],
+                "indirizzo_sede": "Grosseto Via Cimabue 109",
+                "cod_comune_sede": "053011",
+                "tel_sede": "0564 485581",
+                "fax_sede": "0564 485561",
+                "email_sede": "",
+                "posta_certificata_sede": "",
+                "residenza": {
+                    "numeroPiani": 2,
+                    "dettaglioCamere": [
+                        {
+                            "numeroCamere": 14,
+                            "numeroLetti": 25,
+                            "serviziPresenti": [
+                                "bagno condiviso",
+                                "tv"
+                            ]
+                        }
+                    ]
+                },
+                "puntiDiInteresse": [
+                    "distretto sanitario",
+                    "chiesa",
+                    "centro storico",
+                    "teatro",
+                    "biblioteca",
+                    "associazioni di volontariato"
+                ],
+                "spazioEsterno": "SI",
+                "serviziSocioSanitari": {
+                    "animazioneSocioEducativa": {
+                        "animazioneSocioEducativaSpec": {
+                            "oraInizio": "09:00",
+                            "oraFine": "12:00",
+                            "oraInizio2": "15:00",
+                            "oraFine2": "17:30"
+                        }
+                    },
+                    "fisioterapia": {
+                        "fisioterapiaSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "martedi",
+                                    "mercoledi",
+                                    "giovedi"
+                                ],
+                                "oraInizio": "08:00",
+                                "oraFine": "12:00"
+                            },
+                            {
+                                "giorniSettimana": [
+                                    "mercoledi",
+                                    "giovedi"
+                                ],
+                                "oraInizio": "14:00",
+                                "oraFine": "18:00"
+                            }
+                        ]
+                    },
+                    "assistenzaInfermieristica": {
+                        "assistenzaInfermieristicaSpec": {
+                            "reperibilitaNotturna": "NO",
+                            "orariServizio": {
+                                "oraInizio": "07:00",
+                                "oraFine": "22:00",
+                                "oraInizio2": "",
+                                "oraFine2": ""
+                            }
+                        }
+                    },
+                    "mediciSpecialisti": {
+                        "subTitle": "",
+                        "dettaglioSpecialisti": [
+                            {
+                                "medicoSpecialista": "dermatologo",
+                                "erogazioneServizio": {
+                                    "scelta": "Su richiesta",
+                                    "onRequest": "true"
+                                },
+                                "inclusoQuota": "NO"
+                            },
+                            {
+                                "medicoSpecialista": "psichiatra",
+                                "erogazioneServizio": {
+                                    "scelta": "Su richiesta",
+                                    "onRequest": "true"
+                                },
+                                "inclusoQuota": "NO"
+                            },
+                            {
+                                "medicoSpecialista": "cardiologo",
+                                "erogazioneServizio": {
+                                    "scelta": "Su richiesta",
+                                    "onRequest": "true"
+                                },
+                                "inclusoQuota": "NO"
+                            }
+                        ]
+                    },
+                    "psicologo": {
+                        "nonPrevisto": false,
+                        "erogazioneServizio": {
+                            "scelta": "Su richiesta",
+                            "onRequest": "true"
+                        },
+                        "inclusoQuota": "SI"
+                    },
+                    "podologo": {
+                        "erogazioneServizio": "N volte al mese",
+                        "numeroVolte": 1,
+                        "prestazioniIncluseMese": 1
+                    }
+                },
+                "serviziAlberghieri": {
+                    "cucina": {
+                        "tipoCucina": "Esterna"
+                    },
+                    "lavanderia": {
+                        "indumenti_personali": "SI"
+                    },
+                    "parrucchiere": {
+                        "erogazioneServizio": "N volte al mese",
+                        "numeroVolte": 1,
+                        "prestazioniIncluseMese": 1
+                    },
+                    "estetista": {
+                        "nonPrevisto": false,
+                        "erogazioneServizio": {
+                            "numeroMese": 1
+                        },
+                        "inclusoQuota": "SI"
+                    },
+                    "assistenzaReligiosa": {
+                        "nonPrevisto": false,
+                        "aperturaTipiCulto": "SI",
+                        "assistenzaReligiosaSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "martedi"
+                                ],
+                                "ora": "16:00"
+                            }
+                        ]
+                    }
+                },
+                "altriServizi": {
+                    "elencoServizi": {
+                        "Appartamenti protetti": false,
+                        "Assistenza Domiciliare": false,
+                        "Assistenza residenziale per rifugiati/profughi": false,
+                        "Attivita' fisica adattata": false,
+                        "Casa della salute": false,
+                        "Centro di socializzazione per autosufficienti": false,
+                        "Centro diurno Alzheimer": false,
+                        "Centro diurno per autosufficienti": false,
+                        "Centro diurno per non autosufficienti": false,
+                        "Lavanderia per assistiti a domicilio": false,
+                        "Organizzazione del trasporto e accompagnamento degli assistiti deambulanti per visite/prestazioni sanitarie, avvisandone i familiari": false,
+                        "Prestazioni di assistenza di base per utenti esterni (bagno assistito)": false,
+                        "Residenza per Autosufficienti": false,
+                        "Residenza sociale per disabili (RSD)": false,
+                        "Ristorazione a domicilio": false,
+                        "Ristorazione per utenti esterni": false,
+                        "Segretariato sociale": true,
+                        "Servizio Continuita' Assistenziale (Ex Guardia Medica)": false,
+                        "Trasporto per adulti disabili": false
+                    },
+                    "serviziAmministrativi": {
+                        "serviziAmministrativiSpec": {
+                            "oraInizio": "08:00",
+                            "oraFine": "14:00",
+                            "oraInizio2": "",
+                            "oraFine2": ""
+                        }
+                    },
+                    "direzione": {
+                        "direzioneSpec": {
+                            "oraInizio": "08:00",
+                            "oraFine": "14:00",
+                            "oraInizio2": "",
+                            "oraFine2": ""
+                        }
+                    },
+                    "orarioVisite": {
+                        "orarioVisiteSpec": {
+                            "scelta": "24h"
+                        }
+                    }
+                }
+            },
+            "ars": {
+                "nome": "San Giovanni di Scansano",
+                "cod_sts24": "41404I",
+                "attiva": "1",
+                "accordo": "1",
+                "indirizzo": "Via Diaz, 9",
+                "cod_comune": "53023",
+                "gestione": "pubblica",
+                "quota": 43.8,
                 "quotasanitaria": 59.1
             }
         }
