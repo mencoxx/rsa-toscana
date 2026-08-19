@@ -2611,6 +2611,318 @@
         }
     },
     {
+        "id": "294",
+        "foto0": "amisen_montalcino_struttura.png",
+        "foto1": "amisen_montalcino_salapranzo.jpg",
+        "foto2": "amisen_montalcino_palestra.jpg",
+        "foto3": "amisen_montalcino_ingresso.jpg",
+        "foto4": "amisen_montalcino_corridoio.jpg",
+        "foto5": "amisen_montalcino_cameradoppia.jpg",
+        "nome": "Montalcino",
+        "tipo": "",
+        "gestione": "privata",
+        "indirizzo": "Piazza Cavour, 11",
+        "cod_comune": "52037",
+        "comune": "Montalcino",
+        "zona": "Senese",
+        "tel1_zona": "0577-535978",
+        "tel2_zona": "0577-535997",
+        "tel3_zona": "",
+        "telefono": "0577-535978 0577-535997",
+        "rsa_ico_animazione": "animazione_socio-educativa.png",
+        "rsa_ico_fisioterapia": "fisioterapia.png",
+        "rsa_ico_cucina": "ristorazione_interna.png",
+        "rsa_ico_giardino": "giardino.png",
+        "rsa_ico_parrucchiere": "parrucchiere.png",
+        "rsa_ico_barbiere": "",
+        "rsa_ico_estetista": "estetista.png",
+        "rsa_ico_relig": "assistenza_religiosa.png",
+        "rsa_ico_geriatra": "consulenza_medico_specialistica_p.png",
+        "rsa_ico_assistenza_infermieristica": "assistenza_infermieristica.png",
+        "rsa_ico_psicologo": "psicologo_p.png",
+        "rsa_ico_podologo": "podologo.png",
+        "rsa_ico_lavanderia": "lavanderia.png",
+        "rsa_ico_postoletto": "",
+        "rsa_posti_liberi": "1",
+        "rsa_quota": "59.10",
+        "rsa_quotasanitaria": "59.10",
+        "rsa_quota_img": "amisen_quota_capitani.png",
+        "rsa_mod_base": "si",
+        "rsa_mod_cogn": "",
+        "rsa_mod_riab": "",
+        "rsa_mod_veg": "",
+        "rsa_attiva": "1",
+        "rsa_nome_brochure": "sen_montalcino.pdf",
+        "rsa_data_aggiornamento": "2026.08.19 15:19:42",
+        "lat": "43.0610622364135978",
+        "lon": "11.4894446621031996",
+        "gbnord": "4770618",
+        "gbest": "1702744",
+        "accordo": "1",
+        "cod_sts24": "46724I",
+        "posti_liberi_m": "1",
+        "posti_liberi_f": "0",
+        "indirizzo_sede": "Via DEL GUARLONE 28",
+        "comune_sede": "Firenze",
+        "fax_sede": "0556260434",
+        "telefono_sede": "05562601",
+        "email_sede": "segretaria@consorzio-zenit.it",
+        "posta_certificata_sede": "consorziozenit@pec.consorzio-zenit.it",
+        "json_data": "eyJpZCI6Mjk0LCJzdHJ1dHR1cmEiOnsiYXZ2aXNvRGVjaW1hbGUiOiIiLCJwb3N0aV9tb2R1bG9fYmFzZSI6NjAsInBvc3RpX2xpYmVyaSI6MSwicG9zdGlfbGliZXJpX20iOjEsInBvc3RpX2xpYmVyaV9mIjowLCJjZl9kaXJldHRvcmUiOiJSVFRTTUw3MEU1MFoyMjJCIiwibm9tZV9kaXJldHRvcmUiOiJTaGFtb2wiLCJjb2dub21lX2RpcmV0dG9yZSI6IkVyYXR0YW5peWlsIEpvc2VwaCIsInRlbGVmb25vX3JzYSI6IjA1NzcgODQ5NTU5IiwiZmF4X3JzYSI6IjA1Nzc4NDk1NjgiLCJlbWFpbCI6InJzYW1vbnRhbGNpbm9AY29uc29yemlvLXplbml0Lml0Iiwic2l0b19pbnRlcm5ldCI6IiIsInRhcmlmZmFfcHJpdmF0YV9yYW5nZWQiOnsibWluaW1hIjoxMTAsIm1hc3NpbWEiOjExMS4xfSwibW9kdWxvIjpbIk1vZHVsbyBiYXNlIl0sImluZGlyaXp6b19zZWRlIjoiVmlhIERFTCBHVUFSTE9ORSAyOCIsImNvZF9jb211bmVfc2VkZSI6IjA0ODAxNyIsInRlbF9zZWRlIjoiMDU1NjI2MDEiLCJmYXhfc2VkZSI6IjA1NTYyNjA0MzQiLCJlbWFpbF9zZWRlIjoic2VncmV0YXJpYUBjb25zb3J6aW8temVuaXQuaXQiLCJwb3N0YV9jZXJ0aWZpY2F0YV9zZWRlIjoiY29uc29yemlvemVuaXRAcGVjLmNvbnNvcnppby16ZW5pdC5pdCIsInJlc2lkZW56YSI6eyJudW1lcm9QaWFuaSI6MywiZGV0dGFnbGlvQ2FtZXJlIjpbeyJudW1lcm9DYW1lcmUiOjMwLCJudW1lcm9MZXR0aSI6NjAsInNlcnZpemlQcmVzZW50aSI6WyJiYWdubyBjb25kaXZpc28iLCJpbXBpYW50byBjb25kaXppb25hbWVudG8iXX1dfSwicHVudGlEaUludGVyZXNzZSI6WyJkaXN0cmV0dG8gc2FuaXRhcmlvIiwiYXV0b2J1cyIsImNoaWVzYSIsImNlbnRybyBzdG9yaWNvIiwiYmlibGlvdGVjYSIsIm9zcGVkYWxlIl0sInNwYXppb0VzdGVybm8iOiJTSSIsInNlcnZpemlTb2Npb1Nhbml0YXJpIjp7ImFuaW1hemlvbmVTb2Npb0VkdWNhdGl2YSI6eyJhbmltYXppb25lU29jaW9FZHVjYXRpdmFTcGVjIjpbeyJnaW9ybmlTZXR0aW1hbmEiOlsibHVuZWRpIiwibWFydGVkaSIsIm1lcmNvbGVkaSIsImdpb3ZlZGkiLCJ2ZW5lcmRpIl0sIm9yYUluaXppbyI6IjA4OjMwIiwib3JhRmluZSI6IjE4OjAwIn0seyJnaW9ybmlTZXR0aW1hbmEiOlsic2FiYXRvIl0sIm9yYUluaXppbyI6IjA4OjMwIiwib3JhRmluZSI6IjEzOjMwIn1dfSwiZmlzaW90ZXJhcGlhIjp7ImZpc2lvdGVyYXBpYVNwZWMiOlt7Imdpb3JuaVNldHRpbWFuYSI6WyJsdW5lZGkiLCJtYXJ0ZWRpIiwibWVyY29sZWRpIiwiZ2lvdmVkaSIsInZlbmVyZGkiXSwib3JhSW5pemlvIjoiMDg6MzAiLCJvcmFGaW5lIjoiMTY6MzAifSx7Imdpb3JuaVNldHRpbWFuYSI6WyJzYWJhdG8iXSwib3JhSW5pemlvIjoiMDg6MzAiLCJvcmFGaW5lIjoiMTM6MDAifV19LCJhc3Npc3RlbnphSW5mZXJtaWVyaXN0aWNhIjp7ImFzc2lzdGVuemFJbmZlcm1pZXJpc3RpY2FTcGVjIjp7InJlcGVyaWJpbGl0YU5vdHR1cm5hIjoiTk8iLCJvcmFyaVNlcnZpemlvIjp7Im9yYUluaXppbyI6IjA2OjAwIiwib3JhRmluZSI6IjIyOjAwIiwib3JhSW5pemlvMiI6IjA2OjMwIiwib3JhRmluZTIiOiIxODowMCJ9fX0sIm1lZGljaVNwZWNpYWxpc3RpIjp7InN1YlRpdGxlIjoiIiwiZGV0dGFnbGlvU3BlY2lhbGlzdGkiOlt7Im1lZGljb1NwZWNpYWxpc3RhIjoiZ2VyaWF0cmEiLCJlcm9nYXppb25lU2Vydml6aW8iOnsic2NlbHRhIjoiU3UgcmljaGllc3RhIiwib25SZXF1ZXN0IjoidHJ1ZSJ9LCJpbmNsdXNvUXVvdGEiOiJOTyJ9LHsibWVkaWNvU3BlY2lhbGlzdGEiOiJnZXJpYXRyYSIsImVyb2dhemlvbmVTZXJ2aXppbyI6eyJzY2VsdGEiOiJTdSByaWNoaWVzdGEiLCJvblJlcXVlc3QiOiJ0cnVlIn0sImluY2x1c29RdW90YSI6IlNJIn1dfSwicHNpY29sb2dvIjp7Im5vblByZXZpc3RvIjpmYWxzZSwiZXJvZ2F6aW9uZVNlcnZpemlvIjp7InNjZWx0YSI6IlN1IHJpY2hpZXN0YSIsIm9uUmVxdWVzdCI6InRydWUifSwiaW5jbHVzb1F1b3RhIjoiTk8ifSwicG9kb2xvZ28iOnsiZXJvZ2F6aW9uZVNlcnZpemlvIjoiU3UgcmljaGllc3RhIiwibnVtZXJvVm9sdGUiOjEsInByZXN0YXppb25pSW5jbHVzZU1lc2UiOjF9fSwic2Vydml6aUFsYmVyZ2hpZXJpIjp7ImN1Y2luYSI6eyJ0aXBvQ3VjaW5hIjoiSW50ZXJuYSJ9LCJsYXZhbmRlcmlhIjp7ImluZHVtZW50aV9wZXJzb25hbGkiOiJTSSJ9LCJwYXJydWNjaGllcmUiOnsiZXJvZ2F6aW9uZVNlcnZpemlvIjoiTiB2b2x0ZSBhbCBtZXNlIiwibnVtZXJvVm9sdGUiOjEsInByZXN0YXppb25pSW5jbHVzZU1lc2UiOjF9LCJlc3RldGlzdGEiOnsibm9uUHJldmlzdG8iOmZhbHNlLCJlcm9nYXppb25lU2Vydml6aW8iOnsibnVtZXJvTWVzZSI6MX0sImluY2x1c29RdW90YSI6IlNJIn0sImFzc2lzdGVuemFSZWxpZ2lvc2EiOnsibm9uUHJldmlzdG8iOmZhbHNlLCJhcGVydHVyYVRpcGlDdWx0byI6IlNJIiwiYXNzaXN0ZW56YVJlbGlnaW9zYVNwZWMiOlt7Imdpb3JuaVNldHRpbWFuYSI6WyJtYXJ0ZWRpIl0sIm9yYSI6IjE3OjAwIn1dfX0sImFsdHJpU2Vydml6aSI6eyJlbGVuY29TZXJ2aXppIjp7IkFwcGFydGFtZW50aSBwcm90ZXR0aSI6ZmFsc2UsIkFzc2lzdGVuemEgRG9taWNpbGlhcmUiOmZhbHNlLCJBc3Npc3RlbnphIHJlc2lkZW56aWFsZSBwZXIgcmlmdWdpYXRpL3Byb2Z1Z2hpIjpmYWxzZSwiQXR0aXZpdGEnIGZpc2ljYSBhZGF0dGF0YSI6ZmFsc2UsIkNhc2EgZGVsbGEgc2FsdXRlIjpmYWxzZSwiQ2VudHJvIGRpIHNvY2lhbGl6emF6aW9uZSBwZXIgYXV0b3N1ZmZpY2llbnRpIjpmYWxzZSwiQ2VudHJvIGRpdXJubyBBbHpoZWltZXIiOmZhbHNlLCJDZW50cm8gZGl1cm5vIHBlciBhdXRvc3VmZmljaWVudGkiOmZhbHNlLCJDZW50cm8gZGl1cm5vIHBlciBub24gYXV0b3N1ZmZpY2llbnRpIjpmYWxzZSwiTGF2YW5kZXJpYSBwZXIgYXNzaXN0aXRpIGEgZG9taWNpbGlvIjpmYWxzZSwiT3JnYW5penphemlvbmUgZGVsIHRyYXNwb3J0byBlIGFjY29tcGFnbmFtZW50byBkZWdsaSBhc3Npc3RpdGkgZGVhbWJ1bGFudGkgcGVyIHZpc2l0ZS9wcmVzdGF6aW9uaSBzYW5pdGFyaWUsIGF2dmlzYW5kb25lIGkgZmFtaWxpYXJpIjpmYWxzZSwiUHJlc3RhemlvbmkgZGkgYXNzaXN0ZW56YSBkaSBiYXNlIHBlciB1dGVudGkgZXN0ZXJuaSAoYmFnbm8gYXNzaXN0aXRvKSI6ZmFsc2UsIlJlc2lkZW56YSBwZXIgQXV0b3N1ZmZpY2llbnRpIjpmYWxzZSwiUmVzaWRlbnphIHNvY2lhbGUgcGVyIGRpc2FiaWxpIChSU0QpIjpmYWxzZSwiUmlzdG9yYXppb25lIGEgZG9taWNpbGlvIjpmYWxzZSwiUmlzdG9yYXppb25lIHBlciB1dGVudGkgZXN0ZXJuaSI6dHJ1ZSwiU2VncmV0YXJpYXRvIHNvY2lhbGUiOnRydWUsIlNlcnZpemlvIENvbnRpbnVpdGEnIEFzc2lzdGVuemlhbGUgKEV4IEd1YXJkaWEgTWVkaWNhKSI6ZmFsc2UsIlRyYXNwb3J0byBwZXIgYWR1bHRpIGRpc2FiaWxpIjpmYWxzZX0sInNlcnZpemlBbW1pbmlzdHJhdGl2aSI6eyJzZXJ2aXppQW1taW5pc3RyYXRpdmlTcGVjIjpbeyJnaW9ybmlTZXR0aW1hbmEiOlsibHVuZWRpIiwibWFydGVkaSIsIm1lcmNvbGVkaSIsImdpb3ZlZGkiLCJ2ZW5lcmRpIl0sIm9yYUluaXppbyI6IjA5OjAwIiwib3JhRmluZSI6IjE3OjAwIn1dfSwiZGlyZXppb25lIjp7ImRpcmV6aW9uZVNwZWMiOlt7Imdpb3JuaVNldHRpbWFuYSI6WyJsdW5lZGkiLCJtYXJ0ZWRpIiwibWVyY29sZWRpIiwiZ2lvdmVkaSIsInZlbmVyZGkiXSwib3JhSW5pemlvIjoiMDk6MDAiLCJvcmFGaW5lIjoiMTY6MzAifV19LCJvcmFyaW9WaXNpdGUiOnsib3JhcmlvVmlzaXRlU3BlYyI6eyJvcmFyaVNlcnZpemlvIjp7Im9yYUluaXppbyI6IjA5OjMwIiwib3JhRmluZSI6IjExOjMwIiwib3JhSW5pemlvMiI6IjE1OjMwIiwib3JhRmluZTIiOiIxNzozMCJ9fX19fSwiYXJzIjp7Im5vbWUiOiJNb250YWxjaW5vIiwiY29kX3N0czI0IjoiNDY3MjRJIiwiYXR0aXZhIjoiMSIsImFjY29yZG8iOiIxIiwiaW5kaXJpenpvIjoiUGlhenphIENhdm91ciwgMTEiLCJjb2RfY29tdW5lIjoiNTIwMzciLCJnZXN0aW9uZSI6InByaXZhdGEiLCJxdW90YSI6NTkuMSwicXVvdGFzYW5pdGFyaWEiOjU5LjF9fQ==",
+        "posti_liberi_int": 1,
+        "posti_liberi_m_int": 1,
+        "posti_liberi_f_int": 0,
+        "decoded_details": {
+            "id": 294,
+            "struttura": {
+                "avvisoDecimale": "",
+                "posti_modulo_base": 60,
+                "posti_liberi": 1,
+                "posti_liberi_m": 1,
+                "posti_liberi_f": 0,
+                "cf_direttore": "RTTSML70E50Z222B",
+                "nome_direttore": "Shamol",
+                "cognome_direttore": "Erattaniyil Joseph",
+                "telefono_rsa": "0577 849559",
+                "fax_rsa": "0577849568",
+                "email": "rsamontalcino@consorzio-zenit.it",
+                "sito_internet": "",
+                "tariffa_privata_ranged": {
+                    "minima": 110,
+                    "massima": 111.1
+                },
+                "modulo": [
+                    "Modulo base"
+                ],
+                "indirizzo_sede": "Via DEL GUARLONE 28",
+                "cod_comune_sede": "048017",
+                "tel_sede": "05562601",
+                "fax_sede": "0556260434",
+                "email_sede": "segretaria@consorzio-zenit.it",
+                "posta_certificata_sede": "consorziozenit@pec.consorzio-zenit.it",
+                "residenza": {
+                    "numeroPiani": 3,
+                    "dettaglioCamere": [
+                        {
+                            "numeroCamere": 30,
+                            "numeroLetti": 60,
+                            "serviziPresenti": [
+                                "bagno condiviso",
+                                "impianto condizionamento"
+                            ]
+                        }
+                    ]
+                },
+                "puntiDiInteresse": [
+                    "distretto sanitario",
+                    "autobus",
+                    "chiesa",
+                    "centro storico",
+                    "biblioteca",
+                    "ospedale"
+                ],
+                "spazioEsterno": "SI",
+                "serviziSocioSanitari": {
+                    "animazioneSocioEducativa": {
+                        "animazioneSocioEducativaSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "martedi",
+                                    "mercoledi",
+                                    "giovedi",
+                                    "venerdi"
+                                ],
+                                "oraInizio": "08:30",
+                                "oraFine": "18:00"
+                            },
+                            {
+                                "giorniSettimana": [
+                                    "sabato"
+                                ],
+                                "oraInizio": "08:30",
+                                "oraFine": "13:30"
+                            }
+                        ]
+                    },
+                    "fisioterapia": {
+                        "fisioterapiaSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "martedi",
+                                    "mercoledi",
+                                    "giovedi",
+                                    "venerdi"
+                                ],
+                                "oraInizio": "08:30",
+                                "oraFine": "16:30"
+                            },
+                            {
+                                "giorniSettimana": [
+                                    "sabato"
+                                ],
+                                "oraInizio": "08:30",
+                                "oraFine": "13:00"
+                            }
+                        ]
+                    },
+                    "assistenzaInfermieristica": {
+                        "assistenzaInfermieristicaSpec": {
+                            "reperibilitaNotturna": "NO",
+                            "orariServizio": {
+                                "oraInizio": "06:00",
+                                "oraFine": "22:00",
+                                "oraInizio2": "06:30",
+                                "oraFine2": "18:00"
+                            }
+                        }
+                    },
+                    "mediciSpecialisti": {
+                        "subTitle": "",
+                        "dettaglioSpecialisti": [
+                            {
+                                "medicoSpecialista": "geriatra",
+                                "erogazioneServizio": {
+                                    "scelta": "Su richiesta",
+                                    "onRequest": "true"
+                                },
+                                "inclusoQuota": "NO"
+                            },
+                            {
+                                "medicoSpecialista": "geriatra",
+                                "erogazioneServizio": {
+                                    "scelta": "Su richiesta",
+                                    "onRequest": "true"
+                                },
+                                "inclusoQuota": "SI"
+                            }
+                        ]
+                    },
+                    "psicologo": {
+                        "nonPrevisto": false,
+                        "erogazioneServizio": {
+                            "scelta": "Su richiesta",
+                            "onRequest": "true"
+                        },
+                        "inclusoQuota": "NO"
+                    },
+                    "podologo": {
+                        "erogazioneServizio": "Su richiesta",
+                        "numeroVolte": 1,
+                        "prestazioniIncluseMese": 1
+                    }
+                },
+                "serviziAlberghieri": {
+                    "cucina": {
+                        "tipoCucina": "Interna"
+                    },
+                    "lavanderia": {
+                        "indumenti_personali": "SI"
+                    },
+                    "parrucchiere": {
+                        "erogazioneServizio": "N volte al mese",
+                        "numeroVolte": 1,
+                        "prestazioniIncluseMese": 1
+                    },
+                    "estetista": {
+                        "nonPrevisto": false,
+                        "erogazioneServizio": {
+                            "numeroMese": 1
+                        },
+                        "inclusoQuota": "SI"
+                    },
+                    "assistenzaReligiosa": {
+                        "nonPrevisto": false,
+                        "aperturaTipiCulto": "SI",
+                        "assistenzaReligiosaSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "martedi"
+                                ],
+                                "ora": "17:00"
+                            }
+                        ]
+                    }
+                },
+                "altriServizi": {
+                    "elencoServizi": {
+                        "Appartamenti protetti": false,
+                        "Assistenza Domiciliare": false,
+                        "Assistenza residenziale per rifugiati/profughi": false,
+                        "Attivita' fisica adattata": false,
+                        "Casa della salute": false,
+                        "Centro di socializzazione per autosufficienti": false,
+                        "Centro diurno Alzheimer": false,
+                        "Centro diurno per autosufficienti": false,
+                        "Centro diurno per non autosufficienti": false,
+                        "Lavanderia per assistiti a domicilio": false,
+                        "Organizzazione del trasporto e accompagnamento degli assistiti deambulanti per visite/prestazioni sanitarie, avvisandone i familiari": false,
+                        "Prestazioni di assistenza di base per utenti esterni (bagno assistito)": false,
+                        "Residenza per Autosufficienti": false,
+                        "Residenza sociale per disabili (RSD)": false,
+                        "Ristorazione a domicilio": false,
+                        "Ristorazione per utenti esterni": true,
+                        "Segretariato sociale": true,
+                        "Servizio Continuita' Assistenziale (Ex Guardia Medica)": false,
+                        "Trasporto per adulti disabili": false
+                    },
+                    "serviziAmministrativi": {
+                        "serviziAmministrativiSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "martedi",
+                                    "mercoledi",
+                                    "giovedi",
+                                    "venerdi"
+                                ],
+                                "oraInizio": "09:00",
+                                "oraFine": "17:00"
+                            }
+                        ]
+                    },
+                    "direzione": {
+                        "direzioneSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "martedi",
+                                    "mercoledi",
+                                    "giovedi",
+                                    "venerdi"
+                                ],
+                                "oraInizio": "09:00",
+                                "oraFine": "16:30"
+                            }
+                        ]
+                    },
+                    "orarioVisite": {
+                        "orarioVisiteSpec": {
+                            "orariServizio": {
+                                "oraInizio": "09:30",
+                                "oraFine": "11:30",
+                                "oraInizio2": "15:30",
+                                "oraFine2": "17:30"
+                            }
+                        }
+                    }
+                }
+            },
+            "ars": {
+                "nome": "Montalcino",
+                "cod_sts24": "46724I",
+                "attiva": "1",
+                "accordo": "1",
+                "indirizzo": "Piazza Cavour, 11",
+                "cod_comune": "52037",
+                "gestione": "privata",
+                "quota": 59.1,
+                "quotasanitaria": 59.1
+            }
+        }
+    },
+    {
         "id": "257",
         "foto0": "basvalcecina_rsasanrocco_img1.jpg",
         "foto1": "basvalcecina_rsasanrocco_img2.jpg",
