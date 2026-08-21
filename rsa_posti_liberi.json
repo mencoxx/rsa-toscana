@@ -940,6 +940,263 @@
         }
     },
     {
+        "id": "373",
+        "foto0": "campibisenzio_rsa_piccola_corte_img1.jpg",
+        "foto1": "campibisenzio_rsa_piccola_corte_img2.jpg",
+        "foto2": "campibisenzio_rsa_piccola_corte_img3.jpg",
+        "foto3": "campibisenzio_rsa_piccola_corte_img4.jpg",
+        "foto4": "campibisenzio_rsa_piccola_corte_img5.jpg",
+        "foto5": "campibisenzio_rsa_piccola_corte_img6.jpg",
+        "nome": "RSA Piccola Corte",
+        "tipo": "",
+        "gestione": "privata",
+        "indirizzo": "Via Mario Trapassi, 2",
+        "cod_comune": "48006",
+        "comune": "Campi Bisenzio",
+        "zona": "Fiorentina Nord-Ovest",
+        "tel1_zona": "055 6930246",
+        "tel2_zona": "",
+        "tel3_zona": "",
+        "telefono": "055-0171586",
+        "rsa_ico_animazione": "animazione_socio-educativa.png",
+        "rsa_ico_fisioterapia": "fisioterapia.png",
+        "rsa_ico_cucina": "ristorazione_interna.png",
+        "rsa_ico_giardino": "giardino.png",
+        "rsa_ico_parrucchiere": "parrucchiere.png",
+        "rsa_ico_barbiere": "",
+        "rsa_ico_estetista": "",
+        "rsa_ico_relig": "assistenza_religiosa.png",
+        "rsa_ico_geriatra": "",
+        "rsa_ico_assistenza_infermieristica": "assistenza_infermieristica.png",
+        "rsa_ico_psicologo": "",
+        "rsa_ico_podologo": "podologo.png",
+        "rsa_ico_lavanderia": "lavanderia.png",
+        "rsa_ico_postoletto": "",
+        "rsa_posti_liberi": "30",
+        "rsa_quota": "62.00",
+        "rsa_quotasanitaria": "59.10",
+        "rsa_quota_img": "",
+        "rsa_mod_base": "si",
+        "rsa_mod_cogn": "",
+        "rsa_mod_riab": "",
+        "rsa_mod_veg": "",
+        "rsa_attiva": "1",
+        "rsa_nome_brochure": "",
+        "rsa_data_aggiornamento": "2026.08.21 16:36:31",
+        "lat": "43.819615",
+        "lon": "11.127140",
+        "gbnord": "4854125.95",
+        "gbest": "1671066.98",
+        "accordo": "1",
+        "cod_sts24": "F7344I",
+        "posti_liberi_m": "15",
+        "posti_liberi_f": "15",
+        "indirizzo_sede": "NULL",
+        "comune_sede": "",
+        "fax_sede": "NULL",
+        "telefono_sede": "NULL",
+        "email_sede": "NULL",
+        "posta_certificata_sede": "NULL",
+        "json_data": "eyJpZCI6MzczLCJzdHJ1dHR1cmEiOnsiYXZ2aXNvRGVjaW1hbGUiOiIiLCJwb3N0aV9tb2R1bG9fYmFzZSI6ODAsInBvc3RpX2xpYmVyaSI6MzAsInBvc3RpX2xpYmVyaV9tIjoxNSwicG9zdGlfbGliZXJpX2YiOjE1LCJjZl9kaXJldHRvcmUiOiIgUFJURFZENTlMMjZCMDE2SCIsIm5vbWVfZGlyZXR0b3JlIjoiREFWSURFIiwiY29nbm9tZV9kaXJldHRvcmUiOiJQT1JUQSIsInRlbGVmb25vX3JzYSI6IjA1NTAxNzE1ODYiLCJmYXhfcnNhIjoiIiwiZW1haWwiOiJjZW50cmFsaW5vLmNhbXBpQG51b3Zhc3Npc3RlbnphLml0Iiwic2l0b19pbnRlcm5ldCI6Ind3dy5udW92YXNzaXN0ZW56YS5pdCIsInRhcmlmZmFfcHJpdmF0YV9yYW5nZWQiOnsibWluaW1hIjo2MiwibWFzc2ltYSI6MTI1fSwibW9kdWxvIjpbIk1vZHVsbyBiYXNlIl0sImluZGlyaXp6b19zZWRlIjoiIiwiY29kX2NvbXVuZV9zZWRlIjoiIiwidGVsX3NlZGUiOiIiLCJmYXhfc2VkZSI6IiIsImVtYWlsX3NlZGUiOiIiLCJwb3N0YV9jZXJ0aWZpY2F0YV9zZWRlIjoiIiwicmVzaWRlbnphIjp7Im51bWVyb1BpYW5pIjoyLCJkZXR0YWdsaW9DYW1lcmUiOlt7Im51bWVyb0NhbWVyZSI6NDYsIm51bWVyb0xldHRpIjo4MCwic2Vydml6aVByZXNlbnRpIjpbImJhZ25vIGRlZGljYXRvIiwidHYiLCJ3aWZpIiwiaW1waWFudG8gY29uZGl6aW9uYW1lbnRvIiwiYmFsY29uZSJdfV19LCJwdW50aURpSW50ZXJlc3NlIjpbXSwic3BhemlvRXN0ZXJubyI6IlNJIiwic2Vydml6aVNvY2lvU2FuaXRhcmkiOnsiYW5pbWF6aW9uZVNvY2lvRWR1Y2F0aXZhIjp7ImFuaW1hemlvbmVTb2Npb0VkdWNhdGl2YVNwZWMiOnsib3JhSW5pemlvIjoiMDk6MDAiLCJvcmFGaW5lIjoiMTI6MzAiLCJvcmFJbml6aW8yIjoiMTU6MDAiLCJvcmFGaW5lMiI6IjE4OjAwIn19LCJmaXNpb3RlcmFwaWEiOnsiZmlzaW90ZXJhcGlhU3BlYyI6eyJvcmFJbml6aW8iOiIwOTowMCIsIm9yYUZpbmUiOiIxMjowMCIsIm9yYUluaXppbzIiOiIxNTowMCIsIm9yYUZpbmUyIjoiMTc6MDAifX0sImFzc2lzdGVuemFJbmZlcm1pZXJpc3RpY2EiOnsiYXNzaXN0ZW56YUluZmVybWllcmlzdGljYVNwZWMiOnsicmVwZXJpYmlsaXRhTm90dHVybmEiOiJTSSIsIm9yYXJpU2Vydml6aW8iOnsib3JhSW5pemlvIjoiMDc6MDAiLCJvcmFGaW5lIjoiMTQ6MDAiLCJvcmFJbml6aW8yIjoiMTQ6MDAiLCJvcmFGaW5lMiI6IjIxOjAwIn19fSwibWVkaWNpU3BlY2lhbGlzdGkiOnsic3ViVGl0bGUiOiIiLCJkZXR0YWdsaW9TcGVjaWFsaXN0aSI6W119LCJwc2ljb2xvZ28iOnsibm9uUHJldmlzdG8iOnRydWUsImVyb2dhemlvbmVTZXJ2aXppbyI6eyJzY2VsdGEiOiJUdXR0aSBpIGdpb3JuaSIsImFsbERheXMiOiJ0cnVlIn0sImluY2x1c29RdW90YSI6IlNJIn0sInBvZG9sb2dvIjp7ImVyb2dhemlvbmVTZXJ2aXppbyI6Ik4gdm9sdGUgYWwgbWVzZSIsIm51bWVyb1ZvbHRlIjoxLCJwcmVzdGF6aW9uaUluY2x1c2VNZXNlIjoxfX0sInNlcnZpemlBbGJlcmdoaWVyaSI6eyJjdWNpbmEiOnsidGlwb0N1Y2luYSI6IkludGVybmEifSwibGF2YW5kZXJpYSI6eyJpbmR1bWVudGlfcGVyc29uYWxpIjoiU0kifSwicGFycnVjY2hpZXJlIjp7ImVyb2dhemlvbmVTZXJ2aXppbyI6Ik4gdm9sdGUgYWwgbWVzZSIsIm51bWVyb1ZvbHRlIjoxLCJwcmVzdGF6aW9uaUluY2x1c2VNZXNlIjoxfSwiZXN0ZXRpc3RhIjp7Im5vblByZXZpc3RvIjp0cnVlLCJlcm9nYXppb25lU2Vydml6aW8iOnsic2NlbHRhIjoiVHV0dGkgaSBnaW9ybmkiLCJhbGxEYXlzIjoidHJ1ZSJ9LCJpbmNsdXNvUXVvdGEiOiJTSSJ9LCJhc3Npc3RlbnphUmVsaWdpb3NhIjp7Im5vblByZXZpc3RvIjpmYWxzZSwiYXBlcnR1cmFUaXBpQ3VsdG8iOiJOTyIsImFzc2lzdGVuemFSZWxpZ2lvc2FTcGVjIjpbeyJnaW9ybmlTZXR0aW1hbmEiOlsiZ2lvdmVkaSJdLCJvcmEiOiIxMDowMCJ9XX19LCJhbHRyaVNlcnZpemkiOnsiZWxlbmNvU2Vydml6aSI6eyJBcHBhcnRhbWVudGkgcHJvdGV0dGkiOmZhbHNlLCJBc3Npc3RlbnphIERvbWljaWxpYXJlIjpmYWxzZSwiQXNzaXN0ZW56YSByZXNpZGVuemlhbGUgcGVyIHJpZnVnaWF0aS9wcm9mdWdoaSI6ZmFsc2UsIkF0dGl2aXRhJyBmaXNpY2EgYWRhdHRhdGEiOmZhbHNlLCJDYXNhIGRlbGxhIHNhbHV0ZSI6ZmFsc2UsIkNlbnRybyBkaSBzb2NpYWxpenphemlvbmUgcGVyIGF1dG9zdWZmaWNpZW50aSI6ZmFsc2UsIkNlbnRybyBkaXVybm8gQWx6aGVpbWVyIjpmYWxzZSwiQ2VudHJvIGRpdXJubyBwZXIgYXV0b3N1ZmZpY2llbnRpIjpmYWxzZSwiQ2VudHJvIGRpdXJubyBwZXIgbm9uIGF1dG9zdWZmaWNpZW50aSI6ZmFsc2UsIkxhdmFuZGVyaWEgcGVyIGFzc2lzdGl0aSBhIGRvbWljaWxpbyI6ZmFsc2UsIk9yZ2FuaXp6YXppb25lIGRlbCB0cmFzcG9ydG8gZSBhY2NvbXBhZ25hbWVudG8gZGVnbGkgYXNzaXN0aXRpIGRlYW1idWxhbnRpIHBlciB2aXNpdGUvcHJlc3Rhemlvbmkgc2FuaXRhcmllLCBhdnZpc2FuZG9uZSBpIGZhbWlsaWFyaSI6ZmFsc2UsIlByZXN0YXppb25pIGRpIGFzc2lzdGVuemEgZGkgYmFzZSBwZXIgdXRlbnRpIGVzdGVybmkgKGJhZ25vIGFzc2lzdGl0bykiOmZhbHNlLCJSZXNpZGVuemEgcGVyIEF1dG9zdWZmaWNpZW50aSI6ZmFsc2UsIlJlc2lkZW56YSBzb2NpYWxlIHBlciBkaXNhYmlsaSAoUlNEKSI6ZmFsc2UsIlJpc3RvcmF6aW9uZSBhIGRvbWljaWxpbyI6ZmFsc2UsIlJpc3RvcmF6aW9uZSBwZXIgdXRlbnRpIGVzdGVybmkiOmZhbHNlLCJTZWdyZXRhcmlhdG8gc29jaWFsZSI6ZmFsc2UsIlNlcnZpemlvIENvbnRpbnVpdGEnIEFzc2lzdGVuemlhbGUgKEV4IEd1YXJkaWEgTWVkaWNhKSI6ZmFsc2UsIlRyYXNwb3J0byBwZXIgYWR1bHRpIGRpc2FiaWxpIjpmYWxzZX0sInNlcnZpemlBbW1pbmlzdHJhdGl2aSI6eyJzZXJ2aXppQW1taW5pc3RyYXRpdmlTcGVjIjpbeyJnaW9ybmlTZXR0aW1hbmEiOlsibHVuZWRpIiwibWFydGVkaSIsIm1lcmNvbGVkaSIsImdpb3ZlZGkiLCJ2ZW5lcmRpIl0sIm9yYUluaXppbyI6IjA4OjMwIiwib3JhRmluZSI6IjE3OjMwIn1dfSwiZGlyZXppb25lIjp7ImRpcmV6aW9uZVNwZWMiOnsib3JhSW5pemlvIjoiMDc6MzAiLCJvcmFGaW5lIjoiMTQ6MDAiLCJvcmFJbml6aW8yIjoiMTQ6MDAiLCJvcmFGaW5lMiI6IjE4OjAwIn19LCJvcmFyaW9WaXNpdGUiOnsib3JhcmlvVmlzaXRlU3BlYyI6eyJvcmFyaVNlcnZpemlvIjp7Im9yYUluaXppbyI6IjA5OjMwIiwib3JhRmluZSI6IjExOjMwIiwib3JhSW5pemlvMiI6IjE1OjAwIiwib3JhRmluZTIiOiIxODowMCJ9fX19fSwiYXJzIjp7Im5vbWUiOiJSU0EgUGljY29sYSBDb3J0ZSIsImNvZF9zdHMyNCI6IkY3MzQ0SSIsImF0dGl2YSI6IjEiLCJhY2NvcmRvIjoiMSIsImluZGlyaXp6byI6IlZpYSBNYXJpbyBUcmFwYXNzaSwgMiIsImNvZF9jb211bmUiOiI0ODAwNiIsImdlc3Rpb25lIjoicHJpdmF0YSIsInF1b3RhIjo2MiwicXVvdGFzYW5pdGFyaWEiOjU5LjF9fQ==",
+        "posti_liberi_int": 30,
+        "posti_liberi_m_int": 15,
+        "posti_liberi_f_int": 15,
+        "decoded_details": {
+            "id": 373,
+            "struttura": {
+                "avvisoDecimale": "",
+                "posti_modulo_base": 80,
+                "posti_liberi": 30,
+                "posti_liberi_m": 15,
+                "posti_liberi_f": 15,
+                "cf_direttore": " PRTDVD59L26B016H",
+                "nome_direttore": "DAVIDE",
+                "cognome_direttore": "PORTA",
+                "telefono_rsa": "0550171586",
+                "fax_rsa": "",
+                "email": "centralino.campi@nuovassistenza.it",
+                "sito_internet": "www.nuovassistenza.it",
+                "tariffa_privata_ranged": {
+                    "minima": 62,
+                    "massima": 125
+                },
+                "modulo": [
+                    "Modulo base"
+                ],
+                "indirizzo_sede": "",
+                "cod_comune_sede": "",
+                "tel_sede": "",
+                "fax_sede": "",
+                "email_sede": "",
+                "posta_certificata_sede": "",
+                "residenza": {
+                    "numeroPiani": 2,
+                    "dettaglioCamere": [
+                        {
+                            "numeroCamere": 46,
+                            "numeroLetti": 80,
+                            "serviziPresenti": [
+                                "bagno dedicato",
+                                "tv",
+                                "wifi",
+                                "impianto condizionamento",
+                                "balcone"
+                            ]
+                        }
+                    ]
+                },
+                "puntiDiInteresse": [],
+                "spazioEsterno": "SI",
+                "serviziSocioSanitari": {
+                    "animazioneSocioEducativa": {
+                        "animazioneSocioEducativaSpec": {
+                            "oraInizio": "09:00",
+                            "oraFine": "12:30",
+                            "oraInizio2": "15:00",
+                            "oraFine2": "18:00"
+                        }
+                    },
+                    "fisioterapia": {
+                        "fisioterapiaSpec": {
+                            "oraInizio": "09:00",
+                            "oraFine": "12:00",
+                            "oraInizio2": "15:00",
+                            "oraFine2": "17:00"
+                        }
+                    },
+                    "assistenzaInfermieristica": {
+                        "assistenzaInfermieristicaSpec": {
+                            "reperibilitaNotturna": "SI",
+                            "orariServizio": {
+                                "oraInizio": "07:00",
+                                "oraFine": "14:00",
+                                "oraInizio2": "14:00",
+                                "oraFine2": "21:00"
+                            }
+                        }
+                    },
+                    "mediciSpecialisti": {
+                        "subTitle": "",
+                        "dettaglioSpecialisti": []
+                    },
+                    "psicologo": {
+                        "nonPrevisto": true,
+                        "erogazioneServizio": {
+                            "scelta": "Tutti i giorni",
+                            "allDays": "true"
+                        },
+                        "inclusoQuota": "SI"
+                    },
+                    "podologo": {
+                        "erogazioneServizio": "N volte al mese",
+                        "numeroVolte": 1,
+                        "prestazioniIncluseMese": 1
+                    }
+                },
+                "serviziAlberghieri": {
+                    "cucina": {
+                        "tipoCucina": "Interna"
+                    },
+                    "lavanderia": {
+                        "indumenti_personali": "SI"
+                    },
+                    "parrucchiere": {
+                        "erogazioneServizio": "N volte al mese",
+                        "numeroVolte": 1,
+                        "prestazioniIncluseMese": 1
+                    },
+                    "estetista": {
+                        "nonPrevisto": true,
+                        "erogazioneServizio": {
+                            "scelta": "Tutti i giorni",
+                            "allDays": "true"
+                        },
+                        "inclusoQuota": "SI"
+                    },
+                    "assistenzaReligiosa": {
+                        "nonPrevisto": false,
+                        "aperturaTipiCulto": "NO",
+                        "assistenzaReligiosaSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "giovedi"
+                                ],
+                                "ora": "10:00"
+                            }
+                        ]
+                    }
+                },
+                "altriServizi": {
+                    "elencoServizi": {
+                        "Appartamenti protetti": false,
+                        "Assistenza Domiciliare": false,
+                        "Assistenza residenziale per rifugiati/profughi": false,
+                        "Attivita' fisica adattata": false,
+                        "Casa della salute": false,
+                        "Centro di socializzazione per autosufficienti": false,
+                        "Centro diurno Alzheimer": false,
+                        "Centro diurno per autosufficienti": false,
+                        "Centro diurno per non autosufficienti": false,
+                        "Lavanderia per assistiti a domicilio": false,
+                        "Organizzazione del trasporto e accompagnamento degli assistiti deambulanti per visite/prestazioni sanitarie, avvisandone i familiari": false,
+                        "Prestazioni di assistenza di base per utenti esterni (bagno assistito)": false,
+                        "Residenza per Autosufficienti": false,
+                        "Residenza sociale per disabili (RSD)": false,
+                        "Ristorazione a domicilio": false,
+                        "Ristorazione per utenti esterni": false,
+                        "Segretariato sociale": false,
+                        "Servizio Continuita' Assistenziale (Ex Guardia Medica)": false,
+                        "Trasporto per adulti disabili": false
+                    },
+                    "serviziAmministrativi": {
+                        "serviziAmministrativiSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "martedi",
+                                    "mercoledi",
+                                    "giovedi",
+                                    "venerdi"
+                                ],
+                                "oraInizio": "08:30",
+                                "oraFine": "17:30"
+                            }
+                        ]
+                    },
+                    "direzione": {
+                        "direzioneSpec": {
+                            "oraInizio": "07:30",
+                            "oraFine": "14:00",
+                            "oraInizio2": "14:00",
+                            "oraFine2": "18:00"
+                        }
+                    },
+                    "orarioVisite": {
+                        "orarioVisiteSpec": {
+                            "orariServizio": {
+                                "oraInizio": "09:30",
+                                "oraFine": "11:30",
+                                "oraInizio2": "15:00",
+                                "oraFine2": "18:00"
+                            }
+                        }
+                    }
+                }
+            },
+            "ars": {
+                "nome": "RSA Piccola Corte",
+                "cod_sts24": "F7344I",
+                "attiva": "1",
+                "accordo": "1",
+                "indirizzo": "Via Mario Trapassi, 2",
+                "cod_comune": "48006",
+                "gestione": "privata",
+                "quota": 62,
+                "quotasanitaria": 59.1
+            }
+        }
+    },
+    {
         "id": "366",
         "foto0": "castelfiorentino_rsa_mario_cappelli_img1.jpg",
         "foto1": "castelfiorentino_rsa_mario_cappelli_img2.jpg",
