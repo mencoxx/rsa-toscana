@@ -3346,5 +3346,353 @@
                 "quotasanitaria": 59.1
             }
         }
+    },
+    {
+        "id": "51",
+        "foto0": "pis_mezzana_struttura.png",
+        "foto1": "pis_mezzana_sala.jpg",
+        "foto2": "pis_mezzana_giardino.jpg",
+        "foto3": "pis_mezzana_gazzebo.jpg",
+        "foto4": "",
+        "foto5": "pis_mezzana_corridoio.jpg",
+        "nome": "Fondazione Casa Cardinale Maffi",
+        "tipo": "",
+        "gestione": "privata",
+        "indirizzo": "Via Toniolo, 41",
+        "cod_comune": "50031",
+        "comune": "San Giuliano Terme",
+        "zona": "Pisana",
+        "tel1_zona": "050 954085",
+        "tel2_zona": "050 954086",
+        "tel3_zona": "",
+        "telefono": "050-954085 050-954086",
+        "rsa_ico_animazione": "animazione_socio-educativa.png",
+        "rsa_ico_fisioterapia": "fisioterapia.png",
+        "rsa_ico_cucina": "ristorazione_interna.png",
+        "rsa_ico_giardino": "giardino.png",
+        "rsa_ico_parrucchiere": "parrucchiere.png",
+        "rsa_ico_barbiere": "",
+        "rsa_ico_estetista": "estetista.png",
+        "rsa_ico_relig": "assistenza_religiosa.png",
+        "rsa_ico_geriatra": "consulenza_medico_specialistica.png",
+        "rsa_ico_assistenza_infermieristica": "assistenza_infermieristica_notturna.png",
+        "rsa_ico_psicologo": "psicologo.png",
+        "rsa_ico_podologo": "podologo.png",
+        "rsa_ico_lavanderia": "lavanderia.png",
+        "rsa_ico_postoletto": "",
+        "rsa_posti_liberi": "1",
+        "rsa_quota": "59.03",
+        "rsa_quotasanitaria": "59.10",
+        "rsa_quota_img": "quota_mezzana.png",
+        "rsa_mod_base": "si",
+        "rsa_mod_cogn": "",
+        "rsa_mod_riab": "",
+        "rsa_mod_veg": "",
+        "rsa_attiva": "1",
+        "rsa_nome_brochure": "pis_Mezzana.pdf",
+        "rsa_data_aggiornamento": "2026.08.24 12:58:08",
+        "lat": "43.721114",
+        "lon": "10.468809",
+        "gbnord": "4841962",
+        "gbest": "1618340.",
+        "accordo": "1",
+        "cod_sts24": "123E4I",
+        "posti_liberi_m": "1",
+        "posti_liberi_f": "1",
+        "indirizzo_sede": "VIA G. TONIOLO, 39/41",
+        "comune_sede": "San Giuliano Terme",
+        "fax_sede": "050/871604",
+        "telefono_sede": "050/871601",
+        "email_sede": "valeria.gentili@fondazionemaffi.it",
+        "posta_certificata_sede": "amministrazione.contabilita@pec.fondazionemaffi.it",
+        "json_data": "eyJpZCI6NTEsInN0cnV0dHVyYSI6eyJhdnZpc29EZWNpbWFsZSI6IiIsInBvc3RpX21vZHVsb19iYXNlIjo1MCwicG9zdGlfbGliZXJpIjoxLCJwb3N0aV9saWJlcmlfbSI6MSwicG9zdGlfbGliZXJpX2YiOjEsImNmX2RpcmV0dG9yZSI6IkJOQ1NMVjY2QTY4RzcwMkciLCJub21lX2RpcmV0dG9yZSI6IlNJTFZJQSIsImNvZ25vbWVfZGlyZXR0b3JlIjoiQlVPTkNSSVNUSUFOSSIsInRlbGVmb25vX3JzYSI6IjA1MDg3MTYwMSIsImZheF9yc2EiOiIiLCJlbWFpbCI6InNpbHZpYS5idW9uY3Jpc3RpYW5pQGZvbmRhemlvbmVtYWZmaS5pdCIsInNpdG9faW50ZXJuZXQiOiJ3d3cuZm9uZGF6aW9uZW1hZmZpLml0IiwidGFyaWZmYV9wcml2YXRhX3JhbmdlZCI6eyJtaW5pbWEiOjExOC4xMywibWFzc2ltYSI6MTE4LjEzfSwibW9kdWxvIjpbIk1vZHVsbyBiYXNlIl0sImluZGlyaXp6b19zZWRlIjoiVklBIEcuIFRPTklPTE8sIDM5LzQxIiwiY29kX2NvbXVuZV9zZWRlIjoiMDUwMDMxIiwidGVsX3NlZGUiOiIwNTAvODcxNjAxIiwiZmF4X3NlZGUiOiIiLCJlbWFpbF9zZWRlIjoidmFsZXJpYS5nZW50aWxpQGZvbmRhemlvbmVtYWZmaS5pdCIsInBvc3RhX2NlcnRpZmljYXRhX3NlZGUiOiJhbW1pbmlzdHJhemlvbmUuY29udGFiaWxpdGFAcGVjLmZvbmRhemlvbmVtYWZmaS5pdCIsInJlc2lkZW56YSI6eyJudW1lcm9QaWFuaSI6MiwiZGV0dGFnbGlvQ2FtZXJlIjpbeyJudW1lcm9DYW1lcmUiOjE2LCJudW1lcm9MZXR0aSI6Miwic2Vydml6aVByZXNlbnRpIjpbImJhZ25vIGNvbmRpdmlzbyIsInR2IiwidGVsZWZvbm8gcG9zdG8gbGV0dG8iLCJpbXBpYW50byBjb25kaXppb25hbWVudG8iXX0seyJudW1lcm9DYW1lcmUiOjgsIm51bWVyb0xldHRpIjoxLCJzZXJ2aXppUHJlc2VudGkiOlsiYmFnbm8gZGVkaWNhdG8iLCJ0diIsInRlbGVmb25vIHBvc3RvIGxldHRvIiwiaW1waWFudG8gY29uZGl6aW9uYW1lbnRvIl19LHsibnVtZXJvQ2FtZXJlIjo1LCJudW1lcm9MZXR0aSI6NCwic2Vydml6aVByZXNlbnRpIjpbImJhZ25vIGNvbmRpdmlzbyIsInR2IiwidGVsZWZvbm8gcG9zdG8gbGV0dG8iLCJpbXBpYW50byBjb25kaXppb25hbWVudG8iXX0seyJudW1lcm9DYW1lcmUiOjMsIm51bWVyb0xldHRpIjozLCJzZXJ2aXppUHJlc2VudGkiOlsiYmFnbm8gY29uZGl2aXNvIiwidHYiLCJ0ZWxlZm9ubyBwb3N0byBsZXR0byIsImltcGlhbnRvIGNvbmRpemlvbmFtZW50byJdfV19LCJwdW50aURpSW50ZXJlc3NlIjpbImF1dG9idXMiLCJjaGllc2EiLCJhc3NvY2lhemlvbmkgZGkgdm9sb250YXJpYXRvIl0sInNwYXppb0VzdGVybm8iOiJTSSIsInNlcnZpemlTb2Npb1Nhbml0YXJpIjp7ImFuaW1hemlvbmVTb2Npb0VkdWNhdGl2YSI6eyJhbmltYXppb25lU29jaW9FZHVjYXRpdmFTcGVjIjpbeyJnaW9ybmlTZXR0aW1hbmEiOlsibHVuZWRpIiwibWFydGVkaSIsIm1lcmNvbGVkaSIsImdpb3ZlZGkiLCJ2ZW5lcmRpIl0sIm9yYUluaXppbyI6IjA4OjAwIiwib3JhRmluZSI6IjE1OjAwIn0seyJnaW9ybmlTZXR0aW1hbmEiOlsibWFydGVkaSIsIm1lcmNvbGVkaSIsImdpb3ZlZGkiXSwib3JhSW5pemlvIjoiMDg6MDAiLCJvcmFGaW5lIjoiMTc6MDAifV19LCJmaXNpb3RlcmFwaWEiOnsiZmlzaW90ZXJhcGlhU3BlYyI6W3siZ2lvcm5pU2V0dGltYW5hIjpbImx1bmVkaSIsImdpb3ZlZGkiXSwib3JhSW5pemlvIjoiMDg6MDAiLCJvcmFGaW5lIjoiMTg6MzAifSx7Imdpb3JuaVNldHRpbWFuYSI6WyJtYXJ0ZWRpIiwibWVyY29sZWRpIiwidmVuZXJkaSJdLCJvcmFJbml6aW8iOiIwODowMCIsIm9yYUZpbmUiOiIxNTowMCJ9LHsiZ2lvcm5pU2V0dGltYW5hIjpbInNhYmF0byJdLCJvcmFJbml6aW8iOiIwODowMCIsIm9yYUZpbmUiOiIxMjozMCJ9XX0sImFzc2lzdGVuemFJbmZlcm1pZXJpc3RpY2EiOnsiYXNzaXN0ZW56YUluZmVybWllcmlzdGljYVNwZWMiOnsic2NlbHRhIjoiMjRoIn19LCJtZWRpY2lTcGVjaWFsaXN0aSI6eyJzdWJUaXRsZSI6IiIsImRldHRhZ2xpb1NwZWNpYWxpc3RpIjpbeyJtZWRpY29TcGVjaWFsaXN0YSI6InBzaWNoaWF0cmEiLCJlcm9nYXppb25lU2Vydml6aW8iOnsic2NlbHRhIjoiU3UgcmljaGllc3RhIiwib25SZXF1ZXN0IjoidHJ1ZSJ9LCJpbmNsdXNvUXVvdGEiOiJTSSJ9LHsibWVkaWNvU3BlY2lhbGlzdGEiOiJmaXNpYXRyYSIsImVyb2dhemlvbmVTZXJ2aXppbyI6eyJzY2VsdGEiOiJTdSByaWNoaWVzdGEiLCJvblJlcXVlc3QiOiJ0cnVlIn0sImluY2x1c29RdW90YSI6IlNJIn1dfSwicHNpY29sb2dvIjp7Im5vblByZXZpc3RvIjpmYWxzZSwiZXJvZ2F6aW9uZVNlcnZpemlvIjp7InNjZWx0YSI6IlN1IHJpY2hpZXN0YSIsIm9uUmVxdWVzdCI6InRydWUifSwiaW5jbHVzb1F1b3RhIjoiU0kifSwicG9kb2xvZ28iOnsiZXJvZ2F6aW9uZVNlcnZpemlvIjoiTiB2b2x0ZSBhbCBtZXNlIiwibnVtZXJvVm9sdGUiOjEsInByZXN0YXppb25pSW5jbHVzZU1lc2UiOjF9fSwic2Vydml6aUFsYmVyZ2hpZXJpIjp7ImN1Y2luYSI6eyJ0aXBvQ3VjaW5hIjoiSW50ZXJuYSJ9LCJsYXZhbmRlcmlhIjp7ImluZHVtZW50aV9wZXJzb25hbGkiOiJTSSJ9LCJwYXJydWNjaGllcmUiOnsiZXJvZ2F6aW9uZVNlcnZpemlvIjoiTiB2b2x0ZSBhbCBtZXNlIiwibnVtZXJvVm9sdGUiOjIsInByZXN0YXppb25pSW5jbHVzZU1lc2UiOjF9LCJlc3RldGlzdGEiOnsibm9uUHJldmlzdG8iOmZhbHNlLCJlcm9nYXppb25lU2Vydml6aW8iOnsic2NlbHRhIjoiU3UgcmljaGllc3RhIiwib25SZXF1ZXN0IjoidHJ1ZSJ9LCJpbmNsdXNvUXVvdGEiOiJTSSJ9LCJhc3Npc3RlbnphUmVsaWdpb3NhIjp7Im5vblByZXZpc3RvIjpmYWxzZSwiYXBlcnR1cmFUaXBpQ3VsdG8iOiJTSSIsImFzc2lzdGVuemFSZWxpZ2lvc2FTcGVjIjpbeyJnaW9ybmlTZXR0aW1hbmEiOlsibWVyY29sZWRpIl0sIm9yYSI6IjE2OjMwIn1dfX0sImFsdHJpU2Vydml6aSI6eyJlbGVuY29TZXJ2aXppIjp7IkFwcGFydGFtZW50aSBwcm90ZXR0aSI6ZmFsc2UsIkFzc2lzdGVuemEgRG9taWNpbGlhcmUiOmZhbHNlLCJBc3Npc3RlbnphIHJlc2lkZW56aWFsZSBwZXIgcmlmdWdpYXRpL3Byb2Z1Z2hpIjpmYWxzZSwiQXR0aXZpdGEnIGZpc2ljYSBhZGF0dGF0YSI6ZmFsc2UsIkNhc2EgZGVsbGEgc2FsdXRlIjpmYWxzZSwiQ2VudHJvIGRpIHNvY2lhbGl6emF6aW9uZSBwZXIgYXV0b3N1ZmZpY2llbnRpIjpmYWxzZSwiQ2VudHJvIGRpdXJubyBBbHpoZWltZXIiOmZhbHNlLCJDZW50cm8gZGl1cm5vIHBlciBhdXRvc3VmZmljaWVudGkiOmZhbHNlLCJDZW50cm8gZGl1cm5vIHBlciBub24gYXV0b3N1ZmZpY2llbnRpIjpmYWxzZSwiTGF2YW5kZXJpYSBwZXIgYXNzaXN0aXRpIGEgZG9taWNpbGlvIjpmYWxzZSwiT3JnYW5penphemlvbmUgZGVsIHRyYXNwb3J0byBlIGFjY29tcGFnbmFtZW50byBkZWdsaSBhc3Npc3RpdGkgZGVhbWJ1bGFudGkgcGVyIHZpc2l0ZS9wcmVzdGF6aW9uaSBzYW5pdGFyaWUsIGF2dmlzYW5kb25lIGkgZmFtaWxpYXJpIjp0cnVlLCJQcmVzdGF6aW9uaSBkaSBhc3Npc3RlbnphIGRpIGJhc2UgcGVyIHV0ZW50aSBlc3Rlcm5pIChiYWdubyBhc3Npc3RpdG8pIjpmYWxzZSwiUmVzaWRlbnphIHBlciBBdXRvc3VmZmljaWVudGkiOmZhbHNlLCJSZXNpZGVuemEgc29jaWFsZSBwZXIgZGlzYWJpbGkgKFJTRCkiOmZhbHNlLCJSaXN0b3JhemlvbmUgYSBkb21pY2lsaW8iOmZhbHNlLCJSaXN0b3JhemlvbmUgcGVyIHV0ZW50aSBlc3Rlcm5pIjpmYWxzZSwiU2VncmV0YXJpYXRvIHNvY2lhbGUiOnRydWUsIlNlcnZpemlvIENvbnRpbnVpdGEnIEFzc2lzdGVuemlhbGUgKEV4IEd1YXJkaWEgTWVkaWNhKSI6ZmFsc2UsIlRyYXNwb3J0byBwZXIgYWR1bHRpIGRpc2FiaWxpIjpmYWxzZX0sInNlcnZpemlBbW1pbmlzdHJhdGl2aSI6eyJzZXJ2aXppQW1taW5pc3RyYXRpdmlTcGVjIjpbeyJnaW9ybmlTZXR0aW1hbmEiOlsibHVuZWRpIiwibWFydGVkaSIsIm1lcmNvbGVkaSIsImdpb3ZlZGkiLCJ2ZW5lcmRpIl0sIm9yYUluaXppbyI6IjA4OjMwIiwib3JhRmluZSI6IjE3OjMwIn0seyJnaW9ybmlTZXR0aW1hbmEiOlsibWFydGVkaSIsImdpb3ZlZGkiLCJ2ZW5lcmRpIl0sIm9yYUluaXppbyI6IjA4OjMwIiwib3JhRmluZSI6IjE1OjAwIn1dfSwiZGlyZXppb25lIjp7ImRpcmV6aW9uZVNwZWMiOlt7Imdpb3JuaVNldHRpbWFuYSI6WyJsdW5lZGkiLCJtYXJ0ZWRpIiwibWVyY29sZWRpIiwiZ2lvdmVkaSIsInZlbmVyZGkiXSwib3JhSW5pemlvIjoiMDg6MzAiLCJvcmFGaW5lIjoiMTY6MzAifV19LCJvcmFyaW9WaXNpdGUiOnsib3JhcmlvVmlzaXRlU3BlYyI6eyJzY2VsdGEiOiIyNGgifX19fSwiYXJzIjp7Im5vbWUiOiJGb25kYXppb25lIENhc2EgQ2FyZGluYWxlIE1hZmZpIiwiY29kX3N0czI0IjoiMTIzRTRJIiwiYXR0aXZhIjoiMSIsImFjY29yZG8iOiIxIiwiaW5kaXJpenpvIjoiVmlhIFRvbmlvbG8sIDQxIiwiY29kX2NvbXVuZSI6IjUwMDMxIiwiZ2VzdGlvbmUiOiJwcml2YXRhIiwicXVvdGEiOjU5LjAzLCJxdW90YXNhbml0YXJpYSI6NTkuMX19",
+        "posti_liberi_int": 1,
+        "posti_liberi_m_int": 1,
+        "posti_liberi_f_int": 1,
+        "decoded_details": {
+            "id": 51,
+            "struttura": {
+                "avvisoDecimale": "",
+                "posti_modulo_base": 50,
+                "posti_liberi": 1,
+                "posti_liberi_m": 1,
+                "posti_liberi_f": 1,
+                "cf_direttore": "BNCSLV66A68G702G",
+                "nome_direttore": "SILVIA",
+                "cognome_direttore": "BUONCRISTIANI",
+                "telefono_rsa": "050871601",
+                "fax_rsa": "",
+                "email": "silvia.buoncristiani@fondazionemaffi.it",
+                "sito_internet": "www.fondazionemaffi.it",
+                "tariffa_privata_ranged": {
+                    "minima": 118.13,
+                    "massima": 118.13
+                },
+                "modulo": [
+                    "Modulo base"
+                ],
+                "indirizzo_sede": "VIA G. TONIOLO, 39/41",
+                "cod_comune_sede": "050031",
+                "tel_sede": "050/871601",
+                "fax_sede": "",
+                "email_sede": "valeria.gentili@fondazionemaffi.it",
+                "posta_certificata_sede": "amministrazione.contabilita@pec.fondazionemaffi.it",
+                "residenza": {
+                    "numeroPiani": 2,
+                    "dettaglioCamere": [
+                        {
+                            "numeroCamere": 16,
+                            "numeroLetti": 2,
+                            "serviziPresenti": [
+                                "bagno condiviso",
+                                "tv",
+                                "telefono posto letto",
+                                "impianto condizionamento"
+                            ]
+                        },
+                        {
+                            "numeroCamere": 8,
+                            "numeroLetti": 1,
+                            "serviziPresenti": [
+                                "bagno dedicato",
+                                "tv",
+                                "telefono posto letto",
+                                "impianto condizionamento"
+                            ]
+                        },
+                        {
+                            "numeroCamere": 5,
+                            "numeroLetti": 4,
+                            "serviziPresenti": [
+                                "bagno condiviso",
+                                "tv",
+                                "telefono posto letto",
+                                "impianto condizionamento"
+                            ]
+                        },
+                        {
+                            "numeroCamere": 3,
+                            "numeroLetti": 3,
+                            "serviziPresenti": [
+                                "bagno condiviso",
+                                "tv",
+                                "telefono posto letto",
+                                "impianto condizionamento"
+                            ]
+                        }
+                    ]
+                },
+                "puntiDiInteresse": [
+                    "autobus",
+                    "chiesa",
+                    "associazioni di volontariato"
+                ],
+                "spazioEsterno": "SI",
+                "serviziSocioSanitari": {
+                    "animazioneSocioEducativa": {
+                        "animazioneSocioEducativaSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "martedi",
+                                    "mercoledi",
+                                    "giovedi",
+                                    "venerdi"
+                                ],
+                                "oraInizio": "08:00",
+                                "oraFine": "15:00"
+                            },
+                            {
+                                "giorniSettimana": [
+                                    "martedi",
+                                    "mercoledi",
+                                    "giovedi"
+                                ],
+                                "oraInizio": "08:00",
+                                "oraFine": "17:00"
+                            }
+                        ]
+                    },
+                    "fisioterapia": {
+                        "fisioterapiaSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "giovedi"
+                                ],
+                                "oraInizio": "08:00",
+                                "oraFine": "18:30"
+                            },
+                            {
+                                "giorniSettimana": [
+                                    "martedi",
+                                    "mercoledi",
+                                    "venerdi"
+                                ],
+                                "oraInizio": "08:00",
+                                "oraFine": "15:00"
+                            },
+                            {
+                                "giorniSettimana": [
+                                    "sabato"
+                                ],
+                                "oraInizio": "08:00",
+                                "oraFine": "12:30"
+                            }
+                        ]
+                    },
+                    "assistenzaInfermieristica": {
+                        "assistenzaInfermieristicaSpec": {
+                            "scelta": "24h"
+                        }
+                    },
+                    "mediciSpecialisti": {
+                        "subTitle": "",
+                        "dettaglioSpecialisti": [
+                            {
+                                "medicoSpecialista": "psichiatra",
+                                "erogazioneServizio": {
+                                    "scelta": "Su richiesta",
+                                    "onRequest": "true"
+                                },
+                                "inclusoQuota": "SI"
+                            },
+                            {
+                                "medicoSpecialista": "fisiatra",
+                                "erogazioneServizio": {
+                                    "scelta": "Su richiesta",
+                                    "onRequest": "true"
+                                },
+                                "inclusoQuota": "SI"
+                            }
+                        ]
+                    },
+                    "psicologo": {
+                        "nonPrevisto": false,
+                        "erogazioneServizio": {
+                            "scelta": "Su richiesta",
+                            "onRequest": "true"
+                        },
+                        "inclusoQuota": "SI"
+                    },
+                    "podologo": {
+                        "erogazioneServizio": "N volte al mese",
+                        "numeroVolte": 1,
+                        "prestazioniIncluseMese": 1
+                    }
+                },
+                "serviziAlberghieri": {
+                    "cucina": {
+                        "tipoCucina": "Interna"
+                    },
+                    "lavanderia": {
+                        "indumenti_personali": "SI"
+                    },
+                    "parrucchiere": {
+                        "erogazioneServizio": "N volte al mese",
+                        "numeroVolte": 2,
+                        "prestazioniIncluseMese": 1
+                    },
+                    "estetista": {
+                        "nonPrevisto": false,
+                        "erogazioneServizio": {
+                            "scelta": "Su richiesta",
+                            "onRequest": "true"
+                        },
+                        "inclusoQuota": "SI"
+                    },
+                    "assistenzaReligiosa": {
+                        "nonPrevisto": false,
+                        "aperturaTipiCulto": "SI",
+                        "assistenzaReligiosaSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "mercoledi"
+                                ],
+                                "ora": "16:30"
+                            }
+                        ]
+                    }
+                },
+                "altriServizi": {
+                    "elencoServizi": {
+                        "Appartamenti protetti": false,
+                        "Assistenza Domiciliare": false,
+                        "Assistenza residenziale per rifugiati/profughi": false,
+                        "Attivita' fisica adattata": false,
+                        "Casa della salute": false,
+                        "Centro di socializzazione per autosufficienti": false,
+                        "Centro diurno Alzheimer": false,
+                        "Centro diurno per autosufficienti": false,
+                        "Centro diurno per non autosufficienti": false,
+                        "Lavanderia per assistiti a domicilio": false,
+                        "Organizzazione del trasporto e accompagnamento degli assistiti deambulanti per visite/prestazioni sanitarie, avvisandone i familiari": true,
+                        "Prestazioni di assistenza di base per utenti esterni (bagno assistito)": false,
+                        "Residenza per Autosufficienti": false,
+                        "Residenza sociale per disabili (RSD)": false,
+                        "Ristorazione a domicilio": false,
+                        "Ristorazione per utenti esterni": false,
+                        "Segretariato sociale": true,
+                        "Servizio Continuita' Assistenziale (Ex Guardia Medica)": false,
+                        "Trasporto per adulti disabili": false
+                    },
+                    "serviziAmministrativi": {
+                        "serviziAmministrativiSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "martedi",
+                                    "mercoledi",
+                                    "giovedi",
+                                    "venerdi"
+                                ],
+                                "oraInizio": "08:30",
+                                "oraFine": "17:30"
+                            },
+                            {
+                                "giorniSettimana": [
+                                    "martedi",
+                                    "giovedi",
+                                    "venerdi"
+                                ],
+                                "oraInizio": "08:30",
+                                "oraFine": "15:00"
+                            }
+                        ]
+                    },
+                    "direzione": {
+                        "direzioneSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "martedi",
+                                    "mercoledi",
+                                    "giovedi",
+                                    "venerdi"
+                                ],
+                                "oraInizio": "08:30",
+                                "oraFine": "16:30"
+                            }
+                        ]
+                    },
+                    "orarioVisite": {
+                        "orarioVisiteSpec": {
+                            "scelta": "24h"
+                        }
+                    }
+                }
+            },
+            "ars": {
+                "nome": "Fondazione Casa Cardinale Maffi",
+                "cod_sts24": "123E4I",
+                "attiva": "1",
+                "accordo": "1",
+                "indirizzo": "Via Toniolo, 41",
+                "cod_comune": "50031",
+                "gestione": "privata",
+                "quota": 59.03,
+                "quotasanitaria": 59.1
+            }
+        }
     }
 ]
