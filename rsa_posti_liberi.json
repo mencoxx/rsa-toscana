@@ -2123,6 +2123,244 @@
         }
     },
     {
+        "id": "59",
+        "foto0": "altacec_ottavina_struttura.jpg",
+        "foto1": "altacec_ottavina_interno.jpg",
+        "foto2": "altacec_ottavina_corridoio.jpg",
+        "foto3": "altacec_ottavina_camera.jpg",
+        "foto4": "altacec_ottavina_bagno.jpg",
+        "foto5": "",
+        "nome": "Casa di Ottavina",
+        "tipo": "",
+        "gestione": "pubblica",
+        "indirizzo": "via Roma, 2",
+        "cod_comune": "50011",
+        "comune": "Castelnuovo di Val di Cecina",
+        "zona": "Alta Val di Cecina - Val d'Era",
+        "tel1_zona": "0587-273634",
+        "tel2_zona": "0588-91610",
+        "tel3_zona": "",
+        "telefono": "0588-91865 347-7502836",
+        "rsa_ico_animazione": "animazione_socio-educativa.png",
+        "rsa_ico_fisioterapia": "fisioterapia.png",
+        "rsa_ico_cucina": "ristorazione_interna.png",
+        "rsa_ico_giardino": "giardino.png",
+        "rsa_ico_parrucchiere": "parrucchiere.png",
+        "rsa_ico_barbiere": "",
+        "rsa_ico_estetista": "estetista.png",
+        "rsa_ico_relig": "assistenza_religiosa.png",
+        "rsa_ico_geriatra": "",
+        "rsa_ico_assistenza_infermieristica": "assistenza_infermieristica.png",
+        "rsa_ico_psicologo": "psicologo.png",
+        "rsa_ico_podologo": "podologo.png",
+        "rsa_ico_lavanderia": "lavanderia.png",
+        "rsa_ico_postoletto": "",
+        "rsa_posti_liberi": "1",
+        "rsa_quota": "59.30",
+        "rsa_quotasanitaria": "59.10",
+        "rsa_quota_img": "alvalcec_quota_ottavina.png",
+        "rsa_mod_base": "si",
+        "rsa_mod_cogn": "",
+        "rsa_mod_riab": "",
+        "rsa_mod_veg": "",
+        "rsa_attiva": "1",
+        "rsa_nome_brochure": "alvalcec_casadiottavina.pdf",
+        "rsa_data_aggiornamento": "2026.08.25 14:25:48",
+        "lat": "43.2105104179568968",
+        "lon": "10.9040723002717996",
+        "gbnord": "4785967",
+        "gbest": "1654698",
+        "accordo": "1",
+        "cod_sts24": "312A4I",
+        "posti_liberi_m": "0",
+        "posti_liberi_f": "1",
+        "indirizzo_sede": "NULL",
+        "comune_sede": "",
+        "fax_sede": "NULL",
+        "telefono_sede": "NULL",
+        "email_sede": "NULL",
+        "posta_certificata_sede": "NULL",
+        "json_data": "eyJpZCI6NTksInN0cnV0dHVyYSI6eyJhdnZpc29EZWNpbWFsZSI6IiIsInBvc3RpX21vZHVsb19iYXNlIjoyMSwicG9zdGlfbGliZXJpIjoxLCJwb3N0aV9saWJlcmlfbSI6MCwicG9zdGlfbGliZXJpX2YiOjEsImNmX2RpcmV0dG9yZSI6IkdOTkZSQzg0RDY4RzcwMlEiLCJub21lX2RpcmV0dG9yZSI6IkZlZGVyaWNhIiwiY29nbm9tZV9kaXJldHRvcmUiOiJHaWFubm9uaSIsInRlbGVmb25vX3JzYSI6IjA1ODggMjM2MzMgICAgIDMyNzE3NDMzNjQiLCJmYXhfcnNhIjoiMDU4ODIzNjMzIiwiZW1haWwiOiJjYXNhb3R0YXZpbmFAaWRlYWxjb29wLmNvbSIsInNpdG9faW50ZXJuZXQiOiIiLCJ0YXJpZmZhX3ByaXZhdGFfcmFuZ2VkIjp7Im1pbmltYSI6MCwibWFzc2ltYSI6MH0sIm1vZHVsbyI6WyJNb2R1bG8gYmFzZSJdLCJpbmRpcml6em9fc2VkZSI6IiIsImNvZF9jb211bmVfc2VkZSI6IiIsInRlbF9zZWRlIjoiIiwiZmF4X3NlZGUiOiIiLCJlbWFpbF9zZWRlIjoiIiwicG9zdGFfY2VydGlmaWNhdGFfc2VkZSI6IiIsInJlc2lkZW56YSI6eyJudW1lcm9QaWFuaSI6MCwiZGV0dGFnbGlvQ2FtZXJlIjpbeyJudW1lcm9DYW1lcmUiOjEyLCJudW1lcm9MZXR0aSI6MjEsInNlcnZpemlQcmVzZW50aSI6WyJiYWdubyBkZWRpY2F0byJdfV19LCJwdW50aURpSW50ZXJlc3NlIjpbXSwic3BhemlvRXN0ZXJubyI6IlNJIiwic2Vydml6aVNvY2lvU2FuaXRhcmkiOnsiYW5pbWF6aW9uZVNvY2lvRWR1Y2F0aXZhIjp7ImFuaW1hemlvbmVTb2Npb0VkdWNhdGl2YVNwZWMiOnsib3JhSW5pemlvIjoiMTQ6MDAiLCJvcmFGaW5lIjoiMTc6MDAiLCJvcmFJbml6aW8yIjoiIiwib3JhRmluZTIiOiIifX0sImZpc2lvdGVyYXBpYSI6eyJmaXNpb3RlcmFwaWFTcGVjIjp7Im9yYUluaXppbyI6IjA5OjAwIiwib3JhRmluZSI6IjExOjAwIiwib3JhSW5pemlvMiI6IiIsIm9yYUZpbmUyIjoiIn19LCJhc3Npc3RlbnphSW5mZXJtaWVyaXN0aWNhIjp7ImFzc2lzdGVuemFJbmZlcm1pZXJpc3RpY2FTcGVjIjp7InJlcGVyaWJpbGl0YU5vdHR1cm5hIjoiTk8iLCJvcmFyaVNlcnZpemlvIjp7Im9yYUluaXppbyI6IjA4OjAwIiwib3JhRmluZSI6IjE0OjAwIiwib3JhSW5pemlvMiI6IjE2OjAwIiwib3JhRmluZTIiOiIyMTowMCJ9fX0sIm1lZGljaVNwZWNpYWxpc3RpIjp7InN1YlRpdGxlIjoiIiwiZGV0dGFnbGlvU3BlY2lhbGlzdGkiOltdfSwicHNpY29sb2dvIjp7Im5vblByZXZpc3RvIjpmYWxzZSwiZXJvZ2F6aW9uZVNlcnZpemlvIjp7InNjZWx0YSI6IlR1dHRpIGkgZ2lvcm5pIiwiYWxsRGF5cyI6InRydWUifSwiaW5jbHVzb1F1b3RhIjoiU0kifSwicG9kb2xvZ28iOnsiZXJvZ2F6aW9uZVNlcnZpemlvIjoiU3UgcmljaGllc3RhIiwibnVtZXJvVm9sdGUiOjEsInByZXN0YXppb25pSW5jbHVzZU1lc2UiOjF9fSwic2Vydml6aUFsYmVyZ2hpZXJpIjp7ImN1Y2luYSI6eyJ0aXBvQ3VjaW5hIjoiSW50ZXJuYSJ9LCJsYXZhbmRlcmlhIjp7ImluZHVtZW50aV9wZXJzb25hbGkiOiJTSSJ9LCJwYXJydWNjaGllcmUiOnsiZXJvZ2F6aW9uZVNlcnZpemlvIjoiTiB2b2x0ZSBhIHNldHRpbWFuYSIsIm51bWVyb1ZvbHRlIjoxLCJwcmVzdGF6aW9uaUluY2x1c2VNZXNlIjoxfSwiZXN0ZXRpc3RhIjp7Im5vblByZXZpc3RvIjpmYWxzZSwiZXJvZ2F6aW9uZVNlcnZpemlvIjp7Im51bWVyb01lc2UiOjF9LCJpbmNsdXNvUXVvdGEiOiJTSSJ9LCJhc3Npc3RlbnphUmVsaWdpb3NhIjp7Im5vblByZXZpc3RvIjp0cnVlLCJhcGVydHVyYVRpcGlDdWx0byI6IlNJIiwiYXNzaXN0ZW56YVJlbGlnaW9zYVNwZWMiOlt7Imdpb3JuaVNldHRpbWFuYSI6W10sIm9yYSI6IiJ9XX19LCJhbHRyaVNlcnZpemkiOnsiZWxlbmNvU2Vydml6aSI6eyJBcHBhcnRhbWVudGkgcHJvdGV0dGkiOmZhbHNlLCJBc3Npc3RlbnphIERvbWljaWxpYXJlIjpmYWxzZSwiQXNzaXN0ZW56YSByZXNpZGVuemlhbGUgcGVyIHJpZnVnaWF0aS9wcm9mdWdoaSI6ZmFsc2UsIkF0dGl2aXRhJyBmaXNpY2EgYWRhdHRhdGEiOmZhbHNlLCJDYXNhIGRlbGxhIHNhbHV0ZSI6ZmFsc2UsIkNlbnRybyBkaSBzb2NpYWxpenphemlvbmUgcGVyIGF1dG9zdWZmaWNpZW50aSI6ZmFsc2UsIkNlbnRybyBkaXVybm8gQWx6aGVpbWVyIjpmYWxzZSwiQ2VudHJvIGRpdXJubyBwZXIgYXV0b3N1ZmZpY2llbnRpIjpmYWxzZSwiQ2VudHJvIGRpdXJubyBwZXIgbm9uIGF1dG9zdWZmaWNpZW50aSI6dHJ1ZSwiTGF2YW5kZXJpYSBwZXIgYXNzaXN0aXRpIGEgZG9taWNpbGlvIjpmYWxzZSwiT3JnYW5penphemlvbmUgZGVsIHRyYXNwb3J0byBlIGFjY29tcGFnbmFtZW50byBkZWdsaSBhc3Npc3RpdGkgZGVhbWJ1bGFudGkgcGVyIHZpc2l0ZS9wcmVzdGF6aW9uaSBzYW5pdGFyaWUsIGF2dmlzYW5kb25lIGkgZmFtaWxpYXJpIjpmYWxzZSwiUHJlc3RhemlvbmkgZGkgYXNzaXN0ZW56YSBkaSBiYXNlIHBlciB1dGVudGkgZXN0ZXJuaSAoYmFnbm8gYXNzaXN0aXRvKSI6ZmFsc2UsIlJlc2lkZW56YSBwZXIgQXV0b3N1ZmZpY2llbnRpIjpmYWxzZSwiUmVzaWRlbnphIHNvY2lhbGUgcGVyIGRpc2FiaWxpIChSU0QpIjpmYWxzZSwiUmlzdG9yYXppb25lIGEgZG9taWNpbGlvIjpmYWxzZSwiUmlzdG9yYXppb25lIHBlciB1dGVudGkgZXN0ZXJuaSI6ZmFsc2UsIlNlZ3JldGFyaWF0byBzb2NpYWxlIjpmYWxzZSwiU2Vydml6aW8gQ29udGludWl0YScgQXNzaXN0ZW56aWFsZSAoRXggR3VhcmRpYSBNZWRpY2EpIjpmYWxzZSwiVHJhc3BvcnRvIHBlciBhZHVsdGkgZGlzYWJpbGkiOmZhbHNlfSwic2Vydml6aUFtbWluaXN0cmF0aXZpIjp7InNlcnZpemlBbW1pbmlzdHJhdGl2aVNwZWMiOnsib3JhSW5pemlvIjoiMDk6MDAiLCJvcmFGaW5lIjoiMDk6MDAiLCJvcmFJbml6aW8yIjoiIiwib3JhRmluZTIiOiIifX0sImRpcmV6aW9uZSI6eyJkaXJlemlvbmVTcGVjIjp7Im9yYUluaXppbyI6IjA5OjAwIiwib3JhRmluZSI6IjEzOjAwIiwib3JhSW5pemlvMiI6IiIsIm9yYUZpbmUyIjoiIn19LCJvcmFyaW9WaXNpdGUiOnsib3JhcmlvVmlzaXRlU3BlYyI6eyJzY2VsdGEiOiIyNGgifX19fSwiYXJzIjp7Im5vbWUiOiJDYXNhIGRpIE90dGF2aW5hIiwiY29kX3N0czI0IjoiMzEyQTRJIiwiYXR0aXZhIjoiMSIsImFjY29yZG8iOiIxIiwiaW5kaXJpenpvIjoidmlhIFJvbWEsIDIiLCJjb2RfY29tdW5lIjoiNTAwMTEiLCJnZXN0aW9uZSI6InB1YmJsaWNhIiwicXVvdGEiOjU5LjMsInF1b3Rhc2FuaXRhcmlhIjo1OS4xfX0=",
+        "posti_liberi_int": 1,
+        "posti_liberi_m_int": 0,
+        "posti_liberi_f_int": 1,
+        "decoded_details": {
+            "id": 59,
+            "struttura": {
+                "avvisoDecimale": "",
+                "posti_modulo_base": 21,
+                "posti_liberi": 1,
+                "posti_liberi_m": 0,
+                "posti_liberi_f": 1,
+                "cf_direttore": "GNNFRC84D68G702Q",
+                "nome_direttore": "Federica",
+                "cognome_direttore": "Giannoni",
+                "telefono_rsa": "0588 23633     3271743364",
+                "fax_rsa": "058823633",
+                "email": "casaottavina@idealcoop.com",
+                "sito_internet": "",
+                "tariffa_privata_ranged": {
+                    "minima": 0,
+                    "massima": 0
+                },
+                "modulo": [
+                    "Modulo base"
+                ],
+                "indirizzo_sede": "",
+                "cod_comune_sede": "",
+                "tel_sede": "",
+                "fax_sede": "",
+                "email_sede": "",
+                "posta_certificata_sede": "",
+                "residenza": {
+                    "numeroPiani": 0,
+                    "dettaglioCamere": [
+                        {
+                            "numeroCamere": 12,
+                            "numeroLetti": 21,
+                            "serviziPresenti": [
+                                "bagno dedicato"
+                            ]
+                        }
+                    ]
+                },
+                "puntiDiInteresse": [],
+                "spazioEsterno": "SI",
+                "serviziSocioSanitari": {
+                    "animazioneSocioEducativa": {
+                        "animazioneSocioEducativaSpec": {
+                            "oraInizio": "14:00",
+                            "oraFine": "17:00",
+                            "oraInizio2": "",
+                            "oraFine2": ""
+                        }
+                    },
+                    "fisioterapia": {
+                        "fisioterapiaSpec": {
+                            "oraInizio": "09:00",
+                            "oraFine": "11:00",
+                            "oraInizio2": "",
+                            "oraFine2": ""
+                        }
+                    },
+                    "assistenzaInfermieristica": {
+                        "assistenzaInfermieristicaSpec": {
+                            "reperibilitaNotturna": "NO",
+                            "orariServizio": {
+                                "oraInizio": "08:00",
+                                "oraFine": "14:00",
+                                "oraInizio2": "16:00",
+                                "oraFine2": "21:00"
+                            }
+                        }
+                    },
+                    "mediciSpecialisti": {
+                        "subTitle": "",
+                        "dettaglioSpecialisti": []
+                    },
+                    "psicologo": {
+                        "nonPrevisto": false,
+                        "erogazioneServizio": {
+                            "scelta": "Tutti i giorni",
+                            "allDays": "true"
+                        },
+                        "inclusoQuota": "SI"
+                    },
+                    "podologo": {
+                        "erogazioneServizio": "Su richiesta",
+                        "numeroVolte": 1,
+                        "prestazioniIncluseMese": 1
+                    }
+                },
+                "serviziAlberghieri": {
+                    "cucina": {
+                        "tipoCucina": "Interna"
+                    },
+                    "lavanderia": {
+                        "indumenti_personali": "SI"
+                    },
+                    "parrucchiere": {
+                        "erogazioneServizio": "N volte a settimana",
+                        "numeroVolte": 1,
+                        "prestazioniIncluseMese": 1
+                    },
+                    "estetista": {
+                        "nonPrevisto": false,
+                        "erogazioneServizio": {
+                            "numeroMese": 1
+                        },
+                        "inclusoQuota": "SI"
+                    },
+                    "assistenzaReligiosa": {
+                        "nonPrevisto": true,
+                        "aperturaTipiCulto": "SI",
+                        "assistenzaReligiosaSpec": [
+                            {
+                                "giorniSettimana": [],
+                                "ora": ""
+                            }
+                        ]
+                    }
+                },
+                "altriServizi": {
+                    "elencoServizi": {
+                        "Appartamenti protetti": false,
+                        "Assistenza Domiciliare": false,
+                        "Assistenza residenziale per rifugiati/profughi": false,
+                        "Attivita' fisica adattata": false,
+                        "Casa della salute": false,
+                        "Centro di socializzazione per autosufficienti": false,
+                        "Centro diurno Alzheimer": false,
+                        "Centro diurno per autosufficienti": false,
+                        "Centro diurno per non autosufficienti": true,
+                        "Lavanderia per assistiti a domicilio": false,
+                        "Organizzazione del trasporto e accompagnamento degli assistiti deambulanti per visite/prestazioni sanitarie, avvisandone i familiari": false,
+                        "Prestazioni di assistenza di base per utenti esterni (bagno assistito)": false,
+                        "Residenza per Autosufficienti": false,
+                        "Residenza sociale per disabili (RSD)": false,
+                        "Ristorazione a domicilio": false,
+                        "Ristorazione per utenti esterni": false,
+                        "Segretariato sociale": false,
+                        "Servizio Continuita' Assistenziale (Ex Guardia Medica)": false,
+                        "Trasporto per adulti disabili": false
+                    },
+                    "serviziAmministrativi": {
+                        "serviziAmministrativiSpec": {
+                            "oraInizio": "09:00",
+                            "oraFine": "09:00",
+                            "oraInizio2": "",
+                            "oraFine2": ""
+                        }
+                    },
+                    "direzione": {
+                        "direzioneSpec": {
+                            "oraInizio": "09:00",
+                            "oraFine": "13:00",
+                            "oraInizio2": "",
+                            "oraFine2": ""
+                        }
+                    },
+                    "orarioVisite": {
+                        "orarioVisiteSpec": {
+                            "scelta": "24h"
+                        }
+                    }
+                }
+            },
+            "ars": {
+                "nome": "Casa di Ottavina",
+                "cod_sts24": "312A4I",
+                "attiva": "1",
+                "accordo": "1",
+                "indirizzo": "via Roma, 2",
+                "cod_comune": "50011",
+                "gestione": "pubblica",
+                "quota": 59.3,
+                "quotasanitaria": 59.1
+            }
+        }
+    },
+    {
         "id": "33",
         "foto0": "lunig_Fivizzano_esterno.jpg",
         "foto1": "lunig_Fivizzano_sala.jpg",
