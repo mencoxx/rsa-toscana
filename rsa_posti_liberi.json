@@ -1197,6 +1197,332 @@
         }
     },
     {
+        "id": "348",
+        "foto0": "campibisenzio_residenza_anni_azzurri_img1.jpg",
+        "foto1": "campibisenzio_residenza_anni_azzurri_img2.jpg",
+        "foto2": "campibisenzio_residenza_anni_azzurri_img3.jpg",
+        "foto3": "campibisenzio_residenza_anni_azzurri_img4.jpg",
+        "foto4": "campibisenzio_residenza_anni_azzurri_img5.jpg",
+        "foto5": "campibisenzio_residenza_anni_azzurri_img6.jpg",
+        "nome": "Residenza Anni Azzurri Campi Bisenzio",
+        "tipo": "",
+        "gestione": "privata",
+        "indirizzo": "Via delle Miccine, 1 AC",
+        "cod_comune": "48006",
+        "comune": "Campi Bisenzio",
+        "zona": "Fiorentina Nord-Ovest",
+        "tel1_zona": "055 6930246",
+        "tel2_zona": "",
+        "tel3_zona": "",
+        "telefono": "055-199751",
+        "rsa_ico_animazione": "animazione_socio-educativa.png",
+        "rsa_ico_fisioterapia": "fisioterapia.png",
+        "rsa_ico_cucina": "ristorazione_interna.png",
+        "rsa_ico_giardino": "giardino.png",
+        "rsa_ico_parrucchiere": "parrucchiere.png",
+        "rsa_ico_barbiere": "",
+        "rsa_ico_estetista": "",
+        "rsa_ico_relig": "assistenza_religiosa.png",
+        "rsa_ico_geriatra": "consulenza_medico_specialistica.png",
+        "rsa_ico_assistenza_infermieristica": "assistenza_infermieristica.png",
+        "rsa_ico_psicologo": "",
+        "rsa_ico_podologo": "podologo.png",
+        "rsa_ico_lavanderia": "lavanderia.png",
+        "rsa_ico_postoletto": "",
+        "rsa_posti_liberi": "2",
+        "rsa_quota": "64.00",
+        "rsa_quotasanitaria": "59.10",
+        "rsa_quota_img": "",
+        "rsa_mod_base": "si",
+        "rsa_mod_cogn": "",
+        "rsa_mod_riab": "",
+        "rsa_mod_veg": "",
+        "rsa_attiva": "1",
+        "rsa_nome_brochure": "",
+        "rsa_data_aggiornamento": "2026.08.31 16:35:36",
+        "lat": "43.834510",
+        "lon": "11.108838",
+        "gbnord": "4855669.88",
+        "gbest": "1669575.22",
+        "accordo": "1",
+        "cod_sts24": "F7184I",
+        "posti_liberi_m": "0",
+        "posti_liberi_f": "2",
+        "indirizzo_sede": "VIA DURINI  9",
+        "comune_sede": "Milano",
+        "fax_sede": "NULL",
+        "telefono_sede": "NULL",
+        "email_sede": "NULL",
+        "posta_certificata_sede": "NULL",
+        "json_data": "eyJpZCI6MzQ4LCJzdHJ1dHR1cmEiOnsiYXZ2aXNvRGVjaW1hbGUiOiIiLCJwb3N0aV9tb2R1bG9fYmFzZSI6NjAsInBvc3RpX2xpYmVyaSI6MiwicG9zdGlfbGliZXJpX20iOjAsInBvc3RpX2xpYmVyaV9mIjoyLCJjZl9kaXJldHRvcmUiOiJQTFRTUkE4NUM2M0Q1NzVDIiwibm9tZV9kaXJldHRvcmUiOiJTQVJBIiwiY29nbm9tZV9kaXJldHRvcmUiOiJQQU9MRVRUSSIsInRlbGVmb25vX3JzYSI6IjA1NTE5OTc1MSIsImZheF9yc2EiOiIiLCJlbWFpbCI6InJlc2lkZW56YWNhbXBpYmlzZW56aW9AYW5uaWF6enVycmkuaXQiLCJzaXRvX2ludGVybmV0Ijoid3d3LmFubmlhenp1cnJpLml0IiwidGFyaWZmYV9wcml2YXRhX3JhbmdlZCI6eyJtaW5pbWEiOjAsIm1hc3NpbWEiOjY0fSwibW9kdWxvIjpbIk1vZHVsbyBiYXNlIl0sImluZGlyaXp6b19zZWRlIjoiVklBIERVUklOSSAgOSIsImNvZF9jb211bmVfc2VkZSI6IjAxNTE0NiIsInRlbF9zZWRlIjoiIiwiZmF4X3NlZGUiOiIiLCJlbWFpbF9zZWRlIjoiIiwicG9zdGFfY2VydGlmaWNhdGFfc2VkZSI6IiIsInJlc2lkZW56YSI6eyJudW1lcm9QaWFuaSI6MSwiZGV0dGFnbGlvQ2FtZXJlIjpbeyJudW1lcm9DYW1lcmUiOjMzLCJudW1lcm9MZXR0aSI6NjAsInNlcnZpemlQcmVzZW50aSI6WyJiYWdubyBkZWRpY2F0byIsInR2Iiwid2lmaSIsImltcGlhbnRvIGNvbmRpemlvbmFtZW50byJdfV19LCJwdW50aURpSW50ZXJlc3NlIjpbImRpc3RyZXR0byBzYW5pdGFyaW8iLCJhdXRvYnVzIiwiY2hpZXNhIiwiY2VudHJvIHN0b3JpY28iXSwic3BhemlvRXN0ZXJubyI6IlNJIiwic2Vydml6aVNvY2lvU2FuaXRhcmkiOnsiYW5pbWF6aW9uZVNvY2lvRWR1Y2F0aXZhIjp7ImFuaW1hemlvbmVTb2Npb0VkdWNhdGl2YVNwZWMiOlt7Imdpb3JuaVNldHRpbWFuYSI6WyJsdW5lZGkiLCJtYXJ0ZWRpIiwibWVyY29sZWRpIiwiZ2lvdmVkaSIsInZlbmVyZGkiLCJzYWJhdG8iXSwib3JhSW5pemlvIjoiMDk6MDAiLCJvcmFGaW5lIjoiMTM6MDAifSx7Imdpb3JuaVNldHRpbWFuYSI6WyJsdW5lZGkiLCJtYXJ0ZWRpIiwibWVyY29sZWRpIiwiZ2lvdmVkaSIsInZlbmVyZGkiXSwib3JhSW5pemlvIjoiMTQ6MDAiLCJvcmFGaW5lIjoiMTg6MDAifSx7Imdpb3JuaVNldHRpbWFuYSI6WyJzYWJhdG8iXSwib3JhSW5pemlvIjoiMDk6MDAiLCJvcmFGaW5lIjoiMTc6MDAifV19LCJmaXNpb3RlcmFwaWEiOnsiZmlzaW90ZXJhcGlhU3BlYyI6W3siZ2lvcm5pU2V0dGltYW5hIjpbImx1bmVkaSIsIm1hcnRlZGkiLCJtZXJjb2xlZGkiLCJnaW92ZWRpIiwidmVuZXJkaSJdLCJvcmFJbml6aW8iOiIwODozMCIsIm9yYUZpbmUiOiIxNzowMCJ9XX0sImFzc2lzdGVuemFJbmZlcm1pZXJpc3RpY2EiOnsiYXNzaXN0ZW56YUluZmVybWllcmlzdGljYVNwZWMiOnsicmVwZXJpYmlsaXRhTm90dHVybmEiOiJOTyIsIm9yYXJpU2Vydml6aW8iOnsib3JhSW5pemlvIjoiMDc6MDAiLCJvcmFGaW5lIjoiMjE6MDAiLCJvcmFJbml6aW8yIjoiIiwib3JhRmluZTIiOiIifX19LCJtZWRpY2lTcGVjaWFsaXN0aSI6eyJzdWJUaXRsZSI6IiIsImRldHRhZ2xpb1NwZWNpYWxpc3RpIjpbeyJtZWRpY29TcGVjaWFsaXN0YSI6ImdlcmlhdHJhIiwiZXJvZ2F6aW9uZVNlcnZpemlvIjp7Im51bWVyb1NldHRpbWFuYSI6MX0sImluY2x1c29RdW90YSI6IlNJIn1dfSwicHNpY29sb2dvIjp7Im5vblByZXZpc3RvIjp0cnVlLCJlcm9nYXppb25lU2Vydml6aW8iOnsic2NlbHRhIjoiVHV0dGkgaSBnaW9ybmkiLCJhbGxEYXlzIjoidHJ1ZSJ9LCJpbmNsdXNvUXVvdGEiOiJTSSJ9LCJwb2RvbG9nbyI6eyJlcm9nYXppb25lU2Vydml6aW8iOiJOIHZvbHRlIGFsIG1lc2UiLCJudW1lcm9Wb2x0ZSI6MSwicHJlc3RhemlvbmlJbmNsdXNlTWVzZSI6MX19LCJzZXJ2aXppQWxiZXJnaGllcmkiOnsiY3VjaW5hIjp7InRpcG9DdWNpbmEiOiJJbnRlcm5hIn0sImxhdmFuZGVyaWEiOnsiaW5kdW1lbnRpX3BlcnNvbmFsaSI6Ik5PIn0sInBhcnJ1Y2NoaWVyZSI6eyJlcm9nYXppb25lU2Vydml6aW8iOiJOIHZvbHRlIGFsIG1lc2UiLCJudW1lcm9Wb2x0ZSI6MSwicHJlc3RhemlvbmlJbmNsdXNlTWVzZSI6MX0sImVzdGV0aXN0YSI6eyJub25QcmV2aXN0byI6dHJ1ZSwiZXJvZ2F6aW9uZVNlcnZpemlvIjp7InNjZWx0YSI6IlR1dHRpIGkgZ2lvcm5pIiwiYWxsRGF5cyI6InRydWUifSwiaW5jbHVzb1F1b3RhIjoiU0kifSwiYXNzaXN0ZW56YVJlbGlnaW9zYSI6eyJub25QcmV2aXN0byI6ZmFsc2UsImFwZXJ0dXJhVGlwaUN1bHRvIjoiU0kiLCJhc3Npc3RlbnphUmVsaWdpb3NhU3BlYyI6W3siZ2lvcm5pU2V0dGltYW5hIjpbImx1bmVkaSJdLCJvcmEiOiIxMDowMCJ9XX19LCJhbHRyaVNlcnZpemkiOnsiZWxlbmNvU2Vydml6aSI6eyJBcHBhcnRhbWVudGkgcHJvdGV0dGkiOmZhbHNlLCJBc3Npc3RlbnphIERvbWljaWxpYXJlIjpmYWxzZSwiQXNzaXN0ZW56YSByZXNpZGVuemlhbGUgcGVyIHJpZnVnaWF0aS9wcm9mdWdoaSI6ZmFsc2UsIkF0dGl2aXRhJyBmaXNpY2EgYWRhdHRhdGEiOmZhbHNlLCJDYXNhIGRlbGxhIHNhbHV0ZSI6ZmFsc2UsIkNlbnRybyBkaSBzb2NpYWxpenphemlvbmUgcGVyIGF1dG9zdWZmaWNpZW50aSI6ZmFsc2UsIkNlbnRybyBkaXVybm8gQWx6aGVpbWVyIjpmYWxzZSwiQ2VudHJvIGRpdXJubyBwZXIgYXV0b3N1ZmZpY2llbnRpIjpmYWxzZSwiQ2VudHJvIGRpdXJubyBwZXIgbm9uIGF1dG9zdWZmaWNpZW50aSI6ZmFsc2UsIkxhdmFuZGVyaWEgcGVyIGFzc2lzdGl0aSBhIGRvbWljaWxpbyI6ZmFsc2UsIk9yZ2FuaXp6YXppb25lIGRlbCB0cmFzcG9ydG8gZSBhY2NvbXBhZ25hbWVudG8gZGVnbGkgYXNzaXN0aXRpIGRlYW1idWxhbnRpIHBlciB2aXNpdGUvcHJlc3Rhemlvbmkgc2FuaXRhcmllLCBhdnZpc2FuZG9uZSBpIGZhbWlsaWFyaSI6ZmFsc2UsIlByZXN0YXppb25pIGRpIGFzc2lzdGVuemEgZGkgYmFzZSBwZXIgdXRlbnRpIGVzdGVybmkgKGJhZ25vIGFzc2lzdGl0bykiOmZhbHNlLCJSZXNpZGVuemEgcGVyIEF1dG9zdWZmaWNpZW50aSI6ZmFsc2UsIlJlc2lkZW56YSBzb2NpYWxlIHBlciBkaXNhYmlsaSAoUlNEKSI6ZmFsc2UsIlJpc3RvcmF6aW9uZSBhIGRvbWljaWxpbyI6ZmFsc2UsIlJpc3RvcmF6aW9uZSBwZXIgdXRlbnRpIGVzdGVybmkiOmZhbHNlLCJTZWdyZXRhcmlhdG8gc29jaWFsZSI6ZmFsc2UsIlNlcnZpemlvIENvbnRpbnVpdGEnIEFzc2lzdGVuemlhbGUgKEV4IEd1YXJkaWEgTWVkaWNhKSI6ZmFsc2UsIlRyYXNwb3J0byBwZXIgYWR1bHRpIGRpc2FiaWxpIjpmYWxzZX0sInNlcnZpemlBbW1pbmlzdHJhdGl2aSI6eyJzZXJ2aXppQW1taW5pc3RyYXRpdmlTcGVjIjpbeyJnaW9ybmlTZXR0aW1hbmEiOlsibHVuZWRpIiwibWFydGVkaSIsIm1lcmNvbGVkaSIsImdpb3ZlZGkiLCJ2ZW5lcmRpIl0sIm9yYUluaXppbyI6IjA5OjAwIiwib3JhRmluZSI6IjE4OjAwIn0seyJnaW9ybmlTZXR0aW1hbmEiOlsic2FiYXRvIiwiZG9tZW5pY2EiXSwib3JhSW5pemlvIjoiMTA6MDAiLCJvcmFGaW5lIjoiMTM6MDAifSx7Imdpb3JuaVNldHRpbWFuYSI6WyJzYWJhdG8iLCJkb21lbmljYSJdLCJvcmFJbml6aW8iOiIxNDowMCIsIm9yYUZpbmUiOiIxODowMCJ9XX0sImRpcmV6aW9uZSI6eyJkaXJlemlvbmVTcGVjIjpbeyJnaW9ybmlTZXR0aW1hbmEiOlsibHVuZWRpIiwibWFydGVkaSIsIm1lcmNvbGVkaSIsImdpb3ZlZGkiXSwib3JhSW5pemlvIjoiMDg6MzAiLCJvcmFGaW5lIjoiMTY6MzAifSx7Imdpb3JuaVNldHRpbWFuYSI6WyJ2ZW5lcmRpIl0sIm9yYUluaXppbyI6IjA4OjMwIiwib3JhRmluZSI6IjE0OjMwIn1dfSwib3JhcmlvVmlzaXRlIjp7Im9yYXJpb1Zpc2l0ZVNwZWMiOnsic2NlbHRhIjoiMjRoIn19fX0sImFycyI6eyJub21lIjoiUmVzaWRlbnphIEFubmkgQXp6dXJyaSBDYW1waSBCaXNlbnppbyIsImNvZF9zdHMyNCI6IkY3MTg0SSIsImF0dGl2YSI6IjEiLCJhY2NvcmRvIjoiMSIsImluZGlyaXp6byI6IlZpYSBkZWxsZSBNaWNjaW5lLCAxIEFDIiwiY29kX2NvbXVuZSI6IjQ4MDA2IiwiZ2VzdGlvbmUiOiJwcml2YXRhIiwicXVvdGEiOjY0LCJxdW90YXNhbml0YXJpYSI6NTkuMX19",
+        "posti_liberi_int": 2,
+        "posti_liberi_m_int": 0,
+        "posti_liberi_f_int": 2,
+        "decoded_details": {
+            "id": 348,
+            "struttura": {
+                "avvisoDecimale": "",
+                "posti_modulo_base": 60,
+                "posti_liberi": 2,
+                "posti_liberi_m": 0,
+                "posti_liberi_f": 2,
+                "cf_direttore": "PLTSRA85C63D575C",
+                "nome_direttore": "SARA",
+                "cognome_direttore": "PAOLETTI",
+                "telefono_rsa": "055199751",
+                "fax_rsa": "",
+                "email": "residenzacampibisenzio@anniazzurri.it",
+                "sito_internet": "www.anniazzurri.it",
+                "tariffa_privata_ranged": {
+                    "minima": 0,
+                    "massima": 64
+                },
+                "modulo": [
+                    "Modulo base"
+                ],
+                "indirizzo_sede": "VIA DURINI  9",
+                "cod_comune_sede": "015146",
+                "tel_sede": "",
+                "fax_sede": "",
+                "email_sede": "",
+                "posta_certificata_sede": "",
+                "residenza": {
+                    "numeroPiani": 1,
+                    "dettaglioCamere": [
+                        {
+                            "numeroCamere": 33,
+                            "numeroLetti": 60,
+                            "serviziPresenti": [
+                                "bagno dedicato",
+                                "tv",
+                                "wifi",
+                                "impianto condizionamento"
+                            ]
+                        }
+                    ]
+                },
+                "puntiDiInteresse": [
+                    "distretto sanitario",
+                    "autobus",
+                    "chiesa",
+                    "centro storico"
+                ],
+                "spazioEsterno": "SI",
+                "serviziSocioSanitari": {
+                    "animazioneSocioEducativa": {
+                        "animazioneSocioEducativaSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "martedi",
+                                    "mercoledi",
+                                    "giovedi",
+                                    "venerdi",
+                                    "sabato"
+                                ],
+                                "oraInizio": "09:00",
+                                "oraFine": "13:00"
+                            },
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "martedi",
+                                    "mercoledi",
+                                    "giovedi",
+                                    "venerdi"
+                                ],
+                                "oraInizio": "14:00",
+                                "oraFine": "18:00"
+                            },
+                            {
+                                "giorniSettimana": [
+                                    "sabato"
+                                ],
+                                "oraInizio": "09:00",
+                                "oraFine": "17:00"
+                            }
+                        ]
+                    },
+                    "fisioterapia": {
+                        "fisioterapiaSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "martedi",
+                                    "mercoledi",
+                                    "giovedi",
+                                    "venerdi"
+                                ],
+                                "oraInizio": "08:30",
+                                "oraFine": "17:00"
+                            }
+                        ]
+                    },
+                    "assistenzaInfermieristica": {
+                        "assistenzaInfermieristicaSpec": {
+                            "reperibilitaNotturna": "NO",
+                            "orariServizio": {
+                                "oraInizio": "07:00",
+                                "oraFine": "21:00",
+                                "oraInizio2": "",
+                                "oraFine2": ""
+                            }
+                        }
+                    },
+                    "mediciSpecialisti": {
+                        "subTitle": "",
+                        "dettaglioSpecialisti": [
+                            {
+                                "medicoSpecialista": "geriatra",
+                                "erogazioneServizio": {
+                                    "numeroSettimana": 1
+                                },
+                                "inclusoQuota": "SI"
+                            }
+                        ]
+                    },
+                    "psicologo": {
+                        "nonPrevisto": true,
+                        "erogazioneServizio": {
+                            "scelta": "Tutti i giorni",
+                            "allDays": "true"
+                        },
+                        "inclusoQuota": "SI"
+                    },
+                    "podologo": {
+                        "erogazioneServizio": "N volte al mese",
+                        "numeroVolte": 1,
+                        "prestazioniIncluseMese": 1
+                    }
+                },
+                "serviziAlberghieri": {
+                    "cucina": {
+                        "tipoCucina": "Interna"
+                    },
+                    "lavanderia": {
+                        "indumenti_personali": "NO"
+                    },
+                    "parrucchiere": {
+                        "erogazioneServizio": "N volte al mese",
+                        "numeroVolte": 1,
+                        "prestazioniIncluseMese": 1
+                    },
+                    "estetista": {
+                        "nonPrevisto": true,
+                        "erogazioneServizio": {
+                            "scelta": "Tutti i giorni",
+                            "allDays": "true"
+                        },
+                        "inclusoQuota": "SI"
+                    },
+                    "assistenzaReligiosa": {
+                        "nonPrevisto": false,
+                        "aperturaTipiCulto": "SI",
+                        "assistenzaReligiosaSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "lunedi"
+                                ],
+                                "ora": "10:00"
+                            }
+                        ]
+                    }
+                },
+                "altriServizi": {
+                    "elencoServizi": {
+                        "Appartamenti protetti": false,
+                        "Assistenza Domiciliare": false,
+                        "Assistenza residenziale per rifugiati/profughi": false,
+                        "Attivita' fisica adattata": false,
+                        "Casa della salute": false,
+                        "Centro di socializzazione per autosufficienti": false,
+                        "Centro diurno Alzheimer": false,
+                        "Centro diurno per autosufficienti": false,
+                        "Centro diurno per non autosufficienti": false,
+                        "Lavanderia per assistiti a domicilio": false,
+                        "Organizzazione del trasporto e accompagnamento degli assistiti deambulanti per visite/prestazioni sanitarie, avvisandone i familiari": false,
+                        "Prestazioni di assistenza di base per utenti esterni (bagno assistito)": false,
+                        "Residenza per Autosufficienti": false,
+                        "Residenza sociale per disabili (RSD)": false,
+                        "Ristorazione a domicilio": false,
+                        "Ristorazione per utenti esterni": false,
+                        "Segretariato sociale": false,
+                        "Servizio Continuita' Assistenziale (Ex Guardia Medica)": false,
+                        "Trasporto per adulti disabili": false
+                    },
+                    "serviziAmministrativi": {
+                        "serviziAmministrativiSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "martedi",
+                                    "mercoledi",
+                                    "giovedi",
+                                    "venerdi"
+                                ],
+                                "oraInizio": "09:00",
+                                "oraFine": "18:00"
+                            },
+                            {
+                                "giorniSettimana": [
+                                    "sabato",
+                                    "domenica"
+                                ],
+                                "oraInizio": "10:00",
+                                "oraFine": "13:00"
+                            },
+                            {
+                                "giorniSettimana": [
+                                    "sabato",
+                                    "domenica"
+                                ],
+                                "oraInizio": "14:00",
+                                "oraFine": "18:00"
+                            }
+                        ]
+                    },
+                    "direzione": {
+                        "direzioneSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "martedi",
+                                    "mercoledi",
+                                    "giovedi"
+                                ],
+                                "oraInizio": "08:30",
+                                "oraFine": "16:30"
+                            },
+                            {
+                                "giorniSettimana": [
+                                    "venerdi"
+                                ],
+                                "oraInizio": "08:30",
+                                "oraFine": "14:30"
+                            }
+                        ]
+                    },
+                    "orarioVisite": {
+                        "orarioVisiteSpec": {
+                            "scelta": "24h"
+                        }
+                    }
+                }
+            },
+            "ars": {
+                "nome": "Residenza Anni Azzurri Campi Bisenzio",
+                "cod_sts24": "F7184I",
+                "attiva": "1",
+                "accordo": "1",
+                "indirizzo": "Via delle Miccine, 1 AC",
+                "cod_comune": "48006",
+                "gestione": "privata",
+                "quota": 64,
+                "quotasanitaria": 59.1
+            }
+        }
+    },
+    {
         "id": "236",
         "foto0": "pialu_dongori_struttura.png",
         "foto1": "pialu_dongori_palestra.jpg",
@@ -3056,291 +3382,6 @@
                 "cod_comune": "45014",
                 "gestione": "privata",
                 "quota": 48,
-                "quotasanitaria": 59.1
-            }
-        }
-    },
-    {
-        "id": "153",
-        "foto0": "valdare_terranuovabracciolini_struttura.png",
-        "foto1": "valdare_terranuovabracciolini_sala_pranzo.jpg",
-        "foto2": "valdare_terranuovabracciolini_parrucchiere.jpg",
-        "foto3": "valdare_terranuovabracciolini_fisioterapia.jpg",
-        "foto4": "valdare_terranuovabracciolini_attivita_motorie.jpg",
-        "foto5": "valdare_terranuovabracciolini_attivita.jpg",
-        "nome": "Terranuova Bracciolini",
-        "tipo": "",
-        "gestione": "pubblica",
-        "indirizzo": "Piazza dell'Unita' Italiana 3",
-        "cod_comune": "51039",
-        "cod_comune_sede": "51039",
-        "comune": "Terranuova Bracciolini",
-        "zona": "Valdarno",
-        "tel1_zona": "055-9106467",
-        "tel2_zona": "",
-        "tel3_zona": "",
-        "rsa_ico_animazione": "animazione_socio-educativa.png",
-        "rsa_ico_fisioterapia": "fisioterapia.png",
-        "rsa_ico_cucina": "ristorazione_interna.png",
-        "rsa_ico_giardino": "giardino.png",
-        "rsa_ico_parrucchiere": "parrucchiere.png",
-        "rsa_ico_barbiere": "",
-        "rsa_ico_estetista": "",
-        "rsa_ico_relig": "assistenza_religiosa.png",
-        "rsa_ico_geriatra": "consulenza_medico_specialistica.png",
-        "rsa_ico_assistenza_infermieristica": "assistenza_infermieristica_notturna.png",
-        "rsa_ico_psicologo": "psicologo.png",
-        "rsa_ico_podologo": "podologo.png",
-        "rsa_ico_lavanderia": "lavanderia.png",
-        "rsa_ico_postoletto": "",
-        "rsa_posti_liberi": "1",
-        "rsa_quota": "53.50",
-        "rsa_quotasanitaria": "59.10",
-        "rsa_quota_img": "vald_quota_terranova.png",
-        "rsa_mod_base": "si",
-        "rsa_mod_cogn": "",
-        "rsa_mod_riab": "",
-        "rsa_mod_veg": "si",
-        "rsa_attiva": "1",
-        "rsa_nome_brochure": "valdare_rsa_terranuovabracciolini.pdf",
-        "rsa_data_aggiornamento": "2026.08.31 09:54:15",
-        "lat": "43.5500695",
-        "lon": "11.5802987",
-        "gbnord": "4825153",
-        "gbest": "1708465",
-        "accordo": "1",
-        "cod_sts24": "59614I",
-        "posti_liberi_m": "0",
-        "posti_liberi_f": "1",
-        "indirizzo_sede": "Piazza Repubblica, 16",
-        "comune_sede": "Terranuova Bracciolini",
-        "fax_sede": "0142453486",
-        "telefono_sede": "055919471",
-        "email_sede": "elleuno@elleuno.it",
-        "posta_certificata_sede": "rsa.tb@pec.it",
-        "json_data": "eyJpZCI6MTUzLCJzdHJ1dHR1cmEiOnsiYXZ2aXNvRGVjaW1hbGUiOiIiLCJwb3N0aV9tb2R1bG9fYmFzZSI6MzQsInBvc3RpX2xpYmVyaSI6MSwicG9zdGlfbGliZXJpX20iOjAsInBvc3RpX2xpYmVyaV9mIjoxLCJjZl9kaXJldHRvcmUiOiJQU1NWTlQ3NlI2OUQ1ODNBIiwibm9tZV9kaXJldHRvcmUiOiJWQUxFTlRJTkEiLCJjb2dub21lX2RpcmV0dG9yZSI6IlBBU1NFUklOSSIsInRlbGVmb25vX3JzYSI6IjA1NSA5MTk0Nzk5IiwiZmF4X3JzYSI6IiIsImVtYWlsIjoicnNhdmFubmVsbGlAZGl2aXR0b3Jpby5pdCIsInNpdG9faW50ZXJuZXQiOiIiLCJ0YXJpZmZhX3ByaXZhdGFfcmFuZ2VkIjp7Im1pbmltYSI6MTEyLjYsIm1hc3NpbWEiOjExMi42fSwibW9kdWxvIjpbIk1vZHVsbyBiYXNlIiwiTW9kdWxvIHZlZ2V0YXRpdm8iXSwiaW5kaXJpenpvX3NlZGUiOiJQaWF6emEgUmVwdWJibGljYSwgMTYiLCJjb2RfY29tdW5lX3NlZGUiOiIwNTEwMzkiLCJ0ZWxfc2VkZSI6IjA1NTkxOTQ3MSIsImZheF9zZWRlIjoiIiwiZW1haWxfc2VkZSI6IiIsInBvc3RhX2NlcnRpZmljYXRhX3NlZGUiOiJyc2EudGJAcGVjLml0IiwicmVzaWRlbnphIjp7Im51bWVyb1BpYW5pIjoyLCJkZXR0YWdsaW9DYW1lcmUiOlt7Im51bWVyb0NhbWVyZSI6MjMsIm51bWVyb0xldHRpIjoyLCJzZXJ2aXppUHJlc2VudGkiOlsiYmFnbm8gZGVkaWNhdG8iLCJpbXBpYW50byBjb25kaXppb25hbWVudG8iLCJiYWxjb25lIl19XX0sInB1bnRpRGlJbnRlcmVzc2UiOlsiZGlzdHJldHRvIHNhbml0YXJpbyIsImF1dG9idXMiLCJjaGllc2EiLCJjZW50cm8gc3RvcmljbyIsImJpYmxpb3RlY2EiLCJhc3NvY2lhemlvbmkgZGkgdm9sb250YXJpYXRvIiwib3NwZWRhbGUiXSwic3BhemlvRXN0ZXJubyI6IlNJIiwic2Vydml6aVNvY2lvU2FuaXRhcmkiOnsiYW5pbWF6aW9uZVNvY2lvRWR1Y2F0aXZhIjp7ImFuaW1hemlvbmVTb2Npb0VkdWNhdGl2YVNwZWMiOlt7Imdpb3JuaVNldHRpbWFuYSI6WyJsdW5lZGkiLCJtYXJ0ZWRpIiwibWVyY29sZWRpIiwiZ2lvdmVkaSIsInZlbmVyZGkiLCJzYWJhdG8iXSwib3JhSW5pemlvIjoiMDg6MzAiLCJvcmFGaW5lIjoiMTc6MDAifV19LCJmaXNpb3RlcmFwaWEiOnsiZmlzaW90ZXJhcGlhU3BlYyI6W3siZ2lvcm5pU2V0dGltYW5hIjpbImx1bmVkaSIsIm1hcnRlZGkiLCJtZXJjb2xlZGkiLCJnaW92ZWRpIiwidmVuZXJkaSJdLCJvcmFJbml6aW8iOiIwODozMCIsIm9yYUZpbmUiOiIxNjowMCJ9XX0sImFzc2lzdGVuemFJbmZlcm1pZXJpc3RpY2EiOnsiYXNzaXN0ZW56YUluZmVybWllcmlzdGljYVNwZWMiOnsic2NlbHRhIjoiMjRoIn19LCJtZWRpY2lTcGVjaWFsaXN0aSI6eyJzdWJUaXRsZSI6IiIsImRldHRhZ2xpb1NwZWNpYWxpc3RpIjpbeyJtZWRpY29TcGVjaWFsaXN0YSI6ImdlcmlhdHJhIiwiZXJvZ2F6aW9uZVNlcnZpemlvIjp7Im51bWVyb01lc2UiOjR9LCJpbmNsdXNvUXVvdGEiOiJTSSJ9XX0sInBzaWNvbG9nbyI6eyJub25QcmV2aXN0byI6ZmFsc2UsImVyb2dhemlvbmVTZXJ2aXppbyI6eyJudW1lcm9NZXNlIjo4fSwiaW5jbHVzb1F1b3RhIjoiU0kifSwicG9kb2xvZ28iOnsiZXJvZ2F6aW9uZVNlcnZpemlvIjoiTiB2b2x0ZSBhbCBtZXNlIiwibnVtZXJvVm9sdGUiOjEsInByZXN0YXppb25pSW5jbHVzZU1lc2UiOjF9fSwic2Vydml6aUFsYmVyZ2hpZXJpIjp7ImN1Y2luYSI6eyJ0aXBvQ3VjaW5hIjoiSW50ZXJuYSJ9LCJsYXZhbmRlcmlhIjp7ImluZHVtZW50aV9wZXJzb25hbGkiOiJTSSJ9LCJwYXJydWNjaGllcmUiOnsiZXJvZ2F6aW9uZVNlcnZpemlvIjoiTiB2b2x0ZSBhIHNldHRpbWFuYSIsIm51bWVyb1ZvbHRlIjoxLCJwcmVzdGF6aW9uaUluY2x1c2VNZXNlIjoxfSwiZXN0ZXRpc3RhIjp7Im5vblByZXZpc3RvIjp0cnVlLCJlcm9nYXppb25lU2Vydml6aW8iOnsibnVtZXJvU2V0dGltYW5hIjoxfSwiaW5jbHVzb1F1b3RhIjoiU0kifSwiYXNzaXN0ZW56YVJlbGlnaW9zYSI6eyJub25QcmV2aXN0byI6ZmFsc2UsImFwZXJ0dXJhVGlwaUN1bHRvIjoiU0kiLCJhc3Npc3RlbnphUmVsaWdpb3NhU3BlYyI6W3siZ2lvcm5pU2V0dGltYW5hIjpbInNhYmF0byJdLCJvcmEiOiIxNTozMCJ9XX19LCJhbHRyaVNlcnZpemkiOnsiZWxlbmNvU2Vydml6aSI6eyJBcHBhcnRhbWVudGkgcHJvdGV0dGkiOmZhbHNlLCJBc3Npc3RlbnphIERvbWljaWxpYXJlIjpmYWxzZSwiQXNzaXN0ZW56YSByZXNpZGVuemlhbGUgcGVyIHJpZnVnaWF0aS9wcm9mdWdoaSI6ZmFsc2UsIkF0dGl2aXRhJyBmaXNpY2EgYWRhdHRhdGEiOnRydWUsIkNhc2EgZGVsbGEgc2FsdXRlIjpmYWxzZSwiQ2VudHJvIGRpIHNvY2lhbGl6emF6aW9uZSBwZXIgYXV0b3N1ZmZpY2llbnRpIjpmYWxzZSwiQ2VudHJvIGRpdXJubyBBbHpoZWltZXIiOmZhbHNlLCJDZW50cm8gZGl1cm5vIHBlciBhdXRvc3VmZmljaWVudGkiOmZhbHNlLCJDZW50cm8gZGl1cm5vIHBlciBub24gYXV0b3N1ZmZpY2llbnRpIjpmYWxzZSwiTGF2YW5kZXJpYSBwZXIgYXNzaXN0aXRpIGEgZG9taWNpbGlvIjpmYWxzZSwiT3JnYW5penphemlvbmUgZGVsIHRyYXNwb3J0byBlIGFjY29tcGFnbmFtZW50byBkZWdsaSBhc3Npc3RpdGkgZGVhbWJ1bGFudGkgcGVyIHZpc2l0ZS9wcmVzdGF6aW9uaSBzYW5pdGFyaWUsIGF2dmlzYW5kb25lIGkgZmFtaWxpYXJpIjp0cnVlLCJQcmVzdGF6aW9uaSBkaSBhc3Npc3RlbnphIGRpIGJhc2UgcGVyIHV0ZW50aSBlc3Rlcm5pIChiYWdubyBhc3Npc3RpdG8pIjpmYWxzZSwiUmVzaWRlbnphIHBlciBBdXRvc3VmZmljaWVudGkiOnRydWUsIlJlc2lkZW56YSBzb2NpYWxlIHBlciBkaXNhYmlsaSAoUlNEKSI6ZmFsc2UsIlJpc3RvcmF6aW9uZSBhIGRvbWljaWxpbyI6dHJ1ZSwiUmlzdG9yYXppb25lIHBlciB1dGVudGkgZXN0ZXJuaSI6ZmFsc2UsIlNlZ3JldGFyaWF0byBzb2NpYWxlIjpmYWxzZSwiU2Vydml6aW8gQ29udGludWl0YScgQXNzaXN0ZW56aWFsZSAoRXggR3VhcmRpYSBNZWRpY2EpIjpmYWxzZSwiVHJhc3BvcnRvIHBlciBhZHVsdGkgZGlzYWJpbGkiOmZhbHNlfSwic2Vydml6aUFtbWluaXN0cmF0aXZpIjp7InNlcnZpemlBbW1pbmlzdHJhdGl2aVNwZWMiOlt7Imdpb3JuaVNldHRpbWFuYSI6WyJsdW5lZGkiLCJtYXJ0ZWRpIiwibWVyY29sZWRpIiwiZ2lvdmVkaSIsInZlbmVyZGkiXSwib3JhSW5pemlvIjoiMDg6MzAiLCJvcmFGaW5lIjoiMTY6MDAifV19LCJkaXJlemlvbmUiOnsiZGlyZXppb25lU3BlYyI6W3siZ2lvcm5pU2V0dGltYW5hIjpbImx1bmVkaSIsImdpb3ZlZGkiXSwib3JhSW5pemlvIjoiMDg6MzAiLCJvcmFGaW5lIjoiMTQ6MzAifSx7Imdpb3JuaVNldHRpbWFuYSI6WyJtYXJ0ZWRpIl0sIm9yYUluaXppbyI6IjE0OjAwIiwib3JhRmluZSI6IjE3OjAwIn1dfSwib3JhcmlvVmlzaXRlIjp7Im9yYXJpb1Zpc2l0ZVNwZWMiOnsic2NlbHRhIjoiMjRoIn19fX0sImFycyI6eyJub21lIjoiVGVycmFudW92YSBCcmFjY2lvbGluaSIsImNvZF9zdHMyNCI6IjU5NjE0SSIsImF0dGl2YSI6IjEiLCJhY2NvcmRvIjoiMSIsImluZGlyaXp6byI6IlBpYXp6YSBkZWxsJ1VuaXRhJyBJdGFsaWFuYSAzIiwiY29kX2NvbXVuZSI6IjUxMDM5IiwiZ2VzdGlvbmUiOiJwdWJibGljYSIsInF1b3RhIjo1My41LCJxdW90YXNhbml0YXJpYSI6NTkuMX19",
-        "posti_liberi_int": 1,
-        "posti_liberi_m_int": 0,
-        "posti_liberi_f_int": 1,
-        "decoded_details": {
-            "id": 153,
-            "struttura": {
-                "avvisoDecimale": "",
-                "posti_modulo_base": 34,
-                "posti_liberi": 1,
-                "posti_liberi_m": 0,
-                "posti_liberi_f": 1,
-                "cf_direttore": "PSSVNT76R69D583A",
-                "nome_direttore": "VALENTINA",
-                "cognome_direttore": "PASSERINI",
-                "telefono_rsa": "055 9194799",
-                "fax_rsa": "",
-                "email": "rsavannelli@divittorio.it",
-                "sito_internet": "",
-                "tariffa_privata_ranged": {
-                    "minima": 112.6,
-                    "massima": 112.6
-                },
-                "modulo": [
-                    "Modulo base",
-                    "Modulo vegetativo"
-                ],
-                "indirizzo_sede": "Piazza Repubblica, 16",
-                "cod_comune_sede": "051039",
-                "tel_sede": "055919471",
-                "fax_sede": "",
-                "email_sede": "",
-                "posta_certificata_sede": "rsa.tb@pec.it",
-                "residenza": {
-                    "numeroPiani": 2,
-                    "dettaglioCamere": [
-                        {
-                            "numeroCamere": 23,
-                            "numeroLetti": 2,
-                            "serviziPresenti": [
-                                "bagno dedicato",
-                                "impianto condizionamento",
-                                "balcone"
-                            ]
-                        }
-                    ]
-                },
-                "puntiDiInteresse": [
-                    "distretto sanitario",
-                    "autobus",
-                    "chiesa",
-                    "centro storico",
-                    "biblioteca",
-                    "associazioni di volontariato",
-                    "ospedale"
-                ],
-                "spazioEsterno": "SI",
-                "serviziSocioSanitari": {
-                    "animazioneSocioEducativa": {
-                        "animazioneSocioEducativaSpec": [
-                            {
-                                "giorniSettimana": [
-                                    "lunedi",
-                                    "martedi",
-                                    "mercoledi",
-                                    "giovedi",
-                                    "venerdi",
-                                    "sabato"
-                                ],
-                                "oraInizio": "08:30",
-                                "oraFine": "17:00"
-                            }
-                        ]
-                    },
-                    "fisioterapia": {
-                        "fisioterapiaSpec": [
-                            {
-                                "giorniSettimana": [
-                                    "lunedi",
-                                    "martedi",
-                                    "mercoledi",
-                                    "giovedi",
-                                    "venerdi"
-                                ],
-                                "oraInizio": "08:30",
-                                "oraFine": "16:00"
-                            }
-                        ]
-                    },
-                    "assistenzaInfermieristica": {
-                        "assistenzaInfermieristicaSpec": {
-                            "scelta": "24h"
-                        }
-                    },
-                    "mediciSpecialisti": {
-                        "subTitle": "",
-                        "dettaglioSpecialisti": [
-                            {
-                                "medicoSpecialista": "geriatra",
-                                "erogazioneServizio": {
-                                    "numeroMese": 4
-                                },
-                                "inclusoQuota": "SI"
-                            }
-                        ]
-                    },
-                    "psicologo": {
-                        "nonPrevisto": false,
-                        "erogazioneServizio": {
-                            "numeroMese": 8
-                        },
-                        "inclusoQuota": "SI"
-                    },
-                    "podologo": {
-                        "erogazioneServizio": "N volte al mese",
-                        "numeroVolte": 1,
-                        "prestazioniIncluseMese": 1
-                    }
-                },
-                "serviziAlberghieri": {
-                    "cucina": {
-                        "tipoCucina": "Interna"
-                    },
-                    "lavanderia": {
-                        "indumenti_personali": "SI"
-                    },
-                    "parrucchiere": {
-                        "erogazioneServizio": "N volte a settimana",
-                        "numeroVolte": 1,
-                        "prestazioniIncluseMese": 1
-                    },
-                    "estetista": {
-                        "nonPrevisto": true,
-                        "erogazioneServizio": {
-                            "numeroSettimana": 1
-                        },
-                        "inclusoQuota": "SI"
-                    },
-                    "assistenzaReligiosa": {
-                        "nonPrevisto": false,
-                        "aperturaTipiCulto": "SI",
-                        "assistenzaReligiosaSpec": [
-                            {
-                                "giorniSettimana": [
-                                    "sabato"
-                                ],
-                                "ora": "15:30"
-                            }
-                        ]
-                    }
-                },
-                "altriServizi": {
-                    "elencoServizi": {
-                        "Appartamenti protetti": false,
-                        "Assistenza Domiciliare": false,
-                        "Assistenza residenziale per rifugiati/profughi": false,
-                        "Attivita' fisica adattata": true,
-                        "Casa della salute": false,
-                        "Centro di socializzazione per autosufficienti": false,
-                        "Centro diurno Alzheimer": false,
-                        "Centro diurno per autosufficienti": false,
-                        "Centro diurno per non autosufficienti": false,
-                        "Lavanderia per assistiti a domicilio": false,
-                        "Organizzazione del trasporto e accompagnamento degli assistiti deambulanti per visite/prestazioni sanitarie, avvisandone i familiari": true,
-                        "Prestazioni di assistenza di base per utenti esterni (bagno assistito)": false,
-                        "Residenza per Autosufficienti": true,
-                        "Residenza sociale per disabili (RSD)": false,
-                        "Ristorazione a domicilio": true,
-                        "Ristorazione per utenti esterni": false,
-                        "Segretariato sociale": false,
-                        "Servizio Continuita' Assistenziale (Ex Guardia Medica)": false,
-                        "Trasporto per adulti disabili": false
-                    },
-                    "serviziAmministrativi": {
-                        "serviziAmministrativiSpec": [
-                            {
-                                "giorniSettimana": [
-                                    "lunedi",
-                                    "martedi",
-                                    "mercoledi",
-                                    "giovedi",
-                                    "venerdi"
-                                ],
-                                "oraInizio": "08:30",
-                                "oraFine": "16:00"
-                            }
-                        ]
-                    },
-                    "direzione": {
-                        "direzioneSpec": [
-                            {
-                                "giorniSettimana": [
-                                    "lunedi",
-                                    "giovedi"
-                                ],
-                                "oraInizio": "08:30",
-                                "oraFine": "14:30"
-                            },
-                            {
-                                "giorniSettimana": [
-                                    "martedi"
-                                ],
-                                "oraInizio": "14:00",
-                                "oraFine": "17:00"
-                            }
-                        ]
-                    },
-                    "orarioVisite": {
-                        "orarioVisiteSpec": {
-                            "scelta": "24h"
-                        }
-                    }
-                }
-            },
-            "ars": {
-                "nome": "Terranuova Bracciolini",
-                "cod_sts24": "59614I",
-                "attiva": "1",
-                "accordo": "1",
-                "indirizzo": "Piazza dell'Unita' Italiana 3",
-                "cod_comune": "51039",
-                "gestione": "pubblica",
-                "quota": 53.5,
                 "quotasanitaria": 59.1
             }
         }
