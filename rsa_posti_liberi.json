@@ -3278,6 +3278,570 @@
         }
     },
     {
+        "id": "85",
+        "foto0": "fio_rsa_gisellanuovo_struttura.png",
+        "foto1": "fio_rsa_gisellanuovo_cucina.jpg",
+        "foto2": "fio_rsa_gisellanuovo_camera.jpg",
+        "foto3": "fio_rsa_gisellavecchio_ingresso.jpg",
+        "foto4": "",
+        "foto5": "",
+        "nome": "Villa Gisella Nuovo Padiglione",
+        "tipo": "",
+        "gestione": "privata",
+        "indirizzo": "Largo E. Caruso, 1",
+        "cod_comune": "48017",
+        "comune": "Firenze",
+        "zona": "Firenze",
+        "tel1_zona": "055-2616250",
+        "tel2_zona": "",
+        "tel3_zona": "",
+        "telefono": "055-2616250",
+        "rsa_ico_animazione": "animazione_socio-educativa.png",
+        "rsa_ico_fisioterapia": "fisioterapia.png",
+        "rsa_ico_cucina": "ristorazione_interna.png",
+        "rsa_ico_giardino": "giardino.png",
+        "rsa_ico_parrucchiere": "parrucchiere.png",
+        "rsa_ico_barbiere": "",
+        "rsa_ico_estetista": "",
+        "rsa_ico_relig": "assistenza_religiosa.png",
+        "rsa_ico_geriatra": "consulenza_medico_specialistica.png",
+        "rsa_ico_assistenza_infermieristica": "assistenza_infermieristica_notturna.png",
+        "rsa_ico_psicologo": "psicologo.png",
+        "rsa_ico_podologo": "podologo.png",
+        "rsa_ico_lavanderia": "lavanderia.png",
+        "rsa_ico_postoletto": "",
+        "rsa_posti_liberi": "1",
+        "rsa_quota": "70.00",
+        "rsa_quotasanitaria": "59.10",
+        "rsa_quota_img": "quota_gisella_nuovo.png",
+        "rsa_mod_base": "si",
+        "rsa_mod_cogn": "",
+        "rsa_mod_riab": "",
+        "rsa_mod_veg": "",
+        "rsa_attiva": "1",
+        "rsa_nome_brochure": "fio_rsa_gisellanuovo.pdf",
+        "rsa_data_aggiornamento": "2026.09.15 09:47:11",
+        "lat": "43.8076732438142997",
+        "lon": "11.2388767600980994",
+        "gbnord": "4852964",
+        "gbest": "1680111",
+        "accordo": "1",
+        "cod_sts24": "60934I",
+        "posti_liberi_m": "0",
+        "posti_liberi_f": "1",
+        "indirizzo_sede": "LARGO ENRICO CARUSO 1 ",
+        "comune_sede": "Firenze",
+        "fax_sede": "055 453127",
+        "telefono_sede": "055 4250028",
+        "email_sede": "uff.villagisella@gruppozaffiro.it",
+        "posta_certificata_sede": "zaffirohc@legalmail.it",
+        "json_data": "eyJpZCI6ODUsInN0cnV0dHVyYSI6eyJhdnZpc29EZWNpbWFsZSI6IiIsInBvc3RpX21vZHVsb19iYXNlIjo4MCwicG9zdGlfbGliZXJpIjoxLCJwb3N0aV9saWJlcmlfbSI6MCwicG9zdGlfbGliZXJpX2YiOjEsImNmX2RpcmV0dG9yZSI6IlBUTE1UVDg5QzI1TDQ4M1kiLCJub21lX2RpcmV0dG9yZSI6Ik1hdHRlbyIsImNvZ25vbWVfZGlyZXR0b3JlIjoiUGl0dWVsbG8iLCJ0ZWxlZm9ub19yc2EiOiIwNTUgNDI1MDAyOCIsImZheF9yc2EiOiIwNTUgNDUzMTI3IiwiZW1haWwiOiJ1ZmYudmlsbGFnaXNlbGxhQGdydXBwb3phZmZpcm8uaXQiLCJzaXRvX2ludGVybmV0Ijoid3d3LmdydXBwb3phZmZpcm8uaXQiLCJ0YXJpZmZhX3ByaXZhdGFfcmFuZ2VkIjp7Im1pbmltYSI6MTIzLCJtYXNzaW1hIjoxMjN9LCJtb2R1bG8iOlsiTW9kdWxvIGJhc2UiXSwiaW5kaXJpenpvX3NlZGUiOiJMQVJHTyBFTlJJQ08gQ0FSVVNPIDEgIiwiY29kX2NvbXVuZV9zZWRlIjoiMDQ4MDE3IiwidGVsX3NlZGUiOiIwNTUgNDI1MDAyOCIsImZheF9zZWRlIjoiMDU1IDQ1MzEyNyIsImVtYWlsX3NlZGUiOiJ1ZmYudmlsbGFnaXNlbGxhQGdydXBwb3phZmZpcm8uaXQiLCJwb3N0YV9jZXJ0aWZpY2F0YV9zZWRlIjoiemFmZmlyb2hjQGxlZ2FsbWFpbC5pdCIsInJlc2lkZW56YSI6eyJudW1lcm9QaWFuaSI6MiwiZGV0dGFnbGlvQ2FtZXJlIjpbeyJudW1lcm9DYW1lcmUiOjMxLCJudW1lcm9MZXR0aSI6ODAsInNlcnZpemlQcmVzZW50aSI6WyJiYWdubyBkZWRpY2F0byIsImltcGlhbnRvIGNvbmRpemlvbmFtZW50byJdfV19LCJwdW50aURpSW50ZXJlc3NlIjpbImRpc3RyZXR0byBzYW5pdGFyaW8iLCJhdXRvYnVzIiwiYmlibGlvdGVjYSIsIm9zcGVkYWxlIl0sInNwYXppb0VzdGVybm8iOiJTSSIsInNlcnZpemlTb2Npb1Nhbml0YXJpIjp7ImFuaW1hemlvbmVTb2Npb0VkdWNhdGl2YSI6eyJhbmltYXppb25lU29jaW9FZHVjYXRpdmFTcGVjIjpbeyJnaW9ybmlTZXR0aW1hbmEiOlsibHVuZWRpIiwibWFydGVkaSIsIm1lcmNvbGVkaSIsImdpb3ZlZGkiLCJ2ZW5lcmRpIiwic2FiYXRvIl0sIm9yYUluaXppbyI6IjEwOjAwIiwib3JhRmluZSI6IjE3OjAwIn1dfSwiZmlzaW90ZXJhcGlhIjp7ImZpc2lvdGVyYXBpYVNwZWMiOlt7Imdpb3JuaVNldHRpbWFuYSI6WyJsdW5lZGkiLCJtYXJ0ZWRpIiwibWVyY29sZWRpIiwiZ2lvdmVkaSIsInZlbmVyZGkiXSwib3JhSW5pemlvIjoiMDk6MDAiLCJvcmFGaW5lIjoiMTc6MzAifV19LCJhc3Npc3RlbnphSW5mZXJtaWVyaXN0aWNhIjp7ImFzc2lzdGVuemFJbmZlcm1pZXJpc3RpY2FTcGVjIjp7InNjZWx0YSI6IjI0aCJ9fSwibWVkaWNpU3BlY2lhbGlzdGkiOnsic3ViVGl0bGUiOiIiLCJkZXR0YWdsaW9TcGVjaWFsaXN0aSI6W3sibWVkaWNvU3BlY2lhbGlzdGEiOiJnZXJpYXRyYSIsImVyb2dhemlvbmVTZXJ2aXppbyI6eyJudW1lcm9TZXR0aW1hbmEiOjV9LCJpbmNsdXNvUXVvdGEiOiJTSSJ9XX0sInBzaWNvbG9nbyI6eyJub25QcmV2aXN0byI6ZmFsc2UsImVyb2dhemlvbmVTZXJ2aXppbyI6eyJudW1lcm9TZXR0aW1hbmEiOjV9LCJpbmNsdXNvUXVvdGEiOiJTSSJ9LCJwb2RvbG9nbyI6eyJlcm9nYXppb25lU2Vydml6aW8iOiJOIHZvbHRlIGFsIG1lc2UiLCJudW1lcm9Wb2x0ZSI6MSwicHJlc3RhemlvbmlJbmNsdXNlTWVzZSI6MX19LCJzZXJ2aXppQWxiZXJnaGllcmkiOnsiY3VjaW5hIjp7InRpcG9DdWNpbmEiOiJJbnRlcm5hIn0sImxhdmFuZGVyaWEiOnsiaW5kdW1lbnRpX3BlcnNvbmFsaSI6Ik5PIn0sInBhcnJ1Y2NoaWVyZSI6eyJlcm9nYXppb25lU2Vydml6aW8iOiJOIHZvbHRlIGEgc2V0dGltYW5hIiwibnVtZXJvVm9sdGUiOjIsInByZXN0YXppb25pSW5jbHVzZU1lc2UiOjF9LCJlc3RldGlzdGEiOnsibm9uUHJldmlzdG8iOnRydWUsImVyb2dhemlvbmVTZXJ2aXppbyI6eyJzY2VsdGEiOiJUdXR0aSBpIGdpb3JuaSIsImFsbERheXMiOiJ0cnVlIn0sImluY2x1c29RdW90YSI6IlNJIn0sImFzc2lzdGVuemFSZWxpZ2lvc2EiOnsibm9uUHJldmlzdG8iOmZhbHNlLCJhcGVydHVyYVRpcGlDdWx0byI6IlNJIiwiYXNzaXN0ZW56YVJlbGlnaW9zYVNwZWMiOlt7Imdpb3JuaVNldHRpbWFuYSI6WyJtZXJjb2xlZGkiXSwib3JhIjoiMTU6MzAifV19fSwiYWx0cmlTZXJ2aXppIjp7ImVsZW5jb1NlcnZpemkiOnsiQXBwYXJ0YW1lbnRpIHByb3RldHRpIjpmYWxzZSwiQXNzaXN0ZW56YSBEb21pY2lsaWFyZSI6ZmFsc2UsIkFzc2lzdGVuemEgcmVzaWRlbnppYWxlIHBlciByaWZ1Z2lhdGkvcHJvZnVnaGkiOmZhbHNlLCJBdHRpdml0YScgZmlzaWNhIGFkYXR0YXRhIjpmYWxzZSwiQ2FzYSBkZWxsYSBzYWx1dGUiOmZhbHNlLCJDZW50cm8gZGkgc29jaWFsaXp6YXppb25lIHBlciBhdXRvc3VmZmljaWVudGkiOmZhbHNlLCJDZW50cm8gZGl1cm5vIEFsemhlaW1lciI6ZmFsc2UsIkNlbnRybyBkaXVybm8gcGVyIGF1dG9zdWZmaWNpZW50aSI6ZmFsc2UsIkNlbnRybyBkaXVybm8gcGVyIG5vbiBhdXRvc3VmZmljaWVudGkiOmZhbHNlLCJMYXZhbmRlcmlhIHBlciBhc3Npc3RpdGkgYSBkb21pY2lsaW8iOmZhbHNlLCJPcmdhbml6emF6aW9uZSBkZWwgdHJhc3BvcnRvIGUgYWNjb21wYWduYW1lbnRvIGRlZ2xpIGFzc2lzdGl0aSBkZWFtYnVsYW50aSBwZXIgdmlzaXRlL3ByZXN0YXppb25pIHNhbml0YXJpZSwgYXZ2aXNhbmRvbmUgaSBmYW1pbGlhcmkiOnRydWUsIlByZXN0YXppb25pIGRpIGFzc2lzdGVuemEgZGkgYmFzZSBwZXIgdXRlbnRpIGVzdGVybmkgKGJhZ25vIGFzc2lzdGl0bykiOmZhbHNlLCJSZXNpZGVuemEgcGVyIEF1dG9zdWZmaWNpZW50aSI6ZmFsc2UsIlJlc2lkZW56YSBzb2NpYWxlIHBlciBkaXNhYmlsaSAoUlNEKSI6ZmFsc2UsIlJpc3RvcmF6aW9uZSBhIGRvbWljaWxpbyI6ZmFsc2UsIlJpc3RvcmF6aW9uZSBwZXIgdXRlbnRpIGVzdGVybmkiOmZhbHNlLCJTZWdyZXRhcmlhdG8gc29jaWFsZSI6ZmFsc2UsIlNlcnZpemlvIENvbnRpbnVpdGEnIEFzc2lzdGVuemlhbGUgKEV4IEd1YXJkaWEgTWVkaWNhKSI6ZmFsc2UsIlRyYXNwb3J0byBwZXIgYWR1bHRpIGRpc2FiaWxpIjpmYWxzZX0sInNlcnZpemlBbW1pbmlzdHJhdGl2aSI6eyJzZXJ2aXppQW1taW5pc3RyYXRpdmlTcGVjIjpbeyJnaW9ybmlTZXR0aW1hbmEiOlsibHVuZWRpIiwibWFydGVkaSIsIm1lcmNvbGVkaSIsImdpb3ZlZGkiLCJ2ZW5lcmRpIl0sIm9yYUluaXppbyI6IjA5OjAwIiwib3JhRmluZSI6IjE3OjAwIn1dfSwiZGlyZXppb25lIjp7ImRpcmV6aW9uZVNwZWMiOlt7Imdpb3JuaVNldHRpbWFuYSI6WyJsdW5lZGkiLCJtYXJ0ZWRpIiwibWVyY29sZWRpIiwiZ2lvdmVkaSIsInZlbmVyZGkiXSwib3JhSW5pemlvIjoiMDk6MDAiLCJvcmFGaW5lIjoiMTc6MDAifV19LCJvcmFyaW9WaXNpdGUiOnsib3JhcmlvVmlzaXRlU3BlYyI6eyJvcmFyaVNlcnZpemlvIjp7Im9yYUluaXppbyI6IjExOjAwIiwib3JhRmluZSI6IjE5OjAwIiwib3JhSW5pemlvMiI6IiIsIm9yYUZpbmUyIjoiIn19fX19LCJhcnMiOnsibm9tZSI6IlZpbGxhIEdpc2VsbGEgTnVvdm8gUGFkaWdsaW9uZSIsImNvZF9zdHMyNCI6IjYwOTM0SSIsImF0dGl2YSI6IjEiLCJhY2NvcmRvIjoiMSIsImluZGlyaXp6byI6IkxhcmdvIEUuIENhcnVzbywgMSIsImNvZF9jb211bmUiOiI0ODAxNyIsImdlc3Rpb25lIjoicHJpdmF0YSIsInF1b3RhIjo3MCwicXVvdGFzYW5pdGFyaWEiOjU5LjF9fQ==",
+        "posti_liberi_int": 1,
+        "posti_liberi_m_int": 0,
+        "posti_liberi_f_int": 1,
+        "decoded_details": {
+            "id": 85,
+            "struttura": {
+                "avvisoDecimale": "",
+                "posti_modulo_base": 80,
+                "posti_liberi": 1,
+                "posti_liberi_m": 0,
+                "posti_liberi_f": 1,
+                "cf_direttore": "PTLMTT89C25L483Y",
+                "nome_direttore": "Matteo",
+                "cognome_direttore": "Pituello",
+                "telefono_rsa": "055 4250028",
+                "fax_rsa": "055 453127",
+                "email": "uff.villagisella@gruppozaffiro.it",
+                "sito_internet": "www.gruppozaffiro.it",
+                "tariffa_privata_ranged": {
+                    "minima": 123,
+                    "massima": 123
+                },
+                "modulo": [
+                    "Modulo base"
+                ],
+                "indirizzo_sede": "LARGO ENRICO CARUSO 1 ",
+                "cod_comune_sede": "048017",
+                "tel_sede": "055 4250028",
+                "fax_sede": "055 453127",
+                "email_sede": "uff.villagisella@gruppozaffiro.it",
+                "posta_certificata_sede": "zaffirohc@legalmail.it",
+                "residenza": {
+                    "numeroPiani": 2,
+                    "dettaglioCamere": [
+                        {
+                            "numeroCamere": 31,
+                            "numeroLetti": 80,
+                            "serviziPresenti": [
+                                "bagno dedicato",
+                                "impianto condizionamento"
+                            ]
+                        }
+                    ]
+                },
+                "puntiDiInteresse": [
+                    "distretto sanitario",
+                    "autobus",
+                    "biblioteca",
+                    "ospedale"
+                ],
+                "spazioEsterno": "SI",
+                "serviziSocioSanitari": {
+                    "animazioneSocioEducativa": {
+                        "animazioneSocioEducativaSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "martedi",
+                                    "mercoledi",
+                                    "giovedi",
+                                    "venerdi",
+                                    "sabato"
+                                ],
+                                "oraInizio": "10:00",
+                                "oraFine": "17:00"
+                            }
+                        ]
+                    },
+                    "fisioterapia": {
+                        "fisioterapiaSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "martedi",
+                                    "mercoledi",
+                                    "giovedi",
+                                    "venerdi"
+                                ],
+                                "oraInizio": "09:00",
+                                "oraFine": "17:30"
+                            }
+                        ]
+                    },
+                    "assistenzaInfermieristica": {
+                        "assistenzaInfermieristicaSpec": {
+                            "scelta": "24h"
+                        }
+                    },
+                    "mediciSpecialisti": {
+                        "subTitle": "",
+                        "dettaglioSpecialisti": [
+                            {
+                                "medicoSpecialista": "geriatra",
+                                "erogazioneServizio": {
+                                    "numeroSettimana": 5
+                                },
+                                "inclusoQuota": "SI"
+                            }
+                        ]
+                    },
+                    "psicologo": {
+                        "nonPrevisto": false,
+                        "erogazioneServizio": {
+                            "numeroSettimana": 5
+                        },
+                        "inclusoQuota": "SI"
+                    },
+                    "podologo": {
+                        "erogazioneServizio": "N volte al mese",
+                        "numeroVolte": 1,
+                        "prestazioniIncluseMese": 1
+                    }
+                },
+                "serviziAlberghieri": {
+                    "cucina": {
+                        "tipoCucina": "Interna"
+                    },
+                    "lavanderia": {
+                        "indumenti_personali": "NO"
+                    },
+                    "parrucchiere": {
+                        "erogazioneServizio": "N volte a settimana",
+                        "numeroVolte": 2,
+                        "prestazioniIncluseMese": 1
+                    },
+                    "estetista": {
+                        "nonPrevisto": true,
+                        "erogazioneServizio": {
+                            "scelta": "Tutti i giorni",
+                            "allDays": "true"
+                        },
+                        "inclusoQuota": "SI"
+                    },
+                    "assistenzaReligiosa": {
+                        "nonPrevisto": false,
+                        "aperturaTipiCulto": "SI",
+                        "assistenzaReligiosaSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "mercoledi"
+                                ],
+                                "ora": "15:30"
+                            }
+                        ]
+                    }
+                },
+                "altriServizi": {
+                    "elencoServizi": {
+                        "Appartamenti protetti": false,
+                        "Assistenza Domiciliare": false,
+                        "Assistenza residenziale per rifugiati/profughi": false,
+                        "Attivita' fisica adattata": false,
+                        "Casa della salute": false,
+                        "Centro di socializzazione per autosufficienti": false,
+                        "Centro diurno Alzheimer": false,
+                        "Centro diurno per autosufficienti": false,
+                        "Centro diurno per non autosufficienti": false,
+                        "Lavanderia per assistiti a domicilio": false,
+                        "Organizzazione del trasporto e accompagnamento degli assistiti deambulanti per visite/prestazioni sanitarie, avvisandone i familiari": true,
+                        "Prestazioni di assistenza di base per utenti esterni (bagno assistito)": false,
+                        "Residenza per Autosufficienti": false,
+                        "Residenza sociale per disabili (RSD)": false,
+                        "Ristorazione a domicilio": false,
+                        "Ristorazione per utenti esterni": false,
+                        "Segretariato sociale": false,
+                        "Servizio Continuita' Assistenziale (Ex Guardia Medica)": false,
+                        "Trasporto per adulti disabili": false
+                    },
+                    "serviziAmministrativi": {
+                        "serviziAmministrativiSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "martedi",
+                                    "mercoledi",
+                                    "giovedi",
+                                    "venerdi"
+                                ],
+                                "oraInizio": "09:00",
+                                "oraFine": "17:00"
+                            }
+                        ]
+                    },
+                    "direzione": {
+                        "direzioneSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "martedi",
+                                    "mercoledi",
+                                    "giovedi",
+                                    "venerdi"
+                                ],
+                                "oraInizio": "09:00",
+                                "oraFine": "17:00"
+                            }
+                        ]
+                    },
+                    "orarioVisite": {
+                        "orarioVisiteSpec": {
+                            "orariServizio": {
+                                "oraInizio": "11:00",
+                                "oraFine": "19:00",
+                                "oraInizio2": "",
+                                "oraFine2": ""
+                            }
+                        }
+                    }
+                }
+            },
+            "ars": {
+                "nome": "Villa Gisella Nuovo Padiglione",
+                "cod_sts24": "60934I",
+                "attiva": "1",
+                "accordo": "1",
+                "indirizzo": "Largo E. Caruso, 1",
+                "cod_comune": "48017",
+                "gestione": "privata",
+                "quota": 70,
+                "quotasanitaria": 59.1
+            }
+        }
+    },
+    {
+        "id": "86",
+        "foto0": "fio_rsa_gisellavecchio_struttura.png",
+        "foto1": "fio_rsa_gisellavecchio_palestra.jpg",
+        "foto2": "fio_rsa_gisellavecchio_ingresso.jpg",
+        "foto3": "fio_rsa_gisellanuovo_camera.jpg",
+        "foto4": "",
+        "foto5": "",
+        "nome": "Villa Gisella Vecchio Padiglione",
+        "tipo": "",
+        "gestione": "privata",
+        "indirizzo": "Largo E. Caruso, 1",
+        "cod_comune": "48017",
+        "comune": "Firenze",
+        "zona": "Firenze",
+        "tel1_zona": "055-2616250",
+        "tel2_zona": "",
+        "tel3_zona": "",
+        "telefono": "055-2616250",
+        "rsa_ico_animazione": "animazione_socio-educativa.png",
+        "rsa_ico_fisioterapia": "fisioterapia.png",
+        "rsa_ico_cucina": "ristorazione_interna.png",
+        "rsa_ico_giardino": "giardino.png",
+        "rsa_ico_parrucchiere": "parrucchiere.png",
+        "rsa_ico_barbiere": "",
+        "rsa_ico_estetista": "",
+        "rsa_ico_relig": "assistenza_religiosa.png",
+        "rsa_ico_geriatra": "consulenza_medico_specialistica.png",
+        "rsa_ico_assistenza_infermieristica": "assistenza_infermieristica_notturna.png",
+        "rsa_ico_psicologo": "psicologo.png",
+        "rsa_ico_podologo": "podologo.png",
+        "rsa_ico_lavanderia": "lavanderia.png",
+        "rsa_ico_postoletto": "",
+        "rsa_posti_liberi": "1",
+        "rsa_quota": "70.00",
+        "rsa_quotasanitaria": "59.10",
+        "rsa_quota_img": "quota_gisella_vecchio.png",
+        "rsa_mod_base": "si",
+        "rsa_mod_cogn": "",
+        "rsa_mod_riab": "",
+        "rsa_mod_veg": "",
+        "rsa_attiva": "1",
+        "rsa_nome_brochure": "fio_rsa_gisellavecchio.pdf",
+        "rsa_data_aggiornamento": "2026.09.15 09:46:17",
+        "lat": "43.8076732438142997",
+        "lon": "11.2388767600980994",
+        "gbnord": "4852964",
+        "gbest": "1680111",
+        "accordo": "1",
+        "cod_sts24": "60934I",
+        "posti_liberi_m": "0",
+        "posti_liberi_f": "1",
+        "indirizzo_sede": "LARGO ENRICO CARUSO 1 ",
+        "comune_sede": "Firenze",
+        "fax_sede": "055 453127",
+        "telefono_sede": "055 4250028",
+        "email_sede": "uff.villagisella@gruppozaffiro.it",
+        "posta_certificata_sede": "zaffirohc@legalmail.it",
+        "json_data": "eyJpZCI6ODYsInN0cnV0dHVyYSI6eyJhdnZpc29EZWNpbWFsZSI6IiIsInBvc3RpX21vZHVsb19iYXNlIjo3MywicG9zdGlfbGliZXJpIjoxLCJwb3N0aV9saWJlcmlfbSI6MCwicG9zdGlfbGliZXJpX2YiOjEsImNmX2RpcmV0dG9yZSI6IlBUTE1UVDg5QzI1TDQ4M1kiLCJub21lX2RpcmV0dG9yZSI6Ik1hdHRlbyIsImNvZ25vbWVfZGlyZXR0b3JlIjoiUGl0dWVsbG8iLCJ0ZWxlZm9ub19yc2EiOiIwNTUgNDI1MDAyOCIsImZheF9yc2EiOiIwNTUgNDUzMTI3IiwiZW1haWwiOiJ1ZmYudmlsbGFnaXNlbGxhQGdydXBwb3phZmZpcm8uaXQiLCJzaXRvX2ludGVybmV0Ijoid3d3LmdydXBwb3phZmZpcm8uaXQiLCJ0YXJpZmZhX3ByaXZhdGFfcmFuZ2VkIjp7Im1pbmltYSI6MTIzLCJtYXNzaW1hIjoxMjN9LCJtb2R1bG8iOlsiTW9kdWxvIGJhc2UiXSwiaW5kaXJpenpvX3NlZGUiOiJMQVJHTyBFTlJJQ08gQ0FSVVNPIDEgIiwiY29kX2NvbXVuZV9zZWRlIjoiMDQ4MDE3IiwidGVsX3NlZGUiOiIwNTUgNDI1MDAyOCIsImZheF9zZWRlIjoiMDU1IDQ1MzEyNyIsImVtYWlsX3NlZGUiOiJ1ZmYudmlsbGFnaXNlbGxhQGdydXBwb3phZmZpcm8uaXQiLCJwb3N0YV9jZXJ0aWZpY2F0YV9zZWRlIjoiemFmZmlyb2hjQGxlZ2FsbWFpbC5pdCIsInJlc2lkZW56YSI6eyJudW1lcm9QaWFuaSI6MiwiZGV0dGFnbGlvQ2FtZXJlIjpbeyJudW1lcm9DYW1lcmUiOjI1LCJudW1lcm9MZXR0aSI6NzMsInNlcnZpemlQcmVzZW50aSI6WyJiYWdubyBkZWRpY2F0byIsImltcGlhbnRvIGNvbmRpemlvbmFtZW50byJdfV19LCJwdW50aURpSW50ZXJlc3NlIjpbImRpc3RyZXR0byBzYW5pdGFyaW8iLCJhdXRvYnVzIiwiYmlibGlvdGVjYSIsIm9zcGVkYWxlIl0sInNwYXppb0VzdGVybm8iOiJTSSIsInNlcnZpemlTb2Npb1Nhbml0YXJpIjp7ImFuaW1hemlvbmVTb2Npb0VkdWNhdGl2YSI6eyJhbmltYXppb25lU29jaW9FZHVjYXRpdmFTcGVjIjpbeyJnaW9ybmlTZXR0aW1hbmEiOlsibHVuZWRpIiwibWFydGVkaSIsIm1lcmNvbGVkaSIsImdpb3ZlZGkiLCJ2ZW5lcmRpIiwic2FiYXRvIl0sIm9yYUluaXppbyI6IjA5OjAwIiwib3JhRmluZSI6IjE3OjAwIn1dfSwiZmlzaW90ZXJhcGlhIjp7ImZpc2lvdGVyYXBpYVNwZWMiOlt7Imdpb3JuaVNldHRpbWFuYSI6WyJsdW5lZGkiLCJtYXJ0ZWRpIiwibWVyY29sZWRpIiwiZ2lvdmVkaSIsInZlbmVyZGkiXSwib3JhSW5pemlvIjoiMDk6MDAiLCJvcmFGaW5lIjoiMTc6MzAifV19LCJhc3Npc3RlbnphSW5mZXJtaWVyaXN0aWNhIjp7ImFzc2lzdGVuemFJbmZlcm1pZXJpc3RpY2FTcGVjIjp7InNjZWx0YSI6IjI0aCJ9fSwibWVkaWNpU3BlY2lhbGlzdGkiOnsic3ViVGl0bGUiOiIiLCJkZXR0YWdsaW9TcGVjaWFsaXN0aSI6W3sibWVkaWNvU3BlY2lhbGlzdGEiOiJnZXJpYXRyYSIsImVyb2dhemlvbmVTZXJ2aXppbyI6eyJudW1lcm9TZXR0aW1hbmEiOjV9LCJpbmNsdXNvUXVvdGEiOiJTSSJ9XX0sInBzaWNvbG9nbyI6eyJub25QcmV2aXN0byI6ZmFsc2UsImVyb2dhemlvbmVTZXJ2aXppbyI6eyJudW1lcm9TZXR0aW1hbmEiOjV9LCJpbmNsdXNvUXVvdGEiOiJTSSJ9LCJwb2RvbG9nbyI6eyJlcm9nYXppb25lU2Vydml6aW8iOiJOIHZvbHRlIGFsIG1lc2UiLCJudW1lcm9Wb2x0ZSI6MSwicHJlc3RhemlvbmlJbmNsdXNlTWVzZSI6MX19LCJzZXJ2aXppQWxiZXJnaGllcmkiOnsiY3VjaW5hIjp7InRpcG9DdWNpbmEiOiJJbnRlcm5hIn0sImxhdmFuZGVyaWEiOnsiaW5kdW1lbnRpX3BlcnNvbmFsaSI6Ik5PIn0sInBhcnJ1Y2NoaWVyZSI6eyJlcm9nYXppb25lU2Vydml6aW8iOiJOIHZvbHRlIGEgc2V0dGltYW5hIiwibnVtZXJvVm9sdGUiOjIsInByZXN0YXppb25pSW5jbHVzZU1lc2UiOjF9LCJlc3RldGlzdGEiOnsibm9uUHJldmlzdG8iOnRydWUsImVyb2dhemlvbmVTZXJ2aXppbyI6eyJzY2VsdGEiOiJUdXR0aSBpIGdpb3JuaSIsImFsbERheXMiOiJ0cnVlIn0sImluY2x1c29RdW90YSI6IlNJIn0sImFzc2lzdGVuemFSZWxpZ2lvc2EiOnsibm9uUHJldmlzdG8iOmZhbHNlLCJhcGVydHVyYVRpcGlDdWx0byI6IlNJIiwiYXNzaXN0ZW56YVJlbGlnaW9zYVNwZWMiOlt7Imdpb3JuaVNldHRpbWFuYSI6WyJtZXJjb2xlZGkiXSwib3JhIjoiMTU6MzAifV19fSwiYWx0cmlTZXJ2aXppIjp7ImVsZW5jb1NlcnZpemkiOnsiQXBwYXJ0YW1lbnRpIHByb3RldHRpIjpmYWxzZSwiQXNzaXN0ZW56YSBEb21pY2lsaWFyZSI6ZmFsc2UsIkFzc2lzdGVuemEgcmVzaWRlbnppYWxlIHBlciByaWZ1Z2lhdGkvcHJvZnVnaGkiOmZhbHNlLCJBdHRpdml0YScgZmlzaWNhIGFkYXR0YXRhIjpmYWxzZSwiQ2FzYSBkZWxsYSBzYWx1dGUiOmZhbHNlLCJDZW50cm8gZGkgc29jaWFsaXp6YXppb25lIHBlciBhdXRvc3VmZmljaWVudGkiOmZhbHNlLCJDZW50cm8gZGl1cm5vIEFsemhlaW1lciI6ZmFsc2UsIkNlbnRybyBkaXVybm8gcGVyIGF1dG9zdWZmaWNpZW50aSI6ZmFsc2UsIkNlbnRybyBkaXVybm8gcGVyIG5vbiBhdXRvc3VmZmljaWVudGkiOmZhbHNlLCJMYXZhbmRlcmlhIHBlciBhc3Npc3RpdGkgYSBkb21pY2lsaW8iOmZhbHNlLCJPcmdhbml6emF6aW9uZSBkZWwgdHJhc3BvcnRvIGUgYWNjb21wYWduYW1lbnRvIGRlZ2xpIGFzc2lzdGl0aSBkZWFtYnVsYW50aSBwZXIgdmlzaXRlL3ByZXN0YXppb25pIHNhbml0YXJpZSwgYXZ2aXNhbmRvbmUgaSBmYW1pbGlhcmkiOnRydWUsIlByZXN0YXppb25pIGRpIGFzc2lzdGVuemEgZGkgYmFzZSBwZXIgdXRlbnRpIGVzdGVybmkgKGJhZ25vIGFzc2lzdGl0bykiOmZhbHNlLCJSZXNpZGVuemEgcGVyIEF1dG9zdWZmaWNpZW50aSI6ZmFsc2UsIlJlc2lkZW56YSBzb2NpYWxlIHBlciBkaXNhYmlsaSAoUlNEKSI6ZmFsc2UsIlJpc3RvcmF6aW9uZSBhIGRvbWljaWxpbyI6ZmFsc2UsIlJpc3RvcmF6aW9uZSBwZXIgdXRlbnRpIGVzdGVybmkiOmZhbHNlLCJTZWdyZXRhcmlhdG8gc29jaWFsZSI6ZmFsc2UsIlNlcnZpemlvIENvbnRpbnVpdGEnIEFzc2lzdGVuemlhbGUgKEV4IEd1YXJkaWEgTWVkaWNhKSI6ZmFsc2UsIlRyYXNwb3J0byBwZXIgYWR1bHRpIGRpc2FiaWxpIjpmYWxzZX0sInNlcnZpemlBbW1pbmlzdHJhdGl2aSI6eyJzZXJ2aXppQW1taW5pc3RyYXRpdmlTcGVjIjpbeyJnaW9ybmlTZXR0aW1hbmEiOlsibHVuZWRpIiwibWFydGVkaSIsIm1lcmNvbGVkaSIsImdpb3ZlZGkiLCJ2ZW5lcmRpIl0sIm9yYUluaXppbyI6IjA5OjAwIiwib3JhRmluZSI6IjE3OjAwIn1dfSwiZGlyZXppb25lIjp7ImRpcmV6aW9uZVNwZWMiOlt7Imdpb3JuaVNldHRpbWFuYSI6WyJsdW5lZGkiLCJtYXJ0ZWRpIiwibWVyY29sZWRpIiwiZ2lvdmVkaSIsInZlbmVyZGkiXSwib3JhSW5pemlvIjoiMDk6MDAiLCJvcmFGaW5lIjoiMTc6MDAifV19LCJvcmFyaW9WaXNpdGUiOnsib3JhcmlvVmlzaXRlU3BlYyI6eyJvcmFyaVNlcnZpemlvIjp7Im9yYUluaXppbyI6IjExOjAwIiwib3JhRmluZSI6IjE5OjAwIiwib3JhSW5pemlvMiI6IiIsIm9yYUZpbmUyIjoiIn19fX19LCJhcnMiOnsibm9tZSI6IlZpbGxhIEdpc2VsbGEgVmVjY2hpbyBQYWRpZ2xpb25lIiwiY29kX3N0czI0IjoiNjA5MzRJIiwiYXR0aXZhIjoiMSIsImFjY29yZG8iOiIxIiwiaW5kaXJpenpvIjoiTGFyZ28gRS4gQ2FydXNvLCAxIiwiY29kX2NvbXVuZSI6IjQ4MDE3IiwiZ2VzdGlvbmUiOiJwcml2YXRhIiwicXVvdGEiOjcwLCJxdW90YXNhbml0YXJpYSI6NTkuMX19",
+        "posti_liberi_int": 1,
+        "posti_liberi_m_int": 0,
+        "posti_liberi_f_int": 1,
+        "decoded_details": {
+            "id": 86,
+            "struttura": {
+                "avvisoDecimale": "",
+                "posti_modulo_base": 73,
+                "posti_liberi": 1,
+                "posti_liberi_m": 0,
+                "posti_liberi_f": 1,
+                "cf_direttore": "PTLMTT89C25L483Y",
+                "nome_direttore": "Matteo",
+                "cognome_direttore": "Pituello",
+                "telefono_rsa": "055 4250028",
+                "fax_rsa": "055 453127",
+                "email": "uff.villagisella@gruppozaffiro.it",
+                "sito_internet": "www.gruppozaffiro.it",
+                "tariffa_privata_ranged": {
+                    "minima": 123,
+                    "massima": 123
+                },
+                "modulo": [
+                    "Modulo base"
+                ],
+                "indirizzo_sede": "LARGO ENRICO CARUSO 1 ",
+                "cod_comune_sede": "048017",
+                "tel_sede": "055 4250028",
+                "fax_sede": "055 453127",
+                "email_sede": "uff.villagisella@gruppozaffiro.it",
+                "posta_certificata_sede": "zaffirohc@legalmail.it",
+                "residenza": {
+                    "numeroPiani": 2,
+                    "dettaglioCamere": [
+                        {
+                            "numeroCamere": 25,
+                            "numeroLetti": 73,
+                            "serviziPresenti": [
+                                "bagno dedicato",
+                                "impianto condizionamento"
+                            ]
+                        }
+                    ]
+                },
+                "puntiDiInteresse": [
+                    "distretto sanitario",
+                    "autobus",
+                    "biblioteca",
+                    "ospedale"
+                ],
+                "spazioEsterno": "SI",
+                "serviziSocioSanitari": {
+                    "animazioneSocioEducativa": {
+                        "animazioneSocioEducativaSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "martedi",
+                                    "mercoledi",
+                                    "giovedi",
+                                    "venerdi",
+                                    "sabato"
+                                ],
+                                "oraInizio": "09:00",
+                                "oraFine": "17:00"
+                            }
+                        ]
+                    },
+                    "fisioterapia": {
+                        "fisioterapiaSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "martedi",
+                                    "mercoledi",
+                                    "giovedi",
+                                    "venerdi"
+                                ],
+                                "oraInizio": "09:00",
+                                "oraFine": "17:30"
+                            }
+                        ]
+                    },
+                    "assistenzaInfermieristica": {
+                        "assistenzaInfermieristicaSpec": {
+                            "scelta": "24h"
+                        }
+                    },
+                    "mediciSpecialisti": {
+                        "subTitle": "",
+                        "dettaglioSpecialisti": [
+                            {
+                                "medicoSpecialista": "geriatra",
+                                "erogazioneServizio": {
+                                    "numeroSettimana": 5
+                                },
+                                "inclusoQuota": "SI"
+                            }
+                        ]
+                    },
+                    "psicologo": {
+                        "nonPrevisto": false,
+                        "erogazioneServizio": {
+                            "numeroSettimana": 5
+                        },
+                        "inclusoQuota": "SI"
+                    },
+                    "podologo": {
+                        "erogazioneServizio": "N volte al mese",
+                        "numeroVolte": 1,
+                        "prestazioniIncluseMese": 1
+                    }
+                },
+                "serviziAlberghieri": {
+                    "cucina": {
+                        "tipoCucina": "Interna"
+                    },
+                    "lavanderia": {
+                        "indumenti_personali": "NO"
+                    },
+                    "parrucchiere": {
+                        "erogazioneServizio": "N volte a settimana",
+                        "numeroVolte": 2,
+                        "prestazioniIncluseMese": 1
+                    },
+                    "estetista": {
+                        "nonPrevisto": true,
+                        "erogazioneServizio": {
+                            "scelta": "Tutti i giorni",
+                            "allDays": "true"
+                        },
+                        "inclusoQuota": "SI"
+                    },
+                    "assistenzaReligiosa": {
+                        "nonPrevisto": false,
+                        "aperturaTipiCulto": "SI",
+                        "assistenzaReligiosaSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "mercoledi"
+                                ],
+                                "ora": "15:30"
+                            }
+                        ]
+                    }
+                },
+                "altriServizi": {
+                    "elencoServizi": {
+                        "Appartamenti protetti": false,
+                        "Assistenza Domiciliare": false,
+                        "Assistenza residenziale per rifugiati/profughi": false,
+                        "Attivita' fisica adattata": false,
+                        "Casa della salute": false,
+                        "Centro di socializzazione per autosufficienti": false,
+                        "Centro diurno Alzheimer": false,
+                        "Centro diurno per autosufficienti": false,
+                        "Centro diurno per non autosufficienti": false,
+                        "Lavanderia per assistiti a domicilio": false,
+                        "Organizzazione del trasporto e accompagnamento degli assistiti deambulanti per visite/prestazioni sanitarie, avvisandone i familiari": true,
+                        "Prestazioni di assistenza di base per utenti esterni (bagno assistito)": false,
+                        "Residenza per Autosufficienti": false,
+                        "Residenza sociale per disabili (RSD)": false,
+                        "Ristorazione a domicilio": false,
+                        "Ristorazione per utenti esterni": false,
+                        "Segretariato sociale": false,
+                        "Servizio Continuita' Assistenziale (Ex Guardia Medica)": false,
+                        "Trasporto per adulti disabili": false
+                    },
+                    "serviziAmministrativi": {
+                        "serviziAmministrativiSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "martedi",
+                                    "mercoledi",
+                                    "giovedi",
+                                    "venerdi"
+                                ],
+                                "oraInizio": "09:00",
+                                "oraFine": "17:00"
+                            }
+                        ]
+                    },
+                    "direzione": {
+                        "direzioneSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "martedi",
+                                    "mercoledi",
+                                    "giovedi",
+                                    "venerdi"
+                                ],
+                                "oraInizio": "09:00",
+                                "oraFine": "17:00"
+                            }
+                        ]
+                    },
+                    "orarioVisite": {
+                        "orarioVisiteSpec": {
+                            "orariServizio": {
+                                "oraInizio": "11:00",
+                                "oraFine": "19:00",
+                                "oraInizio2": "",
+                                "oraFine2": ""
+                            }
+                        }
+                    }
+                }
+            },
+            "ars": {
+                "nome": "Villa Gisella Vecchio Padiglione",
+                "cod_sts24": "60934I",
+                "attiva": "1",
+                "accordo": "1",
+                "indirizzo": "Largo E. Caruso, 1",
+                "cod_comune": "48017",
+                "gestione": "privata",
+                "quota": 70,
+                "quotasanitaria": 59.1
+            }
+        }
+    },
+    {
         "id": "33",
         "foto0": "lunig_Fivizzano_esterno.jpg",
         "foto1": "lunig_Fivizzano_sala.jpg",
