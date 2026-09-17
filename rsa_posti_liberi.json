@@ -2506,6 +2506,365 @@
         }
     },
     {
+        "id": "129",
+        "foto0": "fiose_rsa_fratesole_struttura.png",
+        "foto1": "fiose_rsa_fratesole_panorama.jpg",
+        "foto2": "fiose_rsa_fratesole_palestra.jpg",
+        "foto3": "fiose_rsa_fratesole_ingresso.jpg",
+        "foto4": "fiose_rsa_fratesole_camerasingola.jpg",
+        "foto5": "fiose_rsa_fratesole_cameradoppia.jpg",
+        "nome": "Frate Sole",
+        "tipo": "",
+        "gestione": "privata",
+        "indirizzo": "Via San Romolo, 109",
+        "cod_comune": "48052",
+        "comune": "Figline e Incisa Valdarno",
+        "zona": "Fiorentina Sud-Est",
+        "tel1_zona": "055-6936562",
+        "tel2_zona": "055-6936308",
+        "tel3_zona": "",
+        "telefono": "055-6936562 055-6936308",
+        "rsa_ico_animazione": "animazione_socio-educativa.png",
+        "rsa_ico_fisioterapia": "fisioterapia.png",
+        "rsa_ico_cucina": "ristorazione_interna.png",
+        "rsa_ico_giardino": "giardino.png",
+        "rsa_ico_parrucchiere": "parrucchiere.png",
+        "rsa_ico_barbiere": "",
+        "rsa_ico_estetista": "estetista.png",
+        "rsa_ico_relig": "assistenza_religiosa.png",
+        "rsa_ico_geriatra": "consulenza_medico_specialistica_p.png",
+        "rsa_ico_assistenza_infermieristica": "assistenza_infermieristica_notturna.png",
+        "rsa_ico_psicologo": "psicologo.png",
+        "rsa_ico_podologo": "podologo.png",
+        "rsa_ico_lavanderia": "lavanderia.png",
+        "rsa_ico_postoletto": "",
+        "rsa_posti_liberi": "1",
+        "rsa_quota": "65.00",
+        "rsa_quotasanitaria": "59.10",
+        "rsa_quota_img": "fiose_quota_fratesole.png",
+        "rsa_mod_base": "si",
+        "rsa_mod_cogn": "",
+        "rsa_mod_riab": "",
+        "rsa_mod_veg": "",
+        "rsa_attiva": "1",
+        "rsa_nome_brochure": "fiose_frate_sole.pdf",
+        "rsa_data_aggiornamento": "2026.09.17 16:31:11",
+        "lat": "43.613268230355402",
+        "lon": "11.4682583926090995",
+        "gbnord": "4831896",
+        "gbest": "1699205",
+        "accordo": "1",
+        "cod_sts24": "80094I",
+        "posti_liberi_m": "0",
+        "posti_liberi_f": "1",
+        "indirizzo_sede": "Via San Romolo 109",
+        "comune_sede": "Figline e Incisa Valdarno",
+        "fax_sede": "055/9153093",
+        "telefono_sede": "055915301",
+        "email_sede": "rsa.fratesole@korian.it",
+        "posta_certificata_sede": "frate.sole@pec.it",
+        "json_data": "eyJpZCI6MTI5LCJzdHJ1dHR1cmEiOnsiYXZ2aXNvRGVjaW1hbGUiOiIiLCJwb3N0aV9tb2R1bG9fYmFzZSI6NzUsInBvc3RpX2xpYmVyaSI6MSwicG9zdGlfbGliZXJpX20iOjAsInBvc3RpX2xpYmVyaV9mIjoxLCJjZl9kaXJldHRvcmUiOiJibmRmbmM3NnQyMWQ2MTJnIiwibm9tZV9kaXJldHRvcmUiOiJGcmFuY2VzY28gIiwiY29nbm9tZV9kaXJldHRvcmUiOiJCaW9uZGkiLCJ0ZWxlZm9ub19yc2EiOiIwNTUgOTE1MzAxIiwiZmF4X3JzYSI6IjA1NS85MTUzMDkzIiwiZW1haWwiOiJyc2EuZnJhdGVzb2xlQGtvcmlhbi5pdCIsInNpdG9faW50ZXJuZXQiOiJ3d3cua29yaWFuLml0IiwidGFyaWZmYV9wcml2YXRhX3JhbmdlZCI6eyJtaW5pbWEiOjEyMi40LCJtYXNzaW1hIjoxNjR9LCJtb2R1bG8iOlsiTW9kdWxvIGJhc2UiXSwiaW5kaXJpenpvX3NlZGUiOiJWaWEgU2FuIFJvbW9sbyAxMDkiLCJjb2RfY29tdW5lX3NlZGUiOiIwNDgwNTIiLCJ0ZWxfc2VkZSI6IjA1NTkxNTMwMSIsImZheF9zZWRlIjoiMDU1LzkxNTMwOTMiLCJlbWFpbF9zZWRlIjoicnNhLmZyYXRlc29sZUBrb3JpYW4uaXQiLCJwb3N0YV9jZXJ0aWZpY2F0YV9zZWRlIjoiZnJhdGUuc29sZUBwZWMuaXQiLCJyZXNpZGVuemEiOnsibnVtZXJvUGlhbmkiOjEsImRldHRhZ2xpb0NhbWVyZSI6W3sibnVtZXJvQ2FtZXJlIjo0MSwibnVtZXJvTGV0dGkiOjc1LCJzZXJ2aXppUHJlc2VudGkiOlsiYmFnbm8gZGVkaWNhdG8iLCJ0diIsIndpZmkiLCJ0ZWxlZm9ubyBwb3N0byBsZXR0byIsImltcGlhbnRvIGNvbmRpemlvbmFtZW50byIsImJhbGNvbmUiXX1dfSwicHVudGlEaUludGVyZXNzZSI6WyJkaXN0cmV0dG8gc2FuaXRhcmlvIiwiY2hpZXNhIiwiY2VudHJvIHN0b3JpY28iLCJzdGF6aW9uZSBmZXJyb3ZpYXJpYSIsIm9zcGVkYWxlIl0sInNwYXppb0VzdGVybm8iOiJTSSIsInNlcnZpemlTb2Npb1Nhbml0YXJpIjp7ImFuaW1hemlvbmVTb2Npb0VkdWNhdGl2YSI6eyJhbmltYXppb25lU29jaW9FZHVjYXRpdmFTcGVjIjp7Im9yYUluaXppbyI6IjA5OjAwIiwib3JhRmluZSI6IjEyOjAwIiwib3JhSW5pemlvMiI6IjE1OjAwIiwib3JhRmluZTIiOiIxOTowMCJ9fSwiZmlzaW90ZXJhcGlhIjp7ImZpc2lvdGVyYXBpYVNwZWMiOlt7Imdpb3JuaVNldHRpbWFuYSI6WyJsdW5lZGkiLCJtYXJ0ZWRpIiwibWVyY29sZWRpIiwiZ2lvdmVkaSIsInZlbmVyZGkiXSwib3JhSW5pemlvIjoiMDk6MDAiLCJvcmFGaW5lIjoiMTI6MzAifSx7Imdpb3JuaVNldHRpbWFuYSI6WyJsdW5lZGkiLCJtYXJ0ZWRpIiwibWVyY29sZWRpIiwiZ2lvdmVkaSIsInZlbmVyZGkiXSwib3JhSW5pemlvIjoiMTQ6MzAiLCJvcmFGaW5lIjoiMTg6MDAifSx7Imdpb3JuaVNldHRpbWFuYSI6WyJzYWJhdG8iXSwib3JhSW5pemlvIjoiMDk6MDAiLCJvcmFGaW5lIjoiMTI6MzAifV19LCJhc3Npc3RlbnphSW5mZXJtaWVyaXN0aWNhIjp7ImFzc2lzdGVuemFJbmZlcm1pZXJpc3RpY2FTcGVjIjp7InNjZWx0YSI6IjI0aCJ9fSwibWVkaWNpU3BlY2lhbGlzdGkiOnsic3ViVGl0bGUiOiIiLCJkZXR0YWdsaW9TcGVjaWFsaXN0aSI6W3sibWVkaWNvU3BlY2lhbGlzdGEiOiJnZXJpYXRyYSIsImVyb2dhemlvbmVTZXJ2aXppbyI6eyJudW1lcm9TZXR0aW1hbmEiOjV9LCJpbmNsdXNvUXVvdGEiOiJTSSJ9LHsibWVkaWNvU3BlY2lhbGlzdGEiOiJmaXNpYXRyYSIsImVyb2dhemlvbmVTZXJ2aXppbyI6eyJzY2VsdGEiOiJTdSByaWNoaWVzdGEiLCJvblJlcXVlc3QiOiJ0cnVlIn0sImluY2x1c29RdW90YSI6Ik5PIn0seyJtZWRpY29TcGVjaWFsaXN0YSI6ImNhcmRpb2xvZ28iLCJlcm9nYXppb25lU2Vydml6aW8iOnsic2NlbHRhIjoiU3UgcmljaGllc3RhIiwib25SZXF1ZXN0IjoidHJ1ZSJ9LCJpbmNsdXNvUXVvdGEiOiJOTyJ9LHsibWVkaWNvU3BlY2lhbGlzdGEiOiJkZXJtYXRvbG9nbyIsImVyb2dhemlvbmVTZXJ2aXppbyI6eyJzY2VsdGEiOiJTdSByaWNoaWVzdGEiLCJvblJlcXVlc3QiOiJ0cnVlIn0sImluY2x1c29RdW90YSI6Ik5PIn0seyJtZWRpY29TcGVjaWFsaXN0YSI6ImNoaXJ1cmdvIiwiZXJvZ2F6aW9uZVNlcnZpemlvIjp7InNjZWx0YSI6IlN1IHJpY2hpZXN0YSIsIm9uUmVxdWVzdCI6InRydWUifSwiaW5jbHVzb1F1b3RhIjoiTk8ifSx7Im1lZGljb1NwZWNpYWxpc3RhIjoibnV0cml6aW9uaXN0YSIsImVyb2dhemlvbmVTZXJ2aXppbyI6eyJzY2VsdGEiOiJTdSByaWNoaWVzdGEiLCJvblJlcXVlc3QiOiJ0cnVlIn0sImluY2x1c29RdW90YSI6Ik5PIn0seyJtZWRpY29TcGVjaWFsaXN0YSI6Im5ldXJvbG9nbyIsImVyb2dhemlvbmVTZXJ2aXppbyI6eyJzY2VsdGEiOiJTdSByaWNoaWVzdGEiLCJvblJlcXVlc3QiOiJ0cnVlIn0sImluY2x1c29RdW90YSI6Ik5PIn0seyJtZWRpY29TcGVjaWFsaXN0YSI6ImRlbnRpc3RhIiwiZXJvZ2F6aW9uZVNlcnZpemlvIjp7InNjZWx0YSI6IlN1IHJpY2hpZXN0YSIsIm9uUmVxdWVzdCI6InRydWUifSwiaW5jbHVzb1F1b3RhIjoiTk8ifV19LCJwc2ljb2xvZ28iOnsibm9uUHJldmlzdG8iOmZhbHNlLCJlcm9nYXppb25lU2Vydml6aW8iOnsibnVtZXJvU2V0dGltYW5hIjoxfSwiaW5jbHVzb1F1b3RhIjoiU0kifSwicG9kb2xvZ28iOnsiZXJvZ2F6aW9uZVNlcnZpemlvIjoiTiB2b2x0ZSBhbCBtZXNlIiwibnVtZXJvVm9sdGUiOjEsInByZXN0YXppb25pSW5jbHVzZU1lc2UiOjF9fSwic2Vydml6aUFsYmVyZ2hpZXJpIjp7ImN1Y2luYSI6eyJ0aXBvQ3VjaW5hIjoiSW50ZXJuYSJ9LCJsYXZhbmRlcmlhIjp7ImluZHVtZW50aV9wZXJzb25hbGkiOiJOTyJ9LCJwYXJydWNjaGllcmUiOnsiZXJvZ2F6aW9uZVNlcnZpemlvIjoiTiB2b2x0ZSBhIHNldHRpbWFuYSIsIm51bWVyb1ZvbHRlIjoyLCJwcmVzdGF6aW9uaUluY2x1c2VNZXNlIjoxfSwiZXN0ZXRpc3RhIjp7Im5vblByZXZpc3RvIjpmYWxzZSwiZXJvZ2F6aW9uZVNlcnZpemlvIjp7InNjZWx0YSI6IlN1IHJpY2hpZXN0YSIsIm9uUmVxdWVzdCI6InRydWUifSwiaW5jbHVzb1F1b3RhIjoiTk8ifSwiYXNzaXN0ZW56YVJlbGlnaW9zYSI6eyJub25QcmV2aXN0byI6ZmFsc2UsImFwZXJ0dXJhVGlwaUN1bHRvIjoiU0kiLCJhc3Npc3RlbnphUmVsaWdpb3NhU3BlYyI6W3siZ2lvcm5pU2V0dGltYW5hIjpbInNhYmF0byJdLCJvcmEiOiIxNjowMCJ9XX19LCJhbHRyaVNlcnZpemkiOnsiZWxlbmNvU2Vydml6aSI6eyJBcHBhcnRhbWVudGkgcHJvdGV0dGkiOmZhbHNlLCJBc3Npc3RlbnphIERvbWljaWxpYXJlIjpmYWxzZSwiQXNzaXN0ZW56YSByZXNpZGVuemlhbGUgcGVyIHJpZnVnaWF0aS9wcm9mdWdoaSI6ZmFsc2UsIkF0dGl2aXRhJyBmaXNpY2EgYWRhdHRhdGEiOmZhbHNlLCJDYXNhIGRlbGxhIHNhbHV0ZSI6ZmFsc2UsIkNlbnRybyBkaSBzb2NpYWxpenphemlvbmUgcGVyIGF1dG9zdWZmaWNpZW50aSI6ZmFsc2UsIkNlbnRybyBkaXVybm8gQWx6aGVpbWVyIjpmYWxzZSwiQ2VudHJvIGRpdXJubyBwZXIgYXV0b3N1ZmZpY2llbnRpIjpmYWxzZSwiQ2VudHJvIGRpdXJubyBwZXIgbm9uIGF1dG9zdWZmaWNpZW50aSI6ZmFsc2UsIkxhdmFuZGVyaWEgcGVyIGFzc2lzdGl0aSBhIGRvbWljaWxpbyI6ZmFsc2UsIk9yZ2FuaXp6YXppb25lIGRlbCB0cmFzcG9ydG8gZSBhY2NvbXBhZ25hbWVudG8gZGVnbGkgYXNzaXN0aXRpIGRlYW1idWxhbnRpIHBlciB2aXNpdGUvcHJlc3Rhemlvbmkgc2FuaXRhcmllLCBhdnZpc2FuZG9uZSBpIGZhbWlsaWFyaSI6ZmFsc2UsIlByZXN0YXppb25pIGRpIGFzc2lzdGVuemEgZGkgYmFzZSBwZXIgdXRlbnRpIGVzdGVybmkgKGJhZ25vIGFzc2lzdGl0bykiOmZhbHNlLCJSZXNpZGVuemEgcGVyIEF1dG9zdWZmaWNpZW50aSI6dHJ1ZSwiUmVzaWRlbnphIHNvY2lhbGUgcGVyIGRpc2FiaWxpIChSU0QpIjpmYWxzZSwiUmlzdG9yYXppb25lIGEgZG9taWNpbGlvIjpmYWxzZSwiUmlzdG9yYXppb25lIHBlciB1dGVudGkgZXN0ZXJuaSI6ZmFsc2UsIlNlZ3JldGFyaWF0byBzb2NpYWxlIjp0cnVlLCJTZXJ2aXppbyBDb250aW51aXRhJyBBc3Npc3RlbnppYWxlIChFeCBHdWFyZGlhIE1lZGljYSkiOmZhbHNlLCJUcmFzcG9ydG8gcGVyIGFkdWx0aSBkaXNhYmlsaSI6ZmFsc2V9LCJzZXJ2aXppQW1taW5pc3RyYXRpdmkiOnsic2Vydml6aUFtbWluaXN0cmF0aXZpU3BlYyI6W3siZ2lvcm5pU2V0dGltYW5hIjpbImx1bmVkaSIsIm1hcnRlZGkiLCJtZXJjb2xlZGkiLCJ2ZW5lcmRpIl0sIm9yYUluaXppbyI6IjA3OjMwIiwib3JhRmluZSI6IjE4OjMwIn0seyJnaW9ybmlTZXR0aW1hbmEiOlsic2FiYXRvIl0sIm9yYUluaXppbyI6IjA4OjAwIiwib3JhRmluZSI6IjE3OjAwIn1dfSwiZGlyZXppb25lIjp7ImRpcmV6aW9uZVNwZWMiOlt7Imdpb3JuaVNldHRpbWFuYSI6WyJsdW5lZGkiLCJtYXJ0ZWRpIiwibWVyY29sZWRpIiwiZ2lvdmVkaSIsInZlbmVyZGkiXSwib3JhSW5pemlvIjoiMDg6MzAiLCJvcmFGaW5lIjoiMTg6MDAifV19LCJvcmFyaW9WaXNpdGUiOnsib3JhcmlvVmlzaXRlU3BlYyI6eyJvcmFyaVNlcnZpemlvIjp7Im9yYUluaXppbyI6IjA5OjAwIiwib3JhRmluZSI6IjIwOjAwIiwib3JhSW5pemlvMiI6IiIsIm9yYUZpbmUyIjoiIn19fX19LCJhcnMiOnsibm9tZSI6IkZyYXRlIFNvbGUiLCJjb2Rfc3RzMjQiOiI4MDA5NEkiLCJhdHRpdmEiOiIxIiwiYWNjb3JkbyI6IjEiLCJpbmRpcml6em8iOiJWaWEgU2FuIFJvbW9sbywgMTA5IiwiY29kX2NvbXVuZSI6IjQ4MDUyIiwiZ2VzdGlvbmUiOiJwcml2YXRhIiwicXVvdGEiOjY1LCJxdW90YXNhbml0YXJpYSI6NTkuMX19",
+        "posti_liberi_int": 1,
+        "posti_liberi_m_int": 0,
+        "posti_liberi_f_int": 1,
+        "decoded_details": {
+            "id": 129,
+            "struttura": {
+                "avvisoDecimale": "",
+                "posti_modulo_base": 75,
+                "posti_liberi": 1,
+                "posti_liberi_m": 0,
+                "posti_liberi_f": 1,
+                "cf_direttore": "bndfnc76t21d612g",
+                "nome_direttore": "Francesco ",
+                "cognome_direttore": "Biondi",
+                "telefono_rsa": "055 915301",
+                "fax_rsa": "055/9153093",
+                "email": "rsa.fratesole@korian.it",
+                "sito_internet": "www.korian.it",
+                "tariffa_privata_ranged": {
+                    "minima": 122.4,
+                    "massima": 164
+                },
+                "modulo": [
+                    "Modulo base"
+                ],
+                "indirizzo_sede": "Via San Romolo 109",
+                "cod_comune_sede": "048052",
+                "tel_sede": "055915301",
+                "fax_sede": "055/9153093",
+                "email_sede": "rsa.fratesole@korian.it",
+                "posta_certificata_sede": "frate.sole@pec.it",
+                "residenza": {
+                    "numeroPiani": 1,
+                    "dettaglioCamere": [
+                        {
+                            "numeroCamere": 41,
+                            "numeroLetti": 75,
+                            "serviziPresenti": [
+                                "bagno dedicato",
+                                "tv",
+                                "wifi",
+                                "telefono posto letto",
+                                "impianto condizionamento",
+                                "balcone"
+                            ]
+                        }
+                    ]
+                },
+                "puntiDiInteresse": [
+                    "distretto sanitario",
+                    "chiesa",
+                    "centro storico",
+                    "stazione ferroviaria",
+                    "ospedale"
+                ],
+                "spazioEsterno": "SI",
+                "serviziSocioSanitari": {
+                    "animazioneSocioEducativa": {
+                        "animazioneSocioEducativaSpec": {
+                            "oraInizio": "09:00",
+                            "oraFine": "12:00",
+                            "oraInizio2": "15:00",
+                            "oraFine2": "19:00"
+                        }
+                    },
+                    "fisioterapia": {
+                        "fisioterapiaSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "martedi",
+                                    "mercoledi",
+                                    "giovedi",
+                                    "venerdi"
+                                ],
+                                "oraInizio": "09:00",
+                                "oraFine": "12:30"
+                            },
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "martedi",
+                                    "mercoledi",
+                                    "giovedi",
+                                    "venerdi"
+                                ],
+                                "oraInizio": "14:30",
+                                "oraFine": "18:00"
+                            },
+                            {
+                                "giorniSettimana": [
+                                    "sabato"
+                                ],
+                                "oraInizio": "09:00",
+                                "oraFine": "12:30"
+                            }
+                        ]
+                    },
+                    "assistenzaInfermieristica": {
+                        "assistenzaInfermieristicaSpec": {
+                            "scelta": "24h"
+                        }
+                    },
+                    "mediciSpecialisti": {
+                        "subTitle": "",
+                        "dettaglioSpecialisti": [
+                            {
+                                "medicoSpecialista": "geriatra",
+                                "erogazioneServizio": {
+                                    "numeroSettimana": 5
+                                },
+                                "inclusoQuota": "SI"
+                            },
+                            {
+                                "medicoSpecialista": "fisiatra",
+                                "erogazioneServizio": {
+                                    "scelta": "Su richiesta",
+                                    "onRequest": "true"
+                                },
+                                "inclusoQuota": "NO"
+                            },
+                            {
+                                "medicoSpecialista": "cardiologo",
+                                "erogazioneServizio": {
+                                    "scelta": "Su richiesta",
+                                    "onRequest": "true"
+                                },
+                                "inclusoQuota": "NO"
+                            },
+                            {
+                                "medicoSpecialista": "dermatologo",
+                                "erogazioneServizio": {
+                                    "scelta": "Su richiesta",
+                                    "onRequest": "true"
+                                },
+                                "inclusoQuota": "NO"
+                            },
+                            {
+                                "medicoSpecialista": "chirurgo",
+                                "erogazioneServizio": {
+                                    "scelta": "Su richiesta",
+                                    "onRequest": "true"
+                                },
+                                "inclusoQuota": "NO"
+                            },
+                            {
+                                "medicoSpecialista": "nutrizionista",
+                                "erogazioneServizio": {
+                                    "scelta": "Su richiesta",
+                                    "onRequest": "true"
+                                },
+                                "inclusoQuota": "NO"
+                            },
+                            {
+                                "medicoSpecialista": "neurologo",
+                                "erogazioneServizio": {
+                                    "scelta": "Su richiesta",
+                                    "onRequest": "true"
+                                },
+                                "inclusoQuota": "NO"
+                            },
+                            {
+                                "medicoSpecialista": "dentista",
+                                "erogazioneServizio": {
+                                    "scelta": "Su richiesta",
+                                    "onRequest": "true"
+                                },
+                                "inclusoQuota": "NO"
+                            }
+                        ]
+                    },
+                    "psicologo": {
+                        "nonPrevisto": false,
+                        "erogazioneServizio": {
+                            "numeroSettimana": 1
+                        },
+                        "inclusoQuota": "SI"
+                    },
+                    "podologo": {
+                        "erogazioneServizio": "N volte al mese",
+                        "numeroVolte": 1,
+                        "prestazioniIncluseMese": 1
+                    }
+                },
+                "serviziAlberghieri": {
+                    "cucina": {
+                        "tipoCucina": "Interna"
+                    },
+                    "lavanderia": {
+                        "indumenti_personali": "NO"
+                    },
+                    "parrucchiere": {
+                        "erogazioneServizio": "N volte a settimana",
+                        "numeroVolte": 2,
+                        "prestazioniIncluseMese": 1
+                    },
+                    "estetista": {
+                        "nonPrevisto": false,
+                        "erogazioneServizio": {
+                            "scelta": "Su richiesta",
+                            "onRequest": "true"
+                        },
+                        "inclusoQuota": "NO"
+                    },
+                    "assistenzaReligiosa": {
+                        "nonPrevisto": false,
+                        "aperturaTipiCulto": "SI",
+                        "assistenzaReligiosaSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "sabato"
+                                ],
+                                "ora": "16:00"
+                            }
+                        ]
+                    }
+                },
+                "altriServizi": {
+                    "elencoServizi": {
+                        "Appartamenti protetti": false,
+                        "Assistenza Domiciliare": false,
+                        "Assistenza residenziale per rifugiati/profughi": false,
+                        "Attivita' fisica adattata": false,
+                        "Casa della salute": false,
+                        "Centro di socializzazione per autosufficienti": false,
+                        "Centro diurno Alzheimer": false,
+                        "Centro diurno per autosufficienti": false,
+                        "Centro diurno per non autosufficienti": false,
+                        "Lavanderia per assistiti a domicilio": false,
+                        "Organizzazione del trasporto e accompagnamento degli assistiti deambulanti per visite/prestazioni sanitarie, avvisandone i familiari": false,
+                        "Prestazioni di assistenza di base per utenti esterni (bagno assistito)": false,
+                        "Residenza per Autosufficienti": true,
+                        "Residenza sociale per disabili (RSD)": false,
+                        "Ristorazione a domicilio": false,
+                        "Ristorazione per utenti esterni": false,
+                        "Segretariato sociale": true,
+                        "Servizio Continuita' Assistenziale (Ex Guardia Medica)": false,
+                        "Trasporto per adulti disabili": false
+                    },
+                    "serviziAmministrativi": {
+                        "serviziAmministrativiSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "martedi",
+                                    "mercoledi",
+                                    "venerdi"
+                                ],
+                                "oraInizio": "07:30",
+                                "oraFine": "18:30"
+                            },
+                            {
+                                "giorniSettimana": [
+                                    "sabato"
+                                ],
+                                "oraInizio": "08:00",
+                                "oraFine": "17:00"
+                            }
+                        ]
+                    },
+                    "direzione": {
+                        "direzioneSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "martedi",
+                                    "mercoledi",
+                                    "giovedi",
+                                    "venerdi"
+                                ],
+                                "oraInizio": "08:30",
+                                "oraFine": "18:00"
+                            }
+                        ]
+                    },
+                    "orarioVisite": {
+                        "orarioVisiteSpec": {
+                            "orariServizio": {
+                                "oraInizio": "09:00",
+                                "oraFine": "20:00",
+                                "oraInizio2": "",
+                                "oraFine2": ""
+                            }
+                        }
+                    }
+                }
+            },
+            "ars": {
+                "nome": "Frate Sole",
+                "cod_sts24": "80094I",
+                "attiva": "1",
+                "accordo": "1",
+                "indirizzo": "Via San Romolo, 109",
+                "cod_comune": "48052",
+                "gestione": "privata",
+                "quota": 65,
+                "quotasanitaria": 59.1
+            }
+        }
+    },
+    {
         "id": "85",
         "foto0": "fio_rsa_gisellanuovo_struttura.png",
         "foto1": "fio_rsa_gisellanuovo_cucina.jpg",
