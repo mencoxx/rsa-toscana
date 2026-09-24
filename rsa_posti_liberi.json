@@ -3217,6 +3217,320 @@
         }
     },
     {
+        "id": "64",
+        "foto0": "fio_chiocciola_struttura.png",
+        "foto1": "fio_chiocciola_sala.jpg",
+        "foto2": "fio_chiocciola_palestra.jpg",
+        "foto3": "fio_chiocciola_interno.jpg",
+        "foto4": "fio_chiocciola_camera.jpg",
+        "foto5": "",
+        "nome": "La Chiocciola",
+        "tipo": "",
+        "gestione": "privata",
+        "indirizzo": "Via dell'Osteria, 8",
+        "cod_comune": "48017",
+        "comune": "Firenze",
+        "zona": "Firenze",
+        "tel1_zona": "055-2616250",
+        "tel2_zona": "",
+        "tel3_zona": "",
+        "telefono": "055-2616250",
+        "rsa_ico_animazione": "animazione_socio-educativa.png",
+        "rsa_ico_fisioterapia": "fisioterapia.png",
+        "rsa_ico_cucina": "ristorazione_esterna.png",
+        "rsa_ico_giardino": "giardino.png",
+        "rsa_ico_parrucchiere": "parrucchiere.png",
+        "rsa_ico_barbiere": "",
+        "rsa_ico_estetista": "",
+        "rsa_ico_relig": "assistenza_religiosa.png",
+        "rsa_ico_geriatra": "consulenza_medico_specialistica.png",
+        "rsa_ico_assistenza_infermieristica": "assistenza_infermieristica.png",
+        "rsa_ico_psicologo": "",
+        "rsa_ico_podologo": "podologo.png",
+        "rsa_ico_lavanderia": "lavanderia.png",
+        "rsa_ico_postoletto": "",
+        "rsa_posti_liberi": "4",
+        "rsa_quota": "66.00",
+        "rsa_quotasanitaria": "59.10",
+        "rsa_quota_img": "quota_chiocciola.png",
+        "rsa_mod_base": "si",
+        "rsa_mod_cogn": "",
+        "rsa_mod_riab": "",
+        "rsa_mod_veg": "",
+        "rsa_attiva": "1",
+        "rsa_nome_brochure": "fio_rsa_chiocciola.pdf",
+        "rsa_data_aggiornamento": "2026.09.24 09:34:59",
+        "lat": "43.7915698518308005",
+        "lon": "11.1800278122566006",
+        "gbnord": "4851049",
+        "gbest": "1675425",
+        "accordo": "1",
+        "cod_sts24": "14244I",
+        "posti_liberi_m": "1",
+        "posti_liberi_f": "3",
+        "indirizzo_sede": "via del guarlone 28",
+        "comune_sede": "Firenze",
+        "fax_sede": "0556260434",
+        "telefono_sede": "05562601",
+        "email_sede": "segreteria@consorzio-zenit.it",
+        "posta_certificata_sede": "consorziozenit@pec.consorzio-zenit.it",
+        "json_data": "eyJpZCI6NjQsInN0cnV0dHVyYSI6eyJhdnZpc29EZWNpbWFsZSI6IiIsInBvc3RpX21vZHVsb19iYXNlIjo1OCwicG9zdGlfbGliZXJpIjo0LCJwb3N0aV9saWJlcmlfbSI6MSwicG9zdGlfbGliZXJpX2YiOjMsImNmX2RpcmV0dG9yZSI6IkRTVE1HUjgzUDY1QzYxNkUiLCJub21lX2RpcmV0dG9yZSI6Ik1hcmlhIEdyYXppYSIsImNvZ25vbWVfZGlyZXR0b3JlIjoiRGVzdGl0byIsInRlbGVmb25vX3JzYSI6IjA1NSA2OTM0MzAyIiwiZmF4X3JzYSI6IjA1NTY5MzQzNjQiLCJlbWFpbCI6InJzYWxhY2hpb2NjaW9sYUBjb25zb3J6aW8temVuaXQuaXQiLCJzaXRvX2ludGVybmV0Ijoid3d3LmNvbnNvcnppby16ZW5pdC5pdCIsInRhcmlmZmFfcHJpdmF0YV9yYW5nZWQiOnsibWluaW1hIjoxMDAsIm1hc3NpbWEiOjExOS45fSwibW9kdWxvIjpbIk1vZHVsbyBiYXNlIl0sImluZGlyaXp6b19zZWRlIjoidmlhIGRlbCBndWFybG9uZSAyOCIsImNvZF9jb211bmVfc2VkZSI6IjA0ODAxNyIsInRlbF9zZWRlIjoiMDU1NjI2MDEiLCJmYXhfc2VkZSI6IjA1NTYyNjA0MzQiLCJlbWFpbF9zZWRlIjoic2VncmV0ZXJpYUBjb25zb3J6aW8temVuaXQuaXQiLCJwb3N0YV9jZXJ0aWZpY2F0YV9zZWRlIjoiY29uc29yemlvemVuaXRAcGVjLmNvbnNvcnppby16ZW5pdC5pdCIsInJlc2lkZW56YSI6eyJudW1lcm9QaWFuaSI6MSwiZGV0dGFnbGlvQ2FtZXJlIjpbeyJudW1lcm9DYW1lcmUiOjQsIm51bWVyb0xldHRpIjoxLCJzZXJ2aXppUHJlc2VudGkiOlsiYmFnbm8gZGVkaWNhdG8iLCJ0diIsImltcGlhbnRvIGNvbmRpemlvbmFtZW50byIsImJhbGNvbmUiXX0seyJudW1lcm9DYW1lcmUiOjMzLCJudW1lcm9MZXR0aSI6Miwic2Vydml6aVByZXNlbnRpIjpbImJhZ25vIGRlZGljYXRvIiwidHYiLCJpbXBpYW50byBjb25kaXppb25hbWVudG8iLCJiYWxjb25lIl19XX0sInB1bnRpRGlJbnRlcmVzc2UiOlsiZGlzdHJldHRvIHNhbml0YXJpbyIsImF1dG9idXMiLCJjaGllc2EiLCJzdGF6aW9uZSBmZXJyb3ZpYXJpYSIsImFzc29jaWF6aW9uaSBkaSB2b2xvbnRhcmlhdG8iXSwic3BhemlvRXN0ZXJubyI6IlNJIiwic2Vydml6aVNvY2lvU2FuaXRhcmkiOnsiYW5pbWF6aW9uZVNvY2lvRWR1Y2F0aXZhIjp7ImFuaW1hemlvbmVTb2Npb0VkdWNhdGl2YVNwZWMiOlt7Imdpb3JuaVNldHRpbWFuYSI6WyJtYXJ0ZWRpIiwibWVyY29sZWRpIl0sIm9yYUluaXppbyI6IjA5OjAwIiwib3JhRmluZSI6IjE4OjAwIn0seyJnaW9ybmlTZXR0aW1hbmEiOlsibHVuZWRpIiwiZ2lvdmVkaSIsInZlbmVyZGkiXSwib3JhSW5pemlvIjoiMDk6MDAiLCJvcmFGaW5lIjoiMTQ6MDAifSx7Imdpb3JuaVNldHRpbWFuYSI6WyJzYWJhdG8iXSwib3JhSW5pemlvIjoiMDk6MDAiLCJvcmFGaW5lIjoiMTg6MDAifV19LCJmaXNpb3RlcmFwaWEiOnsiZmlzaW90ZXJhcGlhU3BlYyI6W3siZ2lvcm5pU2V0dGltYW5hIjpbImx1bmVkaSIsIm1hcnRlZGkiLCJtZXJjb2xlZGkiLCJnaW92ZWRpIiwidmVuZXJkaSJdLCJvcmFJbml6aW8iOiIwODowMCIsIm9yYUZpbmUiOiIxNjowMCJ9XX0sImFzc2lzdGVuemFJbmZlcm1pZXJpc3RpY2EiOnsiYXNzaXN0ZW56YUluZmVybWllcmlzdGljYVNwZWMiOnsicmVwZXJpYmlsaXRhTm90dHVybmEiOiJTSSIsIm9yYXJpU2Vydml6aW8iOnsib3JhSW5pemlvIjoiMDc6MDAiLCJvcmFGaW5lIjoiMjA6MDAiLCJvcmFJbml6aW8yIjoiIiwib3JhRmluZTIiOiIifX19LCJtZWRpY2lTcGVjaWFsaXN0aSI6eyJzdWJUaXRsZSI6IiIsImRldHRhZ2xpb1NwZWNpYWxpc3RpIjpbeyJtZWRpY29TcGVjaWFsaXN0YSI6ImdlcmlhdHJhIiwiZXJvZ2F6aW9uZVNlcnZpemlvIjp7Im51bWVyb1NldHRpbWFuYSI6MX0sImluY2x1c29RdW90YSI6IlNJIn1dfSwicHNpY29sb2dvIjp7Im5vblByZXZpc3RvIjp0cnVlLCJlcm9nYXppb25lU2Vydml6aW8iOnsic2NlbHRhIjoiVHV0dGkgaSBnaW9ybmkiLCJhbGxEYXlzIjoidHJ1ZSJ9LCJpbmNsdXNvUXVvdGEiOiJTSSJ9LCJwb2RvbG9nbyI6eyJlcm9nYXppb25lU2Vydml6aW8iOiJOIHZvbHRlIGFsIG1lc2UiLCJudW1lcm9Wb2x0ZSI6MiwicHJlc3RhemlvbmlJbmNsdXNlTWVzZSI6MX19LCJzZXJ2aXppQWxiZXJnaGllcmkiOnsiY3VjaW5hIjp7InRpcG9DdWNpbmEiOiJFc3Rlcm5hIn0sImxhdmFuZGVyaWEiOnsiaW5kdW1lbnRpX3BlcnNvbmFsaSI6Ik5PIn0sInBhcnJ1Y2NoaWVyZSI6eyJlcm9nYXppb25lU2Vydml6aW8iOiJOIHZvbHRlIGFsIG1lc2UiLCJudW1lcm9Wb2x0ZSI6MiwicHJlc3RhemlvbmlJbmNsdXNlTWVzZSI6MX0sImVzdGV0aXN0YSI6eyJub25QcmV2aXN0byI6dHJ1ZSwiZXJvZ2F6aW9uZVNlcnZpemlvIjp7InNjZWx0YSI6IlR1dHRpIGkgZ2lvcm5pIiwiYWxsRGF5cyI6InRydWUifSwiaW5jbHVzb1F1b3RhIjoiU0kifSwiYXNzaXN0ZW56YVJlbGlnaW9zYSI6eyJub25QcmV2aXN0byI6ZmFsc2UsImFwZXJ0dXJhVGlwaUN1bHRvIjoiU0kiLCJhc3Npc3RlbnphUmVsaWdpb3NhU3BlYyI6W3siZ2lvcm5pU2V0dGltYW5hIjpbImdpb3ZlZGkiXSwib3JhIjoiMTU6MDAifV19fSwiYWx0cmlTZXJ2aXppIjp7ImVsZW5jb1NlcnZpemkiOnsiQXBwYXJ0YW1lbnRpIHByb3RldHRpIjpmYWxzZSwiQXNzaXN0ZW56YSBEb21pY2lsaWFyZSI6ZmFsc2UsIkFzc2lzdGVuemEgcmVzaWRlbnppYWxlIHBlciByaWZ1Z2lhdGkvcHJvZnVnaGkiOmZhbHNlLCJBdHRpdml0YScgZmlzaWNhIGFkYXR0YXRhIjp0cnVlLCJDYXNhIGRlbGxhIHNhbHV0ZSI6ZmFsc2UsIkNlbnRybyBkaSBzb2NpYWxpenphemlvbmUgcGVyIGF1dG9zdWZmaWNpZW50aSI6ZmFsc2UsIkNlbnRybyBkaXVybm8gQWx6aGVpbWVyIjpmYWxzZSwiQ2VudHJvIGRpdXJubyBwZXIgYXV0b3N1ZmZpY2llbnRpIjpmYWxzZSwiQ2VudHJvIGRpdXJubyBwZXIgbm9uIGF1dG9zdWZmaWNpZW50aSI6ZmFsc2UsIkxhdmFuZGVyaWEgcGVyIGFzc2lzdGl0aSBhIGRvbWljaWxpbyI6ZmFsc2UsIk9yZ2FuaXp6YXppb25lIGRlbCB0cmFzcG9ydG8gZSBhY2NvbXBhZ25hbWVudG8gZGVnbGkgYXNzaXN0aXRpIGRlYW1idWxhbnRpIHBlciB2aXNpdGUvcHJlc3Rhemlvbmkgc2FuaXRhcmllLCBhdnZpc2FuZG9uZSBpIGZhbWlsaWFyaSI6dHJ1ZSwiUHJlc3RhemlvbmkgZGkgYXNzaXN0ZW56YSBkaSBiYXNlIHBlciB1dGVudGkgZXN0ZXJuaSAoYmFnbm8gYXNzaXN0aXRvKSI6ZmFsc2UsIlJlc2lkZW56YSBwZXIgQXV0b3N1ZmZpY2llbnRpIjpmYWxzZSwiUmVzaWRlbnphIHNvY2lhbGUgcGVyIGRpc2FiaWxpIChSU0QpIjpmYWxzZSwiUmlzdG9yYXppb25lIGEgZG9taWNpbGlvIjpmYWxzZSwiUmlzdG9yYXppb25lIHBlciB1dGVudGkgZXN0ZXJuaSI6ZmFsc2UsIlNlZ3JldGFyaWF0byBzb2NpYWxlIjpmYWxzZSwiU2Vydml6aW8gQ29udGludWl0YScgQXNzaXN0ZW56aWFsZSAoRXggR3VhcmRpYSBNZWRpY2EpIjpmYWxzZSwiVHJhc3BvcnRvIHBlciBhZHVsdGkgZGlzYWJpbGkiOmZhbHNlfSwic2Vydml6aUFtbWluaXN0cmF0aXZpIjp7InNlcnZpemlBbW1pbmlzdHJhdGl2aVNwZWMiOlt7Imdpb3JuaVNldHRpbWFuYSI6WyJsdW5lZGkiLCJtYXJ0ZWRpIiwibWVyY29sZWRpIiwiZ2lvdmVkaSIsInZlbmVyZGkiXSwib3JhSW5pemlvIjoiMDk6MDAiLCJvcmFGaW5lIjoiMTM6MDAifV19LCJkaXJlemlvbmUiOnsiZGlyZXppb25lU3BlYyI6W3siZ2lvcm5pU2V0dGltYW5hIjpbImx1bmVkaSIsIm1hcnRlZGkiLCJtZXJjb2xlZGkiLCJnaW92ZWRpIiwidmVuZXJkaSJdLCJvcmFJbml6aW8iOiIwODozMCIsIm9yYUZpbmUiOiIxNTowMCJ9XX0sIm9yYXJpb1Zpc2l0ZSI6eyJvcmFyaW9WaXNpdGVTcGVjIjp7Im9yYXJpU2Vydml6aW8iOnsib3JhSW5pemlvIjoiMDk6MzAiLCJvcmFGaW5lIjoiMTE6MzAiLCJvcmFJbml6aW8yIjoiMTU6MzAiLCJvcmFGaW5lMiI6IjE3OjAwIn19fX19LCJhcnMiOnsibm9tZSI6IkxhIENoaW9jY2lvbGEiLCJjb2Rfc3RzMjQiOiIxNDI0NEkiLCJhdHRpdmEiOiIxIiwiYWNjb3JkbyI6IjEiLCJpbmRpcml6em8iOiJWaWEgZGVsbCdPc3RlcmlhLCA4IiwiY29kX2NvbXVuZSI6IjQ4MDE3IiwiZ2VzdGlvbmUiOiJwcml2YXRhIiwicXVvdGEiOjY2LCJxdW90YXNhbml0YXJpYSI6NTkuMX19",
+        "posti_liberi_int": 4,
+        "posti_liberi_m_int": 1,
+        "posti_liberi_f_int": 3,
+        "decoded_details": {
+            "id": 64,
+            "struttura": {
+                "avvisoDecimale": "",
+                "posti_modulo_base": 58,
+                "posti_liberi": 4,
+                "posti_liberi_m": 1,
+                "posti_liberi_f": 3,
+                "cf_direttore": "DSTMGR83P65C616E",
+                "nome_direttore": "Maria Grazia",
+                "cognome_direttore": "Destito",
+                "telefono_rsa": "055 6934302",
+                "fax_rsa": "0556934364",
+                "email": "rsalachiocciola@consorzio-zenit.it",
+                "sito_internet": "www.consorzio-zenit.it",
+                "tariffa_privata_ranged": {
+                    "minima": 100,
+                    "massima": 119.9
+                },
+                "modulo": [
+                    "Modulo base"
+                ],
+                "indirizzo_sede": "via del guarlone 28",
+                "cod_comune_sede": "048017",
+                "tel_sede": "05562601",
+                "fax_sede": "0556260434",
+                "email_sede": "segreteria@consorzio-zenit.it",
+                "posta_certificata_sede": "consorziozenit@pec.consorzio-zenit.it",
+                "residenza": {
+                    "numeroPiani": 1,
+                    "dettaglioCamere": [
+                        {
+                            "numeroCamere": 4,
+                            "numeroLetti": 1,
+                            "serviziPresenti": [
+                                "bagno dedicato",
+                                "tv",
+                                "impianto condizionamento",
+                                "balcone"
+                            ]
+                        },
+                        {
+                            "numeroCamere": 33,
+                            "numeroLetti": 2,
+                            "serviziPresenti": [
+                                "bagno dedicato",
+                                "tv",
+                                "impianto condizionamento",
+                                "balcone"
+                            ]
+                        }
+                    ]
+                },
+                "puntiDiInteresse": [
+                    "distretto sanitario",
+                    "autobus",
+                    "chiesa",
+                    "stazione ferroviaria",
+                    "associazioni di volontariato"
+                ],
+                "spazioEsterno": "SI",
+                "serviziSocioSanitari": {
+                    "animazioneSocioEducativa": {
+                        "animazioneSocioEducativaSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "martedi",
+                                    "mercoledi"
+                                ],
+                                "oraInizio": "09:00",
+                                "oraFine": "18:00"
+                            },
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "giovedi",
+                                    "venerdi"
+                                ],
+                                "oraInizio": "09:00",
+                                "oraFine": "14:00"
+                            },
+                            {
+                                "giorniSettimana": [
+                                    "sabato"
+                                ],
+                                "oraInizio": "09:00",
+                                "oraFine": "18:00"
+                            }
+                        ]
+                    },
+                    "fisioterapia": {
+                        "fisioterapiaSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "martedi",
+                                    "mercoledi",
+                                    "giovedi",
+                                    "venerdi"
+                                ],
+                                "oraInizio": "08:00",
+                                "oraFine": "16:00"
+                            }
+                        ]
+                    },
+                    "assistenzaInfermieristica": {
+                        "assistenzaInfermieristicaSpec": {
+                            "reperibilitaNotturna": "SI",
+                            "orariServizio": {
+                                "oraInizio": "07:00",
+                                "oraFine": "20:00",
+                                "oraInizio2": "",
+                                "oraFine2": ""
+                            }
+                        }
+                    },
+                    "mediciSpecialisti": {
+                        "subTitle": "",
+                        "dettaglioSpecialisti": [
+                            {
+                                "medicoSpecialista": "geriatra",
+                                "erogazioneServizio": {
+                                    "numeroSettimana": 1
+                                },
+                                "inclusoQuota": "SI"
+                            }
+                        ]
+                    },
+                    "psicologo": {
+                        "nonPrevisto": true,
+                        "erogazioneServizio": {
+                            "scelta": "Tutti i giorni",
+                            "allDays": "true"
+                        },
+                        "inclusoQuota": "SI"
+                    },
+                    "podologo": {
+                        "erogazioneServizio": "N volte al mese",
+                        "numeroVolte": 2,
+                        "prestazioniIncluseMese": 1
+                    }
+                },
+                "serviziAlberghieri": {
+                    "cucina": {
+                        "tipoCucina": "Esterna"
+                    },
+                    "lavanderia": {
+                        "indumenti_personali": "NO"
+                    },
+                    "parrucchiere": {
+                        "erogazioneServizio": "N volte al mese",
+                        "numeroVolte": 2,
+                        "prestazioniIncluseMese": 1
+                    },
+                    "estetista": {
+                        "nonPrevisto": true,
+                        "erogazioneServizio": {
+                            "scelta": "Tutti i giorni",
+                            "allDays": "true"
+                        },
+                        "inclusoQuota": "SI"
+                    },
+                    "assistenzaReligiosa": {
+                        "nonPrevisto": false,
+                        "aperturaTipiCulto": "SI",
+                        "assistenzaReligiosaSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "giovedi"
+                                ],
+                                "ora": "15:00"
+                            }
+                        ]
+                    }
+                },
+                "altriServizi": {
+                    "elencoServizi": {
+                        "Appartamenti protetti": false,
+                        "Assistenza Domiciliare": false,
+                        "Assistenza residenziale per rifugiati/profughi": false,
+                        "Attivita' fisica adattata": true,
+                        "Casa della salute": false,
+                        "Centro di socializzazione per autosufficienti": false,
+                        "Centro diurno Alzheimer": false,
+                        "Centro diurno per autosufficienti": false,
+                        "Centro diurno per non autosufficienti": false,
+                        "Lavanderia per assistiti a domicilio": false,
+                        "Organizzazione del trasporto e accompagnamento degli assistiti deambulanti per visite/prestazioni sanitarie, avvisandone i familiari": true,
+                        "Prestazioni di assistenza di base per utenti esterni (bagno assistito)": false,
+                        "Residenza per Autosufficienti": false,
+                        "Residenza sociale per disabili (RSD)": false,
+                        "Ristorazione a domicilio": false,
+                        "Ristorazione per utenti esterni": false,
+                        "Segretariato sociale": false,
+                        "Servizio Continuita' Assistenziale (Ex Guardia Medica)": false,
+                        "Trasporto per adulti disabili": false
+                    },
+                    "serviziAmministrativi": {
+                        "serviziAmministrativiSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "martedi",
+                                    "mercoledi",
+                                    "giovedi",
+                                    "venerdi"
+                                ],
+                                "oraInizio": "09:00",
+                                "oraFine": "13:00"
+                            }
+                        ]
+                    },
+                    "direzione": {
+                        "direzioneSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "martedi",
+                                    "mercoledi",
+                                    "giovedi",
+                                    "venerdi"
+                                ],
+                                "oraInizio": "08:30",
+                                "oraFine": "15:00"
+                            }
+                        ]
+                    },
+                    "orarioVisite": {
+                        "orarioVisiteSpec": {
+                            "orariServizio": {
+                                "oraInizio": "09:30",
+                                "oraFine": "11:30",
+                                "oraInizio2": "15:30",
+                                "oraFine2": "17:00"
+                            }
+                        }
+                    }
+                }
+            },
+            "ars": {
+                "nome": "La Chiocciola",
+                "cod_sts24": "14244I",
+                "attiva": "1",
+                "accordo": "1",
+                "indirizzo": "Via dell'Osteria, 8",
+                "cod_comune": "48017",
+                "gestione": "privata",
+                "quota": 66,
+                "quotasanitaria": 59.1
+            }
+        }
+    },
+    {
         "id": "85",
         "foto0": "fio_rsa_gisellanuovo_struttura.png",
         "foto1": "fio_rsa_gisellanuovo_cucina.jpg",
