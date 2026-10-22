@@ -4436,6 +4436,353 @@
         }
     },
     {
+        "id": "238",
+        "foto0": "pialu_piacasa_struttura.png",
+        "foto1": "",
+        "foto2": "",
+        "foto3": "",
+        "foto4": "",
+        "foto5": "",
+        "nome": "Pia Casa",
+        "tipo": "",
+        "gestione": "privata",
+        "indirizzo": "Via Santa Chiara, 6",
+        "cod_comune": "46017",
+        "comune": "Lucca",
+        "zona": "Piana di Lucca",
+        "tel1_zona": "0583 449898",
+        "tel2_zona": "",
+        "tel3_zona": "",
+        "telefono": "0583-449898",
+        "rsa_ico_animazione": "animazione_socio-educativa.png",
+        "rsa_ico_fisioterapia": "fisioterapia.png",
+        "rsa_ico_cucina": "ristorazione_esterna.png",
+        "rsa_ico_giardino": "giardino.png",
+        "rsa_ico_parrucchiere": "parrucchiere.png",
+        "rsa_ico_barbiere": "",
+        "rsa_ico_estetista": "estetista.png",
+        "rsa_ico_relig": "assistenza_religiosa.png",
+        "rsa_ico_geriatra": "consulenza_medico_specialistica.png",
+        "rsa_ico_assistenza_infermieristica": "assistenza_infermieristica_notturna.png",
+        "rsa_ico_psicologo": "psicologo.png",
+        "rsa_ico_podologo": "podologo.png",
+        "rsa_ico_lavanderia": "lavanderia.png",
+        "rsa_ico_postoletto": "",
+        "rsa_posti_liberi": "2",
+        "rsa_quota": "59.00",
+        "rsa_quotasanitaria": "59.10",
+        "rsa_quota_img": "pilu_quota_piacasa.png",
+        "rsa_mod_base": "si",
+        "rsa_mod_cogn": "",
+        "rsa_mod_riab": "",
+        "rsa_mod_veg": "",
+        "rsa_attiva": "1",
+        "rsa_nome_brochure": "pialu_piacasa.pdf",
+        "rsa_data_aggiornamento": "2026.10.22 14:17:27",
+        "lat": "43.8433520427074015",
+        "lon": "10.5108266916036008",
+        "gbnord": "4855600",
+        "gbest": "1621477",
+        "accordo": "1",
+        "cod_sts24": "10314I",
+        "posti_liberi_m": "0",
+        "posti_liberi_f": "2",
+        "indirizzo_sede": "Via di fregionaia 692/D",
+        "comune_sede": "Lucca",
+        "fax_sede": "0583464549",
+        "telefono_sede": "0583464549",
+        "email_sede": "segreteria@cooplasalute.it",
+        "posta_certificata_sede": "c.lasalute@email.it",
+        "json_data": "eyJpZCI6MjM4LCJzdHJ1dHR1cmEiOnsiYXZ2aXNvRGVjaW1hbGUiOiIiLCJwb3N0aV9tb2R1bG9fYmFzZSI6NjEsInBvc3RpX2xpYmVyaSI6MiwicG9zdGlfbGliZXJpX20iOjAsInBvc3RpX2xpYmVyaV9mIjoyLCJjZl9kaXJldHRvcmUiOiJLWlpETkQ2M0EyMloxMDBZIiwibm9tZV9kaXJldHRvcmUiOiJFZG1vbmQgIiwiY29nbm9tZV9kaXJldHRvcmUiOiJLYXphemkiLCJ0ZWxlZm9ub19yc2EiOiIgMDU4Mzk1MDk0OSAvIDM0NTY3NjIyNDcgIiwiZmF4X3JzYSI6IiIsImVtYWlsIjoiZGlyZXppb25lLnBpYWNhc2FAY29vcGxhc2FsdXRlLml0Iiwic2l0b19pbnRlcm5ldCI6IiIsInRhcmlmZmFfcHJpdmF0YV9yYW5nZWQiOnsibWluaW1hIjoxMjYsIm1hc3NpbWEiOjEyNn0sIm1vZHVsbyI6WyJNb2R1bG8gYmFzZSJdLCJpbmRpcml6em9fc2VkZSI6IlZpYSBkaSBmcmVnaW9uYWlhIDY5Mi9EIiwiY29kX2NvbXVuZV9zZWRlIjoiMDQ2MDE3IiwidGVsX3NlZGUiOiIwNTgzNDY0NTQ5IiwiZmF4X3NlZGUiOiIwNTgzNDY0NTQ5IiwiZW1haWxfc2VkZSI6InNlZ3JldGVyaWFAY29vcGxhc2FsdXRlLml0IiwicG9zdGFfY2VydGlmaWNhdGFfc2VkZSI6ImMubGFzYWx1dGVAZW1haWwuaXQiLCJyZXNpZGVuemEiOnsibnVtZXJvUGlhbmkiOjIsImRldHRhZ2xpb0NhbWVyZSI6W3sibnVtZXJvQ2FtZXJlIjoxNiwibnVtZXJvTGV0dGkiOjIsInNlcnZpemlQcmVzZW50aSI6WyJiYWdubyBkZWRpY2F0byIsInR2IiwiaW1waWFudG8gY29uZGl6aW9uYW1lbnRvIl19LHsibnVtZXJvQ2FtZXJlIjo5LCJudW1lcm9MZXR0aSI6Miwic2Vydml6aVByZXNlbnRpIjpbImJhZ25vIGNvbmRpdmlzbyIsInR2IiwiaW1waWFudG8gY29uZGl6aW9uYW1lbnRvIl19LHsibnVtZXJvQ2FtZXJlIjoxLCJudW1lcm9MZXR0aSI6MSwic2Vydml6aVByZXNlbnRpIjpbImJhZ25vIGRlZGljYXRvIiwidHYiLCJpbXBpYW50byBjb25kaXppb25hbWVudG8iXX0seyJudW1lcm9DYW1lcmUiOjEwLCJudW1lcm9MZXR0aSI6MSwic2Vydml6aVByZXNlbnRpIjpbImJhZ25vIGNvbmRpdmlzbyIsInR2IiwiaW1waWFudG8gY29uZGl6aW9uYW1lbnRvIl19XX0sInB1bnRpRGlJbnRlcmVzc2UiOlsiZGlzdHJldHRvIHNhbml0YXJpbyIsImF1dG9idXMiLCJjaGllc2EiLCJjZW50cm8gc3RvcmljbyIsInRlYXRybyIsImNpbmVtYSIsImJpYmxpb3RlY2EiLCJhc3NvY2lhemlvbmkgZGkgdm9sb250YXJpYXRvIl0sInNwYXppb0VzdGVybm8iOiJTSSIsInNlcnZpemlTb2Npb1Nhbml0YXJpIjp7ImFuaW1hemlvbmVTb2Npb0VkdWNhdGl2YSI6eyJhbmltYXppb25lU29jaW9FZHVjYXRpdmFTcGVjIjpbeyJnaW9ybmlTZXR0aW1hbmEiOlsibHVuZWRpIiwibWFydGVkaSIsIm1lcmNvbGVkaSIsImdpb3ZlZGkiLCJ2ZW5lcmRpIiwic2FiYXRvIl0sIm9yYUluaXppbyI6IjA4OjAwIiwib3JhRmluZSI6IjEzOjAwIn0seyJnaW9ybmlTZXR0aW1hbmEiOlsibHVuZWRpIiwibWFydGVkaSIsIm1lcmNvbGVkaSIsImdpb3ZlZGkiLCJ2ZW5lcmRpIiwic2FiYXRvIl0sIm9yYUluaXppbyI6IjE1OjMwIiwib3JhRmluZSI6IjE5OjAwIn1dfSwiZmlzaW90ZXJhcGlhIjp7ImZpc2lvdGVyYXBpYVNwZWMiOlt7Imdpb3JuaVNldHRpbWFuYSI6WyJsdW5lZGkiLCJtYXJ0ZWRpIiwibWVyY29sZWRpIiwiZ2lvdmVkaSIsInZlbmVyZGkiLCJzYWJhdG8iXSwib3JhSW5pemlvIjoiMDg6MDAiLCJvcmFGaW5lIjoiMTI6MDAifSx7Imdpb3JuaVNldHRpbWFuYSI6WyJsdW5lZGkiLCJtYXJ0ZWRpIiwibWVyY29sZWRpIiwiZ2lvdmVkaSJdLCJvcmFJbml6aW8iOiIxNDozMCIsIm9yYUZpbmUiOiIxNzozMCJ9XX0sImFzc2lzdGVuemFJbmZlcm1pZXJpc3RpY2EiOnsiYXNzaXN0ZW56YUluZmVybWllcmlzdGljYVNwZWMiOnsic2NlbHRhIjoiMjRoIn19LCJtZWRpY2lTcGVjaWFsaXN0aSI6eyJzdWJUaXRsZSI6IiIsImRldHRhZ2xpb1NwZWNpYWxpc3RpIjpbeyJtZWRpY29TcGVjaWFsaXN0YSI6ImNoaXJ1cmdvIiwiZXJvZ2F6aW9uZVNlcnZpemlvIjp7Im51bWVyb1NldHRpbWFuYSI6MX0sImluY2x1c29RdW90YSI6IlNJIn1dfSwicHNpY29sb2dvIjp7Im5vblByZXZpc3RvIjpmYWxzZSwiZXJvZ2F6aW9uZVNlcnZpemlvIjp7Im51bWVyb01lc2UiOjF9LCJpbmNsdXNvUXVvdGEiOiJTSSJ9LCJwb2RvbG9nbyI6eyJlcm9nYXppb25lU2Vydml6aW8iOiJOIHZvbHRlIGFsIG1lc2UiLCJudW1lcm9Wb2x0ZSI6MiwicHJlc3RhemlvbmlJbmNsdXNlTWVzZSI6Mn19LCJzZXJ2aXppQWxiZXJnaGllcmkiOnsiY3VjaW5hIjp7InRpcG9DdWNpbmEiOiJFc3Rlcm5hIn0sImxhdmFuZGVyaWEiOnsiaW5kdW1lbnRpX3BlcnNvbmFsaSI6IlNJIn0sInBhcnJ1Y2NoaWVyZSI6eyJlcm9nYXppb25lU2Vydml6aW8iOiJOIHZvbHRlIGFsIG1lc2UiLCJudW1lcm9Wb2x0ZSI6MiwicHJlc3RhemlvbmlJbmNsdXNlTWVzZSI6Mn0sImVzdGV0aXN0YSI6eyJub25QcmV2aXN0byI6ZmFsc2UsImVyb2dhemlvbmVTZXJ2aXppbyI6eyJudW1lcm9NZXNlIjoyfSwiaW5jbHVzb1F1b3RhIjoiU0kifSwiYXNzaXN0ZW56YVJlbGlnaW9zYSI6eyJub25QcmV2aXN0byI6ZmFsc2UsImFwZXJ0dXJhVGlwaUN1bHRvIjoiU0kiLCJhc3Npc3RlbnphUmVsaWdpb3NhU3BlYyI6W3siZ2lvcm5pU2V0dGltYW5hIjpbInNhYmF0byJdLCJvcmEiOiIxMDowMCJ9XX19LCJhbHRyaVNlcnZpemkiOnsiZWxlbmNvU2Vydml6aSI6eyJBcHBhcnRhbWVudGkgcHJvdGV0dGkiOnRydWUsIkFzc2lzdGVuemEgRG9taWNpbGlhcmUiOmZhbHNlLCJBc3Npc3RlbnphIHJlc2lkZW56aWFsZSBwZXIgcmlmdWdpYXRpL3Byb2Z1Z2hpIjpmYWxzZSwiQXR0aXZpdGEnIGZpc2ljYSBhZGF0dGF0YSI6ZmFsc2UsIkNhc2EgZGVsbGEgc2FsdXRlIjpmYWxzZSwiQ2VudHJvIGRpIHNvY2lhbGl6emF6aW9uZSBwZXIgYXV0b3N1ZmZpY2llbnRpIjpmYWxzZSwiQ2VudHJvIGRpdXJubyBBbHpoZWltZXIiOmZhbHNlLCJDZW50cm8gZGl1cm5vIHBlciBhdXRvc3VmZmljaWVudGkiOnRydWUsIkNlbnRybyBkaXVybm8gcGVyIG5vbiBhdXRvc3VmZmljaWVudGkiOnRydWUsIkxhdmFuZGVyaWEgcGVyIGFzc2lzdGl0aSBhIGRvbWljaWxpbyI6ZmFsc2UsIk9yZ2FuaXp6YXppb25lIGRlbCB0cmFzcG9ydG8gZSBhY2NvbXBhZ25hbWVudG8gZGVnbGkgYXNzaXN0aXRpIGRlYW1idWxhbnRpIHBlciB2aXNpdGUvcHJlc3Rhemlvbmkgc2FuaXRhcmllLCBhdnZpc2FuZG9uZSBpIGZhbWlsaWFyaSI6dHJ1ZSwiUHJlc3RhemlvbmkgZGkgYXNzaXN0ZW56YSBkaSBiYXNlIHBlciB1dGVudGkgZXN0ZXJuaSAoYmFnbm8gYXNzaXN0aXRvKSI6ZmFsc2UsIlJlc2lkZW56YSBwZXIgQXV0b3N1ZmZpY2llbnRpIjp0cnVlLCJSZXNpZGVuemEgc29jaWFsZSBwZXIgZGlzYWJpbGkgKFJTRCkiOmZhbHNlLCJSaXN0b3JhemlvbmUgYSBkb21pY2lsaW8iOmZhbHNlLCJSaXN0b3JhemlvbmUgcGVyIHV0ZW50aSBlc3Rlcm5pIjpmYWxzZSwiU2VncmV0YXJpYXRvIHNvY2lhbGUiOmZhbHNlLCJTZXJ2aXppbyBDb250aW51aXRhJyBBc3Npc3RlbnppYWxlIChFeCBHdWFyZGlhIE1lZGljYSkiOmZhbHNlLCJUcmFzcG9ydG8gcGVyIGFkdWx0aSBkaXNhYmlsaSI6ZmFsc2V9LCJzZXJ2aXppQW1taW5pc3RyYXRpdmkiOnsic2Vydml6aUFtbWluaXN0cmF0aXZpU3BlYyI6W3siZ2lvcm5pU2V0dGltYW5hIjpbImx1bmVkaSIsIm1hcnRlZGkiLCJtZXJjb2xlZGkiLCJnaW92ZWRpIiwidmVuZXJkaSJdLCJvcmFJbml6aW8iOiIwOTowMCIsIm9yYUZpbmUiOiIxMzozMCJ9LHsiZ2lvcm5pU2V0dGltYW5hIjpbImx1bmVkaSIsIm1hcnRlZGkiLCJtZXJjb2xlZGkiLCJnaW92ZWRpIiwidmVuZXJkaSJdLCJvcmFJbml6aW8iOiIxNDozMCIsIm9yYUZpbmUiOiIxNzozMCJ9XX0sImRpcmV6aW9uZSI6eyJkaXJlemlvbmVTcGVjIjpbeyJnaW9ybmlTZXR0aW1hbmEiOlsibHVuZWRpIiwibWFydGVkaSIsIm1lcmNvbGVkaSIsImdpb3ZlZGkiLCJ2ZW5lcmRpIl0sIm9yYUluaXppbyI6IjA5OjAwIiwib3JhRmluZSI6IjE3OjAwIn1dfSwib3JhcmlvVmlzaXRlIjp7Im9yYXJpb1Zpc2l0ZVNwZWMiOnsib3JhcmlTZXJ2aXppbyI6eyJvcmFJbml6aW8iOiIxMDowMCIsIm9yYUZpbmUiOiIxMjowMCIsIm9yYUluaXppbzIiOiIxNTozMCIsIm9yYUZpbmUyIjoiMTg6MDAifX19fX0sImFycyI6eyJub21lIjoiUGlhIENhc2EiLCJjb2Rfc3RzMjQiOiIxMDMxNEkiLCJhdHRpdmEiOiIxIiwiYWNjb3JkbyI6IjEiLCJpbmRpcml6em8iOiJWaWEgU2FudGEgQ2hpYXJhLCA2IiwiY29kX2NvbXVuZSI6IjQ2MDE3IiwiZ2VzdGlvbmUiOiJwcml2YXRhIiwicXVvdGEiOjU5LCJxdW90YXNhbml0YXJpYSI6NTkuMX19",
+        "posti_liberi_int": 2,
+        "posti_liberi_m_int": 0,
+        "posti_liberi_f_int": 2,
+        "decoded_details": {
+            "id": 238,
+            "struttura": {
+                "avvisoDecimale": "",
+                "posti_modulo_base": 61,
+                "posti_liberi": 2,
+                "posti_liberi_m": 0,
+                "posti_liberi_f": 2,
+                "cf_direttore": "KZZDND63A22Z100Y",
+                "nome_direttore": "Edmond ",
+                "cognome_direttore": "Kazazi",
+                "telefono_rsa": " 0583950949 / 3456762247 ",
+                "fax_rsa": "",
+                "email": "direzione.piacasa@cooplasalute.it",
+                "sito_internet": "",
+                "tariffa_privata_ranged": {
+                    "minima": 126,
+                    "massima": 126
+                },
+                "modulo": [
+                    "Modulo base"
+                ],
+                "indirizzo_sede": "Via di fregionaia 692/D",
+                "cod_comune_sede": "046017",
+                "tel_sede": "0583464549",
+                "fax_sede": "0583464549",
+                "email_sede": "segreteria@cooplasalute.it",
+                "posta_certificata_sede": "c.lasalute@email.it",
+                "residenza": {
+                    "numeroPiani": 2,
+                    "dettaglioCamere": [
+                        {
+                            "numeroCamere": 16,
+                            "numeroLetti": 2,
+                            "serviziPresenti": [
+                                "bagno dedicato",
+                                "tv",
+                                "impianto condizionamento"
+                            ]
+                        },
+                        {
+                            "numeroCamere": 9,
+                            "numeroLetti": 2,
+                            "serviziPresenti": [
+                                "bagno condiviso",
+                                "tv",
+                                "impianto condizionamento"
+                            ]
+                        },
+                        {
+                            "numeroCamere": 1,
+                            "numeroLetti": 1,
+                            "serviziPresenti": [
+                                "bagno dedicato",
+                                "tv",
+                                "impianto condizionamento"
+                            ]
+                        },
+                        {
+                            "numeroCamere": 10,
+                            "numeroLetti": 1,
+                            "serviziPresenti": [
+                                "bagno condiviso",
+                                "tv",
+                                "impianto condizionamento"
+                            ]
+                        }
+                    ]
+                },
+                "puntiDiInteresse": [
+                    "distretto sanitario",
+                    "autobus",
+                    "chiesa",
+                    "centro storico",
+                    "teatro",
+                    "cinema",
+                    "biblioteca",
+                    "associazioni di volontariato"
+                ],
+                "spazioEsterno": "SI",
+                "serviziSocioSanitari": {
+                    "animazioneSocioEducativa": {
+                        "animazioneSocioEducativaSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "martedi",
+                                    "mercoledi",
+                                    "giovedi",
+                                    "venerdi",
+                                    "sabato"
+                                ],
+                                "oraInizio": "08:00",
+                                "oraFine": "13:00"
+                            },
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "martedi",
+                                    "mercoledi",
+                                    "giovedi",
+                                    "venerdi",
+                                    "sabato"
+                                ],
+                                "oraInizio": "15:30",
+                                "oraFine": "19:00"
+                            }
+                        ]
+                    },
+                    "fisioterapia": {
+                        "fisioterapiaSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "martedi",
+                                    "mercoledi",
+                                    "giovedi",
+                                    "venerdi",
+                                    "sabato"
+                                ],
+                                "oraInizio": "08:00",
+                                "oraFine": "12:00"
+                            },
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "martedi",
+                                    "mercoledi",
+                                    "giovedi"
+                                ],
+                                "oraInizio": "14:30",
+                                "oraFine": "17:30"
+                            }
+                        ]
+                    },
+                    "assistenzaInfermieristica": {
+                        "assistenzaInfermieristicaSpec": {
+                            "scelta": "24h"
+                        }
+                    },
+                    "mediciSpecialisti": {
+                        "subTitle": "",
+                        "dettaglioSpecialisti": [
+                            {
+                                "medicoSpecialista": "chirurgo",
+                                "erogazioneServizio": {
+                                    "numeroSettimana": 1
+                                },
+                                "inclusoQuota": "SI"
+                            }
+                        ]
+                    },
+                    "psicologo": {
+                        "nonPrevisto": false,
+                        "erogazioneServizio": {
+                            "numeroMese": 1
+                        },
+                        "inclusoQuota": "SI"
+                    },
+                    "podologo": {
+                        "erogazioneServizio": "N volte al mese",
+                        "numeroVolte": 2,
+                        "prestazioniIncluseMese": 2
+                    }
+                },
+                "serviziAlberghieri": {
+                    "cucina": {
+                        "tipoCucina": "Esterna"
+                    },
+                    "lavanderia": {
+                        "indumenti_personali": "SI"
+                    },
+                    "parrucchiere": {
+                        "erogazioneServizio": "N volte al mese",
+                        "numeroVolte": 2,
+                        "prestazioniIncluseMese": 2
+                    },
+                    "estetista": {
+                        "nonPrevisto": false,
+                        "erogazioneServizio": {
+                            "numeroMese": 2
+                        },
+                        "inclusoQuota": "SI"
+                    },
+                    "assistenzaReligiosa": {
+                        "nonPrevisto": false,
+                        "aperturaTipiCulto": "SI",
+                        "assistenzaReligiosaSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "sabato"
+                                ],
+                                "ora": "10:00"
+                            }
+                        ]
+                    }
+                },
+                "altriServizi": {
+                    "elencoServizi": {
+                        "Appartamenti protetti": true,
+                        "Assistenza Domiciliare": false,
+                        "Assistenza residenziale per rifugiati/profughi": false,
+                        "Attivita' fisica adattata": false,
+                        "Casa della salute": false,
+                        "Centro di socializzazione per autosufficienti": false,
+                        "Centro diurno Alzheimer": false,
+                        "Centro diurno per autosufficienti": true,
+                        "Centro diurno per non autosufficienti": true,
+                        "Lavanderia per assistiti a domicilio": false,
+                        "Organizzazione del trasporto e accompagnamento degli assistiti deambulanti per visite/prestazioni sanitarie, avvisandone i familiari": true,
+                        "Prestazioni di assistenza di base per utenti esterni (bagno assistito)": false,
+                        "Residenza per Autosufficienti": true,
+                        "Residenza sociale per disabili (RSD)": false,
+                        "Ristorazione a domicilio": false,
+                        "Ristorazione per utenti esterni": false,
+                        "Segretariato sociale": false,
+                        "Servizio Continuita' Assistenziale (Ex Guardia Medica)": false,
+                        "Trasporto per adulti disabili": false
+                    },
+                    "serviziAmministrativi": {
+                        "serviziAmministrativiSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "martedi",
+                                    "mercoledi",
+                                    "giovedi",
+                                    "venerdi"
+                                ],
+                                "oraInizio": "09:00",
+                                "oraFine": "13:30"
+                            },
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "martedi",
+                                    "mercoledi",
+                                    "giovedi",
+                                    "venerdi"
+                                ],
+                                "oraInizio": "14:30",
+                                "oraFine": "17:30"
+                            }
+                        ]
+                    },
+                    "direzione": {
+                        "direzioneSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "martedi",
+                                    "mercoledi",
+                                    "giovedi",
+                                    "venerdi"
+                                ],
+                                "oraInizio": "09:00",
+                                "oraFine": "17:00"
+                            }
+                        ]
+                    },
+                    "orarioVisite": {
+                        "orarioVisiteSpec": {
+                            "orariServizio": {
+                                "oraInizio": "10:00",
+                                "oraFine": "12:00",
+                                "oraInizio2": "15:30",
+                                "oraFine2": "18:00"
+                            }
+                        }
+                    }
+                }
+            },
+            "ars": {
+                "nome": "Pia Casa",
+                "cod_sts24": "10314I",
+                "attiva": "1",
+                "accordo": "1",
+                "indirizzo": "Via Santa Chiara, 6",
+                "cod_comune": "46017",
+                "gestione": "privata",
+                "quota": 59,
+                "quotasanitaria": 59.1
+            }
+        }
+    },
+    {
         "id": "307",
         "foto0": "apu_villaverde_struttura.png",
         "foto1": "apu_villaverde_notte.jpg",
