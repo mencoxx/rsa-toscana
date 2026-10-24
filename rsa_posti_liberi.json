@@ -3499,6 +3499,340 @@
         }
     },
     {
+        "id": "161",
+        "foto0": "fio_rsa_lapini_struttura.png",
+        "foto1": "fio_rsa_lapini_giardino.jpg",
+        "foto2": "fio_rsa_lapini_esterno.jpg",
+        "foto3": "fio_rsa_lapini_camera.jpg",
+        "foto4": "fio_rsa_lapini_sala_pranzo.jpg",
+        "foto5": "",
+        "nome": "Casa di riposo Anna Lapini",
+        "tipo": "",
+        "gestione": "privata",
+        "indirizzo": "Via del Podesta', 86",
+        "cod_comune": "48017",
+        "comune": "Firenze",
+        "zona": "Firenze",
+        "tel1_zona": "055-2616250",
+        "tel2_zona": "",
+        "tel3_zona": "",
+        "telefono": "055-2616250",
+        "rsa_ico_animazione": "animazione_socio-educativa.png",
+        "rsa_ico_fisioterapia": "fisioterapia.png",
+        "rsa_ico_cucina": "ristorazione_interna.png",
+        "rsa_ico_giardino": "giardino.png",
+        "rsa_ico_parrucchiere": "parrucchiere.png",
+        "rsa_ico_barbiere": "",
+        "rsa_ico_estetista": "",
+        "rsa_ico_relig": "assistenza_religiosa.png",
+        "rsa_ico_geriatra": "",
+        "rsa_ico_assistenza_infermieristica": "assistenza_infermieristica.png",
+        "rsa_ico_psicologo": "",
+        "rsa_ico_podologo": "podologo.png",
+        "rsa_ico_lavanderia": "lavanderia.png",
+        "rsa_ico_postoletto": "",
+        "rsa_posti_liberi": "1",
+        "rsa_quota": "59.10",
+        "rsa_quotasanitaria": "59.10",
+        "rsa_quota_img": "quota_annalapini.png",
+        "rsa_mod_base": "si",
+        "rsa_mod_cogn": "",
+        "rsa_mod_riab": "",
+        "rsa_mod_veg": "",
+        "rsa_attiva": "1",
+        "rsa_nome_brochure": "fio_rsa_annalapini.pdf",
+        "rsa_data_aggiornamento": "2026.10.24 09:09:55",
+        "lat": "43.7435391118836989",
+        "lon": "11.2291293294738992",
+        "gbnord": "4845820",
+        "gbest": "1679519",
+        "accordo": "1",
+        "cod_sts24": "66704I",
+        "posti_liberi_m": "0",
+        "posti_liberi_f": "1",
+        "indirizzo_sede": "Via del Forte Trionfale, 26",
+        "comune_sede": "Roma",
+        "fax_sede": "NULL",
+        "telefono_sede": "063053692",
+        "email_sede": "NULL",
+        "posta_certificata_sede": "NULL",
+        "json_data": "eyJpZCI6MTYxLCJzdHJ1dHR1cmEiOnsiYXZ2aXNvRGVjaW1hbGUiOiIiLCJwb3N0aV9tb2R1bG9fYmFzZSI6MzEsInBvc3RpX2xpYmVyaSI6MSwicG9zdGlfbGliZXJpX20iOjAsInBvc3RpX2xpYmVyaV9mIjoxLCJjZl9kaXJldHRvcmUiOiJQTE1NUkE2MkI1M0MxMjlDIiwibm9tZV9kaXJldHRvcmUiOiJNYXJpYSIsImNvZ25vbWVfZGlyZXR0b3JlIjoiUGFsdW1ibyIsInRlbGVmb25vX3JzYSI6IjA1NSAyMDQ3NTM0IiwiZmF4X3JzYSI6IiIsImVtYWlsIjoic3VvcmVzdGltbWF0aW5lQG1vbWF4Lml0Iiwic2l0b19pbnRlcm5ldCI6IiIsInRhcmlmZmFfcHJpdmF0YV9yYW5nZWQiOnsibWluaW1hIjowLCJtYXNzaW1hIjowfSwibW9kdWxvIjpbIk1vZHVsbyBiYXNlIl0sImluZGlyaXp6b19zZWRlIjoiVmlhIGRlbCBGb3J0ZSBUcmlvbmZhbGUsIDI2IiwiY29kX2NvbXVuZV9zZWRlIjoiMDU4MDkxIiwidGVsX3NlZGUiOiIwNjMwNTM2OTIiLCJmYXhfc2VkZSI6IiIsImVtYWlsX3NlZGUiOiIiLCJwb3N0YV9jZXJ0aWZpY2F0YV9zZWRlIjoiIiwicmVzaWRlbnphIjp7Im51bWVyb1BpYW5pIjoyLCJkZXR0YWdsaW9DYW1lcmUiOlt7Im51bWVyb0NhbWVyZSI6MTEsIm51bWVyb0xldHRpIjoyLCJzZXJ2aXppUHJlc2VudGkiOlsiYmFnbm8gZGVkaWNhdG8iXX0seyJudW1lcm9DYW1lcmUiOjksIm51bWVyb0xldHRpIjoxLCJzZXJ2aXppUHJlc2VudGkiOlsiYmFnbm8gZGVkaWNhdG8iXX1dfSwicHVudGlEaUludGVyZXNzZSI6W10sInNwYXppb0VzdGVybm8iOiJTSSIsInNlcnZpemlTb2Npb1Nhbml0YXJpIjp7ImFuaW1hemlvbmVTb2Npb0VkdWNhdGl2YSI6eyJhbmltYXppb25lU29jaW9FZHVjYXRpdmFTcGVjIjpbeyJnaW9ybmlTZXR0aW1hbmEiOlsibWFydGVkaSIsImdpb3ZlZGkiLCJzYWJhdG8iXSwib3JhSW5pemlvIjoiMDg6MzAiLCJvcmFGaW5lIjoiMTM6MzAifSx7Imdpb3JuaVNldHRpbWFuYSI6WyJsdW5lZGkiLCJtZXJjb2xlZGkiLCJ2ZW5lcmRpIl0sIm9yYUluaXppbyI6IjEzOjMwIiwib3JhRmluZSI6IjE5OjAwIn1dfSwiZmlzaW90ZXJhcGlhIjp7ImZpc2lvdGVyYXBpYVNwZWMiOlt7Imdpb3JuaVNldHRpbWFuYSI6WyJsdW5lZGkiLCJtZXJjb2xlZGkiLCJ2ZW5lcmRpIl0sIm9yYUluaXppbyI6IjA4OjMwIiwib3JhRmluZSI6IjEyOjMwIn0seyJnaW9ybmlTZXR0aW1hbmEiOlsibWFydGVkaSIsImdpb3ZlZGkiLCJzYWJhdG8iXSwib3JhSW5pemlvIjoiMTQ6MzAiLCJvcmFGaW5lIjoiMTk6MDAifV19LCJhc3Npc3RlbnphSW5mZXJtaWVyaXN0aWNhIjp7ImFzc2lzdGVuemFJbmZlcm1pZXJpc3RpY2FTcGVjIjp7InJlcGVyaWJpbGl0YU5vdHR1cm5hIjoiTk8iLCJvcmFyaVNlcnZpemlvIjp7Im9yYUluaXppbyI6IjA3OjAwIiwib3JhRmluZSI6IjIwOjAwIiwib3JhSW5pemlvMiI6IiIsIm9yYUZpbmUyIjoiIn19fSwibWVkaWNpU3BlY2lhbGlzdGkiOnsic3ViVGl0bGUiOiIiLCJkZXR0YWdsaW9TcGVjaWFsaXN0aSI6W119LCJwc2ljb2xvZ28iOnsibm9uUHJldmlzdG8iOnRydWUsImVyb2dhemlvbmVTZXJ2aXppbyI6eyJzY2VsdGEiOiJUdXR0aSBpIGdpb3JuaSIsImFsbERheXMiOiJ0cnVlIn0sImluY2x1c29RdW90YSI6IlNJIn0sInBvZG9sb2dvIjp7ImVyb2dhemlvbmVTZXJ2aXppbyI6Ik4gdm9sdGUgYWwgbWVzZSIsIm51bWVyb1ZvbHRlIjoxLCJwcmVzdGF6aW9uaUluY2x1c2VNZXNlIjoxfX0sInNlcnZpemlBbGJlcmdoaWVyaSI6eyJjdWNpbmEiOnsidGlwb0N1Y2luYSI6IkludGVybmEifSwibGF2YW5kZXJpYSI6eyJpbmR1bWVudGlfcGVyc29uYWxpIjoiU0kifSwicGFycnVjY2hpZXJlIjp7ImVyb2dhemlvbmVTZXJ2aXppbyI6Ik4gdm9sdGUgYWwgbWVzZSIsIm51bWVyb1ZvbHRlIjoxLCJwcmVzdGF6aW9uaUluY2x1c2VNZXNlIjoxfSwiZXN0ZXRpc3RhIjp7Im5vblByZXZpc3RvIjp0cnVlLCJlcm9nYXppb25lU2Vydml6aW8iOnsic2NlbHRhIjoiVHV0dGkgaSBnaW9ybmkiLCJhbGxEYXlzIjoidHJ1ZSJ9LCJpbmNsdXNvUXVvdGEiOiJTSSJ9LCJhc3Npc3RlbnphUmVsaWdpb3NhIjp7Im5vblByZXZpc3RvIjpmYWxzZSwiYXBlcnR1cmFUaXBpQ3VsdG8iOiJTSSIsImFzc2lzdGVuemFSZWxpZ2lvc2FTcGVjIjpbeyJnaW9ybmlTZXR0aW1hbmEiOlsiZ2lvdmVkaSJdLCJvcmEiOiIxMDowMCJ9XX19LCJhbHRyaVNlcnZpemkiOnsiZWxlbmNvU2Vydml6aSI6eyJBcHBhcnRhbWVudGkgcHJvdGV0dGkiOmZhbHNlLCJBc3Npc3RlbnphIERvbWljaWxpYXJlIjpmYWxzZSwiQXNzaXN0ZW56YSByZXNpZGVuemlhbGUgcGVyIHJpZnVnaWF0aS9wcm9mdWdoaSI6ZmFsc2UsIkF0dGl2aXRhJyBmaXNpY2EgYWRhdHRhdGEiOmZhbHNlLCJDYXNhIGRlbGxhIHNhbHV0ZSI6ZmFsc2UsIkNlbnRybyBkaSBzb2NpYWxpenphemlvbmUgcGVyIGF1dG9zdWZmaWNpZW50aSI6ZmFsc2UsIkNlbnRybyBkaXVybm8gQWx6aGVpbWVyIjpmYWxzZSwiQ2VudHJvIGRpdXJubyBwZXIgYXV0b3N1ZmZpY2llbnRpIjpmYWxzZSwiQ2VudHJvIGRpdXJubyBwZXIgbm9uIGF1dG9zdWZmaWNpZW50aSI6ZmFsc2UsIkxhdmFuZGVyaWEgcGVyIGFzc2lzdGl0aSBhIGRvbWljaWxpbyI6ZmFsc2UsIk9yZ2FuaXp6YXppb25lIGRlbCB0cmFzcG9ydG8gZSBhY2NvbXBhZ25hbWVudG8gZGVnbGkgYXNzaXN0aXRpIGRlYW1idWxhbnRpIHBlciB2aXNpdGUvcHJlc3Rhemlvbmkgc2FuaXRhcmllLCBhdnZpc2FuZG9uZSBpIGZhbWlsaWFyaSI6ZmFsc2UsIlByZXN0YXppb25pIGRpIGFzc2lzdGVuemEgZGkgYmFzZSBwZXIgdXRlbnRpIGVzdGVybmkgKGJhZ25vIGFzc2lzdGl0bykiOmZhbHNlLCJSZXNpZGVuemEgcGVyIEF1dG9zdWZmaWNpZW50aSI6ZmFsc2UsIlJlc2lkZW56YSBzb2NpYWxlIHBlciBkaXNhYmlsaSAoUlNEKSI6ZmFsc2UsIlJpc3RvcmF6aW9uZSBhIGRvbWljaWxpbyI6ZmFsc2UsIlJpc3RvcmF6aW9uZSBwZXIgdXRlbnRpIGVzdGVybmkiOmZhbHNlLCJTZWdyZXRhcmlhdG8gc29jaWFsZSI6ZmFsc2UsIlNlcnZpemlvIENvbnRpbnVpdGEnIEFzc2lzdGVuemlhbGUgKEV4IEd1YXJkaWEgTWVkaWNhKSI6ZmFsc2UsIlRyYXNwb3J0byBwZXIgYWR1bHRpIGRpc2FiaWxpIjpmYWxzZX0sInNlcnZpemlBbW1pbmlzdHJhdGl2aSI6eyJzZXJ2aXppQW1taW5pc3RyYXRpdmlTcGVjIjpbeyJnaW9ybmlTZXR0aW1hbmEiOlsibHVuZWRpIiwibWVyY29sZWRpIl0sIm9yYUluaXppbyI6IjA5OjAwIiwib3JhRmluZSI6IjE3OjMwIn0seyJnaW9ybmlTZXR0aW1hbmEiOlsibWFydGVkaSIsImdpb3ZlZGkiXSwib3JhSW5pemlvIjoiMDg6MzAiLCJvcmFGaW5lIjoiMTU6MDAifSx7Imdpb3JuaVNldHRpbWFuYSI6WyJ2ZW5lcmRpIl0sIm9yYUluaXppbyI6IjA5OjAwIiwib3JhRmluZSI6IjE3OjAwIn0seyJnaW9ybmlTZXR0aW1hbmEiOlsic2FiYXRvIl0sIm9yYUluaXppbyI6IjA4OjMwIiwib3JhRmluZSI6IjE0OjAwIn1dfSwiZGlyZXppb25lIjp7ImRpcmV6aW9uZVNwZWMiOlt7Imdpb3JuaVNldHRpbWFuYSI6WyJsdW5lZGkiLCJtYXJ0ZWRpIiwibWVyY29sZWRpIiwiZ2lvdmVkaSIsInZlbmVyZGkiXSwib3JhSW5pemlvIjoiMDk6MDAiLCJvcmFGaW5lIjoiMTg6MDAifV19LCJvcmFyaW9WaXNpdGUiOnsib3JhcmlvVmlzaXRlU3BlYyI6eyJvcmFyaVNlcnZpemlvIjpbeyJnaW9ybmlTZXR0aW1hbmEiOlsibHVuZWRpIiwibWFydGVkaSIsIm1lcmNvbGVkaSIsImdpb3ZlZGkiLCJ2ZW5lcmRpIiwic2FiYXRvIl0sIm9yYUluaXppbyI6IjEwOjAwIiwib3JhRmluZSI6IjExOjMwIn0seyJnaW9ybmlTZXR0aW1hbmEiOlsibHVuZWRpIiwibWFydGVkaSIsIm1lcmNvbGVkaSIsImdpb3ZlZGkiLCJ2ZW5lcmRpIiwic2FiYXRvIl0sIm9yYUluaXppbyI6IjE1OjAwIiwib3JhRmluZSI6IjE3OjMwIn1dfX19fSwiYXJzIjp7Im5vbWUiOiJDYXNhIGRpIHJpcG9zbyBBbm5hIExhcGluaSIsImNvZF9zdHMyNCI6IjY2NzA0SSIsImF0dGl2YSI6IjEiLCJhY2NvcmRvIjoiMSIsImluZGlyaXp6byI6IlZpYSBkZWwgUG9kZXN0YScsIDg2IiwiY29kX2NvbXVuZSI6IjQ4MDE3IiwiZ2VzdGlvbmUiOiJwcml2YXRhIiwicXVvdGEiOjU5LjEsInF1b3Rhc2FuaXRhcmlhIjo1OS4xfX0=",
+        "posti_liberi_int": 1,
+        "posti_liberi_m_int": 0,
+        "posti_liberi_f_int": 1,
+        "decoded_details": {
+            "id": 161,
+            "struttura": {
+                "avvisoDecimale": "",
+                "posti_modulo_base": 31,
+                "posti_liberi": 1,
+                "posti_liberi_m": 0,
+                "posti_liberi_f": 1,
+                "cf_direttore": "PLMMRA62B53C129C",
+                "nome_direttore": "Maria",
+                "cognome_direttore": "Palumbo",
+                "telefono_rsa": "055 2047534",
+                "fax_rsa": "",
+                "email": "suorestimmatine@momax.it",
+                "sito_internet": "",
+                "tariffa_privata_ranged": {
+                    "minima": 0,
+                    "massima": 0
+                },
+                "modulo": [
+                    "Modulo base"
+                ],
+                "indirizzo_sede": "Via del Forte Trionfale, 26",
+                "cod_comune_sede": "058091",
+                "tel_sede": "063053692",
+                "fax_sede": "",
+                "email_sede": "",
+                "posta_certificata_sede": "",
+                "residenza": {
+                    "numeroPiani": 2,
+                    "dettaglioCamere": [
+                        {
+                            "numeroCamere": 11,
+                            "numeroLetti": 2,
+                            "serviziPresenti": [
+                                "bagno dedicato"
+                            ]
+                        },
+                        {
+                            "numeroCamere": 9,
+                            "numeroLetti": 1,
+                            "serviziPresenti": [
+                                "bagno dedicato"
+                            ]
+                        }
+                    ]
+                },
+                "puntiDiInteresse": [],
+                "spazioEsterno": "SI",
+                "serviziSocioSanitari": {
+                    "animazioneSocioEducativa": {
+                        "animazioneSocioEducativaSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "martedi",
+                                    "giovedi",
+                                    "sabato"
+                                ],
+                                "oraInizio": "08:30",
+                                "oraFine": "13:30"
+                            },
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "mercoledi",
+                                    "venerdi"
+                                ],
+                                "oraInizio": "13:30",
+                                "oraFine": "19:00"
+                            }
+                        ]
+                    },
+                    "fisioterapia": {
+                        "fisioterapiaSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "mercoledi",
+                                    "venerdi"
+                                ],
+                                "oraInizio": "08:30",
+                                "oraFine": "12:30"
+                            },
+                            {
+                                "giorniSettimana": [
+                                    "martedi",
+                                    "giovedi",
+                                    "sabato"
+                                ],
+                                "oraInizio": "14:30",
+                                "oraFine": "19:00"
+                            }
+                        ]
+                    },
+                    "assistenzaInfermieristica": {
+                        "assistenzaInfermieristicaSpec": {
+                            "reperibilitaNotturna": "NO",
+                            "orariServizio": {
+                                "oraInizio": "07:00",
+                                "oraFine": "20:00",
+                                "oraInizio2": "",
+                                "oraFine2": ""
+                            }
+                        }
+                    },
+                    "mediciSpecialisti": {
+                        "subTitle": "",
+                        "dettaglioSpecialisti": []
+                    },
+                    "psicologo": {
+                        "nonPrevisto": true,
+                        "erogazioneServizio": {
+                            "scelta": "Tutti i giorni",
+                            "allDays": "true"
+                        },
+                        "inclusoQuota": "SI"
+                    },
+                    "podologo": {
+                        "erogazioneServizio": "N volte al mese",
+                        "numeroVolte": 1,
+                        "prestazioniIncluseMese": 1
+                    }
+                },
+                "serviziAlberghieri": {
+                    "cucina": {
+                        "tipoCucina": "Interna"
+                    },
+                    "lavanderia": {
+                        "indumenti_personali": "SI"
+                    },
+                    "parrucchiere": {
+                        "erogazioneServizio": "N volte al mese",
+                        "numeroVolte": 1,
+                        "prestazioniIncluseMese": 1
+                    },
+                    "estetista": {
+                        "nonPrevisto": true,
+                        "erogazioneServizio": {
+                            "scelta": "Tutti i giorni",
+                            "allDays": "true"
+                        },
+                        "inclusoQuota": "SI"
+                    },
+                    "assistenzaReligiosa": {
+                        "nonPrevisto": false,
+                        "aperturaTipiCulto": "SI",
+                        "assistenzaReligiosaSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "giovedi"
+                                ],
+                                "ora": "10:00"
+                            }
+                        ]
+                    }
+                },
+                "altriServizi": {
+                    "elencoServizi": {
+                        "Appartamenti protetti": false,
+                        "Assistenza Domiciliare": false,
+                        "Assistenza residenziale per rifugiati/profughi": false,
+                        "Attivita' fisica adattata": false,
+                        "Casa della salute": false,
+                        "Centro di socializzazione per autosufficienti": false,
+                        "Centro diurno Alzheimer": false,
+                        "Centro diurno per autosufficienti": false,
+                        "Centro diurno per non autosufficienti": false,
+                        "Lavanderia per assistiti a domicilio": false,
+                        "Organizzazione del trasporto e accompagnamento degli assistiti deambulanti per visite/prestazioni sanitarie, avvisandone i familiari": false,
+                        "Prestazioni di assistenza di base per utenti esterni (bagno assistito)": false,
+                        "Residenza per Autosufficienti": false,
+                        "Residenza sociale per disabili (RSD)": false,
+                        "Ristorazione a domicilio": false,
+                        "Ristorazione per utenti esterni": false,
+                        "Segretariato sociale": false,
+                        "Servizio Continuita' Assistenziale (Ex Guardia Medica)": false,
+                        "Trasporto per adulti disabili": false
+                    },
+                    "serviziAmministrativi": {
+                        "serviziAmministrativiSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "mercoledi"
+                                ],
+                                "oraInizio": "09:00",
+                                "oraFine": "17:30"
+                            },
+                            {
+                                "giorniSettimana": [
+                                    "martedi",
+                                    "giovedi"
+                                ],
+                                "oraInizio": "08:30",
+                                "oraFine": "15:00"
+                            },
+                            {
+                                "giorniSettimana": [
+                                    "venerdi"
+                                ],
+                                "oraInizio": "09:00",
+                                "oraFine": "17:00"
+                            },
+                            {
+                                "giorniSettimana": [
+                                    "sabato"
+                                ],
+                                "oraInizio": "08:30",
+                                "oraFine": "14:00"
+                            }
+                        ]
+                    },
+                    "direzione": {
+                        "direzioneSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "martedi",
+                                    "mercoledi",
+                                    "giovedi",
+                                    "venerdi"
+                                ],
+                                "oraInizio": "09:00",
+                                "oraFine": "18:00"
+                            }
+                        ]
+                    },
+                    "orarioVisite": {
+                        "orarioVisiteSpec": {
+                            "orariServizio": [
+                                {
+                                    "giorniSettimana": [
+                                        "lunedi",
+                                        "martedi",
+                                        "mercoledi",
+                                        "giovedi",
+                                        "venerdi",
+                                        "sabato"
+                                    ],
+                                    "oraInizio": "10:00",
+                                    "oraFine": "11:30"
+                                },
+                                {
+                                    "giorniSettimana": [
+                                        "lunedi",
+                                        "martedi",
+                                        "mercoledi",
+                                        "giovedi",
+                                        "venerdi",
+                                        "sabato"
+                                    ],
+                                    "oraInizio": "15:00",
+                                    "oraFine": "17:30"
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            "ars": {
+                "nome": "Casa di riposo Anna Lapini",
+                "cod_sts24": "66704I",
+                "attiva": "1",
+                "accordo": "1",
+                "indirizzo": "Via del Podesta', 86",
+                "cod_comune": "48017",
+                "gestione": "privata",
+                "quota": 59.1,
+                "quotasanitaria": 59.1
+            }
+        }
+    },
+    {
         "id": "64",
         "foto0": "fio_chiocciola_struttura.png",
         "foto1": "fio_chiocciola_sala.jpg",
