@@ -3982,6 +3982,257 @@
         }
     },
     {
+        "id": "94",
+        "foto0": "pist_DomusPacis_struttura.jpg",
+        "foto1": "pist_DomusPacis_festa3.jpg",
+        "foto2": "pist_DomusPacis_festa2.jpg",
+        "foto3": "pist_DomusPacis_festa.jpg",
+        "foto4": "pist_DomusPacis_esterno.jpg",
+        "foto5": "",
+        "nome": "Domus Pacis",
+        "tipo": "",
+        "gestione": "privata",
+        "indirizzo": "Via Mammianese, 207",
+        "cod_comune": "47007",
+        "comune": "Marliana",
+        "zona": "Pistoiese",
+        "tel1_zona": "0573 976062",
+        "tel2_zona": "",
+        "tel3_zona": "",
+        "telefono": "0573 976062",
+        "rsa_ico_animazione": "animazione_socio-educativa.png",
+        "rsa_ico_fisioterapia": "fisioterapia.png",
+        "rsa_ico_cucina": "ristorazione_interna.png",
+        "rsa_ico_giardino": "giardino.png",
+        "rsa_ico_parrucchiere": "parrucchiere.png",
+        "rsa_ico_barbiere": "",
+        "rsa_ico_estetista": "estetista.png",
+        "rsa_ico_relig": "assistenza_religiosa.png",
+        "rsa_ico_geriatra": "",
+        "rsa_ico_assistenza_infermieristica": "assistenza_infermieristica.png",
+        "rsa_ico_psicologo": "",
+        "rsa_ico_podologo": "podologo.png",
+        "rsa_ico_lavanderia": "lavanderia.png",
+        "rsa_ico_postoletto": "",
+        "rsa_posti_liberi": "1",
+        "rsa_quota": "55.00",
+        "rsa_quotasanitaria": "59.10",
+        "rsa_quota_img": "quota_domuspacis.png",
+        "rsa_mod_base": "si",
+        "rsa_mod_cogn": "",
+        "rsa_mod_riab": "",
+        "rsa_mod_veg": "",
+        "rsa_attiva": "1",
+        "rsa_nome_brochure": "pist_rsa_domuspacis_donbosco.pdf",
+        "rsa_data_aggiornamento": "2026.10.29 11:54:21",
+        "lat": "43.9491084414544986",
+        "lon": "10.7571046404293007",
+        "gbnord": "4867737",
+        "gbest": "1641025",
+        "accordo": "1",
+        "cod_sts24": "00294I",
+        "posti_liberi_m": "1",
+        "posti_liberi_f": "0",
+        "indirizzo_sede": "Via Francesco Puccinotti 105 ",
+        "comune_sede": "Firenze",
+        "fax_sede": "NULL",
+        "telefono_sede": "0553215030",
+        "email_sede": "amministrazione@gruppocori.it",
+        "posta_certificata_sede": "coriimpresasociale@legalmail.it",
+        "json_data": "eyJpZCI6OTQsInN0cnV0dHVyYSI6eyJhdnZpc29EZWNpbWFsZSI6IiIsInBvc3RpX21vZHVsb19iYXNlIjoyNCwicG9zdGlfbGliZXJpIjoxLCJwb3N0aV9saWJlcmlfbSI6MSwicG9zdGlfbGliZXJpX2YiOjAsImNmX2RpcmV0dG9yZSI6IkNQUENSTjg1QjQ0RzcxM0siLCJub21lX2RpcmV0dG9yZSI6IkNhdGVyaW5hIiwiY29nbm9tZV9kaXJldHRvcmUiOiJDYXBwZWxsaSIsInRlbGVmb25vX3JzYSI6IjA1NzIuNjYxNzIgMDU3Mi42NjE2MCIsImZheF9yc2EiOiIiLCJlbWFpbCI6ImRpcmV6aW9uZS5kb211c0BncnVwcG9jb3JpLml0Iiwic2l0b19pbnRlcm5ldCI6Ind3dy5ncnVwcG9jb3JpLml0IiwidGFyaWZmYV9wcml2YXRhX3JhbmdlZCI6eyJtaW5pbWEiOjcwLCJtYXNzaW1hIjoxMTQuMX0sIm1vZHVsbyI6WyJNb2R1bG8gYmFzZSJdLCJpbmRpcml6em9fc2VkZSI6IlZpYSBGcmFuY2VzY28gUHVjY2lub3R0aSAxMDUgIiwiY29kX2NvbXVuZV9zZWRlIjoiMDQ4MDE3IiwidGVsX3NlZGUiOiIwNTUzMjE1MDMwIiwiZmF4X3NlZGUiOiIiLCJlbWFpbF9zZWRlIjoiYW1taW5pc3RyYXppb25lQGdydXBwb2NvcmkuaXQiLCJwb3N0YV9jZXJ0aWZpY2F0YV9zZWRlIjoiY29yaWltcHJlc2Fzb2NpYWxlQGxlZ2FsbWFpbC5pdCIsInJlc2lkZW56YSI6eyJudW1lcm9QaWFuaSI6MSwiZGV0dGFnbGlvQ2FtZXJlIjpbeyJudW1lcm9DYW1lcmUiOjEzLCJudW1lcm9MZXR0aSI6MjQsInNlcnZpemlQcmVzZW50aSI6WyJiYWdubyBjb25kaXZpc28iLCJ0diIsIndpZmkiXX1dfSwicHVudGlEaUludGVyZXNzZSI6W10sInNwYXppb0VzdGVybm8iOiJTSSIsInNlcnZpemlTb2Npb1Nhbml0YXJpIjp7ImFuaW1hemlvbmVTb2Npb0VkdWNhdGl2YSI6eyJhbmltYXppb25lU29jaW9FZHVjYXRpdmFTcGVjIjp7Im9yYUluaXppbyI6IjAwOjAwIiwib3JhRmluZSI6IjIzOjU5Iiwib3JhSW5pemlvMiI6IiIsIm9yYUZpbmUyIjoiIn19LCJmaXNpb3RlcmFwaWEiOnsiZmlzaW90ZXJhcGlhU3BlYyI6W3siZ2lvcm5pU2V0dGltYW5hIjpbImx1bmVkaSIsIm1lcmNvbGVkaSIsInZlbmVyZGkiXSwib3JhSW5pemlvIjoiMDg6MzAiLCJvcmFGaW5lIjoiMTM6MzAifV19LCJhc3Npc3RlbnphSW5mZXJtaWVyaXN0aWNhIjp7ImFzc2lzdGVuemFJbmZlcm1pZXJpc3RpY2FTcGVjIjp7InJlcGVyaWJpbGl0YU5vdHR1cm5hIjoiTk8iLCJvcmFyaVNlcnZpemlvIjp7Im9yYUluaXppbyI6IjA3OjMwIiwib3JhRmluZSI6IjEyOjMwIiwib3JhSW5pemlvMiI6IjE0OjAwIiwib3JhRmluZTIiOiIxODowMCJ9fX0sIm1lZGljaVNwZWNpYWxpc3RpIjp7InN1YlRpdGxlIjoiIiwiZGV0dGFnbGlvU3BlY2lhbGlzdGkiOltdfSwicHNpY29sb2dvIjp7Im5vblByZXZpc3RvIjp0cnVlLCJlcm9nYXppb25lU2Vydml6aW8iOnsic2NlbHRhIjoiVHV0dGkgaSBnaW9ybmkiLCJhbGxEYXlzIjoidHJ1ZSJ9LCJpbmNsdXNvUXVvdGEiOiJTSSJ9LCJwb2RvbG9nbyI6eyJlcm9nYXppb25lU2Vydml6aW8iOiJOIHZvbHRlIGFsIG1lc2UiLCJudW1lcm9Wb2x0ZSI6MSwicHJlc3RhemlvbmlJbmNsdXNlTWVzZSI6MX19LCJzZXJ2aXppQWxiZXJnaGllcmkiOnsiY3VjaW5hIjp7InRpcG9DdWNpbmEiOiJJbnRlcm5hIn0sImxhdmFuZGVyaWEiOnsiaW5kdW1lbnRpX3BlcnNvbmFsaSI6IlNJIn0sInBhcnJ1Y2NoaWVyZSI6eyJlcm9nYXppb25lU2Vydml6aW8iOiJOIHZvbHRlIGFsIG1lc2UiLCJudW1lcm9Wb2x0ZSI6MSwicHJlc3RhemlvbmlJbmNsdXNlTWVzZSI6MX0sImVzdGV0aXN0YSI6eyJub25QcmV2aXN0byI6ZmFsc2UsImVyb2dhemlvbmVTZXJ2aXppbyI6eyJzY2VsdGEiOiJTdSByaWNoaWVzdGEiLCJvblJlcXVlc3QiOiJ0cnVlIn0sImluY2x1c29RdW90YSI6Ik5PIn0sImFzc2lzdGVuemFSZWxpZ2lvc2EiOnsibm9uUHJldmlzdG8iOnRydWUsImFwZXJ0dXJhVGlwaUN1bHRvIjoiU0kiLCJhc3Npc3RlbnphUmVsaWdpb3NhU3BlYyI6W3siZ2lvcm5pU2V0dGltYW5hIjpbXSwib3JhIjoiIn1dfX0sImFsdHJpU2Vydml6aSI6eyJlbGVuY29TZXJ2aXppIjp7IkFwcGFydGFtZW50aSBwcm90ZXR0aSI6ZmFsc2UsIkFzc2lzdGVuemEgRG9taWNpbGlhcmUiOmZhbHNlLCJBc3Npc3RlbnphIHJlc2lkZW56aWFsZSBwZXIgcmlmdWdpYXRpL3Byb2Z1Z2hpIjpmYWxzZSwiQXR0aXZpdGEnIGZpc2ljYSBhZGF0dGF0YSI6ZmFsc2UsIkNhc2EgZGVsbGEgc2FsdXRlIjpmYWxzZSwiQ2VudHJvIGRpIHNvY2lhbGl6emF6aW9uZSBwZXIgYXV0b3N1ZmZpY2llbnRpIjpmYWxzZSwiQ2VudHJvIGRpdXJubyBBbHpoZWltZXIiOmZhbHNlLCJDZW50cm8gZGl1cm5vIHBlciBhdXRvc3VmZmljaWVudGkiOmZhbHNlLCJDZW50cm8gZGl1cm5vIHBlciBub24gYXV0b3N1ZmZpY2llbnRpIjpmYWxzZSwiTGF2YW5kZXJpYSBwZXIgYXNzaXN0aXRpIGEgZG9taWNpbGlvIjpmYWxzZSwiT3JnYW5penphemlvbmUgZGVsIHRyYXNwb3J0byBlIGFjY29tcGFnbmFtZW50byBkZWdsaSBhc3Npc3RpdGkgZGVhbWJ1bGFudGkgcGVyIHZpc2l0ZS9wcmVzdGF6aW9uaSBzYW5pdGFyaWUsIGF2dmlzYW5kb25lIGkgZmFtaWxpYXJpIjpmYWxzZSwiUHJlc3RhemlvbmkgZGkgYXNzaXN0ZW56YSBkaSBiYXNlIHBlciB1dGVudGkgZXN0ZXJuaSAoYmFnbm8gYXNzaXN0aXRvKSI6ZmFsc2UsIlJlc2lkZW56YSBwZXIgQXV0b3N1ZmZpY2llbnRpIjpmYWxzZSwiUmVzaWRlbnphIHNvY2lhbGUgcGVyIGRpc2FiaWxpIChSU0QpIjpmYWxzZSwiUmlzdG9yYXppb25lIGEgZG9taWNpbGlvIjpmYWxzZSwiUmlzdG9yYXppb25lIHBlciB1dGVudGkgZXN0ZXJuaSI6ZmFsc2UsIlNlZ3JldGFyaWF0byBzb2NpYWxlIjpmYWxzZSwiU2Vydml6aW8gQ29udGludWl0YScgQXNzaXN0ZW56aWFsZSAoRXggR3VhcmRpYSBNZWRpY2EpIjpmYWxzZSwiVHJhc3BvcnRvIHBlciBhZHVsdGkgZGlzYWJpbGkiOmZhbHNlfSwic2Vydml6aUFtbWluaXN0cmF0aXZpIjp7InNlcnZpemlBbW1pbmlzdHJhdGl2aVNwZWMiOlt7Imdpb3JuaVNldHRpbWFuYSI6WyJsdW5lZGkiLCJnaW92ZWRpIiwidmVuZXJkaSJdLCJvcmFJbml6aW8iOiIwOTozMCIsIm9yYUZpbmUiOiIxMjozMCJ9XX0sImRpcmV6aW9uZSI6eyJkaXJlemlvbmVTcGVjIjp7Im9yYUluaXppbyI6IjA5OjAwIiwib3JhRmluZSI6IjEzOjAwIiwib3JhSW5pemlvMiI6IiIsIm9yYUZpbmUyIjoiIn19LCJvcmFyaW9WaXNpdGUiOnsib3JhcmlvVmlzaXRlU3BlYyI6eyJzY2VsdGEiOiIyNGgifX19fSwiYXJzIjp7Im5vbWUiOiJEb211cyBQYWNpcyIsImNvZF9zdHMyNCI6IjAwMjk0SSIsImF0dGl2YSI6IjEiLCJhY2NvcmRvIjoiMSIsImluZGlyaXp6byI6IlZpYSBNYW1taWFuZXNlLCAyMDciLCJjb2RfY29tdW5lIjoiNDcwMDciLCJnZXN0aW9uZSI6InByaXZhdGEiLCJxdW90YSI6NTUsInF1b3Rhc2FuaXRhcmlhIjo1OS4xfX0=",
+        "posti_liberi_int": 1,
+        "posti_liberi_m_int": 1,
+        "posti_liberi_f_int": 0,
+        "decoded_details": {
+            "id": 94,
+            "struttura": {
+                "avvisoDecimale": "",
+                "posti_modulo_base": 24,
+                "posti_liberi": 1,
+                "posti_liberi_m": 1,
+                "posti_liberi_f": 0,
+                "cf_direttore": "CPPCRN85B44G713K",
+                "nome_direttore": "Caterina",
+                "cognome_direttore": "Cappelli",
+                "telefono_rsa": "0572.66172 0572.66160",
+                "fax_rsa": "",
+                "email": "direzione.domus@gruppocori.it",
+                "sito_internet": "www.gruppocori.it",
+                "tariffa_privata_ranged": {
+                    "minima": 70,
+                    "massima": 114.1
+                },
+                "modulo": [
+                    "Modulo base"
+                ],
+                "indirizzo_sede": "Via Francesco Puccinotti 105 ",
+                "cod_comune_sede": "048017",
+                "tel_sede": "0553215030",
+                "fax_sede": "",
+                "email_sede": "amministrazione@gruppocori.it",
+                "posta_certificata_sede": "coriimpresasociale@legalmail.it",
+                "residenza": {
+                    "numeroPiani": 1,
+                    "dettaglioCamere": [
+                        {
+                            "numeroCamere": 13,
+                            "numeroLetti": 24,
+                            "serviziPresenti": [
+                                "bagno condiviso",
+                                "tv",
+                                "wifi"
+                            ]
+                        }
+                    ]
+                },
+                "puntiDiInteresse": [],
+                "spazioEsterno": "SI",
+                "serviziSocioSanitari": {
+                    "animazioneSocioEducativa": {
+                        "animazioneSocioEducativaSpec": {
+                            "oraInizio": "00:00",
+                            "oraFine": "23:59",
+                            "oraInizio2": "",
+                            "oraFine2": ""
+                        }
+                    },
+                    "fisioterapia": {
+                        "fisioterapiaSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "mercoledi",
+                                    "venerdi"
+                                ],
+                                "oraInizio": "08:30",
+                                "oraFine": "13:30"
+                            }
+                        ]
+                    },
+                    "assistenzaInfermieristica": {
+                        "assistenzaInfermieristicaSpec": {
+                            "reperibilitaNotturna": "NO",
+                            "orariServizio": {
+                                "oraInizio": "07:30",
+                                "oraFine": "12:30",
+                                "oraInizio2": "14:00",
+                                "oraFine2": "18:00"
+                            }
+                        }
+                    },
+                    "mediciSpecialisti": {
+                        "subTitle": "",
+                        "dettaglioSpecialisti": []
+                    },
+                    "psicologo": {
+                        "nonPrevisto": true,
+                        "erogazioneServizio": {
+                            "scelta": "Tutti i giorni",
+                            "allDays": "true"
+                        },
+                        "inclusoQuota": "SI"
+                    },
+                    "podologo": {
+                        "erogazioneServizio": "N volte al mese",
+                        "numeroVolte": 1,
+                        "prestazioniIncluseMese": 1
+                    }
+                },
+                "serviziAlberghieri": {
+                    "cucina": {
+                        "tipoCucina": "Interna"
+                    },
+                    "lavanderia": {
+                        "indumenti_personali": "SI"
+                    },
+                    "parrucchiere": {
+                        "erogazioneServizio": "N volte al mese",
+                        "numeroVolte": 1,
+                        "prestazioniIncluseMese": 1
+                    },
+                    "estetista": {
+                        "nonPrevisto": false,
+                        "erogazioneServizio": {
+                            "scelta": "Su richiesta",
+                            "onRequest": "true"
+                        },
+                        "inclusoQuota": "NO"
+                    },
+                    "assistenzaReligiosa": {
+                        "nonPrevisto": true,
+                        "aperturaTipiCulto": "SI",
+                        "assistenzaReligiosaSpec": [
+                            {
+                                "giorniSettimana": [],
+                                "ora": ""
+                            }
+                        ]
+                    }
+                },
+                "altriServizi": {
+                    "elencoServizi": {
+                        "Appartamenti protetti": false,
+                        "Assistenza Domiciliare": false,
+                        "Assistenza residenziale per rifugiati/profughi": false,
+                        "Attivita' fisica adattata": false,
+                        "Casa della salute": false,
+                        "Centro di socializzazione per autosufficienti": false,
+                        "Centro diurno Alzheimer": false,
+                        "Centro diurno per autosufficienti": false,
+                        "Centro diurno per non autosufficienti": false,
+                        "Lavanderia per assistiti a domicilio": false,
+                        "Organizzazione del trasporto e accompagnamento degli assistiti deambulanti per visite/prestazioni sanitarie, avvisandone i familiari": false,
+                        "Prestazioni di assistenza di base per utenti esterni (bagno assistito)": false,
+                        "Residenza per Autosufficienti": false,
+                        "Residenza sociale per disabili (RSD)": false,
+                        "Ristorazione a domicilio": false,
+                        "Ristorazione per utenti esterni": false,
+                        "Segretariato sociale": false,
+                        "Servizio Continuita' Assistenziale (Ex Guardia Medica)": false,
+                        "Trasporto per adulti disabili": false
+                    },
+                    "serviziAmministrativi": {
+                        "serviziAmministrativiSpec": [
+                            {
+                                "giorniSettimana": [
+                                    "lunedi",
+                                    "giovedi",
+                                    "venerdi"
+                                ],
+                                "oraInizio": "09:30",
+                                "oraFine": "12:30"
+                            }
+                        ]
+                    },
+                    "direzione": {
+                        "direzioneSpec": {
+                            "oraInizio": "09:00",
+                            "oraFine": "13:00",
+                            "oraInizio2": "",
+                            "oraFine2": ""
+                        }
+                    },
+                    "orarioVisite": {
+                        "orarioVisiteSpec": {
+                            "scelta": "24h"
+                        }
+                    }
+                }
+            },
+            "ars": {
+                "nome": "Domus Pacis",
+                "cod_sts24": "00294I",
+                "attiva": "1",
+                "accordo": "1",
+                "indirizzo": "Via Mammianese, 207",
+                "cod_comune": "47007",
+                "gestione": "privata",
+                "quota": 55,
+                "quotasanitaria": 59.1
+            }
+        }
+    },
+    {
         "id": "31",
         "foto0": "lunig_Pontremoli_esterno.jpg",
         "foto1": "lunig_Pontremoli_camera_due_letti.jpg",
