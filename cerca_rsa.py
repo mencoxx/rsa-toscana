@@ -332,6 +332,36 @@ def generate_html_table(structures, output_dir):
             }
         }
 
+        .distance-row {
+            display: grid;
+            grid-template-columns: 2fr 1fr 1fr;
+            gap: 1rem;
+            margin-top: 1rem;
+        }
+
+        @media (max-width: 768px) {
+            .distance-row {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        .btn-geo {
+            cursor: pointer;
+            text-align: center;
+        }
+
+        .geo-status {
+            grid-column: 1 / -1;
+            font-size: 0.8rem;
+            color: var(--text-muted);
+            min-height: 1.1em;
+        }
+
+        .dist-value {
+            font-weight: 600;
+            white-space: nowrap;
+        }
+
         .form-group {
             display: flex;
             flex-direction: column;
@@ -629,6 +659,31 @@ def generate_html_table(structures, output_dir):
                     </select>
                 </div>
             </div>
+            <div class="distance-row">
+                <div class="form-group">
+                    <label for="origin-city">Distanza da (città di partenza)</label>
+                    <select id="origin-city" class="input-control">
+                        <option value="">Nessuna</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label>&nbsp;</label>
+                    <button type="button" id="btn-geo" class="input-control btn-geo">📍 Usa la mia posizione</button>
+                </div>
+                <div class="form-group">
+                    <label for="filter-distance">Entro</label>
+                    <select id="filter-distance" class="input-control">
+                        <option value="0">Qualsiasi distanza</option>
+                        <option value="10">10 km</option>
+                        <option value="20">20 km</option>
+                        <option value="30">30 km</option>
+                        <option value="50">50 km</option>
+                        <option value="75">75 km</option>
+                        <option value="100">100 km</option>
+                    </select>
+                </div>
+                <div id="geo-status" class="geo-status"></div>
+            </div>
         </div>
 
         <div class="stats-bar">
@@ -645,7 +700,7 @@ def generate_html_table(structures, output_dir):
                         <th id="col-posti" onclick="sortBy('posti_liberi_int')">Posti Liberi</th>
                         <th id="col-quota" onclick="sortBy('rsa_quota_float')">Retta Sociale</th>
                         <th>Contatti</th>
-                        <th id="col-aggiornato" onclick="sortBy('rsa_data_aggiornamento')">Aggiornato il</th>
+                        <th id="col-dist_km" onclick="sortBy('dist_km')">Distanza</th>
                     </tr>
                 </thead>
                 <tbody id="rsa-tbody">
@@ -678,6 +733,8 @@ def generate_html_table(structures, output_dir):
     <script>
         // Data injected from Python (embedded fallback)
         const localRsaData = ##RSA_DATA##;
+        // Comuni toscani [nome, lat, lon] per il calcolo della distanza
+        const COMUNI = ##COMUNI_DATA##;
         let rsaData = [];
 
         // Initialize DOM elements
@@ -689,6 +746,73 @@ def generate_html_table(structures, output_dir):
         const noResultsView = document.getElementById('no-results-view');
         const countStructures = document.getElementById('count-structures');
         const countBeds = document.getElementById('count-beds');
+
+        const originCity = document.getElementById('origin-city');
+        const filterDistance = document.getElementById('filter-distance');
+        const btnGeo = document.getElementById('btn-geo');
+        const geoStatus = document.getElementById('geo-status');
+        let origin = null; // { lat, lon, label }
+
+        function haversineKm(lat1, lon1, lat2, lon2) {
+            const rad = Math.PI / 180;
+            const dLat = (lat2 - lat1) * rad;
+            const dLon = (lon2 - lon1) * rad;
+            const a = Math.sin(dLat / 2) ** 2 +
+                Math.cos(lat1 * rad) * Math.cos(lat2 * rad) * Math.sin(dLon / 2) ** 2;
+            return 6371 * 2 * Math.asin(Math.sqrt(a));
+        }
+
+        function updateDistances() {
+            rsaData.forEach(item => {
+                const la = parseFloat(item.lat);
+                const lo = parseFloat(item.lon);
+                item.dist_km = (origin && isFinite(la) && isFinite(lo))
+                    ? haversineKm(origin.lat, origin.lon, la, lo)
+                    : Infinity;
+            });
+        }
+
+        function setOrigin(o, message) {
+            origin = o;
+            updateDistances();
+            geoStatus.textContent = o
+                ? (message || `Distanze in linea d'aria da: ${o.label}`)
+                : '';
+            // Con una partenza scelta ordina dalla più vicina, altrimenti per comune
+            currentSortColumn = null;
+            sortBy(o ? 'dist_km' : 'comune');
+        }
+
+        originCity.addEventListener('change', () => {
+            const idx = originCity.value === '' ? -1 : parseInt(originCity.value, 10);
+            const c = idx >= 0 ? COMUNI[idx] : null;
+            try { localStorage.setItem('rsa_origin_city', c ? c[0] : ''); } catch (e) {}
+            setOrigin(c ? { lat: c[1], lon: c[2], label: c[0] } : null);
+        });
+
+        btnGeo.addEventListener('click', () => {
+            if (!navigator.geolocation) {
+                geoStatus.textContent = 'La geolocalizzazione non è supportata da questo browser: scegli una città.';
+                return;
+            }
+            geoStatus.textContent = 'Rilevamento della posizione in corso...';
+            navigator.geolocation.getCurrentPosition(
+                pos => {
+                    originCity.value = '';
+                    try { localStorage.setItem('rsa_origin_city', ''); } catch (e) {}
+                    setOrigin(
+                        { lat: pos.coords.latitude, lon: pos.coords.longitude, label: 'la tua posizione' },
+                        "Distanze in linea d'aria dalla tua posizione (non viene salvata né inviata)"
+                    );
+                },
+                err => {
+                    geoStatus.textContent = err.code === 1
+                        ? 'Permesso negato: scegli una città dall’elenco.'
+                        : 'Posizione non disponibile: scegli una città dall’elenco.';
+                },
+                { timeout: 10000, maximumAge: 300000 }
+            );
+        });
 
         // Sorting state
         let currentSortColumn = 'comune';
@@ -733,8 +857,25 @@ def generate_html_table(structures, output_dir):
                 document.getElementById('update-date').textContent = `Ultimo aggiornamento rilevato nei dati: ${latest}`;
             }
 
+            // Distanza: popola la lista città e ripristina l'ultima scelta
+            COMUNI.forEach((c, i) => {
+                const option = document.createElement('option');
+                option.value = String(i);
+                option.textContent = c[0];
+                originCity.appendChild(option);
+            });
+            updateDistances();
+            let savedCity = '';
+            try { savedCity = localStorage.getItem('rsa_origin_city') || ''; } catch (e) {}
+            const savedIdx = COMUNI.findIndex(c => c[0] === savedCity);
+
             // Initial Sort & Render
-            sortBy('comune');
+            if (savedIdx >= 0) {
+                originCity.value = String(savedIdx);
+                setOrigin({ lat: COMUNI[savedIdx][1], lon: COMUNI[savedIdx][2], label: COMUNI[savedIdx][0] });
+            } else {
+                sortBy('comune');
+            }
         }
 
         function sortBy(column) {
@@ -781,7 +922,10 @@ def generate_html_table(structures, output_dir):
                     matchGender = item.posti_liberi_f_int > 0;
                 }
 
-                return matchSearch && matchComune && matchGender;
+                const maxKm = parseFloat(filterDistance.value) || 0;
+                const matchDistance = !origin || !maxKm || item.dist_km <= maxKm;
+
+                return matchSearch && matchComune && matchGender && matchDistance;
             });
 
             // 2. Sort
@@ -866,7 +1010,9 @@ def generate_html_table(structures, output_dir):
                         ${email ? `<a href="mailto:${email}" class="email-link">${email}</a>` : ''}
                     </td>
                     <td>
-                        <span class="update-date-val">${item.rsa_data_aggiornamento || 'N.D.'}</span>
+                        ${isFinite(item.dist_km)
+                            ? `<span class="dist-value">${item.dist_km.toFixed(1)} km</span>`
+                            : '<span style="color: var(--text-muted)">&mdash;</span>'}
                     </td>
                 `;
                 tbody.appendChild(row);
@@ -877,6 +1023,12 @@ def generate_html_table(structures, output_dir):
         searchInput.addEventListener('input', renderTable);
         filterComune.addEventListener('change', renderTable);
         filterGender.addEventListener('change', renderTable);
+        filterDistance.addEventListener('change', () => {
+            if (!origin && parseFloat(filterDistance.value)) {
+                geoStatus.textContent = 'Per filtrare per distanza scegli una città o usa la tua posizione.';
+            }
+            renderTable();
+        });
 
         // Run Init on Page Load
         init();
@@ -885,6 +1037,13 @@ def generate_html_table(structures, output_dir):
 </html>
 """
     html_content = html_content.replace("##RSA_DATA##", json.dumps(structures, ensure_ascii=False))
+    try:
+        with open(os.path.join(output_dir, "comuni_toscana.json"), encoding="utf-8") as f:
+            comuni = json.load(f)
+    except Exception as e:
+        print(f"Attenzione: comuni_toscana.json non leggibile ({e}): niente menu città.")
+        comuni = []
+    html_content = html_content.replace("##COMUNI_DATA##", json.dumps(comuni, ensure_ascii=False))
 
     output_html_path = os.path.join(output_dir, "risultati_rsa.html")
     with open(output_html_path, "w", encoding="utf-8") as f:
