@@ -5,20 +5,109 @@ import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import os
 
-COMUNI_URL = "https://servizi.toscana.it/RT/RSA/Comuni.json"
-LISTA_URL_TEMPLATE = "https://servizi.toscana.it/RT/RSA/Lista.json?CodiceComune={}"
+API_BASE = "https://risorse.regione.toscana.it/api/rsa"
+USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+# Centro Toscana + raggio massimo accettato dal portale (500 km): copre tutta la regione.
+STREAM_BODY = {"lat": 43.45, "lon": 11.1, "radius": 500}
 
-def fetch_json(url):
-    try:
-        req = urllib.request.Request(
-            url, 
-            headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'}
-        )
-        with urllib.request.urlopen(req, timeout=15) as response:
-            return json.loads(response.read().decode('utf-8'))
-    except Exception as e:
-        print(f"Errore nel recupero di {url}: {e}")
-        return None
+
+def _http(url, body=None, timeout=60):
+    headers = {"User-Agent": USER_AGENT, "Accept": "application/json, text/event-stream"}
+    data = None
+    if body is not None:
+        data = json.dumps(body).encode("utf-8")
+        headers["Content-Type"] = "application/json"
+    req = urllib.request.Request(url, data=data, headers=headers, method="POST" if data else "GET")
+    with urllib.request.urlopen(req, timeout=timeout) as resp:
+        return resp.read().decode("utf-8")
+
+
+def fetch_stream_structures():
+    """Elenco base di tutte le strutture (endpoint SSE usato dalla mappa del portale)."""
+    text = _http(API_BASE + "/structures/nearby/stream", STREAM_BODY)
+    structures, event = [], None
+    for line in text.splitlines():
+        if line.startswith("event:"):
+            event = line[6:].strip()
+        elif line.startswith("data:"):
+            payload = json.loads(line[5:].strip())
+            if event == "structure":
+                structures.append(payload)
+            elif event == "error":
+                raise RuntimeError("Errore dal server della Regione: %s" % payload.get("message", payload))
+    return structures
+
+
+def fetch_structure_detail(struct_id):
+    for attempt in range(3):
+        try:
+            return json.loads(_http("%s/structures/%s" % (API_BASE, struct_id), timeout=20))
+        except Exception:
+            time.sleep(1 + attempt)
+    return None
+
+
+def _txt(value):
+    return "" if value is None else str(value)
+
+
+def to_legacy(base, det):
+    """Converte i dati del nuovo portale nel formato storico usato da JSON e pagine HTML."""
+    det = det or {}
+    car = base.get("caratteristiche") or {}
+    pl = det.get("postiLetto") or {}
+    cont = det.get("contatti") or {}
+    base_cont = base.get("contatti") or {}
+    quote = det.get("quote") or {}
+    comune = (det.get("comune") or {}).get("comune")
+    telefono = cont.get("telefono") or base_cont.get("telefono_rsa")
+    email = cont.get("email") or base_cont.get("email")
+    sito = cont.get("sitoInternet") or base_cont.get("sito_internet")
+    fax = cont.get("fax") or base_cont.get("fax_rsa")
+    return {
+        "id": _txt(base.get("id")),
+        "nome": base.get("nome") or det.get("nome") or "",
+        "gestione": base.get("gestione") or det.get("gestione") or "",
+        "indirizzo": base.get("indirizzo") or det.get("indirizzo") or "",
+        "comune": comune or "N.D.",
+        "zona": det.get("zona") or "",
+        "telefono": _txt(telefono),
+        "rsa_posti_liberi": _txt(car.get("posti_liberi", pl.get("postiLiberi", 0))),
+        "posti_liberi_m": _txt(car.get("posti_liberi_m", pl.get("postiLiberiM", 0))),
+        "posti_liberi_f": _txt(car.get("posti_liberi_f", pl.get("postiLiberiF", 0))),
+        "rsa_quota": _txt(quote.get("quotaSociale")),
+        "rsa_quotasanitaria": _txt(quote.get("quotaSanitaria")),
+        "rsa_attiva": "1" if base.get("attiva") == "si" else "0",
+        "rsa_data_aggiornamento": "",  # il nuovo portale non espone piu' questa data
+        "lat": _txt(base.get("lat")),
+        "lon": _txt(base.get("lon")),
+        "decoded_details": {"struttura": {
+            "email": email, "sito_internet": sito,
+            "telefono_rsa": telefono, "fax_rsa": fax,
+        }},
+    }
+
+
+def _has_free_beds(base):
+    car = base.get("caratteristiche") or {}
+    return any((car.get(k) or 0) > 0 for k in ("posti_liberi", "posti_liberi_m", "posti_liberi_f"))
+
+
+def fetch_all_structures(log=print):
+    """Restituisce (totale_strutture, {id: struttura}) con solo le strutture che hanno posti liberi."""
+    log("Recupero elenco strutture dal portale della Regione...")
+    base_list = fetch_stream_structures()
+    if not base_list:
+        raise RuntimeError("Il portale non ha restituito alcuna struttura (formato cambiato?).")
+    with_beds = [b for b in base_list if _has_free_beds(b)]
+    log("Trovate %d strutture, %d con posti liberi. Scarico i dettagli..." % (len(base_list), len(with_beds)))
+    result = {}
+    with ThreadPoolExecutor(max_workers=8) as executor:
+        futures = {executor.submit(fetch_structure_detail, b["id"]): b for b in with_beds}
+        for fut in as_completed(futures):
+            base = futures[fut]
+            result[_txt(base["id"])] = to_legacy(base, fut.result())
+    return len(base_list), result
 
 def upload_to_github(file_path, github_path, repo_owner, repo_name, token):
     try:
@@ -70,50 +159,15 @@ def upload_to_github(file_path, github_path, repo_owner, repo_name, token):
     return False
 
 def main():
-    print("Avvio recupero comuni della Toscana...")
-    comuni_data = fetch_json(COMUNI_URL)
-    if not comuni_data:
-        print("Impossibile recuperare la lista dei comuni.")
-        return
-
-    comuni_list = comuni_data.get("Comuni", {}).get("comuni", [])
-    if not comuni_list:
-        print("Nessun comune trovato nel JSON.")
-        return
-
-    print(f"Trovati {len(comuni_list)} comuni. Avvio download delle strutture in parallelo...")
-
-    all_structures = {}
     start_time = time.time()
+    try:
+        totale, all_structures = fetch_all_structures(print)
+    except Exception as e:
+        print("ERRORE: impossibile recuperare i dati: %s" % e)
+        raise SystemExit(1)  # fallisce in modo visibile, senza sovrascrivere i dati esistenti
 
-    with ThreadPoolExecutor(max_workers=25) as executor:
-        future_to_comune = {
-            executor.submit(fetch_json, LISTA_URL_TEMPLATE.format(c["cod_comune"])): c 
-            for c in comuni_list
-        }
-
-        completed = 0
-        for future in as_completed(future_to_comune):
-            comune = future_to_comune[future]
-            completed += 1
-            if completed % 30 == 0 or completed == len(comuni_list):
-                print(f"Progresso: {completed}/{len(comuni_list)} comuni elaborati...")
-
-            res = future.result()
-            if not res or "Lista" not in res:
-                continue
-
-            lista = res["Lista"]
-            for key in ["comune", "zona", "limitrofi"]:
-                items = lista.get(key, [])
-                if items:
-                    for item in items:
-                        struct_id = item.get("id")
-                        if struct_id:
-                            all_structures[struct_id] = item
-
-    print(f"Scaricamento completato in {time.time() - start_time:.2f} secondi.")
-    print(f"Trovate {len(all_structures)} strutture totali in Toscana.")
+    print("Scaricamento completato in %.2f secondi." % (time.time() - start_time))
+    print("Trovate %d strutture totali in Toscana." % totale)
 
     structures_with_beds = []
     for s_id, s in all_structures.items():
@@ -135,7 +189,7 @@ def main():
             s["posti_liberi_f_int"] = 0
 
         if posti_liberi > 0 or s["posti_liberi_m_int"] > 0 or s["posti_liberi_f_int"] > 0:
-            s["decoded_details"] = None
+            s["decoded_details"] = s.get("decoded_details")
             json_data_b64 = s.get("json_data")
             if json_data_b64 and json_data_b64 != "NULL":
                 try:
@@ -812,7 +866,7 @@ def generate_html_table(structures, output_dir):
                         ${email ? `<a href="mailto:${email}" class="email-link">${email}</a>` : ''}
                     </td>
                     <td>
-                        <span class="update-date-val">${item.rsa_data_aggiornamento}</span>
+                        <span class="update-date-val">${item.rsa_data_aggiornamento || 'N.D.'}</span>
                     </td>
                 `;
                 tbody.appendChild(row);
