@@ -58,6 +58,64 @@
         "posti_liberi_f_int": 4
     },
     {
+        "id": "322",
+        "nome": "Villa Olimpia",
+        "gestione": "privata",
+        "indirizzo": "Via di Rosano, 44/A",
+        "comune": "Bagno a Ripoli",
+        "zona": "Fiorentina Sud-Est",
+        "telefono": "055 65741",
+        "rsa_posti_liberi": "3",
+        "posti_liberi_m": "1",
+        "posti_liberi_f": "2",
+        "rsa_quota": "69.5",
+        "rsa_quotasanitaria": "59.1",
+        "rsa_attiva": "1",
+        "rsa_data_aggiornamento": "",
+        "lat": "43.7686821033238",
+        "lon": "11.3495933897184",
+        "decoded_details": {
+            "struttura": {
+                "email": "mail@villaolimpia.fi.it",
+                "sito_internet": "www.villasantamonica.it",
+                "telefono_rsa": "055 65741",
+                "fax_rsa": "055/696084"
+            }
+        },
+        "posti_liberi_int": 3,
+        "posti_liberi_m_int": 1,
+        "posti_liberi_f_int": 2
+    },
+    {
+        "id": "333",
+        "nome": "Villa Santa Monica",
+        "gestione": "privata",
+        "indirizzo": "Via di Rosano, 44",
+        "comune": "Bagno a Ripoli",
+        "zona": "Fiorentina Sud-Est",
+        "telefono": "055 65741",
+        "rsa_posti_liberi": "2",
+        "posti_liberi_m": "1",
+        "posti_liberi_f": "1",
+        "rsa_quota": "69.5",
+        "rsa_quotasanitaria": "59.1",
+        "rsa_attiva": "1",
+        "rsa_data_aggiornamento": "",
+        "lat": "43.7687116617018",
+        "lon": "11.3497715891151",
+        "decoded_details": {
+            "struttura": {
+                "email": "mail@villasantamonica.it",
+                "sito_internet": "www.villasantamonica.it",
+                "telefono_rsa": "055 65741",
+                "fax_rsa": "055 696084"
+            }
+        },
+        "posti_liberi_int": 2,
+        "posti_liberi_m_int": 1,
+        "posti_liberi_f_int": 1
+    },
+    {
         "id": "7",
         "nome": "Anni Azzurri Beato Angelico",
         "gestione": "privata",
@@ -515,35 +573,6 @@
                 "sito_internet": "www.delcampana.it",
                 "telefono_rsa": "0571 418252",
                 "fax_rsa": null
-            }
-        },
-        "posti_liberi_int": 1,
-        "posti_liberi_m_int": 0,
-        "posti_liberi_f_int": 1
-    },
-    {
-        "id": "144",
-        "nome": "Ledanice",
-        "gestione": "privata",
-        "indirizzo": "Via di Mosciano, 67",
-        "comune": "Scandicci",
-        "zona": "Fiorentina Nord-Ovest",
-        "telefono": "055768840",
-        "rsa_posti_liberi": "1",
-        "posti_liberi_m": "0",
-        "posti_liberi_f": "1",
-        "rsa_quota": "62",
-        "rsa_quotasanitaria": "59.1",
-        "rsa_attiva": "1",
-        "rsa_data_aggiornamento": "",
-        "lat": "43.7331769195852",
-        "lon": "11.1548914532458",
-        "decoded_details": {
-            "struttura": {
-                "email": "info@ledanice.it",
-                "sito_internet": "www.casadiriposoledanice.it",
-                "telefono_rsa": "055768840",
-                "fax_rsa": "055768840"
             }
         },
         "posti_liberi_int": 1,
