@@ -261,6 +261,35 @@
         "posti_liberi_f_int": 0
     },
     {
+        "id": "16",
+        "nome": "Belvedere",
+        "gestione": "privata",
+        "indirizzo": "via Belvedere, 29",
+        "comune": "Casciana Terme Lari",
+        "zona": "Alta Val di Cecina - Val d'Era",
+        "telefono": "0587 684028",
+        "rsa_posti_liberi": "2",
+        "posti_liberi_m": "1",
+        "posti_liberi_f": "1",
+        "rsa_quota": "58",
+        "rsa_quotasanitaria": "59.1",
+        "rsa_attiva": "1",
+        "rsa_data_aggiornamento": "",
+        "lat": "43.5573369321991",
+        "lon": "10.5987909598619",
+        "decoded_details": {
+            "struttura": {
+                "email": "casadiriposobelvedere@gmail.com",
+                "sito_internet": "www.casadiriposobelvedere.it",
+                "telefono_rsa": "0587 684028",
+                "fax_rsa": "0587 684090"
+            }
+        },
+        "posti_liberi_int": 2,
+        "posti_liberi_m_int": 1,
+        "posti_liberi_f_int": 1
+    },
+    {
         "id": "216",
         "nome": "Mario Cappelli",
         "gestione": "privata",
